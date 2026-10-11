@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 11, 2026 at 17:29 UTC</em></p>
+  <p><em>Last updated: Oct 11, 2026 at 21:43 UTC</em></p>
 </div>
 
 ---
@@ -38,7 +38,7 @@
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Hybrid - New York, NY | 2026-10-09 | [Apply ↗](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
+| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) <sup>~</sup> | `Software` | Hybrid - New York, NY | 2026-10-09 | [Apply ↗](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | **Pinterest** | Software Engineer Intern 2027 (USA) | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
@@ -70,13 +70,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-11 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-11 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-11 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-11 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-11 |
+| Merck | Information Technology Intern | Summer 2027 | 2026-10-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-11 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-10 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-10 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-10 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-10 |
 | Swarm Aero | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-10 |
