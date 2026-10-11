@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 11, 2026 at 11:04 UTC</em></p>
+  <p><em>Last updated: Oct 11, 2026 at 17:29 UTC</em></p>
 </div>
 
 ---
@@ -70,11 +70,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-11 |
+| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-11 |
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-11 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-10 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-10 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-10 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-10 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-10 |
@@ -86,7 +87,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-09 |
 | Centific | AI Research Intern -  Physical AI | Summer 2027 | 2026-10-09 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-10-09 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-09 |
 | State Street | Apprentice | Summer 2027 | 2026-10-09 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-09 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |

@@ -60,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029",
     "company": "Republic Services",
     "title": "Diesel Technician Apprentice-Paid Training",
@@ -108,6 +96,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -120,6 +120,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:mitel:job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "company": "Mitel Networks",
     "title": "R&D Intern (student) - iOS development",
@@ -128,18 +140,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
-    "company": "CACI",
-    "title": "Software Development/Engineer Intern - Summer 2027",
-    "location": "Remote (Any State)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "salary": null,
     "source": "workday"
   },
@@ -288,6 +288,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:wexinc:job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "company": "Wex",
     "title": "AI & Data Platform Engineering Intern (Undergraduate)",
@@ -404,18 +416,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
-    "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
     "salary": null,
     "source": "workday"
   },
