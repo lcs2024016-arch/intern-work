@@ -1,5 +1,77 @@
 [
   {
+    "id": "workday:ag:job/Bangalore-Area/Internship---Digital-Security_JR10449628",
+    "company": "Airbus",
+    "title": "Internship - Digital Security",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
+    "company": "Airbus",
+    "title": "Technical Data Analyst Intern",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ag:job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
+    "company": "Airbus",
+    "title": "Software Engineering Intern – Full Stack (ReactJS / Python)",
+    "location": "Bangalore Area",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ag:job/Bangalore-Area/Internship--AI_JR10449039",
+    "company": "Airbus",
+    "title": "Internship  AI",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:aah:job/Remote/Enterprise-Internship--Information-Technology_R280079",
+    "company": "Atrium Health",
+    "title": "Enterprise Internship, Information Technology",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://aah.wd5.myworkdayjobs.com/en-US/External/job/Remote/Enterprise-Internship--Information-Technology_R280079",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:spgi:job/Gurugram-Haryana/Apprentice--Software-Development-Engineering_329545-1",
+    "company": "S&P Global",
+    "title": "Apprentice, Software Development/Engineering",
+    "location": "Gurugram, Haryana",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Software-Development-Engineering_329545-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allisontransmission:job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
     "company": "Allison Transmission",
     "title": "IT Security Analyst Internship - Summer 2027",
@@ -708,6 +780,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171459",
+    "company": "Adobe",
+    "title": "Apprentice Tech",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171459",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -728,18 +824,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },

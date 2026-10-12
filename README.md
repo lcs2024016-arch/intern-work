@@ -10,20 +10,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 12, 2026 at 01:25 UTC</em></p>
+  <p><em>Last updated: Oct 12, 2026 at 08:51 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
+| **Adobe** | Apprentice Tech <sup>~</sup> | `Other` | Bangalore | Posted Tod | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171459) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
@@ -63,13 +64,14 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 26)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-10-12 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-12 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-12 |
@@ -89,7 +91,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-10-09 |
 | State Street | Apprentice | Summer 2027 | 2026-10-09 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-09 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |
 
 </details>
 
