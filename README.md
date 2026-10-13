@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 13, 2026 at 17:50 UTC</em></p>
+  <p><em>Last updated: Oct 13, 2026 at 22:46 UTC</em></p>
 </div>
 
 ---
@@ -71,26 +71,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-13 |
+| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-10-13 |
+| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-13 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-13 |
+| CLEAResult | HVAC Apprentice | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-13 |
+| State Street | Apprentice | Summer 2027 | 2026-10-13 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-10-13 |
+| Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
 | Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
 | Atrium Health | Enterprise Internship, Information Technology | Summer 2027 | 2026-10-13 |
-| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-13 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-13 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-13 |
-| Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-10-13 |
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice - Project Development Services, Mumbai | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice - Valuations (Mumbai) | Summer 2027 | 2026-10-13 |
 | Fortrea | Apprentice - Proposals | Summer 2027 | 2026-10-13 |
-| Jones Lang LaSalle (JLL) | NAPS Apprentice | Summer 2027 | 2026-10-13 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-13 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-13 |
-| Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
-| Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
-| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
-| Wex | SRE & Application Services Intern (Graduate/Master's) | Summer 2027 | 2026-10-13 |
-| Wex | Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's) | Summer 2027 | 2026-10-13 |
-| Airbus | Internship - India Innovation Center  - Data Analyst Intern | Summer 2027 | 2026-10-13 |
 
 </details>
 
