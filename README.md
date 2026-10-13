@@ -10,30 +10,32 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 13, 2026 at 09:19 UTC</em></p>
+  <p><em>Last updated: Oct 13, 2026 at 17:50 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>6 open</kbd>
+## Summer 2027 (India) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai, Maharashtra, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R79540-2) |
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 
-## Summer 2027 (Remote) <kbd>15 open</kbd>
+## Summer 2027 (Remote) <kbd>16 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Intel** | Research Scientist Intern - Graphics, ML <sup>~</sup> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
+| **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
@@ -62,33 +64,33 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 24)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 26)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Airbus | Internship - India Innovation Center  - Data Analyst Intern | Summer 2027 | 2026-10-13 |
-| Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
-| Airbus | Software Engineering Intern – Full Stack (ReactJS / Python) | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
-| Itron | Apprentice | Summer 2027 | 2026-10-13 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-13 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-13 |
-| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-10-13 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-13 |
-| ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-10-13 |
-| Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
+| Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
+| Atrium Health | Enterprise Internship, Information Technology | Summer 2027 | 2026-10-13 |
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-13 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-13 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-13 |
-| Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
-| Adobe | Apprentice Tech | Summer 2027 | 2026-10-12 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-12 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-13 |
+| Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-10-13 |
+| Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC Apprentice - Project Development Services, Mumbai | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC Apprentice - Valuations (Mumbai) | Summer 2027 | 2026-10-13 |
+| Fortrea | Apprentice - Proposals | Summer 2027 | 2026-10-13 |
+| Jones Lang LaSalle (JLL) | NAPS Apprentice | Summer 2027 | 2026-10-13 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-13 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-13 |
+| Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
+| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | SRE & Application Services Intern (Graduate/Master's) | Summer 2027 | 2026-10-13 |
+| Wex | Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's) | Summer 2027 | 2026-10-13 |
+| Airbus | Internship - India Innovation Center  - Data Analyst Intern | Summer 2027 | 2026-10-13 |
 
 </details>
 
