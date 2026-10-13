@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 12, 2026 at 20:03 UTC</em></p>
+  <p><em>Last updated: Oct 13, 2026 at 02:14 UTC</em></p>
 </div>
 
 ---
@@ -69,26 +69,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-10-13 |
+| Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
+| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-13 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-13 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-13 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-10-13 |
 | Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-10-12 |
-| Airbus | Internship  AI | Summer 2027 | 2026-10-12 |
-| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-12 |
 | Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-12 |
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-12 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-12 |
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-12 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-12 |
-| IGS Energy | Software Engineer Intern | Summer 2027 | 2026-10-12 |
 | Itron | Apprentice | Summer 2027 | 2026-10-12 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-12 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-12 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-10-12 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-12 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-12 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-11 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-11 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-10-11 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-10 |
 
 </details>
 

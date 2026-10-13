@@ -4,27 +4,9 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-12T20:03:33Z</updated>
+  <updated>2026-10-13T02:14:38Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Airbus — Internship  AI</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship--AI_JR10449067" rel="alternate"/>
-    <id>workday:ag:job/Bangalore-Area/Internship--AI_JR10449067</id>
-    <updated>2026-10-12T20:03:33Z</updated>
-    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Airbus — Technical Data Analyst Intern</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384" rel="alternate"/>
-    <id>workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384</id>
-    <updated>2026-10-12T20:03:33Z</updated>
-    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-165256" rel="alternate"/>
-    <id>workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-165256</id>
-    <updated>2026-10-12T20:03:33Z</updated>
-    <summary>IN.Gurgaon.DLF Cyber City · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Emerson Electric — Metrology Software Engineering Intern</title>
     <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734" rel="alternate"/>
     <id>oracle:hdjq.fa.us2.oraclecloud.com:26011734</id>
@@ -43,6 +25,12 @@
     <updated>2026-10-12T20:03:33Z</updated>
     <summary>Riedman - Remote · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>AtkinsRéalis — Apprentice</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-165256" rel="alternate"/>
+    <id>workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-165256</id>
+    <updated>2026-10-12T20:03:33Z</updated>
+    <summary>IN.Gurgaon.DLF Cyber City · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Atrium Health — Enterprise Internship, Information Technology</title>
     <link href="https://aah.wd5.myworkdayjobs.com/en-US/External/job/Remote/Enterprise-Internship--Information-Technology_R280079" rel="alternate"/>
     <id>workday:aah:job/Remote/Enterprise-Internship--Information-Technology_R280079</id>
@@ -55,11 +43,23 @@
     <updated>2026-10-12T08:51:41Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Airbus — Internship  AI</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship--AI_JR10449039" rel="alternate"/>
+    <id>workday:ag:job/Bangalore-Area/Internship--AI_JR10449039</id>
+    <updated>2026-10-12T08:51:41Z</updated>
+    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Airbus — Software Engineering Intern – Full Stack (ReactJS / Python)</title>
     <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435" rel="alternate"/>
     <id>workday:ag:job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435</id>
     <updated>2026-10-12T08:51:41Z</updated>
     <summary>Bangalore Area · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Airbus — Technical Data Analyst Intern</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386" rel="alternate"/>
+    <id>workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386</id>
+    <updated>2026-10-12T08:51:41Z</updated>
+    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>S&amp;P Global — Apprentice, Software Development/Engineering</title>
     <link href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Software-Development-Engineering_329545-1" rel="alternate"/>
@@ -126,6 +126,12 @@
     <id>workday:sailpoint:job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
     <updated>2026-10-07T21:30:01Z</updated>
     <summary>Remote (United Kingdom) · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Leidos — Business Systems AI Intern</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769" rel="alternate"/>
+    <id>workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769</id>
+    <updated>2026-10-07T15:38:24Z</updated>
+    <summary>6314 Remote/Teleworker US · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Republic Services — Diesel Technician Apprentice-Paid Training</title>
     <link href="https://republic.wd5.myworkdayjobs.com/en-US/Republic/job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029" rel="alternate"/>
@@ -198,6 +204,12 @@
     <id>greenhouse:pinterest:7838577</id>
     <updated>2026-10-01T21:25:15Z</updated>
     <summary>San Francisco, CA, US; Remote, US · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>CACI — Software Development/Engineer Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1" rel="alternate"/>
+    <id>workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1</id>
+    <updated>2026-10-01T21:25:15Z</updated>
+    <summary>Remote (Any State) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>CLEAResult — HVAC Apprentice</title>
     <link href="https://clearesult.wd1.myworkdayjobs.com/en-US/CLEAResult_External_Careers/job/Remote---Oklahoma/HVAC-Apprentice_R0018192" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24</id>
     <updated>2026-09-23T15:12:56Z</updated>
     <summary>Bengaluru · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Innovaccer — Apprentice - Compliance</title>
-    <link href="https://apply.workable.com/innovaccer-analytics/j/5298761677/" rel="alternate"/>
-    <id>workable:innovaccer-analytics:5298761677</id>
-    <updated>2026-09-23T15:12:56Z</updated>
-    <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Vantor — AI Engineer Intern</title>
-    <link href="https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605" rel="alternate"/>
-    <id>workday:maxar:job/Remote-United-States/AI-Engineer-Intern_R24605</id>
-    <updated>2026-09-22T21:17:47Z</updated>
-    <summary>Remote (United States) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
