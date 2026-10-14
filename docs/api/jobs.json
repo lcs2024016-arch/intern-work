@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:alcon:job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "company": "Alcon",
+    "title": "Payroll-Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:motorolasolutions:job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
     "company": "Motorola",
     "title": "Software Engineer Co-op Intern - 2026/2027",
@@ -44,30 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ag:job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
-    "company": "Airbus",
-    "title": "Internship - AI for In-Service Engineering",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ag:job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
-    "company": "Airbus",
-    "title": "Internship - DCC AI and Automation",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
     "salary": null,
     "source": "workday"
   },
@@ -144,6 +132,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+    "company": "Airbus",
+    "title": "Technical Data Analyst Intern",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:rrhs:job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
     "company": "Rochester Regional Health",
     "title": "RIT Co-op: Information Systems & Technology",
@@ -168,30 +168,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:ag:job/Bangalore-Area/Internship---Digital-Security_JR10449628",
-    "company": "Airbus",
-    "title": "Internship - Digital Security",
-    "location": "Bangalore Area",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
-    "company": "Airbus",
-    "title": "Technical Data Analyst Intern",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:allisontransmission:job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
     "company": "Allison Transmission",
     "title": "IT Security Analyst Internship - Summer 2027",
@@ -200,18 +176,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:globalhr:job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
-    "company": "RTX",
-    "title": "AI Engineering Intern (Summer 2027)",
-    "location": "US-NY-REMOTE",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
     "salary": null,
     "source": "workday"
   },
@@ -284,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "company": "CACI",
+    "title": "Software Development/Engineer Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "salary": null,
     "source": "workday"
   },
@@ -840,18 +816,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -860,6 +824,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -972,6 +948,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -1004,6 +992,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 26 Days Ago",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ag:job/Bangalore-Area/Internship---Digital-Security_JR10449612",
+    "company": "Airbus",
+    "title": "Internship - Digital Security",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449612",
     "salary": null,
     "source": "workday"
   },
@@ -1044,16 +1044,16 @@
     "source": "workday"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
+    "id": "smartrecruiters:carousellgroup:744000155411579",
+    "company": "Carousell Group",
+    "title": "Android Engineer Intern - 6 months",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
+    "posted_at": "2026-10-14T04:32:51.114Z",
+    "url": "https://jobs.smartrecruiters.com/carousellgroup/744000155411579",
     "salary": null,
-    "source": "oracle"
+    "source": "smartrecruiters"
   },
   {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
@@ -1498,18 +1498,6 @@
     "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "greenhouse:rubrik:8166523",
-    "company": "Rubrik",
-    "title": "Software Engineer - Winter Intern",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-09-06T08:42:59-04:00",
-    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:rubrik:8166537",

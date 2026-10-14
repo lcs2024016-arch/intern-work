@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 14, 2026 at 03:12 UTC</em></p>
+  <p><em>Last updated: Oct 14, 2026 at 09:44 UTC</em></p>
 </div>
 
 ---
@@ -57,28 +57,32 @@
 |---|---|---|---|---|:---:|
 | **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 
-## Term Unconfirmed (India) <kbd>2 open</kbd>
+## Term Unconfirmed (India) <kbd>1 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (22 of 26)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Rubrik | Software Engineer - Winter Intern | Term Unconfirmed | 2026-10-14 |
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
+| Airbus | Internship - AI for In-Service Engineering | Summer 2027 | 2026-10-14 |
+| Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
+| Airbus | Internship - Digital Security | Summer 2027 | 2026-10-14 |
+| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-14 |
+| RTX | AI Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-14 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-14 |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
 | Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-14 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-14 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-14 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-14 |
-| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-13 |
 | Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-13 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-13 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
@@ -86,11 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
 | Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-10-13 |
 | Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-10-13 |
-| Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
-| Wex | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
-| Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
-| Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-13 |
-| Fortrea | Apprentice - Proposals | Summer 2027 | 2026-10-13 |
 
 </details>
 
