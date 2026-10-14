@@ -24,6 +24,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-166658",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Gurgaon.DLF Cyber City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-166658",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:viatris:job/Milan-Office/IT-Business-Analyst---Internship-6-months_R5674668",
+    "company": "Viatris",
+    "title": "IT Business Analyst - Internship 6 months",
+    "location": "France Remote Office; Milan-Office",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://viatris.wd5.myworkdayjobs.com/en-US/External/job/Milan-Office/IT-Business-Analyst---Internship-6-months_R5674668",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:alcon:job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
     "company": "Alcon",
     "title": "Payroll-Apprentice",
@@ -32,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:motorolasolutions:job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
-    "company": "Motorola",
-    "title": "Software Engineer Co-op Intern - 2026/2027",
-    "location": "Illinois Remote Work, More...",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
     "salary": null,
     "source": "workday"
   },
@@ -96,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-159254-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Gurgaon.DLF Cyber City",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-159254-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:job/Mumbai-India/EIC-Apprentice---Project-Development-Services--Mumbai_R340094",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Project Development Services, Mumbai",
@@ -128,18 +128,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Mumbai-India/EIC-Apprentice---Valuations--Mumbai-_R340091",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
-    "company": "Airbus",
-    "title": "Technical Data Analyst Intern",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
     "salary": null,
     "source": "workday"
   },
@@ -192,6 +180,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029",
     "company": "Republic Services",
     "title": "Diesel Technician Apprentice-Paid Training",
@@ -228,14 +228,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
     "salary": null,
     "source": "workday"
   },
@@ -600,18 +600,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -720,18 +708,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "company": "Citi",
-    "title": "Services – Summer Analyst, India, 2027",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -780,6 +756,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 9 Days Ago",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice -San Francisco Bay Area",
@@ -792,30 +780,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
-    "company": "Campbellsoup",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -824,6 +788,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -848,6 +824,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "company": "Campbellsoup",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "salary": null,
     "source": "workday"
   },
@@ -996,6 +984,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392",
+    "company": "Airbus",
+    "title": "Technical Data Analyst Intern",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:ag:job/Bangalore-Area/Internship---Digital-Security_JR10449612",
     "company": "Airbus",
     "title": "Internship - Digital Security",
@@ -1054,30 +1054,6 @@
     "url": "https://jobs.smartrecruiters.com/carousellgroup/744000155411579",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Embedded Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",

@@ -10,21 +10,20 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 14, 2026 at 09:44 UTC</em></p>
+  <p><em>Last updated: Oct 14, 2026 at 15:19 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>6 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621) |
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai, Maharashtra, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R79540-2) |
-| **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
@@ -63,13 +62,23 @@
 |---|---|---|---|---|:---:|
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-14 |
+| Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-14 |
+| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-14 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-14 |
+| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-10-14 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-14 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-14 |
+| Motorola | Software Engineer Co-op Intern - 2026/2027 | Summer 2027 | 2026-10-14 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-14 |
 | Rubrik | Software Engineer - Winter Intern | Term Unconfirmed | 2026-10-14 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
 | Airbus | Internship - AI for In-Service Engineering | Summer 2027 | 2026-10-14 |
@@ -80,16 +89,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-14 |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
 | Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-14 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-14 |
-| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-13 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-13 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-13 |
-| State Street | Apprentice | Summer 2027 | 2026-10-13 |
-| Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
-| Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-10-13 |
-| Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-10-13 |
 
 </details>
 
