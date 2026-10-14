@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 14, 2026 at 20:31 UTC</em></p>
+  <p><em>Last updated: Oct 14, 2026 at 23:31 UTC</em></p>
 </div>
 
 ---
@@ -22,8 +22,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67163) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai, Maharashtra, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R79540-2) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
@@ -69,26 +69,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Atrium Health | Enterprise Internship, Information Technology | Summer 2027 | 2026-10-14 |
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-14 |
+| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-14 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-14 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-14 |
+| Centene | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-14 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-14 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-14 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-14 |
 | Arrow Electronics | Apprentice - AI | Summer 2027 | 2026-10-14 |
 | Arrow Electronics | Apprentice - Oracle EBS | Summer 2027 | 2026-10-14 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
 | CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-14 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-14 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-14 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-14 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-14 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-14 |
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-14 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
 | Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-10-14 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-14 |
 | Motorola | Software Engineer Co-op Intern - 2026/2027 | Summer 2027 | 2026-10-14 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-14 |
-| Rubrik | Software Engineer - Winter Intern | Term Unconfirmed | 2026-10-14 |
-| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
-| Airbus | Internship - AI for In-Service Engineering | Summer 2027 | 2026-10-14 |
-| Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
 
 </details>
 
