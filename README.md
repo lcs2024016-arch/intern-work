@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5424-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Every%202h-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 15, 2026 at 19:40 UTC</em></p>
+  <p><em>Last updated: Oct 15, 2026 at 22:54 UTC</em></p>
 </div>
 
 ---
@@ -103,7 +103,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (28 of 31)._
 
 <details>
-<summary><strong>Recently closed</strong> — 128 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 126 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -148,7 +148,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,425 companies** across **25 ATS platforms** · 100% fetch success · real posted dates on 87% of open roles · median detection lag 17.8h. One async pass every two hours, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,425 companies** across **25 ATS platforms** · 99% fetch success · real posted dates on 87% of open roles · median detection lag 17.8h. One async pass every two hours, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
