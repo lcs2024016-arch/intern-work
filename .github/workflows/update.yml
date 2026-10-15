@@ -34,6 +34,14 @@ jobs:
         run: playwright install chromium
 
       - name: Run the engine
+        # WORKDAY_PROXY is an optional repository secret. Workday blocks
+        # datacentre IPs far more than residential ones, so routing through a
+        # proxy materially raises the hit rate on the 1,589 Workday tenants —
+        # which is most of the registry. The engine falls back to direct
+        # connections when it is unset.
+        env:
+          WORKDAY_PROXY: ${{ secrets.WORKDAY_PROXY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python run.py update
 
       - name: Commit & push if changed
@@ -41,9 +49,10 @@ jobs:
           git config user.name  "10vulture1005"
           git config user.email "vaidiksaxena14@gmail.com"
           git add README.md data/jobs.json data/internships.csv data/stats.json \
-                  data/health.json data/history.jsonl \
+                  data/health.json data/history.jsonl data/compensation_cache.json \
                   docs/index.html docs/feed.xml \
-                  docs/api/jobs.json docs/api/stats.json
+                  docs/trends-light.svg docs/trends-dark.svg \
+                  docs/api/jobs.json docs/api/stats.json docs/api/companies.json
           if git diff --staged --quiet; then
             echo "No changes."
           else

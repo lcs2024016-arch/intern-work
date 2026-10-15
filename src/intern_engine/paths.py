@@ -23,6 +23,7 @@ HEALTH_PATH = os.path.join(DATA_DIR, "health.json")
 HISTORY_PATH = os.path.join(DATA_DIR, "history.jsonl")
 
 COMPENSATION_CACHE_PATH = os.path.join(DATA_DIR, "compensation_cache.json")
+INTERNDOOR_SEEDS_PATH = os.path.join(DATA_DIR, "interndoor_seeds.json")
 
 LOGS_DIR = os.path.join(ROOT, "logs")
 DISCOVER_LOG_PATH = os.path.join(LOGS_DIR, "discover_attempts.jsonl")

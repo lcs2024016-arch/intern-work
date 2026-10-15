@@ -224,6 +224,10 @@ def write_readme_charts(store_data: dict) -> None:
     """docs/trends-{light,dark}.svg — redrawn every run, embedded in README
     via <picture> so each GitHub theme gets a chart drawn for its surface."""
     buckets = weekly_postings(store_data)
+    # A fresh clone may not have docs/ yet (it is a build artifact), and this
+    # runs before publish creates the directory.
+    os.makedirs(paths.DOCS_DIR, exist_ok=True)
     for mode, theme in _THEMES.items():
-        with open(os.path.join(paths.DOCS_DIR, f"trends-{mode}.svg"), "w", encoding="utf-8") as f:
+        target = paths.TRENDS_LIGHT_PATH if mode == "light" else paths.TRENDS_DARK_PATH
+        with open(target, "w", encoding="utf-8") as f:
             f.write(_line_chart_svg(buckets, theme))

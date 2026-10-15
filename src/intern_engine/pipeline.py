@@ -390,11 +390,40 @@ def _posted_date_coverage(records: list[dict]) -> float:
     return round(dated / len(records), 3)
 
 
+_ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}")
+
+
+def _repair_legacy_dates(store: dict) -> int:
+    """Clear Workday's free-text postedAt strings left in the store.
+
+    Before the Workday connector resolved relative dates, every role it
+    produced was stored with posted_at = "Posted 6 Days Ago". upsert()
+    deliberately never refreshes posted_at, because a real published date must
+    never shift between runs — so those junk strings would otherwise persist
+    until the record aged out of the 60-day purge, weeks later, keeping the
+    newest-first sort and the age cutoff broken the whole time.
+
+    A real ISO date is left completely alone. Only values that are clearly not
+    dates are cleared, so the next fetch repopulates them properly.
+    """
+    repaired = 0
+    for record in store.values():
+        posted = record.get("posted_at")
+        if posted and not _ISO_DATE_RE.match(str(posted)):
+            record["posted_at"] = None
+            repaired += 1
+    return repaired
+
+
 def run_update() -> tuple[dict, dict, list[str]]:
     cfg = config.load_config()
     blocklist = quality.load_blocklist()
     companies = _load_companies()
     existing = store.load(paths.JOBS_PATH)
+
+    dates_repaired = _repair_legacy_dates(existing)
+    if dates_repaired:
+        print(f"Cleared {dates_repaired} non-ISO posted dates from the store.")
 
     health_data = health.load()
 
@@ -477,6 +506,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
         "enriched_this_run": len(enriched_ids),
         "enrichment_detail_fetches": detail_fetches,
         "purged_this_run": purged,
+        "dates_repaired": dates_repaired,
         "new_this_run": len(new_ids),
         "open_total": len(open_records),
         "detection_latency": _detection_latency(existing),

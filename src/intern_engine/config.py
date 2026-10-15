@@ -143,3 +143,13 @@ def company_filter_enabled(cfg: dict) -> bool:
     drops almost every role.
     """
     return bool(cfg.get("company_filter", False))
+
+
+def include_interndoor(cfg: dict) -> bool:
+    """Also seed discovery from InternDoer's public feed.
+
+    Off by default because it makes `discover` depend on a third party being
+    up. When off, the cached data/interndoor_seeds.json is still used, so a
+    one-off refresh is enough to keep feeding the seed list.
+    """
+    return bool(cfg.get("include_interndoor", False))

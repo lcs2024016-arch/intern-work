@@ -13,4 +13,7 @@ scratch*
 waas_initial.png
 
 .venv/
-data/compensation_cache.json
+
+# data/compensation_cache.json is deliberately NOT ignored: it is the pay
+# lookup cache and it is committed, so a rate-limited day does not lose every
+# estimate the engine has already paid an API call for.
