@@ -22,6 +22,9 @@ _FALLBACK_REPO = "your-username/intern-engine-india"
 
 _INDIA_TOKENS = {"india", "in", "bharat"}
 _REMOTE_TOKENS = {"remote", "wfh", "work from home", "anywhere"}
+_US_TOKENS = {"us", "usa", "united states", "u.s.", "america"}
+_CANADA_TOKENS = {"canada"}
+_GLOBAL_TOKENS = {"global", "international", "worldwide", "any", "all"}
 
 
 def repo_slug() -> str:
@@ -66,19 +69,41 @@ def want_remote(cfg: dict) -> bool:
     return any(str(r).lower() in _REMOTE_TOKENS for r in (cfg.get("regions") or []))
 
 
+def want_us(cfg: dict) -> bool:
+    return any(str(r).lower() in _US_TOKENS for r in (cfg.get("regions") or []))
+
+
+def want_canada(cfg: dict) -> bool:
+    return any(str(r).lower() in _CANADA_TOKENS for r in (cfg.get("regions") or []))
+
+
 def restrict_region(cfg: dict) -> bool:
     regions = cfg.get("regions") or []
     if not regions:
         return False
-    return not any(str(r).lower() in {"global", "worldwide", "any"} for r in regions)
+    return not any(str(r).lower() in _GLOBAL_TOKENS for r in regions)
 
 
-def max_age_days(cfg: dict):
-    return cfg.get("max_age_days", 365)
+def allowlist_only(cfg: dict) -> bool:
+    """Only keep roles from companies in the curated priority list. Strict:
+    much less coverage, much less noise. Off by default."""
+    return bool(cfg.get("allowlist_only", False))
 
 
-def max_per_company(cfg: dict):
-    return cfg.get("max_per_company", 0)
+def include_international(cfg: dict) -> bool:
+    """Keep roles outside the configured regions. They get labelled rather
+    than dropped, which is how "verified remote" roles survive a strict
+    India-only region setting."""
+    return bool(cfg.get("include_international", False))
+
+
+def max_age_days(cfg: dict) -> int:
+    return int(cfg.get("max_age_days") or 365)
+
+
+def max_per_company(cfg: dict) -> int:
+    """Cap on roles kept per company per run. 0 means no cap."""
+    return int(cfg.get("max_per_company") or 0)
 
 
 def infer_undated(cfg: dict) -> bool:
@@ -89,5 +114,32 @@ def infer_max_age_days(cfg: dict) -> int:
     return int(cfg.get("infer_max_age_days", 45))
 
 
-def section_limit(cfg: dict, label: str):
-    return (cfg.get("section_limits") or {}).get(label)
+def section_limit(cfg: dict, label: str) -> int | None:
+    limit = (cfg.get("section_limits") or {}).get(label)
+    return int(limit) if limit else None
+
+
+def enrich_enabled(cfg: dict) -> bool:
+    """Fetch each kept posting's full text to pull out skills/pay/degree."""
+    return bool(cfg.get("enrich", True))
+
+
+def pay_lookup_enabled(cfg: dict) -> bool:
+    """Look up pay for roles whose posting states none. Off by default: it
+    needs an API key and a network call per unknown role."""
+    return bool(cfg.get("pay_lookup", False))
+
+
+def max_enrich_per_run(cfg: dict) -> int:
+    return int(cfg.get("max_enrich_per_run", 300))
+
+
+def company_filter_enabled(cfg: dict) -> bool:
+    """Restrict the published list to companies named in companies.txt.
+
+    Off by default. When on, matching is by company NAME (and a normalized
+    form of it), never by ATS board slug — a slug like "1kosmos-in" does not
+    appear in a list of human-typed company names, and matching on it silently
+    drops almost every role.
+    """
+    return bool(cfg.get("company_filter", False))

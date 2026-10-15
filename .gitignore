@@ -11,3 +11,6 @@ __pycache__/
 logs/
 scratch*
 waas_initial.png
+
+.venv/
+data/compensation_cache.json

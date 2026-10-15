@@ -25,9 +25,13 @@ class Job:
     season: str = "Unspecified"
     season_inferred: bool = False
     category: str = "Other"
-    salary: str | None = None
-    stipend: str | None = None
+    salary: str | None = None  # pay the ATS itself states
+    stipend: str | None = None  # pay stated in the posting body
+    estimated_stipend: str | None = None  # looked up, not stated (see compensation.py)
+    estimated_ctc: str | None = None
+    pay_source: str | None = None  # where the estimate came from
     experience: str | None = None
     degree: str | None = None
+    batch: str | None = None  # graduating class the role targets
     skills: list[str] | None = None
     description: str | None = None  # transient: raw posting text
