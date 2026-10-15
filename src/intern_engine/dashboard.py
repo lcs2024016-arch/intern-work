@@ -14,6 +14,10 @@ from html import escape
 from . import config, paths
 
 
+def _sort_key(r: dict):
+    return ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or ""))
+
+
 def _cards(stats: dict) -> str:
     latency = stats.get("detection_latency") or {}
     median = latency.get("median_minutes")
@@ -160,10 +164,21 @@ def _options(values: list[str]) -> str:
 
 def generate(store_data: dict, stats: dict) -> None:
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(
-        key=lambda r: ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or "")),
-        reverse=True,
-    )
+    open_jobs.sort(key=_sort_key, reverse=True)
+
+    # Cap for display only. Applying this in the pipeline instead would make
+    # upsert close the trimmed-away roles as no-longer-listed.
+    per_company = config.max_per_company(config.load_config())
+    if per_company > 0:
+        seen: dict[str, int] = {}
+        capped: list[dict] = []
+        for r in open_jobs:
+            key = (r.get("company") or "").lower().strip()
+            if seen.get(key, 0) >= per_company:
+                continue
+            seen[key] = seen.get(key, 0) + 1
+            capped.append(r)
+        open_jobs = capped
     cfg = config.load_config()
     updated = datetime.now(UTC).strftime("%b %d, %Y at %H:%M UTC")
     repo = config.repo_slug()

@@ -118,19 +118,35 @@ def _sort_key(record: dict):
     )
 
 
-def _select(
-    records: list[dict], cfg: dict, label: str
-) -> list[dict]:
-    """Apply the per-section cap, keeping the most sought-after companies first.
+def _select(records: list[dict], cfg: dict, label: str) -> list[dict]:
+    """Cap what a section shows, keeping the most sought-after companies first.
 
-    The cap is what stops one huge tenant filling the whole page. Within the
-    cap, roles at higher-priority companies win ties.
+    Both caps live here rather than in the pipeline on purpose. The store is a
+    record of what is actually open; trimming it at collection time would make
+    upsert close the roles that were trimmed away, reporting live openings as
+    taken down.
     """
     # Sections are labelled "<cycle> (India)" / "<cycle> (Remote)", but
     # section_limits in config.json is keyed by the bare cycle. Try the full
     # label first so an exact per-section override still wins, then the cycle,
     # then a global "default".
     cycle = label.split(" (")[0]
+    per_company = config.max_per_company(cfg)
+
+    if per_company > 0:
+        # Newest first inside each company, then keep the cap, so the roles
+        # that survive for a big tenant are its freshest.
+        ranked = sorted(records, key=_sort_key, reverse=True)
+        seen: dict[str, int] = {}
+        kept: list[dict] = []
+        for job in ranked:
+            key = (job.get("company") or "").lower().strip()
+            if seen.get(key, 0) >= per_company:
+                continue
+            seen[key] = seen.get(key, 0) + 1
+            kept.append(job)
+        records = kept
+
     limit = (
         config.section_limit(cfg, label)
         or config.section_limit(cfg, cycle)

@@ -752,14 +752,6 @@ _HYBRID_RE = re.compile(
     r"\b(hybrid|flexible\s+location|partly\s+remote)\b",
     re.IGNORECASE,
 )
-_GLOBAL_REMOTE_RE = re.compile(
-    r"\b(worldwide|anywhere|global\s+remote|remote\s*-\s*apac|apac\s+remote)\b", re.IGNORECASE
-)
-_INDIA_REMOTE_RE = re.compile(
-    r"\b(india\s*\(remote\)|remote\s*-\s*india|remote\s*,\s*india|remote\s*,\s*in\b|remote\s+in\s+india)\b",
-    re.IGNORECASE,
-)
-_INDIAN_SOURCES = {"instahyre", "unstop", "internshala", "naukri", "custom"}
 
 
 def is_remote_or_hybrid(location: str) -> bool:
@@ -777,10 +769,14 @@ def region_ok(
     want_remote: bool = False,
     source: str | None = None,
 ) -> bool:
-    """True if the location matches one of the wanted regions (Option A)."""
+    """True if the location matches one of the wanted regions.
+
+    `source` is accepted and unused: callers pass the ATS that produced the
+    role, and it is the natural hook for a future per-board trust policy
+    (e.g. "only trust a bare Remote from an aggregator that is India-scoped").
+    """
     if not location:
         return False
-    low = location.lower().strip()
 
     # If user strictly doesn't want US/Canada, reject jobs localized there.
     # Checks full states, abbreviations, and major US tech cities.
@@ -802,14 +798,15 @@ def region_ok(
     if want_india and is_india(location):
         return True
 
-    # Option A for Remote:
-    # Accept Remote only if verified India Remote, Global/Worldwide Remote,
-    # or bare Remote from verified Indian companies/aggregators.
-    if want_remote:
-        if _INDIA_REMOTE_RE.search(low) or _GLOBAL_REMOTE_RE.search(low):
-            return True
-        if source in _INDIAN_SOURCES and is_remote_or_hybrid(location):
-            return True
+    # Remote. `regions` listing "Remote" is an explicit request for remote
+    # roles, so a bare "Remote"/"Hybrid" qualifies on its own — most such
+    # postings are open to applicants in India, and refusing them all cost
+    # this project two thirds of its own README (134 open roles -> 21).
+    #
+    # The veto above still applies, so "Remote - Berlin, Germany" is rejected
+    # while "Remote" and "Remote (APAC)" are kept.
+    if want_remote and is_remote_or_hybrid(location):
+        return True
 
     return False
 

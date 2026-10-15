@@ -188,25 +188,6 @@ def _dedup(jobs: list) -> list:
     return unique
 
 
-def _apply_company_cap(jobs: list, cap: int) -> list:
-    """Keep at most `cap` roles per company, newest first.
-
-    Without this a handful of huge tenants (and the aggregators, which carry
-    hundreds of companies at once) crowd the rest of the list off the page.
-    """
-    if cap <= 0:
-        return jobs
-    kept: list = []
-    counts: Counter = Counter()
-    for job in sorted(jobs, key=lambda j: (j.posted_at or ""), reverse=True):
-        key = job.company.lower().strip()
-        if counts[key] >= cap:
-            continue
-        counts[key] += 1
-        kept.append(job)
-    return kept
-
-
 def _keep_matching(results, cfg, blocklist, existing=None):
     """Classify every fetched role. Returns the kept roles plus run counters."""
     cycles = config.cycles(cfg)
@@ -303,7 +284,14 @@ def _keep_matching(results, cfg, blocklist, existing=None):
 
 
 async def _enrich_stage(results, net: Net, workday_net: Net):
-    """Keep, de-duplicate, then pull full posting text for the survivors."""
+    """Keep, de-duplicate, then pull full posting text for the survivors.
+
+    Note there is deliberately NO per-company cap here. Capping what the
+    pipeline collects means the discarded roles are absent from `seen_ids`, so
+    store.upsert closes them as "no longer on the board" — the engine would
+    mark genuinely open roles closed purely to shorten a page. Caps are a
+    rendering concern and live in readme._select / dashboard instead.
+    """
     cfg = config.load_config()
     blocklist = quality.load_blocklist()
     existing = store.load(paths.JOBS_PATH)
@@ -312,7 +300,6 @@ async def _enrich_stage(results, net: Net, workday_net: Net):
         results, cfg, blocklist, existing
     )
     kept = _dedup(kept)
-    kept = _apply_company_cap(kept, config.max_per_company(cfg))
 
     enriched_ids: set[str] = set()
     detail_fetches = 0
@@ -339,6 +326,43 @@ async def _enrich_stage(results, net: Net, workday_net: Net):
             if from_text:
                 job.season = from_text
                 job.season_inferred = False
+
+    # Re-apply the age cutoff after enrichment.
+    #
+    # _keep_matching can only filter on a date the list API already knew about.
+    # The Workday detail endpoint routinely reveals the real go-live date for a
+    # role the list API reported as undated — and that date is sometimes more
+    # than a year old. Without this second pass those stale postings sail
+    # through as "open": a Valeo role last posted in August 2025 survived
+    # several runs purely because its age was unknown at filter time.
+    max_age = config.max_age_days(cfg)
+    if max_age:
+        cutoff = (datetime.now(UTC) - timedelta(days=max_age)).strftime("%Y-%m-%d")
+        before = len(kept)
+
+        def _is_current(job: models.Job) -> bool:
+            # The best date we have for this role is either what this fetch
+            # reported or what an earlier enrichment resolved. Preferring only
+            # the fresh value lets a stale role live forever: Workday's list
+            # API degrades a >30-day-old posting to "Posted 30+" and the
+            # connector returns None, so every run would see "undated" and
+            # keep a posting the detail endpoint already proved is a year old.
+            prior = (existing.get(job.id) or {}).get("posted_at") or ""
+            posted = min(
+                (d for d in ((job.posted_at or "")[:10], prior[:10]) if d),
+                default="",
+            )
+            # Undated roles stay: the cutoff cannot judge what it cannot see,
+            # and _keep_matching already applied it to any date known then.
+            return not posted or posted >= cutoff
+
+        kept = [job for job in kept if _is_current(job)]
+        stale = before - len(kept)
+        if stale:
+            print(
+                f"  Dropped {stale} roles older than {max_age}d "
+                f"(before {cutoff}), revealed by enrichment."
+            )
 
     compensation.save_cache()
     return (
