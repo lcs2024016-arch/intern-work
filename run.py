@@ -18,6 +18,7 @@ from intern_engine import (  # noqa: E402
     pipeline,
     publish,
     readme,
+    trends,
 )
 
 
@@ -42,6 +43,8 @@ def cmd_update() -> None:
         print("No data/companies.json yet — run `python run.py discover` first.")
         sys.exit(1)
     stats, store_data, new_ids = pipeline.run_update()
+    # Charts first: readme.generate() inlines a <picture> tag pointing at them.
+    trends.write_readme_charts(store_data)
     summary = readme.generate(store_data)
     dashboard.generate(store_data, stats)
     feed_entries = publish.write_feed(store_data)

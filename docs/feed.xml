@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-15T09:12:48Z</updated>
+  <updated>2026-10-15T09:48:59Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Honeywell — Intern Bachelors AI Eng</title>
@@ -31,23 +31,17 @@
     <updated>2026-10-14T23:31:58Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Honeywell — Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159740</id>
-    <updated>2026-10-14T20:31:01Z</updated>
-    <summary>Madurai, Tamil Nadu, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Astreya — AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931" rel="alternate"/>
     <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931</id>
     <updated>2026-10-14T20:31:01Z</updated>
     <summary>Remote, CA · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Airbus — Technical Data Analyst Intern</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392" rel="alternate"/>
-    <id>workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392</id>
-    <updated>2026-10-14T15:19:58Z</updated>
-    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Honeywell — Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159740</id>
+    <updated>2026-10-14T20:31:01Z</updated>
+    <summary>Madurai, Tamil Nadu, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>AtkinsRéalis — Apprentice</title>
     <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-166658" rel="alternate"/>
@@ -61,11 +55,17 @@
     <updated>2026-10-14T15:19:58Z</updated>
     <summary>France Remote Office; Milan-Office · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Carousell Group — Android Engineer Intern - 6 months</title>
-    <link href="https://jobs.smartrecruiters.com/carousellgroup/744000155411579" rel="alternate"/>
-    <id>smartrecruiters:carousellgroup:744000155411579</id>
+    <title>Airbus — Technical Data Analyst Intern</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392" rel="alternate"/>
+    <id>workday:ag:job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449392</id>
+    <updated>2026-10-14T15:19:58Z</updated>
+    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Alcon — Payroll-Apprentice</title>
+    <link href="https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237" rel="alternate"/>
+    <id>workday:alcon:job/Bangalore-India/Payroll-Apprentice_R-2026-50237</id>
     <updated>2026-10-14T09:44:24Z</updated>
-    <summary>Bengaluru, KA, India · Software · Summer 2027</summary>
+    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Airbus — Internship - Digital Security</title>
     <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449612" rel="alternate"/>
@@ -73,11 +73,11 @@
     <updated>2026-10-14T09:44:24Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Alcon — Payroll-Apprentice</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237" rel="alternate"/>
-    <id>workday:alcon:job/Bangalore-India/Payroll-Apprentice_R-2026-50237</id>
+    <title>Carousell Group — Android Engineer Intern - 6 months</title>
+    <link href="https://jobs.smartrecruiters.com/carousellgroup/744000155411579" rel="alternate"/>
+    <id>smartrecruiters:carousellgroup:744000155411579</id>
     <updated>2026-10-14T09:44:24Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
+    <summary>Bengaluru, KA, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Rolls-Royce — Integrated Control Systems Engineer Intern (Software)</title>
     <link href="https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452" rel="alternate"/>
@@ -121,6 +121,12 @@
     <updated>2026-10-12T20:03:33Z</updated>
     <summary>Riedman - Remote · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>Allison Transmission — IT Security Analyst Internship - Summer 2027</title>
+    <link href="https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295" rel="alternate"/>
+    <id>workday:allisontransmission:job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
+    <updated>2026-10-09T18:17:45Z</updated>
+    <summary>Indianapolis, IN · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Eight Sleep — Security &amp; IT Intern</title>
     <link href="https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550" rel="alternate"/>
     <id>ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550</id>
@@ -132,12 +138,6 @@
     <id>greenhouse:coinbase:8175510</id>
     <updated>2026-10-09T18:17:45Z</updated>
     <summary>Hybrid - New York, NY · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Allison Transmission — IT Security Analyst Internship - Summer 2027</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295" rel="alternate"/>
-    <id>workday:allisontransmission:job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
-    <updated>2026-10-09T18:17:45Z</updated>
-    <summary>Indianapolis, IN · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Dun &amp; Bradstreet — Apprentice (R-19971)</title>
     <link href="https://jobs.lever.co/dnb/d6f935d0-5fdd-4f07-8dab-96b49dcce2a7" rel="alternate"/>
@@ -193,6 +193,12 @@
     <updated>2026-10-07T01:49:39Z</updated>
     <summary>Remote-MO · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Deutsche Bank — HR Apprentice</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
+    <id>workday:db:job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934</id>
+    <updated>2026-10-06T18:15:30Z</updated>
+    <summary>(do not use) Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Khan Academy — Software Engineer Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259" rel="alternate"/>
     <id>greenhouse:khanacademy:8250259</id>
@@ -204,12 +210,6 @@
     <id>greenhouse:solutions:4711210006</id>
     <updated>2026-10-06T18:15:30Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Deutsche Bank — HR Apprentice</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
-    <id>workday:db:job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934</id>
-    <updated>2026-10-06T18:15:30Z</updated>
-    <summary>(do not use) Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Baxter International — Apprentice, Trainee -Instructional Design &amp; E-Learning Development</title>
     <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286" rel="alternate"/>
@@ -241,12 +241,6 @@
     <updated>2026-10-02T20:43:14Z</updated>
     <summary>Work From Home · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Pinterest — Software Engineer Intern 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577" rel="alternate"/>
-    <id>greenhouse:pinterest:7838577</id>
-    <updated>2026-10-01T21:25:15Z</updated>
-    <summary>San Francisco, CA, US; Remote, US · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>CACI — Software Development/Engineer Intern - Summer 2027</title>
     <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1" rel="alternate"/>
     <id>workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1</id>
@@ -258,6 +252,12 @@
     <id>workday:clearesult:job/Remote---Oklahoma/HVAC-Apprentice_R0018192</id>
     <updated>2026-10-01T21:25:15Z</updated>
     <summary>Remote - Oklahoma · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Pinterest — Software Engineer Intern 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577" rel="alternate"/>
+    <id>greenhouse:pinterest:7838577</id>
+    <updated>2026-10-01T21:25:15Z</updated>
+    <summary>San Francisco, CA, US; Remote, US · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Intel — Research Scientist Intern - Graphics, ML</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525" rel="alternate"/>
@@ -289,17 +289,17 @@
     <updated>2026-09-28T23:14:28Z</updated>
     <summary>Remote/Homebased · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>ACLU Kentucky — Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project</title>
-    <link href="https://job-boards.greenhouse.io/acluinternships/jobs/8843314002" rel="alternate"/>
-    <id>greenhouse:acluinternships:8843314002</id>
-    <updated>2026-09-28T16:54:01Z</updated>
-    <summary>Remote/Hybrid-New York York, NY · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Veterans United — Intern - Software Engineer - Summer 2027</title>
     <link href="https://veteransunited.wd1.myworkdayjobs.com/en-US/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249" rel="alternate"/>
     <id>workday:veteransunited:job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249</id>
     <updated>2026-09-28T16:54:01Z</updated>
     <summary>Remote MO · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>ACLU Kentucky — Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project</title>
+    <link href="https://job-boards.greenhouse.io/acluinternships/jobs/8843314002" rel="alternate"/>
+    <id>greenhouse:acluinternships:8843314002</id>
+    <updated>2026-09-28T16:54:01Z</updated>
+    <summary>Remote/Hybrid-New York York, NY · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Fortrea — Apprentice - Employer Branding</title>
     <link href="https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572" rel="alternate"/>
