@@ -469,6 +469,11 @@
     "last_attempt_at": "2026-10-13T09:19:38Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
+  "greenhouse:andurilindustries": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-15T17:26:31Z",
+    "last_error": "ReadTimeout: "
+  },
   "greenhouse:apna": {
     "consecutive_failures": 30,
     "last_attempt_at": "2026-10-13T09:19:38Z",
