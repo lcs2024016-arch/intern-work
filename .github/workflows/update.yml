@@ -48,11 +48,15 @@ jobs:
         run: |
           git config user.name  "10vulture1005"
           git config user.email "vaidiksaxena14@gmail.com"
-          git add README.md data/jobs.json data/internships.csv data/stats.json \
-                  data/health.json data/history.jsonl data/compensation_cache.json \
-                  docs/index.html docs/feed.xml \
-                  docs/trends-light.svg docs/trends-dark.svg \
-                  docs/api/jobs.json docs/api/stats.json docs/api/companies.json
+          for f in \
+            README.md \
+            data/jobs.json data/internships.csv data/stats.json \
+            data/health.json data/history.jsonl data/compensation_cache.json \
+            docs/index.html docs/feed.xml \
+            docs/trends-light.svg docs/trends-dark.svg \
+            docs/api/jobs.json docs/api/stats.json docs/api/companies.json; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --staged --quiet; then
             echo "No changes."
           else

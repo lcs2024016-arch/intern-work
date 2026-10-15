@@ -494,7 +494,11 @@ def load_cache(path: str = paths.COMPENSATION_CACHE_PATH) -> dict[str, dict[str,
 
 def save_cache(path: str = paths.COMPENSATION_CACHE_PATH) -> None:
     global _cache, _dirty
-    if not _dirty or _cache is None:
+    if _cache is None:
+        return
+    # Even on a no-op run, materialise the file if it is missing so the
+    # committed cache can be tracked/bootstrapped by git.
+    if not _dirty and os.path.exists(path):
         return
     try:
         os.makedirs(os.path.dirname(path), exist_ok=True)
