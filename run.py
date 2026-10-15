@@ -45,7 +45,7 @@ def cmd_update() -> None:
     stats, store_data, new_ids = pipeline.run_update()
     # Charts first: readme.generate() inlines a <picture> tag pointing at them.
     trends.write_readme_charts(store_data)
-    summary = readme.generate(store_data)
+    summary = readme.generate(store_data, stats)
     dashboard.generate(store_data, stats)
     feed_entries = publish.write_feed(store_data)
     publish.write_api(store_data, stats)
