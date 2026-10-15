@@ -79,11 +79,11 @@ async def fetch(company: dict, net: Net) -> list[models.Job]:
     # but let's try to pass locations in the query string.
     url = "https://www.workatastartup.com/jobs"
 
-    resp = await net.get(url, cookies=cookies)
-    if resp.status_code != 200:
-        raise RuntimeError(f"YC WaaS returned status {resp.status_code}")
+    status, body = await net.get_text(url, cookies=cookies)
+    if status != 200:
+        raise RuntimeError(f"YC WaaS returned status {status}")
 
-    data = extract_inertia_data(resp.text)
+    data = extract_inertia_data(body)
     if not data:
         raise RuntimeError("Could not find Inertia payload in YC WaaS response")
 

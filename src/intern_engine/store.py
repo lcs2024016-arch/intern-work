@@ -35,6 +35,8 @@ def save(path: str, data: dict) -> None:
         json.dump(data, f, indent=2, ensure_ascii=False, sort_keys=True)
 
 
+# Fields refreshed from a fresh fetch on every run. A role's title, location and
+# category change when a company edits the posting; they must always track.
 _REFRESH_FIELDS = (
     "title",
     "location",
@@ -47,6 +49,22 @@ _REFRESH_FIELDS = (
     "company",
     "source",
     "company_slug",
+)
+
+# Fields enrichment fills in. These only ever move from null to a value, so a
+# fetch that could not read them must not erase what an earlier run found.
+# Left out of _REFRESH_FIELDS on purpose: copied across only when the incoming
+# value is non-null, which is what stops a transient enrichment failure from
+# wiping a pay figure or a skills list that was correctly extracted before.
+_ENRICHED_FIELDS = (
+    "skills",
+    "stipend",
+    "degree",
+    "experience",
+    "batch",
+    "estimated_stipend",
+    "estimated_ctc",
+    "pay_source",
 )
 
 
@@ -87,8 +105,9 @@ def upsert(
                     record[key] = job[key]
             if not record.get("posted_at") and job.get("posted_at"):
                 record["posted_at"] = job["posted_at"]
-            if job.get("skills") is not None:
-                record["skills"] = job["skills"]
+            for key in _ENRICHED_FIELDS:
+                if job.get(key) is not None:
+                    record[key] = job[key]
             if record.get("closed_at"):
                 del record["closed_at"]
             record["last_seen_at"] = ts

@@ -13,7 +13,7 @@ from . import config, paths
 def write_feed(store_data: dict) -> int:
     """Write an Atom feed of open roles (newest-spotted first)."""
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(key=lambda r: r.get("first_seen_at", ""), reverse=True)
+    open_jobs.sort(key=lambda r: (r.get("first_seen_at", ""), _sort_key(r)), reverse=True)
     entries = open_jobs[:50]
 
     repo = config.repo_slug()
@@ -47,33 +47,70 @@ def write_feed(store_data: dict) -> int:
     return len(entries)
 
 
+def _sort_key(r: dict):
+    return ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or ""))
+
+
+# The public API is a projection of the store, so adding a field here is the
+# only thing needed to expose it. Anything a reader would reasonably filter or
+# display belongs in this list; anything internal (closed_at, enriched_at,
+# company_slug) does not.
+_API_FIELDS = (
+    "id",
+    "company",
+    "title",
+    "season",
+    "season_inferred",
+    "category",
+    "region",
+    "location",
+    "url",
+    "posted_at",
+    "first_seen_at",
+    "salary",
+    "stipend",
+    "estimated_stipend",
+    "estimated_ctc",
+    "pay_source",
+    "degree",
+    "experience",
+    "skills",
+    "source",
+)
+
+
 def write_api(store_data: dict, stats: dict) -> None:
     """Write static JSON API files."""
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(
-        key=lambda r: ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or "")),
-        reverse=True,
-    )
+    open_jobs.sort(key=_sort_key, reverse=True)
 
-    api_jobs = []
-    for r in open_jobs:
-        api_jobs.append(
-            {
-                "id": r.get("id"),
-                "company": r.get("company"),
-                "title": r.get("title"),
-                "location": r.get("location"),
-                "category": r.get("category"),
-                "season": r.get("season"),
-                "posted_at": r.get("posted_at"),
-                "url": r.get("url"),
-                "salary": r.get("salary"),
-                "source": r.get("source"),
-            }
-        )
+    api_jobs = [{field: r.get(field) for field in _API_FIELDS} for r in open_jobs]
 
     os.makedirs(paths.API_DIR, exist_ok=True)
     with open(os.path.join(paths.API_DIR, "jobs.json"), "w", encoding="utf-8") as f:
         json.dump(api_jobs, f, indent=2, ensure_ascii=False)
     with open(os.path.join(paths.API_DIR, "stats.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, indent=2, ensure_ascii=False)
+    with open(os.path.join(paths.API_DIR, "companies.json"), "w", encoding="utf-8") as f:
+        try:
+            with open(paths.COMPANIES_PATH, encoding="utf-8") as cf:
+                registry = json.load(cf)
+        except (OSError, json.JSONDecodeError):
+            registry = []
+        json.dump(
+            {
+                "total": len(registry),
+                "by_ats": _count_by(registry, "ats"),
+                "companies": registry,
+            },
+            f,
+            indent=2,
+            ensure_ascii=False,
+        )
+
+
+def _count_by(rows: list[dict], key: str) -> dict:
+    counts: dict[str, int] = {}
+    for row in rows:
+        counts[row.get(key, "?")] = counts.get(row.get(key, "?"), 0) + 1
+    return dict(sorted(counts.items(), key=lambda kv: -kv[1]))

@@ -77,6 +77,46 @@ class Net:
 
         raise last_error or httpx.HTTPError(f"request to {url} failed after retries")
 
+    async def get_text(
+        self,
+        url: str,
+        *,
+        headers: dict | None = None,
+        cookies: dict | None = None,
+        retries: int = 3,
+    ) -> tuple[int, str]:
+        """Fetch a page as text, returning (status_code, body).
+
+        The JSON helpers assume every source speaks JSON. Some do not: YC's
+        Work at a Startup embeds its data in an Inertia HTML payload, and the
+        custom-careers scraper needs the raw markup. This is the seam for
+        those, with the same host limiting and retry/backoff as get_json.
+        """
+        host = httpx.URL(url).host
+        sem = await self._limiter.acquire(host)
+
+        for attempt in range(retries + 1):
+            try:
+                async with sem:
+                    response = await self._client.get(
+                        url, headers=headers, cookies=cookies
+                    )
+            except (httpx.TransportError, httpx.TimeoutException) as exc:
+                if attempt == retries:
+                    raise
+                await asyncio.sleep(_backoff(attempt))
+                continue
+
+            if response.status_code in _RETRYABLE and attempt < retries:
+                await asyncio.sleep(_backoff(attempt, response))
+                continue
+
+            # A 4xx is a real answer, not a transport failure: hand it back so
+            # the caller can decide rather than raising on every 4xx.
+            return response.status_code, response.text
+
+        raise httpx.HTTPError(f"request to {url} failed after retries")
+
     async def fetch_html(self, url: str, *, needs_interaction: bool = False, check_robots: bool = False):
         """Fetch HTML, escalating from Tier 1 (httpx/Fetcher) to Tier 2/3 (Scrapling)."""
         host = httpx.URL(url).host

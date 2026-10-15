@@ -14,14 +14,27 @@ from html import escape
 from . import config, paths
 
 
+def _sort_key(r: dict):
+    return ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or ""))
+
+
 def _cards(stats: dict) -> str:
+    latency = stats.get("detection_latency") or {}
+    median = latency.get("median_minutes")
+    latency_txt = f"{median / 60:.1f}h" if isinstance(median, (int, float)) else "—"
+    coverage = stats.get("posted_date_coverage")
     items = [
         ("Open roles", stats.get("open_total", 0)),
         ("Companies tracked", f"{stats.get('companies_total', 0):,}"),
         ("ATS sources", len(stats.get("companies_by_source", {}))),
         ("Fetch success", f"{int(stats.get('fetch_success_rate', 0) * 100)}%"),
-        ("Quarantined boards", stats.get("quarantined", 0)),
+        (
+            "Real posted dates",
+            f"{int(coverage * 100)}%" if isinstance(coverage, (int, float)) else "—",
+        ),
+        ("Median detection lag", latency_txt),
         ("New this run", stats.get("new_this_run", 0)),
+        ("Quarantined boards", stats.get("quarantined", 0)),
         ("Last run", f"{stats.get('duration_seconds', 0)}s"),
     ]
     return "".join(
@@ -97,23 +110,47 @@ def _rows(open_jobs: list[dict]) -> str:
             if r.get("season_inferred")
             else f"<span class='tag'>{escape(r.get('season', ''))}</span>"
         )
-        salary = r.get("salary") or ""
+        salary = (
+            r.get("salary")
+            or r.get("stipend")
+            or r.get("estimated_stipend")
+            or r.get("estimated_ctc")
+            or ""
+        )
+        # Search covers the extracted skills too, so "PyTorch" or "LPA" are
+        # findable — otherwise enrichment is invisible to the reader.
         haystack = " ".join(
-            str(r.get(k) or "")
-            for k in ("company", "title", "location", "category", "season", "salary")
+            [
+                *(str(r.get(k) or "") for k in ("company", "title", "location", "category", "season", "salary")),
+                *(str(s) for s in (r.get("skills") or [])),
+                str(r.get("degree") or ""),
+                salary,
+            ]
         ).lower()
+        raw_skills = r.get("skills") or []
+        if isinstance(raw_skills, str):
+            raw_skills = [raw_skills]
+        shown_skills = [str(s) for s in raw_skills[:5]]
+        skill_html = (
+            "<div class='skills'>"
+            + "".join(f"<span class='sk'>{escape(s)}</span>" for s in shown_skills)
+            + "</div>"
+            if shown_skills
+            else ""
+        )
         rows.append(
             f'<tr data-cycle="{escape(r.get("season", ""))}" '
             f'data-category="{escape(r.get("category", ""))}" '
+            f'data-region="{escape(r.get("region", ""))}" '
             f'data-posted="{escape(posted if posted != "—" else "")}" '
             f'data-inferred="{1 if r.get("season_inferred") else 0}" '
             f'data-text="{escape(haystack)}">'
             f"<td>{escape(r.get('company', ''))}</td>"
-            f"<td>{escape(r.get('title', ''))}</td>"
+            f"<td>{escape(r.get('title', ''))}{skill_html}</td>"
             f"<td>{cycle_tag}</td>"
             f"<td>{escape(r.get('category', ''))}</td>"
             f"<td>{escape((r.get('location') or '')[:48])}</td>"
-            f"<td class='muted'>{escape(salary[:36])}</td>"
+            f"<td class='muted'>{escape(str(salary)[:36])}</td>"
             f"<td>{escape(posted)}</td>"
             f"<td>{apply_link}</td>"
             "</tr>"
@@ -127,16 +164,28 @@ def _options(values: list[str]) -> str:
 
 def generate(store_data: dict, stats: dict) -> None:
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(
-        key=lambda r: ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or "")),
-        reverse=True,
-    )
+    open_jobs.sort(key=_sort_key, reverse=True)
+
+    # Cap for display only. Applying this in the pipeline instead would make
+    # upsert close the trimmed-away roles as no-longer-listed.
+    per_company = config.max_per_company(config.load_config())
+    if per_company > 0:
+        seen: dict[str, int] = {}
+        capped: list[dict] = []
+        for r in open_jobs:
+            key = (r.get("company") or "").lower().strip()
+            if seen.get(key, 0) >= per_company:
+                continue
+            seen[key] = seen.get(key, 0) + 1
+            capped.append(r)
+        open_jobs = capped
     cfg = config.load_config()
     updated = datetime.now(UTC).strftime("%b %d, %Y at %H:%M UTC")
     repo = config.repo_slug()
 
     cycles = sorted({r.get("season", "") for r in open_jobs if r.get("season")})
     categories = sorted({r.get("category", "") for r in open_jobs if r.get("category")})
+    regions = sorted({r.get("region", "") for r in open_jobs if r.get("region")})
     by_category: dict[str, int] = {}
     for r in open_jobs:
         cat = r.get("category") or "Other"
@@ -197,12 +246,16 @@ def generate(store_data: dict, stats: dict) -> None:
   .tag {{ background:#6366f122; color:#a5b4fc; padding:2px 8px; border-radius:20px;
           font-size:11px; white-space:nowrap; }}
   .muted {{ color:var(--muted); }}
+  .skills {{ margin-top:6px; display:flex; flex-wrap:wrap; gap:4px; }}
+  .sk {{ background:#1a1a2e; border:1px solid var(--line); color:#a5b4fc;
+         padding:1px 7px; border-radius:20px; font-size:10.5px; white-space:nowrap; }}
   footer {{ color:var(--muted); font-size:12px; margin-top:40px; border-top:1px solid var(--line);
             padding-top:20px; }}
 </style></head><body><div class="wrap">
   <h1>🇮🇳 Intern Engine India</h1>
   <p class="sub">India tech internships, refreshed automatically. Updated {escape(updated)}.
   <a href="api/jobs.json">JSON API</a> ·
+  <a href="api/companies.json">Companies</a> ·
   <a href="feed.xml">RSS</a> ·
   <a href="https://github.com/{escape(repo)}">GitHub</a></p>
   <div class="grid">{_cards(stats)}</div>
@@ -218,6 +271,7 @@ def generate(store_data: dict, stats: dict) -> None:
     <input id="q" type="search" placeholder="Search company, role, location, or skill…" autocomplete="off">
     <select id="cycle"><option value="">All cycles</option>{_options(cycles)}</select>
     <select id="cat"><option value="">All categories</option>{_options(categories)}</select>
+    <select id="region"><option value="">All regions</option>{_options(regions)}</select>
     <select id="age">
       <option value="">Posted anytime</option>
       <option value="2">Last 48 hours</option>
@@ -226,7 +280,7 @@ def generate(store_data: dict, stats: dict) -> None:
     </select>
   </div>
   <table><thead><tr><th>Company</th><th>Role</th><th>Cycle</th><th>Category</th>
-  <th>Location</th><th>Salary</th><th>Posted</th><th></th></tr></thead>
+  <th>Location</th><th>Pay</th><th>Posted</th><th></th></tr></thead>
   <tbody id="rows">{_rows(open_jobs)}</tbody></table>
   <footer>Generated by the engine on each run. Companies polled across
   {len(stats.get("companies_by_source", {}))} ATS platforms.</footer>
@@ -234,7 +288,8 @@ def generate(store_data: dict, stats: dict) -> None:
 <script>
 (function () {{
   var q = document.getElementById('q'), cycle = document.getElementById('cycle'),
-      cat = document.getElementById('cat'), age = document.getElementById('age'),
+      cat = document.getElementById('cat'), region = document.getElementById('region'),
+      age = document.getElementById('age'),
       rows = Array.prototype.slice.call(document.getElementById('rows').rows),
       count = document.getElementById('count');
   function cutoffISO(days) {{
@@ -242,19 +297,21 @@ def generate(store_data: dict, stats: dict) -> None:
     return d.toISOString().slice(0, 10);
   }}
   function apply() {{
-    var text = q.value.trim().toLowerCase(), cy = cycle.value, ca = cat.value, shown = 0,
+    var text = q.value.trim().toLowerCase(), cy = cycle.value, ca = cat.value,
+        rg = region.value, shown = 0,
         minPosted = age.value ? cutoffISO(parseInt(age.value, 10)) : '';
     rows.forEach(function (tr) {{
       var ok = (!text || tr.dataset.text.indexOf(text) !== -1)
         && (!cy || tr.dataset.cycle === cy)
         && (!ca || tr.dataset.category === ca)
+        && (!rg || tr.dataset.region === rg)
         && (!minPosted || (tr.dataset.posted && tr.dataset.posted >= minPosted));
       tr.style.display = ok ? '' : 'none';
       if (ok) shown++;
     }});
     count.textContent = shown;
   }}
-  [q, cycle, cat, age].forEach(function (el) {{
+  [q, cycle, cat, region, age].forEach(function (el) {{
     el.addEventListener('input', apply); el.addEventListener('change', apply);
   }});
 }})();

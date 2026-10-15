@@ -42,7 +42,9 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/companies.json tracked_companies.txt untracked_companies.txt
+          git add data/companies.json data/candidates.json \
+                  data/interndoor_seeds.json \
+                  tracked_companies.txt untracked_companies.txt
           if git diff --staged --quiet; then
             echo "No new companies."
           else
