@@ -92,22 +92,44 @@ def _short_location(location: str, limit: int = 38) -> str:
     return location
 
 
-def _specs(job: dict) -> list[str]:
-    """Pay, degree and experience, in that order, as short display strings."""
-    out = []
-    pay = (
-        job.get("salary")
-        or job.get("stipend")
-        or job.get("estimated_stipend")
-        or job.get("estimated_ctc")
-    )
-    if pay:
-        out.append(f"~{pay}")
+def _pay(job: dict) -> str:
+    """Best available pay figure, marking which kind it is.
+
+    Order matters: a figure the posting itself states (salary, stipend) beats
+    one the engine inferred, and an inference is prefixed with ~ so nobody
+    mistakes a benchmark for a promise.
+    """
+    for field, prefix in (
+        ("salary", ""),
+        ("stipend", ""),
+        ("estimated_stipend", "~"),
+        ("estimated_ctc", "~"),
+    ):
+        value = job.get(field)
+        if value:
+            return f"{prefix}{value}"
+    return ""
+
+
+def _specs(job: dict) -> str:
+    """Pay, degree and experience as one compact cell."""
+    parts = []
+    if pay := _pay(job):
+        parts.append(f"**{pay}**")
     if job.get("degree"):
-        out.append(str(job["degree"]))
+        parts.append(str(job["degree"]))
     if job.get("experience"):
-        out.append(str(job["experience"]))
-    return out
+        parts.append(str(job["experience"]))
+    return "<br>".join(_cell(p) for p in parts)
+
+
+def _skill_tags(job: dict) -> str:
+    """Up to four extracted skills as inline code tags."""
+    raw = job.get("skills") or []
+    if isinstance(raw, str):
+        raw = [raw]
+    tags = [_cell(s) for s in list(raw)[:4]]
+    return " ".join(f"`{t}`" for t in tags)
 
 
 def _sort_key(record: dict):
@@ -185,11 +207,23 @@ def _group(records: list[dict], cycles: list[str]) -> dict[str, list[dict]]:
     return sections
 
 
-def generate(store_data: dict) -> dict:
+def generate(store_data: dict, stats: dict | None = None) -> dict:
+    """Render README.md and data/internships.csv.
+
+    `stats` is the last run's metrics. Optional so this stays callable on its
+    own (offline regeneration, tests); when absent the engine-summary line is
+    omitted rather than rendered with invented numbers.
+    """
     cfg = config.load_config()
     cycle_list = config.cycles(cfg)
     repo = config.repo_slug()
     owner, _, name = repo.partition("/")
+    if stats is None:
+        try:
+            with open(paths.STATS_PATH, encoding="utf-8") as f:
+                stats = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            stats = {}
 
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
     open_jobs.sort(key=_sort_key, reverse=True)
@@ -244,9 +278,9 @@ def generate(store_data: dict) -> dict:
         lines.append("")
         lines.append(
             "| \U0001f3e2 Company | \U0001f4bc Role | \U0001f3f7\ufe0f Category "
-            "| \U0001f4cd Location | \U0001f4c5 Posted | \U0001f517 Apply |"
+            "| \U0001f4b0 Pay & Specs | \U0001f4cd Location | \U0001f4c5 Posted | \U0001f517 Apply |"
         )
-        lines.append("|---|---|---|---|---|:---:|")
+        lines.append("|---|---|---|---|---|---|:---:|")
         for job in jobs:
             url = job.get("url") or ""
             apply_link = f"[Apply ↗]({url})" if url else "—"
@@ -254,13 +288,20 @@ def generate(store_data: dict) -> dict:
             flag = _flag(job)
             if job.get("season_inferred"):
                 inferred_count += 1
+            specs = _specs(job) or "—"
+            skills = _skill_tags(job)
             lines.append(
                 f"| **{_cell(job.get('company', ''))}** "
                 f"| {_cell(job.get('title', ''))}{tilde}{flag} "
                 f"| `{_cell(job.get('category', ''))}` "
-                f"| {_cell(_short_location(job.get('location', '')))} "
+                f"| {specs} | {_cell(_short_location(job.get('location', '')))} "
                 f"| {_pretty_date(job)} | {apply_link} |"
             )
+            # Skills ride under the role rather than in their own column: a
+            # separate one pushes the apply link off the right edge, and the
+            # role title is what the eye tracks down the column anyway.
+            if skills:
+                lines.append(f"| | <sub>{skills}</sub> ||||||")
         lines.append("")
 
     if inferred_count:
@@ -270,12 +311,27 @@ def generate(store_data: dict) -> dict:
         )
         lines.append("")
 
-    # Recently closed
+    # Recently closed.
+    #
+    # Restricted to roles that were ever in scope. The store also holds roles
+    # that failed the region filter on their way in — Coinbase in San
+    # Francisco, ACLU Kentucky — and listing those as "taken down" would claim
+    # the engine once tracked them, which it did not. Someone chasing an
+    # application should only see closures for roles that were real.
     window = (datetime.now(UTC) - timedelta(days=14)).strftime("%Y-%m-%dT%H:%M:%SZ")
     closed = [
         r
         for r in store_data.values()
-        if not r.get("is_open") and (r.get("closed_at") or "") >= window
+        if not r.get("is_open")
+        and (r.get("closed_at") or "") >= window
+        and filters.region_ok(
+            r.get("location", ""),
+            False,
+            False,
+            True,
+            True,
+            source=r.get("source"),
+        )
     ]
     closed.sort(key=lambda r: r.get("closed_at", ""), reverse=True)
     if closed:
@@ -301,25 +357,59 @@ def generate(store_data: dict) -> dict:
         [
             "---",
             "",
+            "## Hiring timeline",
+            "",
+            "Internships posted per week, from each role's real published date. "
+            "Redrawn automatically on every run — when this line takes off, "
+            "recruiting season is open:",
+            "",
+            "<picture>",
+            '  <source media="(prefers-color-scheme: dark)" srcset="docs/trends-dark.svg">',
+            '  <img alt="Internships posted per week, from real published dates" '
+            'src="docs/trends-light.svg">',
+            "</picture>",
+            "",
+            "## How this stays current",
+            "",
+            _engine_line(stats, open_jobs) if stats else "",
+            "",
             "## How it works",
             "",
             "A Python engine reads public company hiring feeds directly, keeps the "
-            "internships that match the scope (India-based tech roles), "
-            "de-duplicates across sources, extracts the stack and any stated pay "
-            "from each posting's text, and regenerates this page through GitHub "
-            "Actions. Every link points at the company's own posting. The full "
-            "source is in this repo.",
+            "internships that match the scope, de-duplicates across sources, records "
+            "each role's published date once so it never shifts, extracts the stack "
+            "and any stated pay from the posting's own text, and regenerates this "
+            "page through GitHub Actions. Every link points at the company's own "
+            "posting. The full source is in this repo.",
+            "",
+            "Companies are found two ways: dataset mining for ATS tokens, and "
+            "InternDoer's public feed used purely as a list of which employers are "
+            "hiring in India. Either way the roles come from each employer's own "
+            "careers system.",
             "",
             "## Scope",
             "",
             "- **Roles:** Software Engineering, Data Science & Machine Learning "
             "(and closely related technical internships)",
-            "- **Region:** India & verified remote",
+            "- **Region:** India & remote",
             f"- **Cycles:** {', '.join(cycle_list)}",
+            "",
+            "## Platforms polled",
+            "",
+            _platform_line(),
             "",
             "## Contributing",
             "",
-            "Add a company to `companies.txt` and run `python run.py discover`.",
+            "Add a company to `companies.txt` and run `python run.py discover`. "
+            "See [CONTRIBUTING.md](CONTRIBUTING.md).",
+            "",
+            "## Legend",
+            "",
+            "- `~` on the cycle — the title states no year; bucketed from the "
+            "posting date",
+            "- \U0001f195 — first seen in the last 48 hours",
+            "- **Bold** pay — quoted by the company",
+            "- ~Pay~ with a tilde — inferred, not stated by the company",
             "",
             "_Roles can close at any time — always confirm on the company's page "
             "before applying._",
@@ -334,6 +424,64 @@ def generate(store_data: dict) -> dict:
     _write_csv(open_jobs)
 
     return {"open": len(open_jobs), "companies": _company_count()}
+
+
+def _engine_line(stats: dict, open_jobs: list[dict]) -> str:
+    """One honest sentence about what the last run actually did."""
+    companies = stats.get("companies_total") or 0
+    platforms = len(stats.get("companies_by_source") or {})
+    ok_rate = stats.get("fetch_success_rate")
+    coverage = stats.get("posted_date_coverage")
+    latency = (stats.get("detection_latency") or {}).get("median_minutes")
+
+    bits = [f"**{companies:,} companies** across **{platforms} ATS platforms**"]
+    if isinstance(ok_rate, (int, float)):
+        bits.append(f"{int(ok_rate * 100)}% fetch success")
+    if isinstance(coverage, (int, float)):
+        bits.append(f"real posted dates on {int(coverage * 100)}% of open roles")
+    if isinstance(latency, (int, float)):
+        bits.append(f"median detection lag {latency / 60:.1f}h")
+    return (
+        "_Engine (last run): "
+        + " · ".join(bits)
+        + ". One async pass every two hours, with retry/backoff, per-host rate "
+        "limits and a circuit breaker that quarantines dead endpoints._"
+    )
+
+
+def _platform_line() -> str:
+    """Group the registry by platform family, biggest first."""
+    try:
+        with open(paths.COMPANIES_PATH, encoding="utf-8") as f:
+            registry = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return "_(registry unavailable)_"
+
+    families = {
+        "Applicant tracking systems": (
+            "workday", "greenhouse", "lever", "ashby", "smartrecruiters",
+            "workable", "oracle", "rippling", "breezy", "recruitee", "eightfold",
+            "icims", "successfactors",
+        ),
+        "Custom careers scrapers": ("google", "bloomberg", "bytedance", "uber", "custom"),
+        "Indian job portals": ("internshala", "naukri", "instahyre", "unstop"),
+        "Aggregators": ("linkedin", "indeed", "wellfound", "amazon", "yc_waas"),
+    }
+    counts: dict[str, int] = {}
+    for company in registry:
+        ats = company.get("ats", "?")
+        for label, members in families.items():
+            if ats in members:
+                counts[label] = counts.get(label, 0) + 1
+                break
+        else:
+            counts["Other"] = counts.get("Other", 0) + 1
+
+    return "\n".join(
+        f"- **{label}** — {n:,} companies" for label, n in sorted(
+            counts.items(), key=lambda kv: -kv[1]
+        )
+    )
 
 
 def _company_count() -> int:
