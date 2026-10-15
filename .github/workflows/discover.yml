@@ -40,11 +40,12 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/companies.json data/candidates.json \
-                  data/interndoor_seeds.json \
+          git config user.name  "10vulture1005"
+          git config user.email "10vulture1005@users.noreply.github.com"
+          git add data/companies.json data/interndoor_seeds.json \
                   tracked_companies.txt untracked_companies.txt
+          # candidates.json is optional — only add if it exists
+          [ -f data/candidates.json ] && git add data/candidates.json
           if git diff --staged --quiet; then
             echo "No new companies."
           else
