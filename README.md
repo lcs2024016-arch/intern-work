@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-33-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5368-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-31-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5424-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Every%202h-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 15, 2026 at 17:26 UTC</em></p>
+  <p><em>Last updated: Oct 15, 2026 at 19:40 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>16 open</kbd>
+## Summer 2027 (India) <kbd>15 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -41,19 +41,18 @@
 | **Marvell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | **Carousell Group** | Android Engineer Intern - 6 months <sup>~</sup> 🆕 | `Software` | — | Bengaluru, KA, India | Oct 14, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/carousellgroup/744000155411579) |
 | | <sub>`Kotlin`</sub> ||||||
-| **Cloudsek** | SDE Intern - Backend <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/cloudsek/jobs/6222340004) |
+| **CloudSEK** | SDE Intern - Backend <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/cloudsek/jobs/6222340004) |
 | | <sub>`SQL` `Node.js` `AWS` `GCP`</sub> ||||||
 | **Scopely** | Intern - QA Engineer - Royal Lounge Casino <sup>~</sup> 🆕 | `Software` | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | — | Bengaluru | Sep 23, 2026 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | | <sub>`Python` `Java` `JavaScript` `AWS`</sub> ||||||
-| **Innovaccer** | Apprentice - Compliance <sup>~</sup> | `Other` | — | Noida, Uttar Pradesh, India | Sep 23, 2026 | [Apply ↗](https://apply.workable.com/innovaccer-analytics/j/5298761677/) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern | `Software` | — | Bangalore | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 | | <sub>`Python` `Java` `C++` `Scala`</sub> ||||||
 | **AlgoUniversity** | Teaching &amp; Software Engineering Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/) |
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>14 open</kbd>
+## Summer 2027 (Remote) <kbd>13 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -77,7 +76,6 @@
 | **Lean TECHniques** | Software Engineer Intern - Hybrid <sup>~</sup> | `Software` | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply ↗](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
 | **Ancestry** | Data Science - AI Document Understanding, Co-op <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Sep 16, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | | <sub>`Python` `LLMs` `AWS`</sub> ||||||
-| **TWG Global** | AI Data Science Intern (UK) <sup>~</sup> | `Data &amp; ML/AI` | — | London, England, United Kingdom (Remo… | Sep 01, 2026 | [Apply ↗](https://apply.workable.com/twgai/j/1206BF981C/) |
 | **Realm** | Software Engineer - Intern <sup>~</sup> | `Software` | B.Tech/BS | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | | <sub>`TypeScript` `TensorFlow` `LLMs` `Computer Vision`</sub> ||||||
 | **Pradrix** | AI / ML Engineer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Work From Home | — | [Apply ↗](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
@@ -102,13 +100,14 @@
 | **Tower Research Capital** | Intern - AI/ML <sup>~</sup> | `Data &amp; ML/AI` | — | Gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | | <sub>`Python` `SQL` `PyTorch` `TensorFlow`</sub> ||||||
 
-_~ = the title doesn't state a year; bucketed here from its posting date (30 of 33)._
+_~ = the title doesn't state a year; bucketed here from its posting date (28 of 31)._
 
 <details>
-<summary><strong>Recently closed</strong> — 127 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 128 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Innovaccer | Apprentice - Compliance | Summer 2027 | 2026-10-15 |
 | Member Solutions | Cybersecurity GRC Intern | Summer 2027 | 2026-10-15 |
 | Valeo | Intern - AI | Summer 2027 | 2026-10-15 |
 | LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-15 |
@@ -133,7 +132,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (30 of 
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-15 |
 | Equifax | Trainee -Data Operations Analyst | Summer 2027 | 2026-10-15 |
 | Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-10-15 |
-| GE Healthcare | Research Intern - AI | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -150,7 +148,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,369 companies** across **25 ATS platforms** · 100% fetch success · real posted dates on 87% of open roles · median detection lag 17.8h. One async pass every two hours, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,425 companies** across **25 ATS platforms** · 100% fetch success · real posted dates on 87% of open roles · median detection lag 17.8h. One async pass every two hours, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -166,7 +164,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,314 companies
+- **Applicant tracking systems** — 5,370 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies

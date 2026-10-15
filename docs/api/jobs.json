@@ -184,7 +184,7 @@
   },
   {
     "id": "greenhouse:cloudsek:6222340004",
-    "company": "Cloudsek",
+    "company": "CloudSEK",
     "title": "SDE Intern - Backend",
     "season": "Summer 2027",
     "season_inferred": true,
@@ -510,28 +510,6 @@
     "source": "lever"
   },
   {
-    "id": "workable:innovaccer-analytics:5298761677",
-    "company": "Innovaccer",
-    "title": "Apprentice - Compliance",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "India",
-    "location": "Noida, Uttar Pradesh, India",
-    "url": "https://apply.workable.com/innovaccer-analytics/j/5298761677/",
-    "posted_at": "2026-09-23T00:00:00.000Z",
-    "first_seen_at": "2026-09-23T15:12:56Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": null,
-    "source": "workable"
-  },
-  {
     "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
     "company": "Lean TECHniques",
     "title": "Software Engineer Intern - Hybrid",
@@ -627,28 +605,6 @@
       "Scala"
     ],
     "source": "greenhouse"
-  },
-  {
-    "id": "workable:twgai:1206BF981C",
-    "company": "TWG Global",
-    "title": "AI Data Science Intern (UK)",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "Remote",
-    "location": "London, England, United Kingdom (Remote)",
-    "url": "https://apply.workable.com/twgai/j/1206BF981C/",
-    "posted_at": "2026-09-01T00:00:00.000Z",
-    "first_seen_at": "2026-09-17T03:02:39Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": null,
-    "source": "workable"
   },
   {
     "id": "greenhouse:guidepointsecurity:6148707004",
