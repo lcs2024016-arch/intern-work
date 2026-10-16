@@ -1,5 +1,28 @@
 [
   {
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Cybersecurity, Governance & Risk",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Other",
+    "region": "Remote",
+    "location": "Riedman - Remote",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "first_seen_at": "2026-10-16T21:58:25Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4477388709",
     "company": "Reveation Labs",
     "title": "Software Engineer Intern",
@@ -243,7 +266,7 @@
     "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
     "posted_at": "2026-10-15T18:02:45-04:00",
     "first_seen_at": "2026-10-16T18:39:14Z",
-    "salary": "$34.32–$42.13/hr",
+    "salary": null,
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
@@ -507,6 +530,35 @@
       "Linux"
     ],
     "source": "workday",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4479556508",
+    "company": "Bank of America",
+    "title": "Apprentice Software Developer",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Gurugram, Haryana, India, On-site",
+    "url": "https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations",
+    "posted_at": "2026-10-14",
+    "first_seen_at": "2026-10-16T21:58:25Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/B.E",
+    "experience": null,
+    "skills": [
+      "python",
+      "sql",
+      "spark",
+      "tableau",
+      "java"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {

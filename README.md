@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-139-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-141-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5431-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 16, 2026 at 18:39 UTC</em></p>
+  <p><em>Last updated: Oct 16, 2026 at 21:58 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>89 open</kbd>
+## Summer 2027 (India) <kbd>90 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -64,6 +64,8 @@
 | | <sub>`python` `tensorflow` `pytorch` `sklearn`</sub> ||||||
 | **NatWest Group** | AI ML Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/M.Tech | Bengaluru, Karnataka, India, On-site | Sep 29, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18289724-ai-ml-trainee-6-month-fixed-term-contract-2026-graduates?tm_job=R-00285898-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56) |
 | | <sub>`java` `ai/ml` `devops` `agile`</sub> ||||||
+| **Bank of America** | Apprentice Software Developer <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Gurugram, Haryana, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations) |
+| | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
 | **Bank of America** | Apprentice Software Developer <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Chennai, Tamil Nadu, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations) |
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
 | **Micron school erp** | QA &amp; Tech Support Intern <sup>~</sup> 🆕 | `Other` | BCA/B.Tech/BSc IT | Sahibzada Ajit Singh Nagar, Punjab, I… | Oct 09, 2026 | [Apply ↗](https://www.micronerp.com/careers/cmth9l2cf002mm6010l370tt2) |
@@ -192,7 +194,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>26 open</kbd>
+## Summer 2027 (Remote) <kbd>27 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -201,13 +203,14 @@
 | **Cadence Solutions** | Software Engineering Intern | `Software` | — | Remote | Sep 08, 2026 | [Apply ↗](https://job-boards.greenhouse.io/solutions/jobs/4711210006) |
 | **TCS** | Python Developer trainee <sup>~</sup> 🆕 | `Software` | — | Ahmedabad, Gujarat, India, Hybrid | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479114937/) |
 | | <sub>`python` `sql` `mysql` `rest api`</sub> ||||||
+| **Rochester Regional Health** | RIT Co-op: Cybersecurity, Governance &amp; Risk <sup>~</sup> 🆕 | `Other` | B.Tech/BS | Riedman - Remote | Oct 16, 2026 | [Apply ↗](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1) |
 | **Reveation Labs** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
 | | <sub>`wordpress` `html` `css` `javascript`</sub> ||||||
 | **Lexsi Labs** | AI Research Internship <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 16, 2026 | [Apply ↗](https://easyapply.jobs/r/tGxV3gt27qrI5t3M0jzV) |
 | | <sub>`python` `pytorch` `transformer` `git`</sub> ||||||
 | **Lexsi Labs** | AI Agent Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 16, 2026 | [Apply ↗](https://easyapply.jobs/r/FHXtGGF27qsSiF4oyfkH) |
 | | <sub>`python` `llms` `agent frameworks` `evaluation pipelines`</sub> ||||||
-| **Wikimedia Foundation** | Software Engineering Internship Program (2027) 🆕 | `Software` | **$34.32–$42.13/hr**<br>B.Tech/BS | Remote | Oct 15, 2026 | [Apply ↗](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
+| **Wikimedia Foundation** | Software Engineering Internship Program (2027) 🆕 | `Software` | B.Tech/BS | Remote | Oct 15, 2026 | [Apply ↗](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
 | | <sub>`Python` `JavaScript` `SQL` `Swift`</sub> ||||||
 | **Tech Snap** | Cloud &amp; DevOps Intern <sup>~</sup> 🆕 | `Software` | **₹0 – ₹1** | India, Remote | Oct 14, 2026 | [Apply ↗](https://techsnap.in/jobs/devops-cloud-intern-cloudscale) |
 | | <sub>`linux` `docker` `aws` `github actions`</sub> ||||||
@@ -294,7 +297,7 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> 🆕 | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (126 of 139)._
+_~ = the title doesn't state a year; bucketed here from its posting date (128 of 141)._
 
 <details>
 <summary><strong>Recently closed</strong> — 128 roles taken down in the last 14 days</summary>
