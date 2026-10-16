@@ -50,6 +50,7 @@ from .connectors import (
     icims,
     indeed,
     instahyre,
+    interndoor,
     internshala,
     lever,
     linkedin,
@@ -65,6 +66,7 @@ from .connectors import (
     workable,
     workday,
     yc_waas,
+    ypatodkar,
 )
 from .net import HostLimiter, Net
 
@@ -94,7 +96,16 @@ CONNECTORS = {
     "bloomberg": bloomberg.fetch,
     "bytedance": bytedance.fetch,
     "uber": uber.fetch,
+    # --- non-India board, kept for its remote internships only ---
+    # Its roles are US-based and out of the India region scope, so they are
+    # published in their own labelled section rather than the India ones.
+    "ypatodkar": ypatodkar.fetch,
     # --- indian aggregators ---
+    # InternDoor republishes India openings but resolves each listing's
+    # applyUrl to the employer's own ATS, so these Apply links still land on the
+    # company's board. Used as a job source here; interndoor.py uses the same
+    # feed separately as a company-seed list for discovery.
+    "interndoor": interndoor.fetch,
     "internshala": internshala.fetch,
     "naukri": naukri.fetch,
     "instahyre": instahyre.fetch,

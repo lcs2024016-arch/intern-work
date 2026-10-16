@@ -49,6 +49,7 @@ _REFRESH_FIELDS = (
     "company",
     "source",
     "company_slug",
+    "scope",
 )
 
 # Fields enrichment fills in. These only ever move from null to a value, so a

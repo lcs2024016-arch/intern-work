@@ -76,6 +76,9 @@ _API_FIELDS = (
     "experience",
     "skills",
     "source",
+    # Lets a consumer tell an India-open role from one published out of scope
+    # (see readme.GLOBAL_SECTION) without inferring it from the location string.
+    "scope",
 )
 
 

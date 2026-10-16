@@ -2,7 +2,9 @@ name: Discover companies
 
 on:
   schedule:
-    - cron: "30 8 * * *"    # daily 08:30 UTC
+    # Daily, 02:00 UTC = 07:30 IST. The only workflow that grows the registry;
+    # the hourly update run just polls whatever is already in it.
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:

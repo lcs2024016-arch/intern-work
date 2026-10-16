@@ -12,8 +12,10 @@
   "max_per_company": 5,
   "infer_undated": true,
   "infer_max_age_days": 45,
+  "include_interndoor": true,
   "section_limits": {
     "Summer 2027": 300,
-    "Fall 2026": 150
+    "Fall 2026": 150,
+    "Global remote": 60
   }
 }

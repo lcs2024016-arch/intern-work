@@ -21,6 +21,10 @@ class Job:
     title: str
     location: str
     url: str
+    # "india" (default) or "global". Global roles come from boards that are
+    # outside the India scope but are remote and worth showing; the renderer
+    # buckets them into their own labelled section instead of the India ones.
+    scope: str = "india"
     posted_at: str | None = None
     season: str = "Unspecified"
     season_inferred: bool = False

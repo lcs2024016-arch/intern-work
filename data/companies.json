@@ -30624,5 +30624,15 @@
     "name": "zynga",
     "slug": "zyngacareers",
     "ats": "greenhouse"
+  },
+  {
+    "name": "VC Portfolio Remote Internships",
+    "slug": "remote-interns",
+    "ats": "ypatodkar"
+  },
+  {
+    "name": "InternDoor India Feed",
+    "slug": "india-feed",
+    "ats": "interndoor"
   }
 ]

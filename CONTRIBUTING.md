@@ -23,6 +23,8 @@ src/intern_engine/
   slug_variants.py         company name -> candidate ATS slugs
   discover.py              finds new companies and resolves their ATS boards
   interndoor.py            InternDoor's feed as a company-discovery source
+                           (see also connectors/interndoor.py, which reads the
+                           same feed as a source of roles)
   harvester.py             probes candidate slugs to validate a registry entry
   pipeline.py              the run: fetch -> classify -> enrich -> store
   enrich.py                per-role detail fetch that fills in skills and pay
@@ -61,6 +63,14 @@ A connector should raise when the board is entirely unavailable — that is what
 trips the circuit breaker in `health.py`, and returning an empty list instead
 would mark every one of the company's roles closed.
 
+`ypatodkar` is a deliberate exception to the India scope: it is a US-only VC
+directory, so its roles would be vetoed by the region filter. It keeps only
+remote internships, tags them `scope="global"`, and `readme._group` renders them
+into their own trailing section (`readme.GLOBAL_SECTION`) with a caveat. A new
+connector that is also out-of-scope follows the same path — set `scope` rather
+than loosening `filters.region_ok`, which would let every US Workday tenant
+flood the India list.
+
 ## Config
 
 `data/config.json`, overlaid onto `config.DEFAULTS`.
@@ -81,7 +91,7 @@ would mark every one of the company's roles closed.
 | `allowlist_only` | `false` | keep only companies in the priority list |
 | `include_international` | `false` | keep roles outside the configured regions |
 | `company_filter` | `false` | restrict the README to `companies.txt` |
-| `include_interndoor` | `false` | refresh InternDoor seeds on each discover |
+| `include_interndoor` | `true` | refresh InternDoor seeds on each discover. Left on so the seed list tracks new employers daily; the cached `data/interndoor_seeds.json` is still used whenever the feed is unreachable, so a third-party outage cannot break discovery. Unrelated to `connectors/interndoor.py`, which publishes InternDoor roles on every update run. |
 
 ## Environment
 

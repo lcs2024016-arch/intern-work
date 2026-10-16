@@ -17,6 +17,12 @@ from . import config, filters, paths, priority
 # comparison, so it is stripped on both sides.
 _NOISE_RE = re.compile(r"[^a-z0-9]+")
 
+# Roles from boards outside the India scope (currently the ypatodkar VC
+# directory). They are remote internships an India-scoped reader cannot
+# necessarily take, so they get their own section and an explicit caveat rather
+# than being mixed in with the India/Remote sections.
+GLOBAL_SECTION = "Global remote (US-based companies)"
+
 
 def _norm(name: str) -> str:
     return _NOISE_RE.sub("", (name or "").lower())
@@ -187,13 +193,23 @@ def _select(records: list[dict], cfg: dict, label: str) -> list[dict]:
 
 
 def _group(records: list[dict], cycles: list[str]) -> dict[str, list[dict]]:
-    """Bucket roles by cycle and whether they are remote."""
+    """Bucket roles by cycle and whether they are remote.
+
+    `scope == "global"` roles are collected into one trailing section instead of
+    being interleaved by cycle. They come from boards outside the India scope,
+    so sorting them into "Summer 2027 (Remote)" alongside roles an Indian
+    applicant can actually take would overstate what is open to the reader.
+    """
     sections: dict[str, list[dict]] = {}
     for cycle in cycles:
         sections[f"{cycle} (India)"] = []
         sections[f"{cycle} (Remote)"] = []
+    sections[GLOBAL_SECTION] = []
 
     for job in records:
+        if job.get("scope") == "global":
+            sections[GLOBAL_SECTION].append(job)
+            continue
         season = job.get("season") or "Term Unconfirmed"
         label = (
             f"{season} (Remote)"
@@ -238,6 +254,10 @@ def generate(store_data: dict, stats: dict | None = None) -> dict:
         )
 
     sections = _group(open_jobs, cycle_list)
+    # The global bucket is created up-front (so it exists even when empty, and
+    # can be capped like any other section) but must render LAST: a US-based
+    # role appearing before the India sections reads as if it outranked them.
+    sections[GLOBAL_SECTION] = sections.pop(GLOBAL_SECTION)
 
     lines = [
         '<div align="center">',
@@ -258,7 +278,7 @@ def generate(store_data: dict, stats: dict | None = None) -> dict:
         "  <p>",
         f'    <img src="https://img.shields.io/badge/Open%20Roles-{len(open_jobs)}-6366f1?style=for-the-badge" alt="Open Roles" />',
         f'    <img src="https://img.shields.io/badge/Companies-{_company_count()}-22c55e?style=for-the-badge" alt="Companies" />',
-        "    <img src=\"https://img.shields.io/badge/Updates-Every%202h-3fb950?style=for-the-badge\" alt=\"Updates\" />",
+        "    <img src=\"https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge\" alt=\"Updates\" />",
         "  </p>",
         f"  <p><em>Last updated: {datetime.now(UTC).strftime('%b %d, %Y at %H:%M UTC')}</em></p>",
         "</div>",
@@ -276,6 +296,17 @@ def generate(store_data: dict, stats: dict | None = None) -> dict:
             continue
         lines.append(f"## {_cell(label)} <kbd>{len(jobs)} open</kbd>")
         lines.append("")
+        if label == GLOBAL_SECTION:
+            # Said in the page, not left for the reader to infer from a location
+            # column: on that board "remote" means remote within the employer's
+            # own country, so eligibility is not implied by appearing here.
+            lines.append(
+                "> Remote internships at US venture-backed companies. **Remote "
+                "means remote within the employer's country** — nearly all of "
+                "these are US-only and need US work authorisation. Listed "
+                "separately so they are never mistaken for India-open roles."
+            )
+            lines.append("")
         lines.append(
             "| \U0001f3e2 Company | \U0001f4bc Role | \U0001f3f7\ufe0f Category "
             "| \U0001f4b0 Pay & Specs | \U0001f4cd Location | \U0001f4c5 Posted | \U0001f517 Apply |"
@@ -444,7 +475,7 @@ def _engine_line(stats: dict, open_jobs: list[dict]) -> str:
     return (
         "_Engine (last run): "
         + " · ".join(bits)
-        + ". One async pass every two hours, with retry/backoff, per-host rate "
+        + ". One async pass an hour, with retry/backoff, per-host rate "
         "limits and a circuit breaker that quarantines dead endpoints._"
     )
 

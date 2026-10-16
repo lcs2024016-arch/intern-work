@@ -2,7 +2,14 @@ name: Update internships
 
 on:
   schedule:
-    - cron: "0 */2 * * *"    # every 2 hours (UTC)
+    # Hourly, on the hour UTC.
+    #
+    # Discover is NOT run here on purpose: it is the slow, network-heavy half
+    # (40+ min of probing) and it appends to the registry. Interleaving it would
+    # make every hourly run a 45-minute run and repeatedly re-probe the same
+    # companies. discover.yml keeps its own daily schedule and commits the
+    # registry; this workflow just picks those companies up on its next run.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -47,7 +54,7 @@ jobs:
       - name: Commit & push if changed
         run: |
           git config user.name  "10vulture1005"
-          git config user.email "vaidiksaxena14@gmail.com"
+          git config user.email "10vulture1005@users.noreply.github.com"
           for f in \
             README.md \
             data/jobs.json data/internships.csv data/stats.json \
