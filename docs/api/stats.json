@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T13:13:51Z",
-  "duration_seconds": 491.2,
-  "companies_total": 5427,
+  "generated_at": "2026-10-16T18:39:14Z",
+  "duration_seconds": 381.6,
+  "companies_total": 5432,
   "companies_by_source": {
-    "greenhouse": 1188,
-    "lever": 458,
+    "greenhouse": 1190,
+    "lever": 460,
     "smartrecruiters": 866,
     "workable": 187,
-    "ashby": 801,
+    "ashby": 802,
     "recruitee": 2,
     "workday": 1589,
     "oracle": 153,
@@ -19,6 +19,7 @@
     "google": 1,
     "indeed": 9,
     "instahyre": 1,
+    "interndoor": 1,
     "internshala": 6,
     "linkedin": 12,
     "custom": 5,
@@ -26,66 +27,56 @@
     "eightfold": 1,
     "uber": 1,
     "unstop": 5,
-    "wellfound": 1,
     "ypatodkar": 1,
-    "interndoor": 1,
+    "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 95,
-  "fetched_ok": 5078,
-  "fetch_errors": 254,
+  "quarantined": 343,
+  "fetched_ok": 5082,
+  "fetch_errors": 7,
   "errors_by_source": {
-    "recruitee": 1,
-    "lever": 59,
-    "ashby": 51,
-    "greenhouse": 70,
-    "workable": 39,
-    "oracle": 2,
-    "indeed": 9,
-    "linkedin": 12,
-    "naukri": 10,
-    "wellfound": 1
+    "workable": 6,
+    "lever": 1
   },
-  "fetch_success_rate": 0.952,
-  "roles_matched": 132,
-  "roles_cycle_inferred": 120,
+  "fetch_success_rate": 0.999,
+  "roles_matched": 134,
+  "roles_cycle_inferred": 121,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 110,
+  "dropped_offcycle_by_text": 111,
   "roles_by_source": {
     "workday": 9,
-    "greenhouse": 12,
+    "greenhouse": 13,
     "smartrecruiters": 1,
     "lever": 1,
+    "interndoor": 83,
     "ashby": 2,
     "ypatodkar": 21,
-    "interndoor": 82,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 127,
+    "Summer 2027": 130,
     "Fall 2026": 1,
-    "Term Unconfirmed": 3,
-    "Winter 2027": 1
+    "Term Unconfirmed": 3
   },
   "roles_by_category": {
     "Data & ML/AI": 45,
-    "Software": 73,
+    "Software": 75,
     "Other": 14
   },
   "roles_by_region": {
-    "Remote": 35,
-    "India": 97
+    "Remote": 36,
+    "India": 98
   },
-  "posted_date_coverage": 0.941,
-  "enriched_this_run": 108,
+  "posted_date_coverage": 0.942,
+  "enriched_this_run": 28,
   "enrichment_detail_fetches": 1,
-  "purged_this_run": 4,
+  "purged_this_run": 1,
   "dates_repaired": 0,
-  "new_this_run": 108,
-  "open_total": 136,
+  "new_this_run": 3,
+  "open_total": 139,
   "detection_latency": {
     "median_minutes": 2233.8,
-    "sample_size": 51,
+    "sample_size": 54,
     "window_days": 7
   }
 }

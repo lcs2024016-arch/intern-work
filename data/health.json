@@ -1109,6 +1109,11 @@
     "last_attempt_at": "2026-10-16T13:13:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:researchinnovations": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/researchinnovations?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
   "lever:sanctuary": {
     "consecutive_failures": 25,
     "last_attempt_at": "2026-10-16T13:13:51Z",
@@ -1324,16 +1329,6 @@
     "last_attempt_at": "2026-10-16T13:13:51Z",
     "last_error": "RuntimeError: Naukri rate limited or returned 0 jobs on page 1"
   },
-  "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
-  },
-  "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
-  },
   "recruitee:1x": {
     "consecutive_failures": 31,
     "last_attempt_at": "2026-10-16T13:13:51Z",
@@ -1385,23 +1380,23 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:onlogic-inc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/onlogic-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:openworks-engineering": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/openworks-engineering/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workable:optisigns-inc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/optisigns-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workable:optitrack": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-16T13:13:51Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/optitrack/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:oxford-quantum-circuits-8": {
@@ -1464,6 +1459,11 @@
     "last_attempt_at": "2026-10-13T22:46:44Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/quadric-dot-i-o-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
+  "workable:quantexa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/quantexa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
   "workable:raveaerospace": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-16T13:13:51Z",
@@ -1478,6 +1478,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-10-13T22:46:44Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/red-rabbit-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "workable:resource-innovations": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-16T18:39:14Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/resource-innovations/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:responsiveads-inc": {
     "consecutive_failures": 7,
