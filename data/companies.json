@@ -1772,6 +1772,11 @@
     "host": "wd5.myworkdaysite.com"
   },
   {
+    "name": "Angel City",
+    "slug": "wfclainc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Angle Health",
     "slug": "anglehealth",
     "ats": "ashby"
@@ -4760,7 +4765,7 @@
     "ats": "bytedance"
   },
   {
-    "name": "bytedance",
+    "name": "ByteDance",
     "slug": "bytedance",
     "ats": "smartrecruiters"
   },
@@ -6718,6 +6723,11 @@
     "name": "CommerceIQ",
     "slug": "commerceiq",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "slug": "cfsenergy",
+    "ats": "lever"
   },
   {
     "name": "Community Health Systems",
@@ -14390,6 +14400,11 @@
     "site": "External_Careers"
   },
   {
+    "name": "InternDoor India Feed",
+    "slug": "india-feed",
+    "ats": "interndoor"
+  },
+  {
     "name": "Internshala - Computer Science",
     "slug": "computer-science-internship",
     "ats": "internshala"
@@ -16496,6 +16511,11 @@
     "name": "Lumin Digital",
     "slug": "lumindigital",
     "ats": "lever"
+  },
+  {
+    "name": "Luminai",
+    "slug": "luminai",
+    "ats": "ashby"
   },
   {
     "name": "Luminance",
@@ -22742,6 +22762,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Research Innovations",
+    "slug": "researchinnovations",
+    "ats": "lever"
+  },
+  {
     "name": "Resend",
     "slug": "resend",
     "ats": "ashby"
@@ -25915,7 +25940,7 @@
     "job_link_pattern": "job"
   },
   {
-    "name": "swiggy",
+    "name": "Swiggy",
     "slug": "swiggy",
     "ats": "smartrecruiters"
   },
@@ -28689,6 +28714,11 @@
     "host": "wd5.myworkdaysite.com"
   },
   {
+    "name": "VC Portfolio Remote Internships",
+    "slug": "remote-interns",
+    "ats": "ypatodkar"
+  },
+  {
     "name": "VCU Health",
     "slug": "vcuhealth",
     "ats": "workday",
@@ -29752,6 +29782,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Wikimedia Foundation",
+    "slug": "wikimedia",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Wilbur-Ellis",
     "slug": "wilburellis",
     "ats": "workday",
@@ -30624,15 +30659,5 @@
     "name": "zynga",
     "slug": "zyngacareers",
     "ats": "greenhouse"
-  },
-  {
-    "name": "VC Portfolio Remote Internships",
-    "slug": "remote-interns",
-    "ats": "ypatodkar"
-  },
-  {
-    "name": "InternDoor India Feed",
-    "slug": "india-feed",
-    "ats": "interndoor"
   }
 ]
