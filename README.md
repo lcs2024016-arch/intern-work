@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-142-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-143-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5438-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 17, 2026 at 10:04 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 13:31 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>96 open</kbd>
+## Summer 2027 (India) <kbd>97 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -74,13 +74,13 @@
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
 | **Micron school erp** | QA &amp; Tech Support Intern <sup>~</sup> 🆕 | `Other` | BCA/B.Tech/BSc IT | Sahibzada Ajit Singh Nagar, Punjab, I… | Oct 09, 2026 | [Apply ↗](https://www.micronerp.com/careers/cmth9l2cf002mm6010l370tt2) |
 | | <sub>`customer support`</sub> ||||||
-| **Marvell** | Generative AI Forward Deployed Engineer Intern- Master&#x27;s Degree <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
+| **Marvell** | Generative AI Forward Deployed Engineer Intern- Master&#x27;s Degree <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
 | | <sub>`Python` `Java` `PyTorch` `TensorFlow`</sub> ||||||
-| **Marvell** | Intern, Software Engineer <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Hyderabad | Oct 15, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241) |
+| **Marvell** | Intern, Software Engineer <sup>~</sup> | `Software` | B.Tech/BS | Hyderabad | Oct 15, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241) |
 | | <sub>`Python` `Kubernetes` `Linux`</sub> ||||||
 | **Marvell Technology** | Research Intern Physical AI GPU <sup>~</sup> 🆕 | `Data &amp; ML/AI` | PhD/MTech by Research | Hyderabad | Oct 01, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) |
 | | <sub>`cuda` `pytorch` `tensorflow` `c/c++`</sub> ||||||
-| **Marvell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
+| **Marvell** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | **Valeo** | Software Intern <sup>~</sup> 🆕 | `Software` | — | Chennai | Oct 05, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899) |
 | | <sub>`matlab` `simulink` `embedded c` `autosar`</sub> ||||||
 | **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Pimpri Chinchwad, Maharashtra, India | Oct 16, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56676-2026?source=LinkedIn) |
@@ -123,9 +123,9 @@
 | | <sub>`service now` `sql` `javascript` `git`</sub> ||||||
 | **Fujitsu** | AI Apprentice <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune/Pimpri-Chinchwad Area, On-site | Oct 13, 2026 | [Apply ↗](https://www.jobs.global.fujitsu.com/job/GDU-AIP-AI-Apprentice/12893-en_US) |
 | | <sub>`python` `react` `typescript` `aws`</sub> ||||||
-| **CloudSEK** | SDE Intern - Backend <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/cloudsek/jobs/6222340004) |
+| **CloudSEK** | SDE Intern - Backend <sup>~</sup> | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/cloudsek/jobs/6222340004) |
 | | <sub>`SQL` `Node.js` `AWS` `GCP`</sub> ||||||
-| **Scopely** | Intern - QA Engineer - Royal Lounge Casino <sup>~</sup> 🆕 | `Software` | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
+| **Scopely** | Intern - QA Engineer - Royal Lounge Casino <sup>~</sup> | `Software` | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
 | **Vecmocon** | Software Quality Assurance Intern <sup>~</sup> 🆕 | `Software` | — | Noida, UP, India | Oct 12, 2026 | [Apply ↗](https://vecmocon.keka.com/careers/jobdetails/166181) |
 | | <sub>`html` `css` `test cases`</sub> ||||||
 | **Emerson** | Metrology Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | DEBRECEN, HAJDÚ BIHAR, Hungary, ORA_H… | Oct 12, 2026 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26011734) |
@@ -197,6 +197,7 @@
 | | <sub>`Python` `Java` `C++` `Scala`</sub> ||||||
 | **Tower Research Capital** | AI/ML Intern 🆕 | `Data &amp; ML/AI` | PhD | gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
+| **SSTPath** | Angular Developer - Intern <sup>~</sup> 🆕 | `Software` | — | Bangalore,Hyderabad | — | [Apply ↗](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
 | **induslabs** | Machine Learning Internship <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **₹60,000/monthly** | Noida | — | [Apply ↗](https://unstop.com/internships/machine-learning-internship-induslabs-1619940) |
 | **Other organization not listed here** | Software Engineering Internship <sup>~</sup> 🆕 | `Software` | **₹50,000/annually** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-branch-international-1144712) |
 | **Caspian** | Software Engineering Internship <sup>~</sup> 🆕 | `Software` | **₹100,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-caspian-1724547) |
@@ -239,7 +240,7 @@
 | | <sub>`Python` `Pandas` `LLMs`</sub> ||||||
 | **GuidePoint Security** | Cloud Infrastructure Intern - GPSU/NE <sup>~</sup> | `Software` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | | <sub>`Python` `LLMs` `AWS` `GCP`</sub> ||||||
-| **Mitel Networks** | R&amp;D Intern (student) - iOS development <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply ↗](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
+| **Mitel Networks** | R&amp;D Intern (student) - iOS development <sup>~</sup> | `Software` | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply ↗](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
 | | <sub>`Python` `TypeScript` `JavaScript` `LLMs`</sub> ||||||
 | **Electronic Arts (EA)** | AI Full Stack Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 01, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn) |
 | | <sub>`react` `typescript` `node.js` `python`</sub> ||||||
@@ -294,7 +295,7 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> 🆕 | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (129 of 142)._
+_~ = the title doesn't state a year; bucketed here from its posting date (130 of 143)._
 
 <details>
 <summary><strong>Recently closed</strong> — 133 roles taken down in the last 14 days</summary>
@@ -342,7 +343,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,439 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,439 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 93% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

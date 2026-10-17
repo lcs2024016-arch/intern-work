@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-17T10:04:25Z</updated>
+  <updated>2026-10-17T13:31:45Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>SSTPath — Angular Developer - Intern</title>
+    <link href="https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/" rel="alternate"/>
+    <id>instahyre:sstpath:447008</id>
+    <updated>2026-10-17T13:31:45Z</updated>
+    <summary>Bangalore,Hyderabad · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>NVIDIA — CPU Compiler Intern</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin" rel="alternate"/>
     <id>interndoor:4477940541</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4476801160</id>
     <updated>2026-10-16T13:13:51Z</updated>
     <summary>Mumbai, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GoKwik — AI Intern</title>
-    <link href="https://gokwik.keka.com/careers/jobdetails/163424" rel="alternate"/>
-    <id>interndoor:ats:keka:gokwik:163424</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>Bangalore, KA, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
