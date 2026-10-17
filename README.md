@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5431-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 16, 2026 at 21:58 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 00:10 UTC</em></p>
 </div>
 
 ---
@@ -216,7 +216,7 @@
 | | <sub>`linux` `docker` `aws` `github actions`</sub> ||||||
 | **Tech Snap** | Frontend Engineering Intern <sup>~</sup> 🆕 | `Software` | **₹35,000**<br>B.Tech/B.E/BCA/MCA | India, Remote | Oct 14, 2026 | [Apply ↗](https://techsnap.in/jobs/fresher-frontend-intern-bizwise) |
 | | <sub>`react` `javascript` `html` `css`</sub> ||||||
-| **GuidePoint Security** | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) <sup>~</sup> 🆕 | `Other` | B.Tech/BS | Remote | Oct 14, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
+| **GuidePoint Security** | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) <sup>~</sup> | `Other` | B.Tech/BS | Remote | Oct 14, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
 | | <sub>`Python` `AWS` `GCP` `Azure`</sub> ||||||
 | **Sony Research India** | LLM Research Intern <sup>~</sup> 🆕 | `Other` | — | Bengaluru, Karnataka, India, Remote | Oct 10, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478061801/) |
 | | <sub>`python` `pytorch` `llms` `fine-tuning`</sub> ||||||
