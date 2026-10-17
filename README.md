@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5438-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 17, 2026 at 21:18 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 23:46 UTC</em></p>
 </div>
 
 ---
@@ -351,7 +351,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,439 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 93% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,439 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 93% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
