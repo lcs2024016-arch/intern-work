@@ -325,6 +325,11 @@
     "ats": "lever"
   },
   {
+    "name": "Accellor",
+    "slug": "accellor",
+    "ats": "workable"
+  },
+  {
     "name": "Accelya",
     "slug": "accelya-careers",
     "ats": "smartrecruiters"
@@ -812,6 +817,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "AgZen",
+    "slug": "agzen",
+    "ats": "ashby"
+  },
+  {
     "name": "AHEAD",
     "slug": "thinkahead",
     "ats": "lever"
@@ -988,6 +998,11 @@
     "site": "External"
   },
   {
+    "name": "Albert Bartlett",
+    "slug": "albert-bartlett",
+    "ats": "workable"
+  },
+  {
     "name": "Alberta Blue Cross",
     "slug": "abbluecross",
     "ats": "workday",
@@ -1072,6 +1087,13 @@
     "name": "Algolia",
     "slug": "algolia",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Aliaxis",
+    "slug": "aliaxis",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "aliaxis"
   },
   {
     "name": "Alibaba",
@@ -2605,6 +2627,11 @@
     "site": "aamc"
   },
   {
+    "name": "Assort Health",
+    "slug": "assorthealth",
+    "ats": "ashby"
+  },
+  {
     "name": "Assurant",
     "slug": "assurant",
     "ats": "workday",
@@ -2747,6 +2774,11 @@
   {
     "name": "Atlas",
     "slug": "atlas",
+    "ats": "ashby"
+  },
+  {
+    "name": "atlas",
+    "slug": "atlas-careers",
     "ats": "ashby"
   },
   {
@@ -20658,6 +20690,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Pattern",
+    "slug": "pattern",
+    "ats": "lever"
+  },
+  {
     "name": "Pattern Data",
     "slug": "patterndata",
     "ats": "greenhouse"
@@ -26288,7 +26325,7 @@
     "site": "CAREER_SITE_TC"
   },
   {
-    "name": "Tcs",
+    "name": "TCS",
     "slug": "tcs",
     "ats": "greenhouse"
   },
