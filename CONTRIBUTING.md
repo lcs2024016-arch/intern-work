@@ -29,6 +29,7 @@ src/intern_engine/
   pipeline.py              the run: fetch -> classify -> enrich -> store
   enrich.py                per-role detail fetch that fills in skills and pay
   health.py                circuit breaker that quarantines dead endpoints
+  linkcheck.py             re-checks open Apply links, removes 404s
   store.py                 the job store: first-seen, open/closed, retention
   trends.py                postings-per-week chart
   readme.py                renders README.md + data/internships.csv
@@ -91,6 +92,12 @@ flood the India list.
 | `allowlist_only` | `false` | keep only companies in the priority list |
 | `include_international` | `false` | keep roles outside the configured regions |
 | `company_filter` | `false` | restrict the README to `companies.txt` |
+| `list_sort` | `"date"` | order of a capped section: `date` (newest posting first) or `priority` (sought-after companies first) |
+| `link_check` | `true` | re-request open Apply links and remove the ones that are gone |
+| `link_check_budget` | `60` | Apply links re-requested per run |
+| `link_check_recheck_hours` | `24` | how long a link's verdict is trusted |
+| `link_check_strikes` | `2` | consecutive 404s before a role is removed (minimum 2) |
+| `link_check_confirm_hours` | `1` | delay before re-checking a link that already 404'd once |
 | `include_interndoor` | `true` | refresh InternDoor seeds on each discover. Left on so the seed list tracks new employers daily; the cached `data/interndoor_seeds.json` is still used whenever the feed is unreachable, so a third-party outage cannot break discovery. Unrelated to `connectors/interndoor.py`, which publishes InternDoor roles on every update run. |
 
 ## Environment
@@ -123,6 +130,7 @@ or dead. It writes to `logs/` and is not part of CI.
 | `data/companies.json` | the registry: every company and the ATS board it resolves to |
 | `data/jobs.json` | the job store, the source of truth for all output |
 | `data/health.json` | per-endpoint failure counts driving the circuit breaker |
+| `data/link_status.json` | last Apply-link check per open role: status, strikes, when |
 | `data/history.jsonl` | one line per run, for the dashboard sparkline |
 | `data/stats.json` | the latest run's metrics |
 | `data/interndoor_seeds.json` | cached InternDoor company seeds |

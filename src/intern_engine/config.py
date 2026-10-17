@@ -153,3 +153,56 @@ def include_interndoor(cfg: dict) -> bool:
     one-off refresh is enough to keep feeding the seed list.
     """
     return bool(cfg.get("include_interndoor", False))
+
+
+def list_sort(cfg: dict) -> str:
+    """Order a capped list of roles by.
+
+    "date" (the default) is strictly newest-posted first — what a reader wants
+    from a live list. "priority" floats the most sought-after companies to the
+    top of a capped section, keeping recency inside each prestige band; it was
+    the original behaviour and is kept as an opt-in for a deliberately curated
+    page, where hiding a Google role behind a limit is worse than hiding a
+    fresher one.
+    """
+    value = str(cfg.get("list_sort", "date")).lower()
+    return value if value in ("date", "priority") else "date"
+
+
+def link_check_enabled(cfg: dict) -> bool:
+    """Re-request open Apply links and remove the ones that are gone.
+
+    On by default: a dead link in a live list is the one failure the reader
+    always notices. The cost is bounded by link_check_budget per run.
+    """
+    return bool(cfg.get("link_check", True))
+
+
+def link_check_budget(cfg: dict) -> int:
+    """How many Apply links one run may re-request."""
+    return int(cfg.get("link_check_budget", 60))
+
+
+def link_check_recheck_hours(cfg: dict) -> int:
+    """How long a link's verdict is trusted before it is requested again.
+
+    With the default budget of 60 and an hourly run, every open role in the
+    list gets re-checked about once a day.
+    """
+    return int(cfg.get("link_check_recheck_hours", 24))
+
+
+def link_check_strikes(cfg: dict) -> int:
+    """Consecutive 404s needed before a role is removed. 2 = never trust one."""
+    return max(2, int(cfg.get("link_check_strikes", 2)))
+
+
+def link_check_confirm_hours(cfg: dict) -> int:
+    """Re-check delay for a link that already came back 404 once.
+
+    Much shorter than link_check_recheck_hours: the first 404 is not trusted,
+    so the second confirmation should land on the next hourly run rather than
+    the next day. A link that was merely blocked by a CDN clears its strike
+    immediately when it comes back 200.
+    """
+    return max(0, int(cfg.get("link_check_confirm_hours", 1)))

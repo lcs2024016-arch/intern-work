@@ -13,6 +13,11 @@
   "infer_undated": true,
   "infer_max_age_days": 45,
   "include_interndoor": true,
+  "list_sort": "date",
+  "link_check": true,
+  "link_check_budget": 60,
+  "link_check_recheck_hours": 24,
+  "link_check_strikes": 2,
   "section_limits": {
     "Summer 2027": 300,
     "Fall 2026": 150,

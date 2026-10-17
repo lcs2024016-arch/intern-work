@@ -117,6 +117,37 @@ class Net:
 
         raise httpx.HTTPError(f"request to {url} failed after retries")
 
+    async def probe(self, url: str, *, headers: dict | None = None) -> int | None:
+        """Ask only whether a page exists. Returns the status code, or None.
+
+        Unlike the other helpers this never raises: "could not tell" is a
+        first-class answer, because the caller (linkcheck) must treat a
+        timeout or a bot-block as an absence of evidence rather than as
+        evidence of absence. Used by the dead-link check, so it deliberately
+        does not retry — a retry storm against a rate-limiting CDN helps
+        nobody.
+        """
+        host = httpx.URL(url).host
+        sem = await self._limiter.acquire(host)
+
+        try:
+            async with sem:
+                response = await self._client.head(url, headers=headers, follow_redirects=True)
+        except (httpx.TransportError, httpx.TimeoutException):
+            return None
+
+        # Some CDNs answer HEAD with a flat 403/405 for a bot and serve the
+        # page fine to a GET. Ask properly before concluding anything.
+        if response.status_code in (403, 405, 501):
+            try:
+                async with sem:
+                    response = await self._client.get(
+                        url, headers=headers, follow_redirects=True
+                    )
+            except (httpx.TransportError, httpx.TimeoutException):
+                return None
+        return response.status_code
+
     async def fetch_html(self, url: str, *, needs_interaction: bool = False, check_robots: bool = False):
         """Fetch HTML, escalating from Tier 1 (httpx/Fetcher) to Tier 2/3 (Scrapling)."""
         host = httpx.URL(url).host

@@ -32,6 +32,7 @@ from . import (
     enrich,
     filters,
     health,
+    linkcheck,
     models,
     paths,
     quality,
@@ -376,6 +377,29 @@ async def _enrich_stage(results, net: Net, workday_net: Net):
             )
 
     compensation.save_cache()
+
+    # Dead Apply links.
+    #
+    # Second, independent signal on top of the fetch: a role disappears from
+    # the list when its company stops listing it, but only when that company's
+    # fetch succeeded — a quarantined or rate-limited board leaves its old rows
+    # looking open forever. Roles returned by THIS run are excluded outright,
+    # so a role whose own board just listed it can never be removed here.
+    seen_now = {j.id for j in kept}
+    stale_open = [
+        record
+        for jid, record in existing.items()
+        if record.get("is_open") and record.get("url") and jid not in seen_now
+    ]
+    dead_ids, links_checked, dead_strikes = await linkcheck.check_dead_links(
+        stale_open, net, workday_net
+    )
+    if dead_ids:
+        print(
+            f"  Dead Apply links: {len(dead_ids)} roles confirmed 404 "
+            f"({links_checked} links checked, {dead_strikes} 404s seen)."
+        )
+
     return (
         kept,
         succeeded,
@@ -385,6 +409,8 @@ async def _enrich_stage(results, net: Net, workday_net: Net):
         detail_fetches,
         no_year,
         offcycle,
+        dead_ids,
+        links_checked,
     )
 
 
@@ -487,6 +513,8 @@ def run_update() -> tuple[dict, dict, list[str]]:
         detail_fetches,
         dropped_no_year,
         dropped_offcycle,
+        dead_ids,
+        links_checked,
     ) = enrich_result
 
     for company, _jobs, error in results:
@@ -501,6 +529,21 @@ def run_update() -> tuple[dict, dict, list[str]]:
         rows.append(row)
 
     new_ids = store.upsert(existing, rows, succeeded, enriched_ids)
+
+    # Close roles whose Apply link is a confirmed 404. After upsert, and
+    # guarded on is_open, so a role the fetch already closed is not
+    # double-stamped and a dead link can never reopen anything.
+    closed_by_link = 0
+    if dead_ids:
+        ts = store.now_iso()
+        for jid in dead_ids:
+            record = existing.get(jid)
+            if record and record.get("is_open"):
+                record["is_open"] = False
+                record["closed_at"] = ts
+                record["closed_reason"] = "link_404"
+                closed_by_link += 1
+
     purged = store.purge(existing)
     store.save(paths.JOBS_PATH, existing)
 
@@ -542,6 +585,8 @@ def run_update() -> tuple[dict, dict, list[str]]:
         "enrichment_detail_fetches": detail_fetches,
         "purged_this_run": purged,
         "dates_repaired": dates_repaired,
+        "links_checked": links_checked,
+        "removed_dead_links": closed_by_link,
         "new_this_run": len(new_ids),
         "open_total": len(open_records),
         "detection_latency": _detection_latency(existing),

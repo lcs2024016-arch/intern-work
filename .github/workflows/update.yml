@@ -59,6 +59,7 @@ jobs:
             README.md \
             data/jobs.json data/internships.csv data/stats.json \
             data/health.json data/history.jsonl data/compensation_cache.json \
+            data/link_status.json \
             docs/index.html docs/feed.xml \
             docs/trends-light.svg docs/trends-dark.svg \
             docs/api/jobs.json docs/api/stats.json docs/api/companies.json; do

@@ -11,9 +11,13 @@ from . import config, paths
 
 
 def write_feed(store_data: dict) -> int:
-    """Write an Atom feed of open roles (newest-spotted first)."""
+    """Write an Atom feed of open roles, newest posted date first."""
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(key=lambda r: (r.get("first_seen_at", ""), _sort_key(r)), reverse=True)
+    # Same order as the README and the API: newest posted date first, undated
+    # roles below them, first_seen breaking ties. The feed used to lead with
+    # first_seen, which put a freshly-scraped three-month-old posting above
+    # everything actually posted this week.
+    open_jobs.sort(key=_sort_key, reverse=True)
     entries = open_jobs[:50]
 
     repo = config.repo_slug()

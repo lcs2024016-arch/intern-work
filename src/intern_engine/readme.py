@@ -147,7 +147,7 @@ def _sort_key(record: dict):
 
 
 def _select(records: list[dict], cfg: dict, label: str) -> list[dict]:
-    """Cap what a section shows, keeping the most sought-after companies first.
+    """Cap what a section shows, newest posted date first.
 
     Both caps live here rather than in the pipeline on purpose. The store is a
     record of what is actually open; trimming it at collection time would make
@@ -183,12 +183,15 @@ def _select(records: list[dict], cfg: dict, label: str) -> list[dict]:
     if not limit:
         return records
 
-    # Recency first, then let priority break ties between equally-fresh rows.
-    # Two stable sorts rather than one compound key, so the intent stays
-    # readable: sort by recency, then re-sort by rank while preserving recency
-    # order inside each rank band.
+    # Strictly newest posted date first, undated rows below dated ones.
+    # This used to re-sort by company prestige on top of recency, which meant
+    # a two-week-old Google role could sit above today's — a live list read
+    # that way is not sorted by date at all. The curated order is still
+    # available via `list_sort: "priority"` for anyone who wants it.
     scored = sorted(records, key=_sort_key, reverse=True)
-    scored.sort(key=lambda r: priority.rank(r.get("company", "")))
+    if config.list_sort(cfg) == "priority":
+        # Stable sort, so recency still orders the rows inside each band.
+        scored.sort(key=lambda r: priority.rank(r.get("company", "")))
     return scored[:limit]
 
 
@@ -410,8 +413,10 @@ def generate(store_data: dict, stats: dict | None = None) -> dict:
             "internships that match the scope, de-duplicates across sources, records "
             "each role's published date once so it never shifts, extracts the stack "
             "and any stated pay from the posting's own text, and regenerates this "
-            "page through GitHub Actions. Every link points at the company's own "
-            "posting. The full source is in this repo.",
+            "page through GitHub Actions. Every list below is sorted newest posting "
+            "first, and every Apply link is re-checked about once a day: a posting "
+            "that comes back 404 twice running is removed rather than left for you "
+            "to click. The full source is in this repo.",
             "",
             "Companies are found two ways: dataset mining for ATS tokens, and "
             "InternDoer's public feed used purely as a list of which employers are "

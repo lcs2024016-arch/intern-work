@@ -20,6 +20,7 @@ JOBS_PATH = os.path.join(DATA_DIR, "jobs.json")
 CSV_PATH = os.path.join(DATA_DIR, "internships.csv")
 STATS_PATH = os.path.join(DATA_DIR, "stats.json")
 HEALTH_PATH = os.path.join(DATA_DIR, "health.json")
+LINK_STATUS_PATH = os.path.join(DATA_DIR, "link_status.json")
 HISTORY_PATH = os.path.join(DATA_DIR, "history.jsonl")
 
 COMPENSATION_CACHE_PATH = os.path.join(DATA_DIR, "compensation_cache.json")
