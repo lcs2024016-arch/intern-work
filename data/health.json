@@ -1385,8 +1385,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/onlogic-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:openworks-engineering": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-17T13:31:45Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-10-17T16:51:53Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/openworks-engineering/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workable:optisigns-inc": {
