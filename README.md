@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/Companies-5431-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 17, 2026 at 00:10 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 05:19 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>90 open</kbd>
+## Summer 2027 (India) <kbd>95 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -60,6 +60,8 @@
 | | <sub>`data structures` `algorithms` `ai/ml` `full-stack projects`</sub> ||||||
 | **Vahan.ai** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | computer science | Bengaluru, Karnataka, India, On-site | Oct 14, 2026 | [Apply ↗](https://forms.gle/E2vKCnK6eojB6To9A) |
 | | <sub>`react` `node.js` `postgresql` `git`</sub> ||||||
+| **Vahan.ai** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | computer science | Bengaluru, Karnataka, India, On-site | Sep 17, 2026 | [Apply ↗](https://forms.gle/41wc4FuucfJPFNuc7) |
+| | <sub>`react` `node.js` `postgresql` `git`</sub> ||||||
 | **BNP Paribas** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Sep 25, 2026 | [Apply ↗](https://group.bnpparibas/en/careers/job-offer/data-science-intern-1?SRC=LINKEDIN) |
 | | <sub>`python` `tensorflow` `pytorch` `sklearn`</sub> ||||||
 | **NatWest Group** | AI ML Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/M.Tech | Bengaluru, Karnataka, India, On-site | Sep 29, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18289724-ai-ml-trainee-6-month-fixed-term-contract-2026-graduates?tm_job=R-00285898-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56) |
@@ -79,6 +81,11 @@
 | **Marvell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | **Valeo** | Software Intern <sup>~</sup> 🆕 | `Software` | — | Chennai | Oct 05, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899) |
 | | <sub>`matlab` `simulink` `embedded c` `autosar`</sub> ||||||
+| **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Pimpri Chinchwad, Maharashtra, India | Oct 16, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56676-2026?source=LinkedIn) |
+| | <sub>`java` `kotlin` `android` `google test framework`</sub> ||||||
+| **FynTune Solution Private Limited** | Junior PHP Developer Internship in Thane, Navi Mumbai, Mumbai <sup>~</sup> 🆕 | `Software` | — | Navi Mumbai, Maharashtra, India, On-s… | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1792128021/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
+| | <sub>`php` `laravel` `html` `css`</sub> ||||||
+| **BiteSpeed** | AI Video Creator Internship <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/ai-video-creator-internship-in-bangalore-at-bitespeed1792143876/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
 | **Volody** | Cloud Monitoring intern- Mumbai based only <sup>~</sup> 🆕 | `Software` | computer science/cybersecurity | Mumbai, Maharashtra, India, On-site | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477354757/) |
 | | <sub>`aws` `azure` `splunk` `microsoft sentinel`</sub> ||||||
 | **BiteSpeed** | AI Video Creator Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **₹20,000 / month** | Bengaluru, Karnataka, India | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4480332583/) |
@@ -106,6 +113,8 @@
 | | <sub>`c#` `c++` `java` `python`</sub> ||||||
 | **Carousell Group** | Android Engineer Intern - 6 months <sup>~</sup> | `Software` | — | Bengaluru, KA, India | Oct 14, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/carousellgroup/744000155411579) |
 | | <sub>`Kotlin`</sub> ||||||
+| **Volody** | Cloud Monitoring intern <sup>~</sup> 🆕 | `Software` | — | Mumbai, Maharashtra, India, On-site | Oct 13, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4476085759/) |
+| | <sub>`cloud platforms` `monitoring tools` `dashboards`</sub> ||||||
 | **Seagate Technology** | Software Development Intern <sup>~</sup> 🆕 | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 13, 2026 | [Apply ↗](https://seagatecareers.com/job/Pune-Intern-Software-Development/1439401300/?feedId=326100&utm_source=LinkedInJobPostings&utm_campaign=Seagate_LinkedIn&source=APPLICANT_SOURCE-3-387) |
 | | <sub>`c/c++` `python` `ci/cd` `docker`</sub> ||||||
 | **MKS Inc.** | Computer Science Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Gurgaon, Haryana, India, On-site | Oct 13, 2026 | [Apply ↗](https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/India-Gurgaon/XMLNAME-2027-Spring-Computer-Science-Engineer-Undergraduate-Intern_R20784) |
@@ -194,7 +203,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>27 open</kbd>
+## Summer 2027 (Remote) <kbd>23 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -222,18 +231,12 @@
 | | <sub>`python` `pytorch` `llms` `fine-tuning`</sub> ||||||
 | **Sony Research India** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **2,026** | Bengaluru, Karnataka, India, Remote | Oct 10, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478080141/) |
 | | <sub>`python` `pytorch` `tensorflow` `jax`</sub> ||||||
-| **Ancestry** | Machine Learning Engineer, Co-op <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 09, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
-| | <sub>`Python` `Java` `PyTorch` `TensorFlow`</sub> ||||||
 | **GuidePoint Security** | Application Security Intern - GPSU/NE <sup>~</sup> | `Other` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | | <sub>`Python` `Java` `JavaScript` `LLMs`</sub> ||||||
 | **GuidePoint Security** | AI &amp; Data Science Intern - GPSU/NE <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | | <sub>`Python` `Pandas` `LLMs`</sub> ||||||
 | **GuidePoint Security** | Cloud Infrastructure Intern - GPSU/NE <sup>~</sup> | `Software` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | | <sub>`Python` `LLMs` `AWS` `GCP`</sub> ||||||
-| **Ancestry** | AI Discovery Co-Op - Agentic Personalization <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 06, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| | <sub>`Python` `SQL` `PyTorch` `LLMs`</sub> ||||||
-| **Ancestry** | Postdoctoral Fellow, Applied AI <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 05, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380) |
-| | <sub>`Python` `LLMs` `Computer Vision` `AWS`</sub> ||||||
 | **Mitel Networks** | R&amp;D Intern (student) - iOS development <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply ↗](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
 | | <sub>`Python` `TypeScript` `JavaScript` `LLMs`</sub> ||||||
 | **Electronic Arts (EA)** | AI Full Stack Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 01, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn) |
@@ -243,8 +246,6 @@
 | **Adfluence Hub** | Generative AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | Computer Science/AI | Noida, Uttar Pradesh, India, Remote | Sep 30, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4473599825/) |
 | | <sub>`python` `llms` `apis` `git`</sub> ||||||
 | **Lean TECHniques** | Software Engineer Intern - Hybrid <sup>~</sup> | `Software` | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply ↗](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
-| **Ancestry** | Data Science - AI Document Understanding, Co-op <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Sep 16, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
-| | <sub>`Python` `LLMs` `AWS`</sub> ||||||
 | **Realm** | Software Engineer - Intern <sup>~</sup> | `Software` | B.Tech/BS | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | | <sub>`TypeScript` `TensorFlow` `LLMs` `Computer Vision`</sub> ||||||
 | **Pradrix** | AI / ML Engineer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Work From Home | — | [Apply ↗](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
@@ -255,12 +256,6 @@
 |---|---|---|---|---|---|:---:|
 | **Galaxy** | Off-Cycle Fall 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
 | | <sub>`Python` `C++` `Rust` `LLMs`</sub> ||||||
-
-## Term Unconfirmed (Remote) <kbd>1 open</kbd>
-
-| 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|---|:---:|
-| **GuidePoint Security** | GPSU Cybersecurity Spring Internship <sup>~</sup> | `Other` | B.Tech/BS | Remote | Aug 28, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 
 ## Term Unconfirmed (India) <kbd>1 open</kbd>
 
@@ -300,10 +295,15 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (128 of 141)._
 
 <details>
-<summary><strong>Recently closed</strong> — 128 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 133 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-17 |
+| Ancestry | AI Discovery Co-Op - Agentic Personalization | Summer 2027 | 2026-10-17 |
+| Ancestry | Data Science - AI Document Understanding, Co-op | Summer 2027 | 2026-10-17 |
+| Ancestry | Machine Learning Engineer, Co-op | Summer 2027 | 2026-10-17 |
+| Ancestry | Postdoctoral Fellow, Applied AI | Summer 2027 | 2026-10-17 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-16 |
@@ -324,11 +324,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (128 of
 | Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-10-15 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-15 |
 | Cushman &amp; Wakefield | Apprentice | Summer 2027 | 2026-10-15 |
-| Cushman &amp; Wakefield | EIC Apprentice | Summer 2027 | 2026-10-15 |
-| Cushman &amp; Wakefield | EIC Apprentice - Project Development Services, Gurgaon | Summer 2027 | 2026-10-15 |
-| Cushman &amp; Wakefield | EIC Apprentice - Project Development Services, Mumbai | Summer 2027 | 2026-10-15 |
-| Cushman &amp; Wakefield | EIC Apprentice - Valuations (Mumbai) | Summer 2027 | 2026-10-15 |
-| Deutsche Bank | Apprentice Role for Non-Technology hiring, NCT | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -345,7 +340,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,432 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,432 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 94% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
