@@ -13,21 +13,23 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-141-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5431-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-142-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5438-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 17, 2026 at 05:19 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 10:04 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>95 open</kbd>
+## Summer 2027 (India) <kbd>96 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Microsoft** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Multiple Locations, Multiple Location… | Sep 24, 2026 | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556917520) |
 | | <sub>`machine learning` `statistics`</sub> ||||||
+| **NVIDIA** | CPU Compiler Intern <sup>~</sup> 🆕 | `Software` | — | Pune City, Maharashtra, India, On-site | Oct 13, 2026 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin) |
+| | <sub>`c++` `gcc` `llvm`</sub> ||||||
 | **NVIDIA** | CPU Compiler Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 13, 2026 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin) |
 | | <sub>`c++` `compiler optimization` `gcc` `llvm`</sub> ||||||
 | **Nvidia** | System Software Intern <sup>~</sup> 🆕 | `Software` | B.Tech/M.Tech | India, Pune | Sep 16, 2026 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833) |
@@ -83,10 +85,10 @@
 | | <sub>`matlab` `simulink` `embedded c` `autosar`</sub> ||||||
 | **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Pimpri Chinchwad, Maharashtra, India | Oct 16, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56676-2026?source=LinkedIn) |
 | | <sub>`java` `kotlin` `android` `google test framework`</sub> ||||||
-| **FynTune Solution Private Limited** | Junior PHP Developer Internship in Thane, Navi Mumbai, Mumbai <sup>~</sup> 🆕 | `Software` | — | Navi Mumbai, Maharashtra, India, On-s… | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1792128021/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
+| **FynTune Solution Private Limited** | PHP Developer Intern <sup>~</sup> 🆕 | `Software` | — | Navi Mumbai, Maharashtra, India, On-s… | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1792128021/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
 | | <sub>`php` `laravel` `html` `css`</sub> ||||||
 | **BiteSpeed** | AI Video Creator Internship <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/ai-video-creator-internship-in-bangalore-at-bitespeed1792143876/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
-| **Volody** | Cloud Monitoring intern- Mumbai based only <sup>~</sup> 🆕 | `Software` | computer science/cybersecurity | Mumbai, Maharashtra, India, On-site | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477354757/) |
+| **Volody** | Cloud Monitoring intern <sup>~</sup> 🆕 | `Software` | computer science/cybersecurity | Mumbai, Maharashtra, India, On-site | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477354757/) |
 | | <sub>`aws` `azure` `splunk` `microsoft sentinel`</sub> ||||||
 | **BiteSpeed** | AI Video Creator Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **₹20,000 / month** | Bengaluru, Karnataka, India | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4480332583/) |
 | | <sub>`ai fundamentals` `ugc` `direct client interaction`</sub> ||||||
@@ -100,7 +102,7 @@
 | | <sub>`test execution` `defect tracking` `quality assurance` `web applications`</sub> ||||||
 | **Eli Lilly and Company** | Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | Statistics/Mathematics/Engineering/Computer Sciences | Bengaluru East, Karnataka, India, On-… | Oct 15, 2026 | [Apply ↗](https://careers.lilly.com/us/en/job/LILLUSR113282EXTERNALENUS/Intern-CI-A-Data-Analyst?utm_source=linkedin&utm_medium=phenom-feeds) |
 | | <sub>`sql` `powerbi` `databricks` `generative ai`</sub> ||||||
-| **Fluence** | Intern Engineer – Software Quality &amp; Automation <sup>~</sup> 🆕 | `Software` | — | India - Bangalore | Oct 15, 2026 | [Apply ↗](https://fluenceenergy.wd12.myworkdayjobs.com/en-US/fluenceenergy-jobs/job/India---Bangalore/Intern-Engineer---Software-Quality---Automation_JR101544) |
+| **Fluence** | Software Quality Intern <sup>~</sup> 🆕 | `Software` | — | India - Bangalore | Oct 15, 2026 | [Apply ↗](https://fluenceenergy.wd12.myworkdayjobs.com/en-US/fluenceenergy-jobs/job/India---Bangalore/Intern-Engineer---Software-Quality---Automation_JR101544) |
 | | <sub>`python` `javascript` `git` `jira`</sub> ||||||
 | **Volody** | Cloud Monitoring intern <sup>~</sup> 🆕 | `Software` | computer science/cybersecurity | Mumbai, Maharashtra, India, On-site | Oct 14, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4476636309/) |
 | | <sub>`aws` `azure` `splunk` `microsoft sentinel`</sub> ||||||
@@ -292,7 +294,7 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> 🆕 | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (128 of 141)._
+_~ = the title doesn't state a year; bucketed here from its posting date (129 of 142)._
 
 <details>
 <summary><strong>Recently closed</strong> — 133 roles taken down in the last 14 days</summary>
@@ -340,7 +342,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,432 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 94% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,439 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -356,7 +358,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,375 companies
+- **Applicant tracking systems** — 5,382 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies

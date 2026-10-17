@@ -2,7 +2,7 @@
   {
     "id": "interndoor:4480593313",
     "company": "FynTune Solution Private Limited",
-    "title": "Junior PHP Developer Internship in Thane, Navi Mumbai, Mumbai",
+    "title": "PHP Developer Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -135,7 +135,7 @@
   {
     "id": "interndoor:4477354757",
     "company": "Volody",
-    "title": "Cloud Monitoring intern- Mumbai based only",
+    "title": "Cloud Monitoring intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -530,7 +530,7 @@
   {
     "id": "interndoor:ats:workday:fluenceenergy:wd12:fluenceenergy-jobs:JR101544",
     "company": "Fluence",
-    "title": "Intern Engineer – Software Quality & Automation",
+    "title": "Software Quality Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -979,6 +979,33 @@
       "Kotlin"
     ],
     "source": "smartrecruiters",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4477940541",
+    "company": "NVIDIA",
+    "title": "CPU Compiler Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Pune City, Maharashtra, India, On-site",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin",
+    "posted_at": "2026-10-13",
+    "first_seen_at": "2026-10-17T10:04:25Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "c++",
+      "gcc",
+      "llvm"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
