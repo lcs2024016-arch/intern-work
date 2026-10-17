@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-148-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-147-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5438-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 17, 2026 at 16:51 UTC</em></p>
+  <p><em>Last updated: Oct 17, 2026 at 19:04 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>98 open</kbd>
+## Summer 2027 (India) <kbd>97 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -96,8 +96,6 @@
 | | <sub>`ai fundamentals` `ugc` `direct client interaction`</sub> ||||||
 | **Wayfair** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 16, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
 | | <sub>`python` `java` `c++` `sql`</sub> ||||||
-| **Novartis** | Intern AI &amp; Data Science <sup>~</sup> 🆕 | `Data &amp; ML/AI` | M.Tech/MS | Hyderabad (Office) | Oct 16, 2026 | [Apply ↗](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1) |
-| | <sub>`Python` `SQL` `LLMs` `AWS`</sub> ||||||
 | **Valency Networks Private Limited** | C++ Developer Intern <sup>~</sup> 🆕 | `Software` | — | Pune City, Maharashtra, India, On-site | Oct 15, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477060964/) |
 | | <sub>`c++` `object oriented programming` `data structures` `debugging`</sub> ||||||
 | **Volody** | Software tester intern <sup>~</sup> 🆕 | `Software` | Computer Science/Information Technology | Goregaon, Maharashtra, India, On-site | Oct 15, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477074268/) |
@@ -305,13 +303,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> 🆕 | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (135 of 148)._
+_~ = the title doesn't state a year; bucketed here from its posting date (134 of 147)._
 
 <details>
-<summary><strong>Recently closed</strong> — 129 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 130 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Novartis | Intern AI &amp; Data Science | Summer 2027 | 2026-10-17 |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-17 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
@@ -336,7 +335,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (135 of
 | Cushman &amp; Wakefield | EIC Apprentice | Summer 2027 | 2026-10-15 |
 | Cushman &amp; Wakefield | EIC Apprentice - Project Development Services, Gurgaon | Summer 2027 | 2026-10-15 |
 | Cushman &amp; Wakefield | EIC Apprentice - Project Development Services, Mumbai | Summer 2027 | 2026-10-15 |
-| Cushman &amp; Wakefield | EIC Apprentice - Valuations (Mumbai) | Summer 2027 | 2026-10-15 |
 
 </details>
 

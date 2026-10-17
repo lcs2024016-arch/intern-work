@@ -333,38 +333,6 @@
     "scope": "india"
   },
   {
-    "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
-    "company": "Novartis",
-    "title": "Intern AI & Data Science",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Hyderabad (Office)",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
-    "posted_at": "2026-10-16T00:00:00Z",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "M.Tech/MS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "LLMs",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Git",
-      "Spark"
-    ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
     "id": "greenhouse:wikimedia:8268853",
     "company": "Wikimedia Foundation",
     "title": "Software Engineering Internship Program (2027)",
