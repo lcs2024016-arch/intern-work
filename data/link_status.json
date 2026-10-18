@@ -29,6 +29,12 @@
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
   },
+  "interndoor:4467851191": {
+    "checked_at": "2026-10-18T12:25:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://signzy.keka.com/careers/jobdetails/134560"
+  },
   "interndoor:4468619421": {
     "checked_at": "2026-10-17T21:18:30Z",
     "status": 200,
@@ -94,6 +100,12 @@
     "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
+  },
+  "interndoor:ats:keka:signzy:138638": {
+    "checked_at": "2026-10-18T12:25:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://signzy.keka.com/careers/jobdetails/138638"
   },
   "interndoor:ats:workday:nvidia:wd5:NVIDIAExternalCareerSite:JR2025833": {
     "checked_at": "2026-10-17T21:18:30Z",
