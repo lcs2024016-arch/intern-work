@@ -7615,6 +7615,11 @@
     "site": "customersbankcareers"
   },
   {
+    "name": "CVector",
+    "slug": "cvector",
+    "ats": "workable"
+  },
+  {
     "name": "Cvent",
     "slug": "team-cvent",
     "ats": "smartrecruiters"
@@ -11214,6 +11219,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "G-20 Group",
+    "slug": "g-20-advisors-ag",
+    "ats": "workable"
+  },
+  {
     "name": "G-Research",
     "slug": "gresearch",
     "ats": "workday",
@@ -11263,6 +11273,11 @@
     "name": "gainsight",
     "slug": "gainsight",
     "ats": "ashby"
+  },
+  {
+    "name": "Galatea Associates",
+    "slug": "galatea-associates",
+    "ats": "lever"
   },
   {
     "name": "Galaxy",
@@ -15250,6 +15265,11 @@
     "site": "External_Career_Site"
   },
   {
+    "name": "Keycafe",
+    "slug": "keycafe",
+    "ats": "workable"
+  },
+  {
     "name": "Keyrock",
     "slug": "keyrock",
     "ats": "ashby"
@@ -16289,6 +16309,11 @@
     "name": "Livspace",
     "slug": "livspace",
     "ats": "lever"
+  },
+  {
+    "name": "LLNL",
+    "slug": "llnl",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Lloyds Bank",
@@ -23936,6 +23961,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ScientificGamesExternalCareers"
+  },
+  {
+    "name": "Scientific Systems",
+    "slug": "ssci",
+    "ats": "workable"
   },
   {
     "name": "Sciforium",
