@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5444-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 18, 2026 at 19:12 UTC</em></p>
+  <p><em>Last updated: Oct 18, 2026 at 22:12 UTC</em></p>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 | | <sub>`Python` `Java` `PyTorch` `TensorFlow`</sub> ||||||
 | **Marvell** | Intern, Software Engineer <sup>~</sup> | `Software` | B.Tech/BS | Hyderabad | Oct 15, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241) |
 | | <sub>`Python` `Kubernetes` `Linux`</sub> ||||||
-| **Bank of America** | Apprentice Software Developer <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Gurugram, Haryana, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations) |
+| **Bank of America** | Apprentice Software Developer <sup>~</sup> | `Software` | B.Tech/B.E | Gurugram, Haryana, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations) |
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
 | **Bank of America** | Apprentice Software Developer <sup>~</sup> | `Software` | B.Tech/B.E | Chennai, Tamil Nadu, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations) |
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
@@ -212,7 +212,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Rochester Regional Health** | RIT Co-op: Cybersecurity, Governance &amp; Risk <sup>~</sup> 🆕 | `Other` | B.Tech/BS | Riedman - Remote | Oct 16, 2026 | [Apply ↗](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1) |
+| **Rochester Regional Health** | RIT Co-op: Cybersecurity, Governance &amp; Risk <sup>~</sup> | `Other` | B.Tech/BS | Riedman - Remote | Oct 16, 2026 | [Apply ↗](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1) |
 | **Reveation Labs** | Software Engineer Intern <sup>~</sup> | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
 | | <sub>`wordpress` `html` `css` `javascript`</sub> ||||||
 | **TCS** | Python Developer trainee <sup>~</sup> | `Software` | — | Ahmedabad, Gujarat, India, Hybrid | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479114937/) |
@@ -308,7 +308,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (135 of 148)._
 
 <details>
-<summary><strong>Recently closed</strong> — 130 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 128 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
