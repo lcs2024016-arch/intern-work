@@ -1,5 +1,38 @@
 [
   {
+    "id": "interndoor:4479925956",
+    "company": "Jupiter Innovations Lab Inc.",
+    "title": "SDE Intern (AI)",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Delhi, India",
+    "url": "https://www.linkedin.com/jobs/view/4479925956/",
+    "posted_at": "2026-10-18",
+    "first_seen_at": "2026-10-18T19:12:54Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "python",
+      "react.js",
+      "next.js",
+      "typescript",
+      "langchain",
+      "langgraph",
+      "rest apis",
+      "github copilot",
+      "git"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:emp-3huken",
     "company": "Nestack Technologies Pvt Ltd",
     "title": "Software Developer Intern",

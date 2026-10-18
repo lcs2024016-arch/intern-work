@@ -13,19 +13,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-147-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-148-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5444-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 18, 2026 at 16:24 UTC</em></p>
+  <p><em>Last updated: Oct 18, 2026 at 19:12 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>97 open</kbd>
+## Summer 2027 (India) <kbd>98 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
+| | <sub>`python` `react.js` `next.js` `typescript`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Software Developer Intern <sup>~</sup> 🆕 | `Software` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 17, 2026 | [Apply ↗](https://neilp.nestack.ai/career/internship) |
 | | <sub>`python` `javascript` `react` `node.js`</sub> ||||||
 | **FynTune Solution Private Limited** | PHP Developer Intern <sup>~</sup> 🆕 | `Software` | — | Navi Mumbai, Maharashtra, India, On-s… | Oct 17, 2026 | [Apply ↗](https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1792128021/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership) |
@@ -58,7 +60,7 @@
 | | <sub>`Python` `Kubernetes` `Linux`</sub> ||||||
 | **Bank of America** | Apprentice Software Developer <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Gurugram, Haryana, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations) |
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
-| **Bank of America** | Apprentice Software Developer <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Chennai, Tamil Nadu, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations) |
+| **Bank of America** | Apprentice Software Developer <sup>~</sup> | `Software` | B.Tech/B.E | Chennai, Tamil Nadu, India, On-site | Oct 14, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations) |
 | | <sub>`python` `sql` `spark` `tableau`</sub> ||||||
 | **Volody** | Cloud Monitoring intern <sup>~</sup> | `Software` | computer science/cybersecurity | Mumbai, Maharashtra, India, On-site | Oct 14, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4476636309/) |
 | | <sub>`aws` `azure` `splunk` `microsoft sentinel`</sub> ||||||
@@ -211,7 +213,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Rochester Regional Health** | RIT Co-op: Cybersecurity, Governance &amp; Risk <sup>~</sup> 🆕 | `Other` | B.Tech/BS | Riedman - Remote | Oct 16, 2026 | [Apply ↗](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1) |
-| **Reveation Labs** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
+| **Reveation Labs** | Software Engineer Intern <sup>~</sup> | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
 | | <sub>`wordpress` `html` `css` `javascript`</sub> ||||||
 | **TCS** | Python Developer trainee <sup>~</sup> | `Software` | — | Ahmedabad, Gujarat, India, Hybrid | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479114937/) |
 | | <sub>`python` `sql` `mysql` `rest api`</sub> ||||||
@@ -219,7 +221,7 @@
 | | <sub>`python` `pytorch` `transformer` `git`</sub> ||||||
 | **Lexsi Labs** | AI Agent Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 16, 2026 | [Apply ↗](https://easyapply.jobs/r/FHXtGGF27qsSiF4oyfkH) |
 | | <sub>`python` `llms` `agent frameworks` `evaluation pipelines`</sub> ||||||
-| **Wikimedia Foundation** | Software Engineering Internship Program (2027) 🆕 | `Software` | B.Tech/BS | Remote | Oct 15, 2026 | [Apply ↗](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
+| **Wikimedia Foundation** | Software Engineering Internship Program (2027) | `Software` | B.Tech/BS | Remote | Oct 15, 2026 | [Apply ↗](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
 | | <sub>`Python` `JavaScript` `SQL` `Swift`</sub> ||||||
 | **IBM** | Software Developer Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Oct 14, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=134098&source=SN_LinkedIn) |
 | | <sub>`go` `java` `python` `github`</sub> ||||||
@@ -303,7 +305,7 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (134 of 147)._
+_~ = the title doesn't state a year; bucketed here from its posting date (135 of 148)._
 
 <details>
 <summary><strong>Recently closed</strong> — 130 roles taken down in the last 14 days</summary>
@@ -351,7 +353,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,445 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 93% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,445 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 93% of open roles · median detection lag 37.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
