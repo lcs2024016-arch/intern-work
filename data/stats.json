@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T12:25:18Z",
-  "duration_seconds": 425.1,
+  "generated_at": "2026-10-18T16:24:39Z",
+  "duration_seconds": 566.5,
   "companies_total": 5445,
   "companies_by_source": {
     "greenhouse": 1190,
@@ -31,15 +31,16 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 347,
-  "fetched_ok": 5089,
-  "fetch_errors": 9,
+  "quarantined": 272,
+  "fetched_ok": 5087,
+  "fetch_errors": 86,
   "errors_by_source": {
-    "workable": 7,
-    "ashby": 1,
-    "lever": 1
+    "bloomberg": 1,
+    "bytedance": 1,
+    "workable": 83,
+    "uber": 1
   },
-  "fetch_success_rate": 0.998,
+  "fetch_success_rate": 0.983,
   "roles_matched": 127,
   "roles_cycle_inferred": 115,
   "dropped_no_year_in_title": 0,
@@ -72,9 +73,9 @@
   "posted_date_coverage": 0.939,
   "enriched_this_run": 25,
   "enrichment_detail_fetches": 0,
-  "purged_this_run": 2,
+  "purged_this_run": 3,
   "dates_repaired": 0,
-  "links_checked": 2,
+  "links_checked": 0,
   "removed_dead_links": 0,
   "new_this_run": 0,
   "open_total": 147,
