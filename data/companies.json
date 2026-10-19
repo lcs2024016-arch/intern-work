@@ -12513,6 +12513,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Hackerrank",
+    "slug": "hackerrank",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Hadrian",
     "slug": "hadrian-automation",
     "ats": "ashby"
