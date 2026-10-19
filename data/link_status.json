@@ -1,10 +1,4 @@
 {
-  "greenhouse:cloudsek:6222340004": {
-    "checked_at": "2026-10-19T11:43:27Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
-  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-18T22:12:05Z",
     "status": 403,
@@ -29,12 +23,6 @@
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"
   },
-  "instahyre:sstpath:447008": {
-    "checked_at": "2026-10-19T05:38:05Z",
-    "status": 403,
-    "strikes": 0,
-    "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"
-  },
   "instahyre:truecaller:445808": {
     "checked_at": "2026-10-19T11:43:27Z",
     "status": 403,
@@ -48,7 +36,7 @@
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
   },
   "interndoor:4467851191": {
-    "checked_at": "2026-10-18T12:25:18Z",
+    "checked_at": "2026-10-19T18:07:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/134560"
@@ -64,6 +52,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
+  },
+  "interndoor:4472657639": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
   "interndoor:4476636309": {
     "checked_at": "2026-10-18T22:12:05Z",
@@ -113,6 +107,12 @@
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
   },
+  "interndoor:4479821514": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
+  },
   "interndoor:4479925956": {
     "checked_at": "2026-10-19T05:38:05Z",
     "status": 200,
@@ -125,17 +125,41 @@
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
+  "interndoor:ats:greenhouse:cloudsek:6222340004": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
+  },
   "interndoor:ats:keka:signzy:138638": {
-    "checked_at": "2026-10-18T12:25:18Z",
+    "checked_at": "2026-10-19T18:07:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/138638"
+  },
+  "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:124444": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444"
   },
   "interndoor:ats:workday:nvidia:wd5:NVIDIAExternalCareerSite:JR2025833": {
     "checked_at": "2026-10-18T22:12:05Z",
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
+  },
+  "workday:ag:/job/Bangalore-Area/Data-Science-Intern_JR10449781": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781"
+  },
+  "workday:ag:/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650": {
+    "checked_at": "2026-10-19T18:07:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650"
   },
   "ypatodkar:persona:persona_ashby_eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
     "checked_at": "2026-10-18T22:12:05Z",
