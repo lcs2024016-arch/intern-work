@@ -1,4 +1,10 @@
 {
+  "greenhouse:rubrik:8166537": {
+    "checked_at": "2026-10-19T05:38:05Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
+  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-18T22:12:05Z",
     "status": 403,
@@ -23,6 +29,12 @@
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"
   },
+  "instahyre:sstpath:447008": {
+    "checked_at": "2026-10-19T05:38:05Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"
+  },
   "interndoor:4466665437": {
     "checked_at": "2026-10-18T07:43:18Z",
     "status": 200,
@@ -42,7 +54,7 @@
     "url": "https://forms.gle/41wc4FuucfJPFNuc7"
   },
   "interndoor:4468839939": {
-    "checked_at": "2026-10-18T02:21:01Z",
+    "checked_at": "2026-10-19T05:38:05Z",
     "status": 200,
     "strikes": 0,
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
@@ -94,6 +106,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
+  },
+  "interndoor:4479925956": {
+    "checked_at": "2026-10-19T05:38:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.linkedin.com/jobs/view/4479925956/"
   },
   "interndoor:4480341989": {
     "checked_at": "2026-10-18T22:12:05Z",
