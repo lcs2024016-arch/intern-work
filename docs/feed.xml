@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-20T07:01:13Z</updated>
+  <updated>2026-10-20T12:30:52Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>ByteDance — Data Analyst Intern</title>
@@ -54,12 +54,6 @@
     <id>interndoor:4480958672</id>
     <updated>2026-10-19T11:43:28Z</updated>
     <summary>Gurugram, Haryana, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159854</id>
-    <updated>2026-10-19T11:43:28Z</updated>
-    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>AtkinsRéalis — Data Science Intern</title>
     <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>interndoor:4476455122</id>
     <updated>2026-10-16T13:13:51Z</updated>
     <summary>Gurgaon, Haryana, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>NVIDIA — CPU Compiler Intern</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin" rel="alternate"/>
+    <id>interndoor:4477940543</id>
+    <updated>2026-10-16T13:13:51Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>

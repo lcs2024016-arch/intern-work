@@ -23,14 +23,20 @@
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"
   },
+  "instahyre:sstpath:447008": {
+    "checked_at": "2026-10-20T12:30:52Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"
+  },
   "instahyre:truecaller:445808": {
-    "checked_at": "2026-10-19T11:43:27Z",
+    "checked_at": "2026-10-20T12:30:52Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/"
   },
   "interndoor:4466665437": {
-    "checked_at": "2026-10-19T11:43:27Z",
+    "checked_at": "2026-10-20T12:30:52Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
@@ -90,8 +96,8 @@
     "url": "https://www.linkedin.com/jobs/view/4477074268/"
   },
   "interndoor:4477354757": {
-    "checked_at": "2026-10-19T11:43:27Z",
-    "status": 200,
+    "checked_at": "2026-10-20T12:30:52Z",
+    "status": 429,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
   },
@@ -179,11 +185,11 @@
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
   },
-  "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1": {
-    "checked_at": "2026-10-20T07:01:13Z",
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com:159854": {
+    "checked_at": "2026-10-20T12:30:52Z",
     "status": 200,
     "strikes": 0,
-    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1"
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854"
   },
   "ypatodkar:persona:persona_ashby_eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
     "checked_at": "2026-10-20T01:30:08Z",

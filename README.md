@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-160-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5445-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-159-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5455-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 20, 2026 at 07:01 UTC</em></p>
+  <p><em>Last updated: Oct 20, 2026 at 12:30 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>111 open</kbd>
+## Summer 2027 (India) <kbd>110 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -39,8 +39,6 @@
 | **Konecranes** | AI Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune, in | Oct 19, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/Konecranes/744000156291609) |
 | | <sub>`python` `llms` `prompt engineering` `git`</sub> ||||||
 | **Marsh** | AI Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurugram, Haryana, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.marsh.com/global/en/job/R_365556/AI-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots) |
-| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854) |
-| | <sub>`Python` `Java` `C++`</sub> ||||||
 | **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | AtkinsRéalis - Corporate Office Banga… | Oct 19, 2026 | [Apply ↗](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
 | | <sub>`Python` `SQL` `Pandas` `Git`</sub> ||||||
 | **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
@@ -156,7 +154,7 @@
 | | <sub>`uft` `testng` `selenium` `maven`</sub> ||||||
 | **Siemens Gamesa** | Software Testing Intern <sup>~</sup> 🆕 | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, On-site | Oct 02, 2026 | [Apply ↗](https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE) |
 | | <sub>`python` `matlab` `git` `jira`</sub> ||||||
-| **Hackerrank** | Software Development Engineer Intern 🆕 | `Software` | B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply ↗](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
+| **HackerRank** | Software Development Engineer Intern 🆕 | `Software` | B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply ↗](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
 | **Honasa Consumer Ltd.** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Gurugram, Haryana, India | Oct 01, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4472919251/) |
 | | <sub>`python` `sql` `apis` `data pipelines`</sub> ||||||
 | **Marvell Technology** | Research Intern Physical AI GPU <sup>~</sup> | `Data &amp; ML/AI` | PhD/MTech by Research | Hyderabad | Oct 01, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) |
@@ -322,13 +320,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (147 of 160)._
+_~ = the title doesn't state a year; bucketed here from its posting date (146 of 159)._
 
 <details>
-<summary><strong>Recently closed</strong> — 130 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 127 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-20 |
 | Rochester Regional Health | RIT Co-op: Cybersecurity, Governance &amp; Risk | Summer 2027 | 2026-10-20 |
 | Tower Research Capital | Intern - AI/ML | Term Unconfirmed | 2026-10-20 |
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
@@ -353,7 +352,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (147 of
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-15 |
 | Alcon | Payroll-Apprentice | Summer 2027 | 2026-10-15 |
 | Baxter International | Apprentice, Trainee -Instructional Design &amp; E-Learning Development | Summer 2027 | 2026-10-15 |
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -370,7 +368,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,446 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,456 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -386,7 +384,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,389 companies
+- **Applicant tracking systems** — 5,399 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies
