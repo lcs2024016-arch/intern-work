@@ -131,6 +131,12 @@
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
   },
+  "interndoor:4479808070": {
+    "checked_at": "2026-10-20T17:46:11Z",
+    "status": 410,
+    "strikes": 1,
+    "url": "https://careers.lilly.com/us/en/job/LILLUSR113282EXTERNALENUS/Intern-CI-A-Data-Analyst?utm_source=linkedin&utm_medium=phenom-feeds"
+  },
   "interndoor:4479821514": {
     "checked_at": "2026-10-19T18:07:29Z",
     "status": 200,
@@ -184,12 +190,6 @@
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com:159854": {
-    "checked_at": "2026-10-20T12:30:52Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854"
   },
   "ypatodkar:persona:persona_ashby_eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
     "checked_at": "2026-10-20T01:30:08Z",
