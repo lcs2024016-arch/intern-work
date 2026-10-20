@@ -42,7 +42,7 @@
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
   },
   "interndoor:4467851191": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/134560"
@@ -60,7 +60,7 @@
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
   },
   "interndoor:4472657639": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
@@ -113,6 +113,12 @@
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin"
   },
+  "interndoor:4478619070": {
+    "checked_at": "2026-10-20T21:07:02Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
+  },
   "interndoor:4479506937": {
     "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
@@ -132,13 +138,13 @@
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
   },
   "interndoor:4479808070": {
-    "checked_at": "2026-10-20T17:46:11Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 410,
-    "strikes": 1,
+    "strikes": 2,
     "url": "https://careers.lilly.com/us/en/job/LILLUSR113282EXTERNALENUS/Intern-CI-A-Data-Analyst?utm_source=linkedin&utm_medium=phenom-feeds"
   },
   "interndoor:4479821514": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
@@ -162,7 +168,7 @@
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
   "interndoor:ats:greenhouse:cloudsek:6222340004": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
@@ -174,13 +180,13 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
   },
   "interndoor:ats:keka:signzy:138638": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/138638"
   },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:124444": {
-    "checked_at": "2026-10-19T18:07:29Z",
+    "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444"

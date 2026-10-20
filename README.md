@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5455-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 20, 2026 at 17:46 UTC</em></p>
+  <p><em>Last updated: Oct 20, 2026 at 21:07 UTC</em></p>
 </div>
 
 ---
@@ -28,6 +28,8 @@
 |---|---|---|---|---|---|:---:|
 | **ByteDance** | Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurgaon, Haryana, India | Oct 20, 2026 | [Apply ↗](https://joinbytedance.com/search/7654066732550785333) |
 | | <sub>`excel` `data analysis` `reporting`</sub> ||||||
+| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489760) |
+| | <sub>`cloud platform` `big data platform` `application development` `agile development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin) |
@@ -41,7 +43,7 @@
 | **Marsh** | AI Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurugram, Haryana, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.marsh.com/global/en/job/R_365556/AI-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots) |
 | **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | AtkinsRéalis - Corporate Office Banga… | Oct 19, 2026 | [Apply ↗](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
 | | <sub>`Python` `SQL` `Pandas` `Git`</sub> ||||||
-| **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
+| **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
 | | <sub>`python` `react.js` `next.js` `typescript`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Software Developer Intern <sup>~</sup> | `Software` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 17, 2026 | [Apply ↗](https://neilp.nestack.ai/career/internship) |
 | | <sub>`python` `javascript` `react` `node.js`</sub> ||||||
@@ -61,8 +63,6 @@
 | **Volody** | Software tester intern <sup>~</sup> | `Software` | Computer Science/Information Technology | Goregaon, Maharashtra, India, On-site | Oct 15, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4477074268/) |
 | | <sub>`test execution` `defect tracking` `quality assurance` `web applications`</sub> ||||||
 | **Honeywell Technologies** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Madurai, Tamil Nadu, India, On-site | Oct 15, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159740/?utm_medium=jobboard&utm_source=linkedin) |
-| **Eli Lilly and Company** | Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | Statistics/Mathematics/Engineering/Computer Sciences | Bengaluru East, Karnataka, India, On-… | Oct 15, 2026 | [Apply ↗](https://careers.lilly.com/us/en/job/LILLUSR113282EXTERNALENUS/Intern-CI-A-Data-Analyst?utm_source=linkedin&utm_medium=phenom-feeds) |
-| | <sub>`sql` `powerbi` `databricks` `generative ai`</sub> ||||||
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Oct 15, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin) |
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Honeywell Technologies** | Intern Bachelors AI Eng <sup>~</sup> | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, On-site | Oct 15, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159836/?utm_medium=jobboard&utm_source=linkedin) |
@@ -289,7 +289,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Galaxy** | Off-Cycle Fall 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
+| **Galaxy** | Off-Cycle 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
 | | <sub>`Python` `C++` `Rust` `LLMs`</sub> ||||||
 
 ## Global remote (US-based companies) <kbd>21 open</kbd>
@@ -323,10 +323,11 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (146 of 159)._
 
 <details>
-<summary><strong>Recently closed</strong> — 127 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 124 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Eli Lilly and Company | Data Analyst Intern | Summer 2027 | 2026-10-20 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-20 |
 | Rochester Regional Health | RIT Co-op: Cybersecurity, Governance &amp; Risk | Summer 2027 | 2026-10-20 |
 | Tower Research Capital | Intern - AI/ML | Term Unconfirmed | 2026-10-20 |
@@ -351,7 +352,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (146 of
 | Airbus | Internship - Digital Security | Summer 2027 | 2026-10-15 |
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-15 |
 | Alcon | Payroll-Apprentice | Summer 2027 | 2026-10-15 |
-| Baxter International | Apprentice, Trainee -Instructional Design &amp; E-Learning Development | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -368,7 +368,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,456 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,456 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
