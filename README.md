@@ -17,15 +17,17 @@
     <img src="https://img.shields.io/badge/Companies-5445-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 20, 2026 at 01:30 UTC</em></p>
+  <p><em>Last updated: Oct 20, 2026 at 07:01 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>110 open</kbd>
+## Summer 2027 (India) <kbd>111 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **ByteDance** | Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurgaon, Haryana, India | Oct 20, 2026 | [Apply ↗](https://joinbytedance.com/search/7654066732550785333) |
+| | <sub>`excel` `data analysis` `reporting`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin) |
@@ -229,13 +231,12 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>28 open</kbd>
+## Summer 2027 (Remote) <kbd>27 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Zycus** | SRE Intern <sup>~</sup> 🆕 | `Software` | **₹40,000 / month**<br>be/b.e | Mumbai, Maharashtra, India, Hybrid | Oct 19, 2026 | [Apply ↗](https://zycus.talismatic.com/jobs/J535JAQAI) |
 | | <sub>`python` `bash` `docker` `kubernetes`</sub> ||||||
-| **Rochester Regional Health** | RIT Co-op: Cybersecurity, Governance &amp; Risk <sup>~</sup> | `Other` | B.Tech/BS | Riedman - Remote | Oct 16, 2026 | [Apply ↗](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1) |
 | **Reveation Labs** | Software Engineer Intern <sup>~</sup> | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
 | | <sub>`wordpress` `html` `css` `javascript`</sub> ||||||
 | **TCS** | Python Developer trainee <sup>~</sup> | `Software` | — | Ahmedabad, Gujarat, India, Hybrid | Oct 16, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479114937/) |
@@ -324,10 +325,11 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (147 of 160)._
 
 <details>
-<summary><strong>Recently closed</strong> — 129 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 130 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Rochester Regional Health | RIT Co-op: Cybersecurity, Governance &amp; Risk | Summer 2027 | 2026-10-20 |
 | Tower Research Capital | Intern - AI/ML | Term Unconfirmed | 2026-10-20 |
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
@@ -352,7 +354,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (147 of
 | Alcon | Payroll-Apprentice | Summer 2027 | 2026-10-15 |
 | Baxter International | Apprentice, Trainee -Instructional Design &amp; E-Learning Development | Summer 2027 | 2026-10-15 |
 | CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-15 |
-| Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -369,7 +370,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,446 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,446 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

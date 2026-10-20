@@ -1,5 +1,32 @@
 [
   {
+    "id": "interndoor:4481528877",
+    "company": "ByteDance",
+    "title": "Data Analyst Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Gurgaon, Haryana, India",
+    "url": "https://joinbytedance.com/search/7654066732550785333",
+    "posted_at": "2026-10-20",
+    "first_seen_at": "2026-10-20T07:01:13Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "excel",
+      "data analysis",
+      "reporting"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4478619070",
     "company": "Cargill",
     "title": "Software Engineer Intern",
@@ -388,29 +415,6 @@
       "static code analysis"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
-    "company": "Rochester Regional Health",
-    "title": "RIT Co-op: Cybersecurity, Governance & Risk",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "Remote",
-    "location": "Riedman - Remote",
-    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
-    "posted_at": "2026-10-16T00:00:00Z",
-    "first_seen_at": "2026-10-16T21:58:25Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
-    "source": "workday",
     "scope": "india"
   },
   {
