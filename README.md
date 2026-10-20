@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/Companies-5445-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 19, 2026 at 22:11 UTC</em></p>
+  <p><em>Last updated: Oct 20, 2026 at 01:30 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>109 open</kbd>
+## Summer 2027 (India) <kbd>110 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -152,6 +152,8 @@
 | | <sub>`java` `sql` `rest apis` `spring`</sub> ||||||
 | **Kaleris** | Quality Assurance Engineer Intern <sup>~</sup> | `Software` | — | Chennai, Tamil Nadu, India, On-site | Oct 03, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Associate-Quality-Assurance-Engineer---Intern_R-100638?source=LinkedIn) |
 | | <sub>`uft` `testng` `selenium` `maven`</sub> ||||||
+| **Siemens Gamesa** | Software Testing Intern <sup>~</sup> 🆕 | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, On-site | Oct 02, 2026 | [Apply ↗](https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE) |
+| | <sub>`python` `matlab` `git` `jira`</sub> ||||||
 | **Hackerrank** | Software Development Engineer Intern 🆕 | `Software` | B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply ↗](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
 | **Honasa Consumer Ltd.** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Gurugram, Haryana, India | Oct 01, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4472919251/) |
 | | <sub>`python` `sql` `apis` `data pipelines`</sub> ||||||
@@ -291,13 +293,6 @@
 | **Galaxy** | Off-Cycle Fall 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
 | | <sub>`Python` `C++` `Rust` `LLMs`</sub> ||||||
 
-## Term Unconfirmed (India) <kbd>1 open</kbd>
-
-| 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|---|:---:|
-| **Tower Research Capital** | Intern - AI/ML <sup>~</sup> | `Data &amp; ML/AI` | — | Gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
-| | <sub>`Python` `SQL` `PyTorch` `TensorFlow`</sub> ||||||
-
 ## Global remote (US-based companies) <kbd>21 open</kbd>
 
 > Remote internships at US venture-backed companies. **Remote means remote within the employer's country** — nearly all of these are US-only and need US work authorisation. Listed separately so they are never mistaken for India-open roles.
@@ -333,6 +328,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (147 of
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Tower Research Capital | Intern - AI/ML | Term Unconfirmed | 2026-10-20 |
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
 | CloudSEK | SDE Intern - Backend | Summer 2027 | 2026-10-19 |
@@ -357,7 +353,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (147 of
 | Baxter International | Apprentice, Trainee -Instructional Design &amp; E-Learning Development | Summer 2027 | 2026-10-15 |
 | CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-15 |
 | Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-10-15 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -374,7 +369,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,446 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 22.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,446 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

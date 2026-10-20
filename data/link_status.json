@@ -1,24 +1,30 @@
 {
+  "greenhouse:towerresearchcapital:8143756": {
+    "checked_at": "2026-10-20T01:30:08Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
+  },
   "instahyre:algouniversity:444755": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/"
   },
   "instahyre:gameberrylabs:443500": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/"
   },
   "instahyre:pagarbook:439220": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/"
   },
   "instahyre:pradrix:445445": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"
@@ -42,7 +48,7 @@
     "url": "https://signzy.keka.com/careers/jobdetails/134560"
   },
   "interndoor:4468619421": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://forms.gle/41wc4FuucfJPFNuc7"
@@ -59,20 +65,26 @@
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
+  "interndoor:4474271196": {
+    "checked_at": "2026-10-20T01:30:08Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn"
+  },
   "interndoor:4476636309": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4476636309/"
   },
   "interndoor:4477060964": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4477060964/"
   },
   "interndoor:4477074268": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4477074268/"
@@ -84,25 +96,25 @@
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
   },
   "interndoor:4477940543": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin"
   },
   "interndoor:4479506937": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://forms.gle/E2vKCnK6eojB6To9A"
   },
   "interndoor:4479556508": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036898/apprentice-multiple-locations"
   },
   "interndoor:4479557486": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
@@ -120,7 +132,7 @@
     "url": "https://www.linkedin.com/jobs/view/4479925956/"
   },
   "interndoor:4480341989": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
@@ -130,6 +142,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
+  },
+  "interndoor:ats:greenhouse:towerresearchcapital:8143756": {
+    "checked_at": "2026-10-20T01:30:08Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
   },
   "interndoor:ats:keka:signzy:138638": {
     "checked_at": "2026-10-19T18:07:29Z",
@@ -144,13 +162,13 @@
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444"
   },
   "interndoor:ats:workday:nvidia:wd5:NVIDIAExternalCareerSite:JR2025833": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
   },
   "ypatodkar:persona:persona_ashby_eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
-    "checked_at": "2026-10-18T22:12:05Z",
+    "checked_at": "2026-10-20T01:30:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
