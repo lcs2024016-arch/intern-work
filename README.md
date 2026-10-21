@@ -13,21 +13,31 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-160-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5455-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-164-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5463-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 21, 2026 at 05:40 UTC</em></p>
+  <p><em>Last updated: Oct 21, 2026 at 10:58 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>109 open</kbd>
+## Summer 2027 (India) <kbd>113 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Flam** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478966954/) |
+| | <sub>`three.js` `webgl` `canvas api` `react`</sub> ||||||
+| **Revvity** | AI Applications DevOps Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Mumbai | Oct 21, 2026 | [Apply ↗](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766) |
+| | <sub>`LLMs` `AWS` `GCP` `Azure`</sub> ||||||
+| **Revvity** | Full-Stack AI Engineering Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Mumbai | Oct 21, 2026 | [Apply ↗](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768) |
+| | <sub>`Python` `LLMs` `Docker`</sub> ||||||
 | **ByteDance** | Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurgaon, Haryana, India | Oct 20, 2026 | [Apply ↗](https://joinbytedance.com/search/7654066732550785333) |
 | | <sub>`excel` `data analysis` `reporting`</sub> ||||||
+| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489904) |
+| | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
+| **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru East, Karnataka, India, On-… | Oct 19, 2026 | [Apply ↗](https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed) |
+| | <sub>`python` `sql` `pandas` `git`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489760) |
 | | <sub>`cloud platform` `big data platform` `application development` `agile development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
@@ -40,8 +50,6 @@
 | | <sub>`programming` `java` `ruby` `javascript`</sub> ||||||
 | **Konecranes** | AI Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune, in | Oct 19, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/Konecranes/744000156291609) |
 | | <sub>`python` `llms` `prompt engineering` `git`</sub> ||||||
-| **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | AtkinsRéalis - Corporate Office Banga… | Oct 19, 2026 | [Apply ↗](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
-| | <sub>`Python` `SQL` `Pandas` `Git`</sub> ||||||
 | **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
 | | <sub>`python` `react.js` `next.js` `typescript`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Software Developer Intern <sup>~</sup> | `Software` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 17, 2026 | [Apply ↗](https://neilp.nestack.ai/career/internship) |
@@ -321,13 +329,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (145 of 160)._
+_~ = the title doesn't state a year; bucketed here from its posting date (149 of 164)._
 
 <details>
 <summary><strong>Recently closed</strong> — 124 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
 | Marsh | AI Engineer Intern | Summer 2027 | 2026-10-21 |
 | Eli Lilly and Company | Data Analyst Intern | Summer 2027 | 2026-10-20 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-20 |
@@ -352,7 +361,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (145 of
 | Wabtec | Technician Apprentice | Summer 2027 | 2026-10-15 |
 | Acxiom | Intern - Commercial Financial Analyst | Summer 2027 | 2026-10-15 |
 | Airbus | Internship - Digital Security | Summer 2027 | 2026-10-15 |
-| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -369,7 +377,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,456 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 16.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,464 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 15.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -385,7 +393,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,399 companies
+- **Applicant tracking systems** — 5,407 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies

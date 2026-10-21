@@ -54,7 +54,7 @@
     "url": "https://forms.gle/41wc4FuucfJPFNuc7"
   },
   "interndoor:4468839939": {
-    "checked_at": "2026-10-20T07:01:13Z",
+    "checked_at": "2026-10-21T10:58:16Z",
     "status": 200,
     "strikes": 0,
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
@@ -66,7 +66,7 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
   "interndoor:4472859773": {
-    "checked_at": "2026-10-20T07:01:13Z",
+    "checked_at": "2026-10-21T10:58:16Z",
     "status": 403,
     "strikes": 0,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -114,7 +114,7 @@
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
   },
   "interndoor:4477895308": {
-    "checked_at": "2026-10-20T07:01:13Z",
+    "checked_at": "2026-10-21T10:58:16Z",
     "status": 200,
     "strikes": 0,
     "url": "https://joinbytedance.com/search/7656823895123446069"
@@ -130,6 +130,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
+  },
+  "interndoor:4478620039": {
+    "checked_at": "2026-10-21T10:58:16Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489760"
   },
   "interndoor:4479506937": {
     "checked_at": "2026-10-21T05:40:17Z",
@@ -156,7 +162,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4479925956": {
-    "checked_at": "2026-10-20T07:01:13Z",
+    "checked_at": "2026-10-21T10:58:16Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4479925956/"
@@ -167,15 +173,9 @@
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
-  "interndoor:4480958672": {
-    "checked_at": "2026-10-21T05:40:17Z",
-    "status": 410,
-    "strikes": 2,
-    "url": "https://careers.marsh.com/global/en/job/R_365556/AI-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots"
-  },
   "interndoor:4481216323": {
-    "checked_at": "2026-10-20T07:01:13Z",
-    "status": 403,
+    "checked_at": "2026-10-21T10:58:16Z",
+    "status": 200,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
@@ -208,6 +208,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
+  },
+  "workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210": {
+    "checked_at": "2026-10-21T10:58:16Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210"
   },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-21T05:40:17Z",
