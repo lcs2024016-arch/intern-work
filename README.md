@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-161-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-160-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5455-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 21, 2026 at 00:21 UTC</em></p>
+  <p><em>Last updated: Oct 21, 2026 at 05:40 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>110 open</kbd>
+## Summer 2027 (India) <kbd>109 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -40,7 +40,6 @@
 | | <sub>`programming` `java` `ruby` `javascript`</sub> ||||||
 | **Konecranes** | AI Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune, in | Oct 19, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/Konecranes/744000156291609) |
 | | <sub>`python` `llms` `prompt engineering` `git`</sub> ||||||
-| **Marsh** | AI Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurugram, Haryana, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.marsh.com/global/en/job/R_365556/AI-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots) |
 | **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | AtkinsRéalis - Corporate Office Banga… | Oct 19, 2026 | [Apply ↗](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
 | | <sub>`Python` `SQL` `Pandas` `Git`</sub> ||||||
 | **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
@@ -219,7 +218,7 @@
 | | <sub>`machine learning`</sub> ||||||
 | **Tower Research Capital** | AI/ML Intern | `Data &amp; ML/AI` | PhD | gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
-| **Truecaller** | Developer Relations Intern <sup>~</sup> 🆕 | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
+| **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
 | **SSTPath** | Angular Developer - Intern <sup>~</sup> | `Software` | — | Bangalore,Hyderabad | — | [Apply ↗](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
 | **induslabs** | Machine Learning Internship <sup>~</sup> | `Data &amp; ML/AI` | **₹60,000/monthly** | Noida | — | [Apply ↗](https://unstop.com/internships/machine-learning-internship-induslabs-1619940) |
 | **Other organization not listed here** | Software Engineering Internship <sup>~</sup> | `Software` | **₹50,000/annually** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-branch-international-1144712) |
@@ -322,13 +321,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (146 of 161)._
+_~ = the title doesn't state a year; bucketed here from its posting date (145 of 160)._
 
 <details>
-<summary><strong>Recently closed</strong> — 123 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 124 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marsh | AI Engineer Intern | Summer 2027 | 2026-10-21 |
 | Eli Lilly and Company | Data Analyst Intern | Summer 2027 | 2026-10-20 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-20 |
 | Rochester Regional Health | RIT Co-op: Cybersecurity, Governance &amp; Risk | Summer 2027 | 2026-10-20 |
@@ -353,7 +353,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (146 of
 | Acxiom | Intern - Commercial Financial Analyst | Summer 2027 | 2026-10-15 |
 | Airbus | Internship - Digital Security | Summer 2027 | 2026-10-15 |
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-15 |
-| Alcon | Payroll-Apprentice | Summer 2027 | 2026-10-15 |
 
 </details>
 
