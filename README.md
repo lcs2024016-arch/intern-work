@@ -13,11 +13,11 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-159-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-161-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5455-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 20, 2026 at 21:07 UTC</em></p>
+  <p><em>Last updated: Oct 21, 2026 at 00:21 UTC</em></p>
 </div>
 
 ---
@@ -292,12 +292,14 @@
 | **Galaxy** | Off-Cycle 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
 | | <sub>`Python` `C++` `Rust` `LLMs`</sub> ||||||
 
-## Global remote (US-based companies) <kbd>21 open</kbd>
+## Global remote (US-based companies) <kbd>23 open</kbd>
 
 > Remote internships at US venture-backed companies. **Remote means remote within the employer's country** — nearly all of these are US-only and need US work authorisation. Listed separately so they are never mistaken for India-open roles.
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Skydio** | Embedded Software Engineer Intern - Winer 2027 🆕 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34) |
+| **Skydio** | Mobile Software Engineer Intern - Summer 2027 🆕 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
 | **Skydio** | Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) |
 | **Skydio** | Embedded Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260) |
 | **Semgrep** | Software Engineer Intern <sup>~</sup> | `Software` | **USD 45,000–115,000 / year** | Remote | Oct 08, 2026 | [Apply ↗](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
@@ -320,10 +322,10 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (146 of 159)._
+_~ = the title doesn't state a year; bucketed here from its posting date (146 of 161)._
 
 <details>
-<summary><strong>Recently closed</strong> — 124 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 123 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -368,7 +370,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,456 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 93% of open roles · median detection lag 18.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,456 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 93% of open roles · median detection lag 16.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

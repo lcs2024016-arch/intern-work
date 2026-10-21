@@ -71,6 +71,12 @@
     "strikes": 0,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
   },
+  "interndoor:4472919251": {
+    "checked_at": "2026-10-21T00:21:19Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.linkedin.com/jobs/view/4472919251/"
+  },
   "interndoor:4474271196": {
     "checked_at": "2026-10-20T01:30:08Z",
     "status": 403,
@@ -137,12 +143,6 @@
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
   },
-  "interndoor:4479808070": {
-    "checked_at": "2026-10-20T21:07:02Z",
-    "status": 410,
-    "strikes": 2,
-    "url": "https://careers.lilly.com/us/en/job/LILLUSR113282EXTERNALENUS/Intern-CI-A-Data-Analyst?utm_source=linkedin&utm_medium=phenom-feeds"
-  },
   "interndoor:4479821514": {
     "checked_at": "2026-10-20T21:07:02Z",
     "status": 200,
@@ -160,6 +160,12 @@
     "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
+  },
+  "interndoor:4480958672": {
+    "checked_at": "2026-10-21T00:21:19Z",
+    "status": 410,
+    "strikes": 1,
+    "url": "https://careers.marsh.com/global/en/job/R_365556/AI-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots"
   },
   "interndoor:4481216323": {
     "checked_at": "2026-10-20T07:01:13Z",
@@ -202,5 +208,11 @@
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
+  },
+  "ypatodkar:quadric:quadric_ashby_cb79384e-5dd8-49a0-a075-549e7285316c": {
+    "checked_at": "2026-10-21T00:21:19Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c"
   }
 }
