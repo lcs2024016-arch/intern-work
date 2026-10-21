@@ -89,6 +89,12 @@
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4475580374/"
   },
+  "interndoor:4475816470": {
+    "checked_at": "2026-10-21T19:54:34Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-560058/1370464655/?feedId=361555&utm_source=linkedin"
+  },
   "interndoor:4476636309": {
     "checked_at": "2026-10-21T05:40:17Z",
     "status": 200,
@@ -130,6 +136,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489904"
+  },
+  "interndoor:4478612369": {
+    "checked_at": "2026-10-21T19:54:34Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489616"
   },
   "interndoor:4478619070": {
     "checked_at": "2026-10-20T21:07:02Z",
@@ -179,6 +191,12 @@
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
+  "interndoor:4480971808": {
+    "checked_at": "2026-10-21T19:54:34Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
+  },
   "interndoor:4481216323": {
     "checked_at": "2026-10-21T10:58:16Z",
     "status": 200,
@@ -220,12 +238,6 @@
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
-  },
-  "unstop:machine-learning:1619940": {
-    "checked_at": "2026-10-21T15:51:12Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://unstop.com/internships/machine-learning-internship-induslabs-1619940"
   },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-21T05:40:17Z",

@@ -13,27 +13,29 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-172-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-176-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5463-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 21, 2026 at 15:51 UTC</em></p>
+  <p><em>Last updated: Oct 21, 2026 at 19:54 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>119 open</kbd>
+## Summer 2027 (India) <kbd>123 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Honeywell** | Intern Bachelors Embedded Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Hyderabad, Telangana, India | Oct 21, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858) |
-| | <sub>`C++`</sub> ||||||
-| **Bugsmirror** | Flutter Developer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/B.E. | Indore, Madhya Pradesh, India | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478993872/) |
-| | <sub>`flutter` `dart` `rest apis` `git`</sub> ||||||
+| **Wayfair** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 21, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
+| | <sub>`python` `java` `c++` `sql`</sub> ||||||
 | **eSec Forte® Technologies** | Application Security Trainee <sup>~</sup> 🆕 | `Other` | — | Gurugram, Haryana, India, On-site | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4468558804/) |
 | | <sub>`checkmarx` `sast` `dast` `threat modeling`</sub> ||||||
 | **DigiPlus IT** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E./B.Tech | Borivali, Maharashtra, India | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478984742/) |
 | | <sub>`node.js` `typescript` `react.js` `aws`</sub> ||||||
+| **Bugsmirror** | Flutter Developer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/B.E. | Indore, Madhya Pradesh, India | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478993872/) |
+| | <sub>`flutter` `dart` `rest apis` `git`</sub> ||||||
+| **Honeywell** | Intern Bachelors Embedded Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Hyderabad, Telangana, India | Oct 21, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858) |
+| | <sub>`C++`</sub> ||||||
 | **Flam** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478966954/) |
 | | <sub>`three.js` `webgl` `canvas api` `react`</sub> ||||||
 | **Revvity** | AI Applications DevOps Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Mumbai | Oct 21, 2026 | [Apply ↗](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766) |
@@ -42,6 +44,8 @@
 | | <sub>`Python` `LLMs` `Docker`</sub> ||||||
 | **ByteDance** | Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurgaon, Haryana, India | Oct 20, 2026 | [Apply ↗](https://joinbytedance.com/search/7654066732550785333) |
 | | <sub>`excel` `data analysis` `reporting`</sub> ||||||
+| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489536) |
+| | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489616) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489904) |
@@ -52,13 +56,13 @@
 | | <sub>`cloud platform` `big data platform` `application development` `agile development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
-| **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin) |
+| **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Wayfair** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
+| **Wayfair** | Software Engineer Intern <sup>~</sup> | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
 | | <sub>`python` `java` `c++` `sql`</sub> ||||||
-| **Stripe** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | Bachelor&#x27;s/Master&#x27;s | Bengaluru | Oct 19, 2026 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
+| **Stripe** | Software Engineer Intern <sup>~</sup> | `Software` | Bachelor&#x27;s/Master&#x27;s | Bengaluru | Oct 19, 2026 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
 | | <sub>`programming` `java` `ruby` `javascript`</sub> ||||||
-| **Konecranes** | AI Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune, in | Oct 19, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/Konecranes/744000156291609) |
+| **Konecranes** | AI Trainee <sup>~</sup> | `Data &amp; ML/AI` | — | Pune, in | Oct 19, 2026 | [Apply ↗](https://jobs.smartrecruiters.com/Konecranes/744000156291609) |
 | | <sub>`python` `llms` `prompt engineering` `git`</sub> ||||||
 | **Jupiter Innovations Lab Inc.** | SDE Intern (AI) <sup>~</sup> | `Data &amp; ML/AI` | — | Delhi, India | Oct 18, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4479925956/) |
 | | <sub>`python` `react.js` `next.js` `typescript`</sub> ||||||
@@ -122,6 +126,8 @@
 | **Fujitsu** | AI Apprentice <sup>~</sup> | `Data &amp; ML/AI` | — | Pune/Pimpri-Chinchwad Area, On-site | Oct 13, 2026 | [Apply ↗](https://www.jobs.global.fujitsu.com/job/GDU-AIP-AI-Apprentice/12893-en_US) |
 | | <sub>`python` `react` `typescript` `aws`</sub> ||||||
 | **Scopely** | Intern - QA Engineer - Royal Lounge Casino <sup>~</sup> | `Software` | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
+| **Decentro** | Software Developer Intern <sup>~</sup> 🆕 | `Software` | **$2,020** | BANGALORE, KA, India | Oct 12, 2026 | [Apply ↗](https://decentro.keka.com/careers/jobdetails/26116) |
+| | <sub>`python` `flask` `git`</sub> ||||||
 | **Setu** | Infosec Intern <sup>~</sup> | `Other` | — | Bengaluru, Karnataka, India, On-site | Oct 12, 2026 | [Apply ↗](https://forms.gle/nYnHp6Rn8SQg1W4K9) |
 | | <sub>`iso 27001` `soc2` `pci dss` `rbi guidelines`</sub> ||||||
 | **Vecmocon** | Software Quality Assurance Intern <sup>~</sup> | `Software` | — | Noida, UP, India | Oct 12, 2026 | [Apply ↗](https://vecmocon.keka.com/careers/jobdetails/166181) |
@@ -215,9 +221,9 @@
 | | <sub>`python` `llms` `apis` `langchain`</sub> ||||||
 | **Noise** | QA Intern <sup>~</sup> | `Other` | — | Gurugram, Haryana, India, On-site | Sep 22, 2026 | [Apply ↗](https://gonoise.freshteam.com/jobs/-hs4EpEaiVCR/intern-qa?ft_source=2000003042&ft_medium=2000008269) |
 | | <sub>`appium` `jira` `postman` `sql`</sub> ||||||
-| **Hevo Data** | Software Development Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech | Bangalore, India, onsite | Sep 21, 2026 | [Apply ↗](https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a) |
+| **Hevo Data** | Software Development Engineer Intern <sup>~</sup> | `Software` | B.Tech | Bangalore, India, onsite | Sep 21, 2026 | [Apply ↗](https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a) |
 | | <sub>`java` `typescript` `python` `rest apis`</sub> ||||||
-| **Hevo Data** | Associate Software Development Engineer (SDE) Intern <sup>~</sup> 🆕 | `Software` | 0-1 Yr | Bangalore, India | Sep 21, 2026 | [Apply ↗](https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a) |
+| **Hevo Data** | Associate Software Development Engineer (SDE) Intern <sup>~</sup> | `Software` | 0-1 Yr | Bangalore, India | Sep 21, 2026 | [Apply ↗](https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a) |
 | | <sub>`Python` `Java` `TypeScript`</sub> ||||||
 | **Monotype** | Information Security Trainee <sup>~</sup> | `Other` | — | Noida | Sep 21, 2026 | [Apply ↗](https://monotype.wd1.myworkdayjobs.com/en-US/Monotype/job/Noida/Information-Security-Trainee_R0004875) |
 | | <sub>`aws`</sub> ||||||
@@ -242,6 +248,7 @@
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
 | **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
 | **SSTPath** | Angular Developer - Intern <sup>~</sup> | `Software` | — | Bangalore,Hyderabad | — | [Apply ↗](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
+| **induslabs** | Machine Learning Internship <sup>~</sup> | `Data &amp; ML/AI` | **₹60,000/monthly** | Noida | — | [Apply ↗](https://unstop.com/internships/machine-learning-internship-induslabs-1619940) |
 | **Other organization not listed here** | Software Engineering Internship <sup>~</sup> | `Software` | **₹50,000/annually** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-branch-international-1144712) |
 | **Caspian** | Software Engineering Internship <sup>~</sup> | `Software` | **₹100,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-caspian-1724547) |
 | **Brava** | Software Engineering Internship - Founder&#x27;s Office <sup>~</sup> | `Software` | **₹50,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-founders-office-brava-1763808) |
@@ -253,11 +260,11 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Electronic Arts (EA)** | Java Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 21, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215938?source=LinkedIn) |
-| | <sub>`java` `scala` `docker` `git`</sub> ||||||
 | **Electronic Arts (EA)** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 21, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=LinkedIn) |
 | | <sub>`python` `tensorflow` `pytorch` `aws`</sub> ||||||
-| **Zycus** | SRE Intern <sup>~</sup> 🆕 | `Software` | **₹40,000 / month**<br>be/b.e | Mumbai, Maharashtra, India, Hybrid | Oct 19, 2026 | [Apply ↗](https://zycus.talismatic.com/jobs/J535JAQAI) |
+| **Electronic Arts (EA)** | Java Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 21, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215938?source=LinkedIn) |
+| | <sub>`java` `scala` `docker` `git`</sub> ||||||
+| **Zycus** | SRE Intern <sup>~</sup> | `Software` | **₹40,000 / month**<br>be/b.e | Mumbai, Maharashtra, India, Hybrid | Oct 19, 2026 | [Apply ↗](https://zycus.talismatic.com/jobs/J535JAQAI) |
 | | <sub>`python` `bash` `docker` `kubernetes`</sub> ||||||
 | **Reveation Labs** | Software Engineer Intern <sup>~</sup> | `Software` | — | India, Remote | Oct 16, 2026 | [Apply ↗](https://forms.cloud.microsoft/r/mgB2KErZN3) |
 | | <sub>`wordpress` `html` `css` `javascript`</sub> ||||||
@@ -346,14 +353,13 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (157 of 172)._
+_~ = the title doesn't state a year; bucketed here from its posting date (161 of 176)._
 
 <details>
-<summary><strong>Recently closed</strong> — 122 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 121 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| induslabs | Machine Learning Internship | Summer 2027 | 2026-10-21 |
 | AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
 | Marsh | AI Engineer Intern | Summer 2027 | 2026-10-21 |
 | Eli Lilly and Company | Data Analyst Intern | Summer 2027 | 2026-10-20 |
@@ -378,6 +384,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (157 of
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-15 |
 | Wabtec | Technician Apprentice | Summer 2027 | 2026-10-15 |
 | Acxiom | Intern - Commercial Financial Analyst | Summer 2027 | 2026-10-15 |
+| Airbus | Internship - Digital Security | Summer 2027 | 2026-10-15 |
 
 </details>
 

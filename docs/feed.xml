@@ -4,32 +4,14 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-21T15:51:12Z</updated>
+  <updated>2026-10-21T19:54:34Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Honeywell — Intern Bachelors Embedded Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159858</id>
-    <updated>2026-10-21T15:51:12Z</updated>
-    <summary>Hyderabad, Telangana, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Bugsmirror — Flutter Developer Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4478993872/" rel="alternate"/>
-    <id>interndoor:4478993872</id>
-    <updated>2026-10-21T15:51:12Z</updated>
-    <summary>Indore, Madhya Pradesh, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Electronic Arts (EA) — Java Software Engineer Intern</title>
-    <link href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215938?source=LinkedIn" rel="alternate"/>
-    <id>interndoor:4479406191</id>
-    <updated>2026-10-21T15:51:12Z</updated>
-    <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Electronic Arts (EA) — Data Science Intern</title>
-    <link href="https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=LinkedIn" rel="alternate"/>
-    <id>interndoor:4479404245</id>
-    <updated>2026-10-21T15:51:12Z</updated>
-    <summary>Hyderabad, Telangana, India, Hybrid · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Wayfair — Software Engineer Intern</title>
+    <link href="https://wayfair.avature.net/en_US/careers?folderId=20829&amp;src=LinkedIn_Job_Slots" rel="alternate"/>
+    <id>interndoor:4482127709</id>
+    <updated>2026-10-21T19:54:34Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>eSec Forte® Technologies — Application Security Trainee</title>
     <link href="https://www.linkedin.com/jobs/view/4468558804/" rel="alternate"/>
@@ -42,6 +24,30 @@
     <id>interndoor:4478984742</id>
     <updated>2026-10-21T15:51:12Z</updated>
     <summary>Borivali, Maharashtra, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Bugsmirror — Flutter Developer Intern</title>
+    <link href="https://www.linkedin.com/jobs/view/4478993872/" rel="alternate"/>
+    <id>interndoor:4478993872</id>
+    <updated>2026-10-21T15:51:12Z</updated>
+    <summary>Indore, Madhya Pradesh, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Electronic Arts (EA) — Data Science Intern</title>
+    <link href="https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=LinkedIn" rel="alternate"/>
+    <id>interndoor:4479404245</id>
+    <updated>2026-10-21T15:51:12Z</updated>
+    <summary>Hyderabad, Telangana, India, Hybrid · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Electronic Arts (EA) — Java Software Engineer Intern</title>
+    <link href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215938?source=LinkedIn" rel="alternate"/>
+    <id>interndoor:4479406191</id>
+    <updated>2026-10-21T15:51:12Z</updated>
+    <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Intern Bachelors Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159858</id>
+    <updated>2026-10-21T15:51:12Z</updated>
+    <summary>Hyderabad, Telangana, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Flam — Software Engineering Intern</title>
     <link href="https://www.linkedin.com/jobs/view/4478966954/" rel="alternate"/>
@@ -78,6 +84,12 @@
     <id>interndoor:4481528877</id>
     <updated>2026-10-20T07:01:13Z</updated>
     <summary>Gurgaon, Haryana, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cargill — Software Engineer Intern</title>
+    <link href="https://careers.cargill.com/en/job/-/-/23251/102151489536" rel="alternate"/>
+    <id>interndoor:4478618163</id>
+    <updated>2026-10-21T19:54:34Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Cargill — Software Engineer Intern</title>
     <link href="https://careers.cargill.com/en/job/-/-/23251/102151489616" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>interndoor:4478448455</id>
     <updated>2026-10-16T13:13:51Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Tech Snap — Cloud &amp; DevOps Intern</title>
-    <link href="https://techsnap.in/jobs/devops-cloud-intern-cloudscale" rel="alternate"/>
-    <id>interndoor:4478806863</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>India, Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Tech Snap — Frontend Engineering Intern</title>
-    <link href="https://techsnap.in/jobs/fresher-frontend-intern-bizwise" rel="alternate"/>
-    <id>interndoor:4478813731</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>India, Remote · Software · Summer 2027</summary>
   </entry>
 </feed>
