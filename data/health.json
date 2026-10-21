@@ -394,11 +394,6 @@
     "last_attempt_at": "2026-10-19T18:07:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
-  "greenhouse:andurilindustries": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-21T19:54:34Z",
-    "last_error": "ReadTimeout: "
-  },
   "greenhouse:apna": {
     "consecutive_failures": 32,
     "last_attempt_at": "2026-10-19T18:07:29Z",
@@ -670,8 +665,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/mqreferrals/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:nasdaq": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-21T19:54:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-21T23:00:38Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/nasdaq/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ola": {

@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5463-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 21, 2026 at 19:54 UTC</em></p>
+  <p><em>Last updated: Oct 21, 2026 at 23:00 UTC</em></p>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 | | <sub>`python` `sql` `pandas` `git`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489760) |
 | | <sub>`cloud platform` `big data platform` `application development` `agile development`</sub> ||||||
-| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
+| **Cargill** | Software Engineer Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489680) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin) |
 | | <sub>`java` `python` `c++`</sub> ||||||
@@ -356,7 +356,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (161 of 176)._
 
 <details>
-<summary><strong>Recently closed</strong> — 121 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 119 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -401,7 +401,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,464 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 15.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,464 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 94% of open roles · median detection lag 15.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
