@@ -1,5 +1,30 @@
 [
   {
+    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer Bachelor's Degree",
+    "season": "Summer 2027",
+    "season_inferred": false,
+    "category": "Software",
+    "region": "India",
+    "location": "Bangalore",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
+    "posted_at": "2026-10-22T00:00:00Z",
+    "first_seen_at": "2026-10-22T06:57:49Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python"
+    ],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4482127709",
     "company": "Wayfair",
     "title": "Software Engineer Intern",
@@ -353,6 +378,33 @@
       "excel",
       "data analysis",
       "reporting"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4478621012",
+    "company": "Cargill",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489824",
+    "posted_at": "2026-10-19",
+    "first_seen_at": "2026-10-22T06:57:49Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "cloud platform",
+      "big data platform",
+      "application development"
     ],
     "source": "interndoor",
     "scope": "india"

@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-22T01:12:39Z</updated>
+  <updated>2026-10-22T06:57:49Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Marvell — Intern, Software QA Engineer Bachelor&#x27;s Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245" rel="alternate"/>
+    <id>workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245</id>
+    <updated>2026-10-22T06:57:49Z</updated>
+    <summary>Bangalore · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Wayfair — Software Engineer Intern</title>
     <link href="https://wayfair.avature.net/en_US/careers?folderId=20829&amp;src=LinkedIn_Job_Slots" rel="alternate"/>
     <id>interndoor:4482127709</id>
@@ -84,6 +90,12 @@
     <id>interndoor:4481528877</id>
     <updated>2026-10-20T07:01:13Z</updated>
     <summary>Gurgaon, Haryana, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cargill — Software Engineer Intern</title>
+    <link href="https://careers.cargill.com/en/job/-/-/23251/102151489824" rel="alternate"/>
+    <id>interndoor:4478621012</id>
+    <updated>2026-10-22T06:57:49Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Cargill — Software Engineer Intern</title>
     <link href="https://careers.cargill.com/en/job/-/-/23251/102151489536" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>interndoor:4476636309</id>
     <updated>2026-10-16T13:13:51Z</updated>
     <summary>Mumbai, Maharashtra, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IBM — Software Developer Intern</title>
-    <link href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=134098&amp;source=SN_LinkedIn" rel="alternate"/>
-    <id>interndoor:4476673482</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>Bengaluru, Karnataka, India, Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>EDMO — Software Engineer Intern</title>
-    <link href="https://edmo.keka.com/careers/jobdetails/144428?source=linkedin" rel="alternate"/>
-    <id>interndoor:4478448455</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>
