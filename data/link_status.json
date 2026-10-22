@@ -1,9 +1,9 @@
 {
-  "greenhouse:thoughtworks:8236673": {
-    "checked_at": "2026-10-22T12:48:22Z",
+  "greenhouse:guidepointsecurity:6224196004": {
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
     "strikes": 0,
-    "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673"
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
   },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-22T06:57:49Z",
@@ -36,13 +36,13 @@
     "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"
   },
   "instahyre:truecaller:445808": {
-    "checked_at": "2026-10-21T15:51:12Z",
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/"
   },
   "interndoor:4466665437": {
-    "checked_at": "2026-10-21T15:51:12Z",
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
@@ -156,7 +156,7 @@
     "url": "https://www.linkedin.com/jobs/view/4477074268/"
   },
   "interndoor:4477354757": {
-    "checked_at": "2026-10-21T15:51:12Z",
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
@@ -174,7 +174,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1?source=jobboardlinkedin"
   },
   "interndoor:4478604637": {
-    "checked_at": "2026-10-21T15:51:12Z",
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489904"
@@ -184,6 +184,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489616"
+  },
+  "interndoor:4478618161": {
+    "checked_at": "2026-10-22T17:51:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151490192"
   },
   "interndoor:4478618163": {
     "checked_at": "2026-10-22T06:57:49Z",
@@ -227,11 +233,23 @@
     "strikes": 0,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26036901/apprentice-multiple-locations"
   },
+  "interndoor:4479715871": {
+    "checked_at": "2026-10-22T17:51:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159740/?utm_medium=jobboard&utm_source=linkedin"
+  },
   "interndoor:4479821514": {
     "checked_at": "2026-10-21T23:00:38Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
+  },
+  "interndoor:4479829064": {
+    "checked_at": "2026-10-22T17:51:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159836/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4479925956": {
     "checked_at": "2026-10-22T12:48:22Z",
@@ -244,6 +262,12 @@
     "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
+  },
+  "interndoor:4480965630": {
+    "checked_at": "2026-10-22T17:51:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4480971808": {
     "checked_at": "2026-10-21T19:54:34Z",
@@ -282,7 +306,7 @@
     "url": "https://signzy.keka.com/careers/jobdetails/138638"
   },
   "interndoor:ats:microsoft:India,United States,United Kingdom:1970393556917520": {
-    "checked_at": "2026-10-21T15:51:12Z",
+    "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
     "strikes": 0,
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
@@ -298,24 +322,6 @@
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com:159858": {
-    "checked_at": "2026-10-22T12:48:22Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858"
-  },
-  "workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766": {
-    "checked_at": "2026-10-22T12:48:22Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766"
-  },
-  "workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768": {
-    "checked_at": "2026-10-22T12:48:22Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768"
   },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-22T06:57:49Z",
@@ -340,5 +346,11 @@
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c"
+  },
+  "ypatodkar:skydio:skydio_ashby_370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
+    "checked_at": "2026-10-22T17:51:18Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
   }
 }
