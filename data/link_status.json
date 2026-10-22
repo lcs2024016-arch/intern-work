@@ -1,4 +1,10 @@
 {
+  "greenhouse:thoughtworks:8236673": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673"
+  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-22T06:57:49Z",
     "status": 403,
@@ -22,6 +28,12 @@
     "status": 403,
     "strikes": 0,
     "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"
+  },
+  "instahyre:sstpath:447008": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"
   },
   "instahyre:truecaller:445808": {
     "checked_at": "2026-10-21T15:51:12Z",
@@ -47,6 +59,12 @@
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4468558804/"
   },
+  "interndoor:4468561627": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://www.linkedin.com/jobs/view/4468561627/"
+  },
   "interndoor:4468619421": {
     "checked_at": "2026-10-22T06:57:49Z",
     "status": 200,
@@ -60,7 +78,7 @@
     "url": "https://gonoise.freshteam.com/jobs/-hs4EpEaiVCR/intern-qa?ft_source=2000003042&ft_medium=2000008269"
   },
   "interndoor:4468839939": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 200,
     "strikes": 0,
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
@@ -72,7 +90,7 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
   "interndoor:4472859773": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 403,
     "strikes": 0,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -144,7 +162,7 @@
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
   },
   "interndoor:4477895308": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 200,
     "strikes": 0,
     "url": "https://joinbytedance.com/search/7656823895123446069"
@@ -180,10 +198,16 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
   },
   "interndoor:4478620039": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489760"
+  },
+  "interndoor:4478621012": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489824"
   },
   "interndoor:4479506937": {
     "checked_at": "2026-10-22T06:57:49Z",
@@ -210,7 +234,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4479925956": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4479925956/"
@@ -228,7 +252,7 @@
     "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
   },
   "interndoor:4481216323": {
-    "checked_at": "2026-10-21T10:58:16Z",
+    "checked_at": "2026-10-22T12:48:22Z",
     "status": 200,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
@@ -274,6 +298,24 @@
     "status": 200,
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
+  },
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com:159858": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858"
+  },
+  "workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766"
+  },
+  "workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768": {
+    "checked_at": "2026-10-22T12:48:22Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768"
   },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-22T06:57:49Z",
