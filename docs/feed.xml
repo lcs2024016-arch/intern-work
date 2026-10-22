@@ -4,20 +4,20 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-22T17:51:18Z</updated>
+  <updated>2026-10-22T21:08:36Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>OpenSesame — AI Product Builder Intern</title>
+    <link href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424" rel="alternate"/>
+    <id>greenhouse:opensesame:8313424</id>
+    <updated>2026-10-22T21:08:36Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Electronic Arts (EA) — Software Engineer Intern</title>
     <link href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215941?source=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4480042687</id>
     <updated>2026-10-22T17:51:18Z</updated>
     <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell Technologies — Software Engineering Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160476/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4482477404</id>
-    <updated>2026-10-22T17:51:18Z</updated>
-    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Honeywell Technologies — AI Intern</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160473/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
@@ -31,15 +31,21 @@
     <updated>2026-10-22T17:51:18Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Marvell — Software Validation Intern - Master&#x27;s Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870" rel="alternate"/>
-    <id>workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
+    <title>Honeywell Technologies — Software Engineering Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160476/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4482477404</id>
     <updated>2026-10-22T17:51:18Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Marvell — Software Engineer Intern - Master&#x27;s Degree</title>
     <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868" rel="alternate"/>
     <id>workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
+    <updated>2026-10-22T17:51:18Z</updated>
+    <summary>Bangalore · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Marvell — Software Validation Intern - Master&#x27;s Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870" rel="alternate"/>
+    <id>workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
     <updated>2026-10-22T17:51:18Z</updated>
     <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
@@ -72,12 +78,6 @@
     <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160479</id>
     <updated>2026-10-22T12:48:22Z</updated>
     <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Marvell — Intern, Software QA Engineer Bachelor&#x27;s Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245" rel="alternate"/>
-    <id>workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245</id>
-    <updated>2026-10-22T06:57:49Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Wayfair — Software Engineer Intern</title>
     <link href="https://wayfair.avature.net/en_US/careers?folderId=20829&amp;src=LinkedIn_Job_Slots" rel="alternate"/>
