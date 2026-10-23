@@ -1,11 +1,11 @@
 {
-  "total": 5470,
+  "total": 5478,
   "by_ats": {
-    "workday": 1591,
-    "greenhouse": 1196,
+    "workday": 1593,
+    "greenhouse": 1198,
     "smartrecruiters": 870,
-    "ashby": 812,
-    "lever": 463,
+    "ashby": 815,
+    "lever": 464,
     "workable": 200,
     "oracle": 154,
     "rippling": 114,
@@ -1944,6 +1944,11 @@
       "name": "Anyscale",
       "slug": "anyscale",
       "ats": "lever"
+    },
+    {
+      "name": "anyscale",
+      "slug": "anyscale",
+      "ats": "ashby"
     },
     {
       "name": "Anysphere",
@@ -7404,6 +7409,13 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Crescentenergyco",
+      "slug": "crescentenergyco",
+      "ats": "workday",
+      "wd": "wd108",
+      "site": "crescent_energy_careers"
+    },
+    {
       "name": "Crest Industries",
       "slug": "crestoperations",
       "ats": "lever"
@@ -11160,6 +11172,13 @@
       "site": "Freese_Nichols_External"
     },
     {
+      "name": "Freight",
+      "slug": "freight",
+      "ats": "workday",
+      "wd": "wd108",
+      "site": "FXF_External_Career_Site"
+    },
+    {
       "name": "Fresenius Kabi",
       "slug": "freseniusglobal",
       "ats": "workday",
@@ -12899,6 +12918,11 @@
       "name": "Headout",
       "slug": "headoutcareers",
       "ats": "greenhouse"
+    },
+    {
+      "name": "headout",
+      "slug": "headoutinc",
+      "ats": "ashby"
     },
     {
       "name": "Headway",
@@ -18647,6 +18671,11 @@
       "ats": "ashby"
     },
     {
+      "name": "N1 Health",
+      "slug": "algorex",
+      "ats": "lever"
+    },
+    {
       "name": "n8n",
       "slug": "n8n",
       "ats": "ashby"
@@ -19210,6 +19239,11 @@
     {
       "name": "Nex",
       "slug": "nex",
+      "ats": "greenhouse"
+    },
+    {
+      "name": "Nexla",
+      "slug": "nexla",
       "ats": "greenhouse"
     },
     {
@@ -22605,6 +22639,11 @@
       "name": "Ramp 2",
       "slug": "ramp-2",
       "ats": "smartrecruiters"
+    },
+    {
+      "name": "ramp-2",
+      "slug": "ramp",
+      "ats": "greenhouse"
     },
     {
       "name": "Randstad",
@@ -28160,7 +28199,7 @@
       "ats": "workable"
     },
     {
-      "name": "uber",
+      "name": "Uber",
       "slug": "uber",
       "ats": "smartrecruiters"
     },
@@ -28964,6 +29003,11 @@
     {
       "name": "Veeda AI",
       "slug": "veeda-labs",
+      "ats": "ashby"
+    },
+    {
+      "name": "Veeda AI",
+      "slug": "veeda-ai",
       "ats": "ashby"
     },
     {
