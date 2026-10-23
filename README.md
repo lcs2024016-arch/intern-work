@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-187-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-188-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5470-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 23, 2026 at 00:02 UTC</em></p>
+  <p><em>Last updated: Oct 23, 2026 at 02:43 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>126 open</kbd>
+## Summer 2027 (India) <kbd>127 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -254,6 +254,7 @@
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
 | **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
 | **SSTPath** | Angular Developer - Intern <sup>~</sup> | `Software` | — | Bangalore,Hyderabad | — | [Apply ↗](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
+| **induslabs** | Machine Learning Internship <sup>~</sup> | `Data &amp; ML/AI` | **₹60,000/monthly** | Noida | — | [Apply ↗](https://unstop.com/internships/machine-learning-internship-induslabs-1619940) |
 | **Other organization not listed here** | Software Engineering Internship <sup>~</sup> | `Software` | **₹50,000/annually** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-branch-international-1144712) |
 | **Caspian** | Software Engineering Internship <sup>~</sup> | `Software` | **₹100,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-caspian-1724547) |
 | **Brava** | Software Engineering Internship - Founder&#x27;s Office <sup>~</sup> | `Software` | **₹50,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-founders-office-brava-1763808) |
@@ -341,8 +342,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Skydio** | Embedded Software Engineer Intern - Winer 2027 🆕 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34) |
-| **Skydio** | Mobile Software Engineer Intern - Summer 2027 🆕 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
+| **Skydio** | Embedded Software Engineer Intern - Winer 2027 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34) |
+| **Skydio** | Mobile Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
 | **Skydio** | Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) |
 | **Skydio** | Embedded Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260) |
 | **Semgrep** | Software Engineer Intern <sup>~</sup> | `Software` | **USD 45,000–115,000 / year** | Remote | Oct 08, 2026 | [Apply ↗](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
@@ -365,14 +366,13 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (164 of 187)._
+_~ = the title doesn't state a year; bucketed here from its posting date (165 of 188)._
 
 <details>
-<summary><strong>Recently closed</strong> — 118 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 117 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| induslabs | Machine Learning Internship | Summer 2027 | 2026-10-23 |
 | Marvell | Intern, Software QA Engineer Bachelor&#x27;s Degree | Summer 2027 | 2026-10-22 |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Summer 2027 | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-22 |
@@ -397,6 +397,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (164 of
 | Member Solutions | Cybersecurity GRC Intern | Summer 2027 | 2026-10-15 |
 | Valeo | Intern - AI | Summer 2027 | 2026-10-15 |
 | LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-15 |
+| Dun &amp; Bradstreet | Apprentice (R-19971) | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -413,7 +414,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,471 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 95% of open roles · median detection lag 17.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,471 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 17.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
