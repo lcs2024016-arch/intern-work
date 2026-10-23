@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-186-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-187-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5470-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 22, 2026 at 21:08 UTC</em></p>
+  <p><em>Last updated: Oct 23, 2026 at 00:02 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>127 open</kbd>
+## Summer 2027 (India) <kbd>126 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -56,6 +56,8 @@
 | | <sub>`three.js` `webgl` `canvas api` `react`</sub> ||||||
 | **ByteDance** | Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Gurgaon, Haryana, India | Oct 20, 2026 | [Apply ↗](https://joinbytedance.com/search/7654066732550785333?ref=interndoor) |
 | | <sub>`excel` `data analysis` `reporting`</sub> ||||||
+| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489792?ref=interndoor) |
+| | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151490016?ref=interndoor) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151490192) |
@@ -63,8 +65,6 @@
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489824) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489536) |
-| | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
-| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489616) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **AtkinsRéalis** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru East, Karnataka, India, On-… | Oct 19, 2026 | [Apply ↗](https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed) |
 | | <sub>`python` `sql` `pandas` `git`</sub> ||||||
@@ -254,7 +254,6 @@
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
 | **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
 | **SSTPath** | Angular Developer - Intern <sup>~</sup> | `Software` | — | Bangalore,Hyderabad | — | [Apply ↗](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
-| **induslabs** | Machine Learning Internship <sup>~</sup> | `Data &amp; ML/AI` | **₹60,000/monthly** | Noida | — | [Apply ↗](https://unstop.com/internships/machine-learning-internship-induslabs-1619940) |
 | **Other organization not listed here** | Software Engineering Internship <sup>~</sup> | `Software` | **₹50,000/annually** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-branch-international-1144712) |
 | **Caspian** | Software Engineering Internship <sup>~</sup> | `Software` | **₹100,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-caspian-1724547) |
 | **Brava** | Software Engineering Internship - Founder&#x27;s Office <sup>~</sup> | `Software` | **₹50,000/monthly** | India | — | [Apply ↗](https://unstop.com/internships/software-engineering-internship-founders-office-brava-1763808) |
@@ -266,7 +265,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **OpenSesame** | AI Product Builder Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **$25/hr**<br>B.Tech/BS | Remote | Oct 22, 2026 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
+| **OpenSesame** | AI Product Builder Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 22, 2026 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | **Electronic Arts (EA)** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 22, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215941?source=interndoor&ref=interndoor) |
 | | <sub>`c++` `c#` `restful api` `3d mathematics`</sub> ||||||
 | **Electronic Arts (EA)** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 21, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=interndoor&ref=interndoor) |
@@ -330,6 +329,12 @@
 | **Galaxy** | Off-Cycle 2026 Cybersecurity Internship | `Other` | B.Tech/BS | Remote | Aug 25, 2026 | [Apply ↗](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004) |
 | | <sub>`Python` `C++` `Rust` `LLMs`</sub> ||||||
 
+## Term Unconfirmed (Remote) <kbd>1 open</kbd>
+
+| 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
+|---|---|---|---|---|---|:---:|
+| **GuidePoint Security** | GPSU Cybersecurity Spring Internship <sup>~</sup> | `Other` | B.Tech/BS | Remote | Aug 28, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
+
 ## Global remote (US-based companies) <kbd>23 open</kbd>
 
 > Remote internships at US venture-backed companies. **Remote means remote within the employer's country** — nearly all of these are US-only and need US work authorisation. Listed separately so they are never mistaken for India-open roles.
@@ -360,13 +365,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (164 of 186)._
+_~ = the title doesn't state a year; bucketed here from its posting date (164 of 187)._
 
 <details>
-<summary><strong>Recently closed</strong> — 120 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 118 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| induslabs | Machine Learning Internship | Summer 2027 | 2026-10-23 |
 | Marvell | Intern, Software QA Engineer Bachelor&#x27;s Degree | Summer 2027 | 2026-10-22 |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Summer 2027 | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-22 |
@@ -384,7 +390,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (164 of
 | CloudSEK | SDE Intern - Backend | Summer 2027 | 2026-10-19 |
 | Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-10-19 |
 | Novartis | Intern AI &amp; Data Science | Summer 2027 | 2026-10-17 |
-| GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-17 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-16 |
@@ -408,7 +413,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,471 companies** across **27 ATS platforms** · 95% fetch success · real posted dates on 94% of open roles · median detection lag 15.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,471 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 95% of open roles · median detection lag 17.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

@@ -42,7 +42,7 @@
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
   },
   "interndoor:4467851191": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/134560"
@@ -78,7 +78,7 @@
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
   },
   "interndoor:4472657639": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
@@ -179,6 +179,12 @@
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489616"
   },
+  "interndoor:4478613336": {
+    "checked_at": "2026-10-23T00:02:29Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151490016?ref=interndoor"
+  },
   "interndoor:4478618161": {
     "checked_at": "2026-10-22T17:51:18Z",
     "status": 200,
@@ -192,7 +198,7 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489536"
   },
   "interndoor:4478619070": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
@@ -234,7 +240,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159740/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4479821514": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
@@ -282,7 +288,7 @@
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
   "interndoor:ats:greenhouse:cloudsek:6222340004": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
@@ -294,7 +300,7 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
   },
   "interndoor:ats:keka:signzy:138638": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/138638"
@@ -306,7 +312,7 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
   },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:124444": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444"
@@ -317,11 +323,11 @@
     "strikes": 0,
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833"
   },
-  "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245": {
-    "checked_at": "2026-10-22T21:08:36Z",
+  "unstop:machine-learning:1619940": {
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245"
+    "url": "https://unstop.com/internships/machine-learning-internship-induslabs-1619940"
   },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-22T06:57:49Z",
@@ -330,7 +336,7 @@
     "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7"
   },
   "ypatodkar:habu:habu_ashby_c027b0cc-a2c5-459b-8b0f-ad807ff2dea8": {
-    "checked_at": "2026-10-21T23:00:38Z",
+    "checked_at": "2026-10-23T00:02:29Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/liveramp-inc/c027b0cc-a2c5-459b-8b0f-ad807ff2dea8"
