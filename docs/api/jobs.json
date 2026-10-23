@@ -1,33 +1,5 @@
 [
   {
-    "id": "interndoor:4480666817",
-    "company": "TÜV SÜD",
-    "title": "AI/Low Code Developer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Matar, Gujarat, India, On-site",
-    "url": "https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor",
-    "posted_at": "2026-10-23",
-    "first_seen_at": "2026-10-23T18:13:25Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "power platform",
-      "data science",
-      "ai",
-      "low code"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4480665883",
     "company": "TÜV SÜD",
     "title": "Automation Engineer Intern",
@@ -52,6 +24,34 @@
       "ai",
       "oop",
       "database"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4480666817",
+    "company": "TÜV SÜD",
+    "title": "AI/Low Code Developer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Matar, Gujarat, India, On-site",
+    "url": "https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor",
+    "posted_at": "2026-10-23",
+    "first_seen_at": "2026-10-23T18:13:25Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "power platform",
+      "data science",
+      "ai",
+      "low code"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -132,29 +132,6 @@
     "skills": [
       "Python"
     ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
-    "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-    "company": "Philips",
-    "title": "Apprentice Trainee (Software Developer Level 1)",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bangalore",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-    "posted_at": "2026-10-23T00:00:00Z",
-    "first_seen_at": "2026-10-23T14:04:47Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
     "source": "workday",
     "scope": "india"
   },
@@ -469,56 +446,6 @@
       "prompt engineering"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
-    "posted_at": "2026-10-22",
-    "first_seen_at": "2026-10-22T12:48:22Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [],
-    "source": "oracle",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
-    "posted_at": "2026-10-22",
-    "first_seen_at": "2026-10-22T12:48:22Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "C++"
-    ],
-    "source": "oracle",
     "scope": "india"
   },
   {
@@ -2093,6 +2020,35 @@
       "agile/scrum"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6224196004",
+    "company": "GuidePoint Security",
+    "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Other",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004",
+    "posted_at": "2026-10-14T17:22:54-04:00",
+    "first_seen_at": "2026-10-14T23:31:58Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Linux"
+    ],
+    "source": "greenhouse",
     "scope": "india"
   },
   {
