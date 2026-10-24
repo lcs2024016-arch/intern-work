@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-24T05:21:26Z</updated>
+  <updated>2026-10-24T10:05:44Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Nestack Technologies Pvt Ltd — Cybersecurity Intern</title>
+    <link href="https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:nestack:neilp:cybersecurity-intern</id>
+    <updated>2026-10-24T10:05:44Z</updated>
+    <summary>Hyderabad, Telangana, India, On-site · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>TÜV SÜD — Automation Engineer Intern</title>
     <link href="https://jobs.tuvsud.com/job/Intern-Trainee-Automation-Engineer/8164-en_US?src=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4480665883</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4477354757</id>
     <updated>2026-10-16T13:13:51Z</updated>
     <summary>Mumbai, Maharashtra, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>TCS — Python Developer trainee</title>
-    <link href="https://www.linkedin.com/jobs/view/4479114937/" rel="alternate"/>
-    <id>interndoor:4479114937</id>
-    <updated>2026-10-16T13:13:51Z</updated>
-    <summary>Ahmedabad, Gujarat, India, Hybrid · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -13,19 +13,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-193-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5478-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-190-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5504-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 24, 2026 at 05:21 UTC</em></p>
+  <p><em>Last updated: Oct 24, 2026 at 10:05 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>128 open</kbd>
+## Summer 2027 (India) <kbd>129 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> 🆕 | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 23, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
+| | <sub>`burp suite` `owasp zap` `nmap` `wireshark`</sub> ||||||
 | **TÜV SÜD** | Automation Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-Automation-Engineer/8164-en_US?src=interndoor&ref=interndoor) |
 | | <sub>`low code` `data analytics` `ai` `oop`</sub> ||||||
 | **TÜV SÜD** | AI/Low Code Developer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor) |
@@ -69,7 +71,7 @@
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151490192) |
 | | <sub>`cloud platform` `big data platform` `application development` `agile development`</sub> ||||||
-| **Cargill** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489824) |
+| **Cargill** | Software Engineer Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489824) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
 | **Cargill** | Software Engineer Intern <sup>~</sup> | `Software` | B.Tech/BS | Bengaluru, Karnataka, India, On-site | Oct 19, 2026 | [Apply ↗](https://careers.cargill.com/en/job/-/-/23251/102151489536) |
 | | <sub>`cloud platform` `big data platform` `application development`</sub> ||||||
@@ -266,7 +268,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>31 open</kbd>
+## Summer 2027 (Remote) <kbd>27 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -303,18 +305,12 @@
 | | <sub>`python` `pytorch` `llms` `fine-tuning`</sub> ||||||
 | **Sony Research India** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | **2,026** | Bengaluru, Karnataka, India, Remote | Oct 10, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4478080141/) |
 | | <sub>`python` `pytorch` `tensorflow` `jax`</sub> ||||||
-| **Ancestry** | Machine Learning Engineer, Co-op <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 09, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
-| | <sub>`Python` `Java` `PyTorch` `TensorFlow`</sub> ||||||
 | **GuidePoint Security** | Application Security Intern - GPSU/NE <sup>~</sup> | `Other` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | | <sub>`Python` `Java` `JavaScript` `LLMs`</sub> ||||||
 | **GuidePoint Security** | AI &amp; Data Science Intern - GPSU/NE <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | | <sub>`Python` `Pandas` `LLMs`</sub> ||||||
 | **GuidePoint Security** | Cloud Infrastructure Intern - GPSU/NE <sup>~</sup> | `Software` | B.Tech/BS | Remote | Oct 08, 2026 | [Apply ↗](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | | <sub>`Python` `LLMs` `AWS` `GCP`</sub> ||||||
-| **Ancestry** | AI Discovery Co-Op - Agentic Personalization <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 06, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| | <sub>`Python` `SQL` `PyTorch` `LLMs`</sub> ||||||
-| **Ancestry** | Postdoctoral Fellow, Applied AI <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 05, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380) |
-| | <sub>`Python` `LLMs` `Computer Vision` `AWS`</sub> ||||||
 | **Mitel Networks** | R&amp;D Intern (student) - iOS development <sup>~</sup> | `Software` | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply ↗](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
 | | <sub>`Python` `TypeScript` `JavaScript` `LLMs`</sub> ||||||
 | **Electronic Arts (EA)** | AI Full Stack Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 01, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn) |
@@ -323,8 +319,6 @@
 | | <sub>`data analytics`</sub> ||||||
 | **Adfluence Hub** | Generative AI Intern <sup>~</sup> | `Data &amp; ML/AI` | Computer Science/AI | Noida, Uttar Pradesh, India, Remote | Sep 30, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4473599825/) |
 | | <sub>`python` `llms` `apis` `git`</sub> ||||||
-| **Ancestry** | Data Science - AI Document Understanding, Co-op <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Sep 16, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
-| | <sub>`Python` `LLMs` `AWS`</sub> ||||||
 | **Cadence Solutions** | Software Engineering Intern | `Software` | — | Remote | Sep 08, 2026 | [Apply ↗](https://job-boards.greenhouse.io/solutions/jobs/4711210006) |
 | **Realm** | Software Engineer - Intern <sup>~</sup> | `Software` | B.Tech/BS | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | | <sub>`TypeScript` `TensorFlow` `LLMs` `Computer Vision`</sub> ||||||
@@ -373,13 +367,17 @@
 | **Veeam Software** | People &amp; Culture AI Transformation Intern- Summer 2027 | `Data &amp; ML/AI` | **USD 20–25 / hour** | Remote | Sep 11, 2026 | [Apply ↗](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971202101) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (164 of 193)._
+_~ = the title doesn't state a year; bucketed here from its posting date (161 of 190)._
 
 <details>
-<summary><strong>Recently closed</strong> — 117 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 120 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Ancestry | AI Discovery Co-Op - Agentic Personalization | Summer 2027 | 2026-10-24 |
+| Ancestry | Data Science - AI Document Understanding, Co-op | Summer 2027 | 2026-10-24 |
+| Ancestry | Machine Learning Engineer, Co-op | Summer 2027 | 2026-10-24 |
+| Ancestry | Postdoctoral Fellow, Applied AI | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-23 |
@@ -401,10 +399,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (164 of
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
 | CloudSEK | SDE Intern - Backend | Summer 2027 | 2026-10-19 |
-| Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-10-19 |
-| Novartis | Intern AI &amp; Data Science | Summer 2027 | 2026-10-17 |
-| Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
-| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 
 </details>
 
@@ -421,7 +415,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,479 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 17.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,505 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 17.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -437,7 +431,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,422 companies
+- **Applicant tracking systems** — 5,448 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies
