@@ -1429,6 +1429,11 @@
     "last_attempt_at": "2026-10-24T17:16:07Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/node/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
+  "workable:nu-quantum": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/nu-quantum/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
   "workable:nuovophotography": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-24T17:16:07Z",
@@ -1448,6 +1453,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-10-24T13:58:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/onyx-capital-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "workable:openworks-engineering": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/openworks-engineering/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workable:optisigns-inc": {
     "consecutive_failures": 7,
@@ -1655,8 +1665,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sorting-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workable:ssci": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-24T10:05:44Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ssci/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:staffordgray": {
@@ -1695,8 +1705,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tarte-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:tecsa": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-24T10:05:44Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tecsa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:teguar-corporation": {
@@ -1705,8 +1715,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/teguar-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "workable:terabase-energy": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-24T10:05:44Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/terabase-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:teserac-inc": {
@@ -1725,8 +1735,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:theshipyard": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-24T10:05:44Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-24T22:23:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/theshipyard/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:thingtrax": {

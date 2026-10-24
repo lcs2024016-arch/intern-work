@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5504-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 24, 2026 at 20:05 UTC</em></p>
+  <p><em>Last updated: Oct 24, 2026 at 22:23 UTC</em></p>
 </div>
 
 ---
@@ -26,9 +26,9 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Honeywell Technologies** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160492/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Honeywell Technologies** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | **Honeywell** | Intern Bachelors AI <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494) |
 | **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495) |
 | | <sub>`Python` `Java` `C++`</sub> ||||||
@@ -277,7 +277,7 @@
 |---|---|---|---|---|---|:---:|
 | **IBM** | Research Software Intern <sup>~</sup> 🆕 | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, Hybrid | Oct 23, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=137471&source=interndoor&ref=interndoor) |
 | | <sub>`python` `pytorch` `jupyter notebooks` `git`</sub> ||||||
-| **OpenSesame** | AI Product Builder Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 22, 2026 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
+| **OpenSesame** | AI Product Builder Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 22, 2026 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | **Electronic Arts (EA)** | Software Engineer Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 22, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215941?source=interndoor&ref=interndoor) |
 | | <sub>`c++` `c#` `restful api` `3d mathematics`</sub> ||||||
 | **Electronic Arts (EA)** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 21, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=interndoor&ref=interndoor) |
@@ -426,7 +426,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,505 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 94% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,505 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
