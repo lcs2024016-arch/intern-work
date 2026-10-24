@@ -1022,6 +1022,13 @@
     "site": "AIMCoCareers"
   },
   {
+    "name": "Albertamotorassociation",
+    "slug": "albertamotorassociation",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "ama"
+  },
+  {
     "name": "Albertsons",
     "slug": "eofd.fa.us6.oraclecloud.com",
     "ats": "oracle",
@@ -1476,6 +1483,11 @@
     "name": "Amdocs",
     "slug": "amdocs-tech",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "AMEND Consulting",
+    "slug": "amendconsulting",
+    "ats": "greenhouse"
   },
   {
     "name": "Amentum",
@@ -2083,6 +2095,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Applied Underwriters",
+    "slug": "auw",
+    "ats": "lever"
   },
   {
     "name": "AppLogic Networks",
@@ -4396,6 +4413,13 @@
     "name": "Bp",
     "slug": "bp-jobs",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Bracco",
+    "slug": "bracco",
+    "ats": "workday",
+    "wd": "wd103",
+    "site": "braccocareers"
   },
   {
     "name": "Bracebridge Capital",
@@ -10224,6 +10248,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Farther",
+    "slug": "fartherfinance",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fasanara",
     "slug": "fasanara",
     "ats": "workable"
@@ -10882,6 +10911,11 @@
     "ats": "workable"
   },
   {
+    "name": "Focused",
+    "slug": "focused",
+    "ats": "ashby"
+  },
+  {
     "name": "Foley Hoag",
     "slug": "foleyhoag",
     "ats": "greenhouse"
@@ -11142,6 +11176,11 @@
     "site": "Freese_Nichols_External"
   },
   {
+    "name": "Freestone Capital Management",
+    "slug": "freestonecapitalmanagement",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Freight",
     "slug": "freight",
     "ats": "workday",
@@ -11219,6 +11258,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "FTIConsultingCareers"
+  },
+  {
+    "name": "Fuel Cycle",
+    "slug": "fuel-cycle",
+    "ats": "ashby"
   },
   {
     "name": "Fugro",
@@ -13062,6 +13106,11 @@
     "site": "Jobsathpe"
   },
   {
+    "name": "Hex Technologies",
+    "slug": "hex",
+    "ats": "ashby"
+  },
+  {
     "name": "HEXAWARE",
     "slug": "fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -14154,6 +14203,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Infinitum",
+    "slug": "infinitumelectric",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Inflection",
     "slug": "inflectionai",
     "ats": "greenhouse"
@@ -14897,6 +14951,11 @@
     "ats": "lever"
   },
   {
+    "name": "Jampack AI",
+    "slug": "jampack-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Jane Street",
     "slug": "janestreet",
     "ats": "greenhouse"
@@ -15181,6 +15240,11 @@
     "name": "Juniper Square",
     "slug": "junipersquare",
     "ats": "ashby"
+  },
+  {
+    "name": "Jupiter Intelligence",
+    "slug": "jupiterintel",
+    "ats": "lever"
   },
   {
     "name": "Juspay",
@@ -16304,6 +16368,11 @@
     "name": "LinkedIn — SWE Intern India",
     "slug": "swe+intern+india",
     "ats": "linkedin"
+  },
+  {
+    "name": "Linkup",
+    "slug": "linkup",
+    "ats": "ashby"
   },
   {
     "name": "LINQ",
@@ -18446,6 +18515,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Moxxi Digital",
+    "slug": "moxxidigital",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Mozilla",
     "slug": "mozilla",
     "ats": "greenhouse"
@@ -18626,6 +18700,11 @@
     "site": "CX_2001"
   },
   {
+    "name": "Mytos",
+    "slug": "mytos",
+    "ats": "lever"
+  },
+  {
     "name": "Mytra",
     "slug": "mytra",
     "ats": "rippling"
@@ -18692,7 +18771,7 @@
     "site": "Global_External_Site"
   },
   {
-    "name": "nasdaq",
+    "name": "Nasdaq",
     "slug": "nasdaq",
     "ats": "greenhouse"
   },
@@ -19780,6 +19859,14 @@
     "site": "oaktree"
   },
   {
+    "name": "Oatey",
+    "slug": "oatey",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Oatey_External_",
+    "host": "wd5.myworkdaysite.com"
+  },
+  {
     "name": "OBE",
     "slug": "oldcastlebuildingenvelope",
     "ats": "greenhouse"
@@ -20783,6 +20870,11 @@
     "name": "Parkdepot",
     "slug": "salesdemo-jr",
     "ats": "lever"
+  },
+  {
+    "name": "Parker",
+    "slug": "parker",
+    "ats": "ashby"
   },
   {
     "name": "Parsons",
@@ -22090,6 +22182,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Prosync",
+    "slug": "prosync",
+    "ats": "workable"
+  },
+  {
     "name": "Protech Automotive Solutions",
     "slug": "calibercollision",
     "ats": "workday",
@@ -22813,6 +22910,11 @@
   {
     "name": "Regal",
     "slug": "regalvoice",
+    "ats": "lever"
+  },
+  {
+    "name": "Regal",
+    "slug": "regal",
     "ats": "lever"
   },
   {
@@ -24192,6 +24294,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Scout AI",
+    "slug": "scout-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Scout Clean Energy",
     "slug": "scout-clean-energy",
     "ats": "workable"
@@ -25170,6 +25277,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Sola",
+    "slug": "sola",
+    "ats": "ashby"
+  },
+  {
     "name": "Solace Health",
     "slug": "solace",
     "ats": "ashby"
@@ -25837,6 +25949,11 @@
     "name": "SteerBridge",
     "slug": "steerbridge",
     "ats": "lever"
+  },
+  {
+    "name": "Stefanini",
+    "slug": "Stefanini1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "STEM Expert",
@@ -26550,6 +26667,11 @@
     "name": "TE Connectivity",
     "slug": "teconnectivity",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "TeamSnap",
+    "slug": "teamsnap",
+    "ats": "lever"
   },
   {
     "name": "Teamworks",
@@ -28811,6 +28933,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Valkyrie Trading",
+    "slug": "valkyrietrading",
+    "ats": "lever"
+  },
+  {
     "name": "Valmet",
     "slug": "valmet",
     "ats": "workday",
@@ -30325,6 +30452,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Worldscape Technology",
+    "slug": "worldscape-technology",
+    "ats": "lever"
+  },
+  {
     "name": "WorldStrides",
     "slug": "world4822stri986des",
     "ats": "greenhouse"
@@ -30664,6 +30796,11 @@
     "name": "Zen Educate",
     "slug": "zeneducate",
     "ats": "lever"
+  },
+  {
+    "name": "Zen3",
+    "slug": "Zen31",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Zendesk",
