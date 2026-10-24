@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5504-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 24, 2026 at 13:58 UTC</em></p>
+  <p><em>Last updated: Oct 24, 2026 at 17:16 UTC</em></p>
 </div>
 
 ---
@@ -26,8 +26,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Honeywell** | Intern Bachelors AI <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160490) |
-| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160491) |
+| **Honeywell** | Intern Bachelors AI <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494) |
+| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495) |
 | | <sub>`Python` `Java` `C++`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> 🆕 | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 23, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
 | | <sub>`burp suite` `owasp zap` `nmap` `wireshark`</sub> ||||||
@@ -381,10 +381,12 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (167 of 196)._
 
 <details>
-<summary><strong>Recently closed</strong> — 116 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 118 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-24 |
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-23 |
@@ -408,8 +410,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (167 of
 | CloudSEK | SDE Intern - Backend | Summer 2027 | 2026-10-19 |
 | Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-10-19 |
 | Novartis | Intern AI &amp; Data Science | Summer 2027 | 2026-10-17 |
-| Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
-| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 
 </details>
 
@@ -426,7 +426,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,505 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 94% of open roles · median detection lag 16.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,505 companies** across **27 ATS platforms** · 97% fetch success · real posted dates on 94% of open roles · median detection lag 17.3h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
