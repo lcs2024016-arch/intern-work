@@ -1,5 +1,55 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160490",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160490",
+    "posted_at": "2026-10-24",
+    "first_seen_at": "2026-10-24T13:58:39Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [],
+    "source": "oracle",
+    "scope": "india"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160491",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160491",
+    "posted_at": "2026-10-24",
+    "first_seen_at": "2026-10-24T13:58:39Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "source": "oracle",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:ats:nestack:neilp:cybersecurity-intern",
     "company": "Nestack Technologies Pvt Ltd",
     "title": "Cybersecurity Intern",
@@ -2670,6 +2720,37 @@
     "scope": "india"
   },
   {
+    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "company": "Ancestry",
+    "title": "Machine Learning Engineer, Co-op",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "posted_at": "2026-10-09T00:00:00Z",
+    "first_seen_at": "2026-10-15T12:17:24Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "Java",
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "LLMs",
+      "Node.js"
+    ],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:ats:microsoft:India:1970393556917520",
     "company": "Microsoft",
     "title": "Data Science Intern",
@@ -3021,6 +3102,34 @@
     "scope": "india"
   },
   {
+    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
+    "company": "Ancestry",
+    "title": "AI Discovery Co-Op - Agentic Personalization",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
+    "posted_at": "2026-10-06T00:00:00Z",
+    "first_seen_at": "2026-10-15T12:17:24Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "PyTorch",
+      "LLMs"
+    ],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4475816470",
     "company": "Volvo Construction Equipment",
     "title": "Data Analyst Apprentice",
@@ -3217,6 +3326,35 @@
       "autosar"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "workday:ancestry:/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380",
+    "company": "Ancestry",
+    "title": "Postdoctoral Fellow, Applied AI",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380",
+    "posted_at": "2026-10-05T00:00:00Z",
+    "first_seen_at": "2026-10-15T12:17:24Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "LLMs",
+      "Computer Vision",
+      "AWS",
+      "GCP"
+    ],
+    "source": "workday",
     "scope": "india"
   },
   {
@@ -4534,6 +4672,33 @@
       "perl"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "company": "Ancestry",
+    "title": "Data Science - AI Document Understanding, Co-op",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "first_seen_at": "2026-10-15T12:17:24Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "LLMs",
+      "AWS"
+    ],
+    "source": "workday",
     "scope": "india"
   },
   {
