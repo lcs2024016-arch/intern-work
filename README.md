@@ -13,11 +13,11 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-197-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-196-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5504-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 25, 2026 at 18:06 UTC</em></p>
+  <p><em>Last updated: Oct 25, 2026 at 20:41 UTC</em></p>
 </div>
 
 ---
@@ -34,9 +34,9 @@
 | | <sub>`Python` `Java` `C++`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> 🆕 | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 23, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
 | | <sub>`burp suite` `owasp zap` `nmap` `wireshark`</sub> ||||||
-| **TÜV SÜD** | Automation Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-Automation-Engineer/8164-en_US?src=interndoor&ref=interndoor) |
+| **TÜV SÜD** | Automation Engineer Intern <sup>~</sup> | `Software` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-Automation-Engineer/8164-en_US?src=interndoor&ref=interndoor) |
 | | <sub>`low code` `data analytics` `ai` `oop`</sub> ||||||
-| **TÜV SÜD** | AI/Low Code Developer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor) |
+| **TÜV SÜD** | AI/Low Code Developer Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor) |
 | | <sub>`power platform` `data science` `ai` `low code`</sub> ||||||
 | **Valeo** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Chennai | Oct 23, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851?ref=interndoor) |
 | | <sub>`technical documentation` `data analysis`</sub> ||||||
@@ -371,13 +371,14 @@
 | **Veeam Software** | People &amp; Culture AI Transformation Intern- Summer 2027 | `Data &amp; ML/AI` | **USD 20–25 / hour** | Remote | Sep 11, 2026 | [Apply ↗](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971202101) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (167 of 197)._
+_~ = the title doesn't state a year; bucketed here from its posting date (167 of 196)._
 
 <details>
-<summary><strong>Recently closed</strong> — 118 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 119 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Generative AI Forward Deployed Engineer Intern- Master&#x27;s Degree | Summer 2027 | 2026-10-25 |
 | Galaxy | Off-Cycle 2026 Cybersecurity Internship | Fall 2026 | 2026-10-25 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-24 |
@@ -402,7 +403,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (167 of
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
 | CloudSEK | SDE Intern - Backend | Summer 2027 | 2026-10-19 |
-| Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-10-19 |
 
 </details>
 

@@ -1808,36 +1808,6 @@
     "scope": "india"
   },
   {
-    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-    "company": "Marvell",
-    "title": "Generative AI Forward Deployed Engineer Intern- Master's Degree",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bangalore",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-    "posted_at": "2026-10-15T00:00:00Z",
-    "first_seen_at": "2026-10-15T11:45:44Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "PyTorch",
-      "TensorFlow",
-      "LLMs",
-      "Git"
-    ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4479556508",
     "company": "Bank of America",
     "title": "Apprentice Software Developer",
