@@ -5048,34 +5048,6 @@
     "scope": "india"
   },
   {
-    "id": "greenhouse:galaxydigitalservices:6163325004",
-    "company": "Galaxy",
-    "title": "Off-Cycle 2026 Cybersecurity Internship",
-    "season": "Fall 2026",
-    "season_inferred": false,
-    "category": "Other",
-    "region": "Remote",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004",
-    "posted_at": "2026-08-25T23:24:00-04:00",
-    "first_seen_at": "2026-08-26T05:04:33Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "C++",
-      "Rust",
-      "LLMs"
-    ],
-    "source": "greenhouse",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:ats:greenhouse:towerresearchcapital:8143756",
     "company": "Tower Research Capital",
     "title": "AI/ML Intern",
