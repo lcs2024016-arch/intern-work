@@ -119,6 +119,12 @@
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4472919251/"
   },
+  "interndoor:4473551157": {
+    "checked_at": "2026-10-25T23:04:30Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://jobs.natwestgroup.com/jobs/18289724-ai-ml-trainee-6-month-fixed-term-contract-2026-graduates?tm_job=R-00285898-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56&ref=interndoor"
+  },
   "interndoor:4473599825": {
     "checked_at": "2026-10-25T10:32:06Z",
     "status": 200,
@@ -144,7 +150,7 @@
     "url": "https://www.linkedin.com/jobs/view/4475580374/"
   },
   "interndoor:4475816470": {
-    "checked_at": "2026-10-24T22:23:23Z",
+    "checked_at": "2026-10-25T23:04:30Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-560058/1370464655/?feedId=361555&utm_source=linkedin"
@@ -198,7 +204,7 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489904"
   },
   "interndoor:4478612369": {
-    "checked_at": "2026-10-24T22:23:23Z",
+    "checked_at": "2026-10-25T23:04:30Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489616"
@@ -300,7 +306,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4480971808": {
-    "checked_at": "2026-10-24T22:23:23Z",
+    "checked_at": "2026-10-25T23:04:30Z",
     "status": 403,
     "strikes": 0,
     "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
@@ -389,12 +395,6 @@
     "strikes": 0,
     "url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB?ref=interndoor"
   },
-  "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231": {
-    "checked_at": "2026-10-25T20:41:35Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231"
-  },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-25T10:32:06Z",
     "status": 200,
@@ -432,7 +432,7 @@
     "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
   },
   "ypatodkar:skydio:skydio_ashby_8994767e-fd53-4ca2-b0ef-fe0923c1e260": {
-    "checked_at": "2026-10-24T22:23:23Z",
+    "checked_at": "2026-10-25T23:04:30Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"
