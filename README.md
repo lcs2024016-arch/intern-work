@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5504-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 25, 2026 at 10:32 UTC</em></p>
+  <p><em>Last updated: Oct 25, 2026 at 14:50 UTC</em></p>
 </div>
 
 ---
@@ -38,9 +38,9 @@
 | | <sub>`low code` `data analytics` `ai` `oop`</sub> ||||||
 | **TÜV SÜD** | AI/Low Code Developer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Matar, Gujarat, India, On-site | Oct 23, 2026 | [Apply ↗](https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&ref=interndoor) |
 | | <sub>`power platform` `data science` `ai` `low code`</sub> ||||||
-| **Valeo** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Chennai | Oct 23, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851?ref=interndoor) |
+| **Valeo** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Chennai | Oct 23, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851?ref=interndoor) |
 | | <sub>`technical documentation` `data analysis`</sub> ||||||
-| **Marvell** | Intern, Software QA Engineer - Bachelor&#x27;s Degree 🆕 | `Software` | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250) |
+| **Marvell** | Intern, Software QA Engineer - Bachelor&#x27;s Degree | `Software` | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250) |
 | | <sub>`Python`</sub> ||||||
 | **Marvell** | Intern, Software Engineer - Bachelor&#x27;s Degree | `Software` | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624) |
 | | <sub>`Python` `Rust` `Linux`</sub> ||||||
@@ -275,7 +275,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **IBM** | Research Software Intern <sup>~</sup> 🆕 | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, Hybrid | Oct 23, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=137471&source=interndoor&ref=interndoor) |
+| **IBM** | Research Software Intern <sup>~</sup> | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, Hybrid | Oct 23, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=137471&source=interndoor&ref=interndoor) |
 | | <sub>`python` `pytorch` `jupyter notebooks` `git`</sub> ||||||
 | **OpenSesame** | AI Product Builder Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 22, 2026 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | **Electronic Arts (EA)** | Software Engineer Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 22, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215941?source=interndoor&ref=interndoor) |
