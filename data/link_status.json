@@ -1,4 +1,10 @@
 {
+  "greenhouse:guidepointsecurity:6224196004": {
+    "checked_at": "2026-10-26T18:05:45Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
+  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-26T12:01:21Z",
     "status": 403,
@@ -78,7 +84,7 @@
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
   },
   "interndoor:4469750098": {
-    "checked_at": "2026-10-25T14:50:20Z",
+    "checked_at": "2026-10-26T18:05:45Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/124443/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
@@ -281,12 +287,6 @@
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159740/?utm_medium=jobboard&utm_source=linkedin"
   },
-  "interndoor:4479821514": {
-    "checked_at": "2026-10-26T01:02:08Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=linkedin"
-  },
   "interndoor:4479829064": {
     "checked_at": "2026-10-25T20:41:35Z",
     "status": 200,
@@ -341,6 +341,18 @@
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160476/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
+  "interndoor:4483355003": {
+    "checked_at": "2026-10-26T18:05:45Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160492/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
+  },
+  "interndoor:4483510555": {
+    "checked_at": "2026-10-26T18:05:45Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=interndoor&ref=interndoor"
+  },
   "interndoor:ats:greenhouse:cloudsek:6222340004": {
     "checked_at": "2026-10-26T01:02:08Z",
     "status": 200,
@@ -366,7 +378,7 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
   },
   "interndoor:ats:microsoft:India:1970393556917520": {
-    "checked_at": "2026-10-25T14:50:20Z",
+    "checked_at": "2026-10-26T18:05:45Z",
     "status": 200,
     "strikes": 0,
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520?ref=interndoor"
@@ -401,18 +413,6 @@
     "strikes": 0,
     "url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB?ref=interndoor"
   },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494": {
-    "checked_at": "2026-10-26T12:01:21Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com:160495": {
-    "checked_at": "2026-10-26T12:01:21Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495"
-  },
   "ypatodkar:even-com:even-com_ashby_84beb108-c04b-42d3-a9ae-9a91210201b7": {
     "checked_at": "2026-10-26T12:01:21Z",
     "status": 200,
@@ -426,15 +426,15 @@
     "url": "https://jobs.ashbyhq.com/liveramp-inc/c027b0cc-a2c5-459b-8b0f-ad807ff2dea8"
   },
   "ypatodkar:habu:habu_ashby_ff0ac0dc-58c1-439c-92ee-69739ba94f84": {
-    "checked_at": "2026-10-26T12:01:21Z",
+    "checked_at": "2026-10-26T18:05:45Z",
     "status": 404,
-    "strikes": 1,
+    "strikes": 2,
     "url": "https://jobs.ashbyhq.com/liveramp-inc/ff0ac0dc-58c1-439c-92ee-69739ba94f84"
   },
   "ypatodkar:persona:persona_ashby_eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
-    "checked_at": "2026-10-26T12:01:21Z",
+    "checked_at": "2026-10-26T18:05:45Z",
     "status": 404,
-    "strikes": 1,
+    "strikes": 2,
     "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
   },
   "ypatodkar:quadric:quadric_ashby_cb79384e-5dd8-49a0-a075-549e7285316c": {
