@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-26T18:05:45Z</updated>
+  <updated>2026-10-26T22:21:33Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>IQVIA — Software Engineering Intern</title>
+    <link href="https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;amp;utm_source=interndoor&amp;amp;utm_medium=job_posting&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4482958369</id>
+    <updated>2026-10-26T18:05:45Z</updated>
+    <summary>Gurugram, Haryana, India, Hybrid · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Honeywell Technologies — Intern Bachelors Software Eng</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160482/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4483560309</id>
@@ -18,12 +24,6 @@
     <id>interndoor:4483568070</id>
     <updated>2026-10-26T18:05:45Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IQVIA — Software Engineering Intern</title>
-    <link href="https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;amp;utm_source=interndoor&amp;amp;utm_medium=job_posting&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4482958369</id>
-    <updated>2026-10-26T18:05:45Z</updated>
-    <summary>Gurugram, Haryana, India, Hybrid · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>WebEngage — Business Data Analyst Intern</title>
     <link href="https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor" rel="alternate"/>
@@ -54,12 +54,6 @@
     <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160480</id>
     <updated>2026-10-26T12:01:21Z</updated>
     <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Data Science</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160942</id>
-    <updated>2026-10-26T12:01:21Z</updated>
-    <summary>Pune, Maharashtra, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Marvell — Software Intern</title>
     <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252" rel="alternate"/>
@@ -132,12 +126,6 @@
     <id>workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
     <updated>2026-10-23T14:04:47Z</updated>
     <summary>Hyderabad · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Philips — Apprentice Trainee (Software Developer Level 1)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732" rel="alternate"/>
-    <id>workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
-    <updated>2026-10-23T14:04:47Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Marvell — Intern, Software Engineer - Bachelor&#x27;s Degree</title>
     <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624" rel="alternate"/>
@@ -305,6 +293,18 @@
     <link href="https://careers.cargill.com/en/job/-/-/23251/102151489904" rel="alternate"/>
     <id>interndoor:4478604637</id>
     <updated>2026-10-21T10:58:16Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>AtkinsRéalis — Data Science Intern</title>
+    <link href="https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed" rel="alternate"/>
+    <id>interndoor:4480971808</id>
+    <updated>2026-10-21T10:58:16Z</updated>
+    <summary>Bengaluru East, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cargill — Software Engineer Intern</title>
+    <link href="https://careers.cargill.com/en/job/-/-/23251/102151489760" rel="alternate"/>
+    <id>interndoor:4478620039</id>
+    <updated>2026-10-20T21:07:02Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-203-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-201-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5505-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 26, 2026 at 18:05 UTC</em></p>
+  <p><em>Last updated: Oct 26, 2026 at 22:21 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>136 open</kbd>
+## Summer 2027 (India) <kbd>134 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -39,8 +39,6 @@
 | **Honeywell** | Intern Bachelors AI <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160430) |
 | **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160480) |
 | | <sub>`Python` `Java` `C++`</sub> ||||||
-| **Honeywell** | Intern Bachelors Data Science <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Pune, Maharashtra, India | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942) |
-| | <sub>`Python` `SQL` `Tableau`</sub> ||||||
 | **Marvell** | Software Intern 🆕 | `Software` | B.Tech/BS | Bangalore | Oct 26, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252) |
 | | <sub>`Python` `MATLAB`</sub> ||||||
 | **Marvell** | Intern, Software Engineer 🆕 | `Software` | B.Tech/BS | Hyderabad | Oct 26, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
@@ -49,8 +47,8 @@
 | | <sub>`Rust`</sub> ||||||
 | **Wayfair** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 25, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=interndoor&ref=interndoor) |
 | | <sub>`python` `java` `c++` `sql`</sub> ||||||
-| **Honeywell Technologies** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
-| **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160492/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 24, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160492/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Oct 23, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
 | | <sub>`burp suite` `owasp zap` `nmap` `wireshark`</sub> ||||||
@@ -62,7 +60,6 @@
 | | <sub>`technical documentation` `data analysis`</sub> ||||||
 | **Marvell** | Intern, Software QA Engineer - Bachelor&#x27;s Degree | `Software` | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250) |
 | | <sub>`Python`</sub> ||||||
-| **Philips** | Apprentice Trainee (Software Developer Level 1) <sup>~</sup> | `Software` | B.Tech/BS | Bangalore | Oct 23, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732) |
 | **Marvell** | Intern, Software Engineer - Bachelor&#x27;s Degree | `Software` | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624) |
 | | <sub>`Python` `Rust` `Linux`</sub> ||||||
 | **Honeywell Technologies** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 22, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160473/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
@@ -379,13 +376,15 @@
 | **Veeam Software** | People &amp; Culture AI Transformation Intern- Summer 2027 | `Data &amp; ML/AI` | **USD 20–25 / hour** | Remote | Sep 11, 2026 | [Apply ↗](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971202101) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (171 of 203)._
+_~ = the title doesn't state a year; bucketed here from its posting date (169 of 201)._
 
 <details>
 <summary><strong>Recently closed</strong> — 122 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Data Science | Summer 2027 | 2026-10-26 |
+| Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-26 |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Summer 2027 | 2026-10-26 |
 | Habu | Co-Op, Software Development Engineer - Observability Team | Summer 2027 | 2026-10-26 |
 | Persona | Software Engineer, Intern (Summer 2027) | Summer 2027 | 2026-10-26 |
@@ -409,8 +408,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (171 of
 | Revvity | AI Applications DevOps Intern | Summer 2027 | 2026-10-22 |
 | Revvity | Full-Stack AI Engineering Intern | Summer 2027 | 2026-10-22 |
 | AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
-| Marsh | AI Engineer Intern | Summer 2027 | 2026-10-21 |
-| Eli Lilly and Company | Data Analyst Intern | Summer 2027 | 2026-10-20 |
 
 </details>
 

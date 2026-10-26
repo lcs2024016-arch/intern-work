@@ -1,5 +1,34 @@
 [
   {
+    "id": "interndoor:4482958369",
+    "company": "IQVIA",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Gurugram, Haryana, India, Hybrid",
+    "url": "https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;utm_source=interndoor&amp;utm_medium=job_posting&ref=interndoor",
+    "posted_at": "2026-10-26",
+    "first_seen_at": "2026-10-26T18:05:45Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "python",
+      "rest api",
+      "fastapi",
+      "sql",
+      "github"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4483560309",
     "company": "Honeywell Technologies",
     "title": "Intern Bachelors Software Eng",
@@ -50,35 +79,6 @@
       "sql",
       "tableau",
       "r"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4482958369",
-    "company": "IQVIA",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Gurugram, Haryana, India, Hybrid",
-    "url": "https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;utm_source=interndoor&amp;utm_medium=job_posting&ref=interndoor",
-    "posted_at": "2026-10-26",
-    "first_seen_at": "2026-10-26T18:05:45Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "rest api",
-      "fastapi",
-      "sql",
-      "github"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -212,33 +212,6 @@
       "Python",
       "Java",
       "C++"
-    ],
-    "source": "oracle",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160942",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Data Science",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Pune, Maharashtra, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942",
-    "posted_at": "2026-10-26",
-    "first_seen_at": "2026-10-26T12:01:21Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Tableau"
     ],
     "source": "oracle",
     "scope": "india"
@@ -561,29 +534,6 @@
     "skills": [
       "Python"
     ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
-    "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-    "company": "Philips",
-    "title": "Apprentice Trainee (Software Developer Level 1)",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bangalore",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-    "posted_at": "2026-10-23T00:00:00Z",
-    "first_seen_at": "2026-10-23T14:04:47Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
     "source": "workday",
     "scope": "india"
   },
