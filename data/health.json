@@ -914,6 +914,11 @@
     "last_attempt_at": "2026-10-25T23:04:30Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/anticapital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:aofl": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-26T01:02:08Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/aofl?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
   "lever:aprio": {
     "consecutive_failures": 34,
     "last_attempt_at": "2026-10-25T23:04:30Z",
@@ -948,6 +953,11 @@
     "consecutive_failures": 34,
     "last_attempt_at": "2026-10-25T23:04:30Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/bestegg?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:butcherbox": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-26T01:02:08Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/butcherbox?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:calstart": {
     "consecutive_failures": 18,
