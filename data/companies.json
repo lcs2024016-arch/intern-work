@@ -1334,6 +1334,11 @@
     "site": "altagas"
   },
   {
+    "name": "AltaLink",
+    "slug": "altalink",
+    "ats": "workable"
+  },
+  {
     "name": "AltaML",
     "slug": "altaml",
     "ats": "lever"
@@ -8911,6 +8916,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Easemytrip.Com",
+    "slug": "ec",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Eastern Communications",
     "slug": "eastern-communications",
     "ats": "lever"
@@ -10224,6 +10234,11 @@
     "name": "Farallon Capital Management",
     "slug": "faralloncapitalmanagementllc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Farcast",
+    "slug": "farcast",
+    "ats": "lever"
   },
   {
     "name": "Farfetch",
@@ -13299,6 +13314,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Hiya",
+    "slug": "hiya",
+    "ats": "ashby"
+  },
+  {
     "name": "Hl",
     "slug": "hl",
     "ats": "workday",
@@ -13912,6 +13932,13 @@
     "name": "IEX",
     "slug": "iex-interns",
     "ats": "greenhouse"
+  },
+  {
+    "name": "IFF",
+    "slug": "iff",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "IFF_Careers"
   },
   {
     "name": "iFLIP4",
@@ -14552,6 +14579,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "InterDigital_Intern"
+  },
+  {
+    "name": "Interface",
+    "slug": "interface",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "interface"
   },
   {
     "name": "interface.ai",
@@ -15561,6 +15595,11 @@
     "name": "Klaviyo",
     "slug": "klaviyo",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Kled AI",
+    "slug": "kled-ai",
+    "ats": "ashby"
   },
   {
     "name": "Klue",
@@ -16903,6 +16942,11 @@
     "ats": "oracle",
     "host": "ebwh.fa.us2.oraclecloud.com",
     "site": "CX_1001"
+  },
+  {
+    "name": "Madhive",
+    "slug": "madhive",
+    "ats": "ashby"
   },
   {
     "name": "Madison Energy Infrastructure",
@@ -18838,6 +18882,13 @@
     "ats": "rippling"
   },
   {
+    "name": "Nationalindemnity",
+    "slug": "nationalindemnity",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "NICO"
+  },
+  {
     "name": "NationGraph",
     "slug": "nationgraph",
     "ats": "ashby"
@@ -19850,6 +19901,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "careers"
+  },
+  {
+    "name": "OakNorth",
+    "slug": "oaknorth",
+    "ats": "ashby"
   },
   {
     "name": "OakNorth Bank",
@@ -23940,6 +23996,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Sampura Research",
+    "slug": "sampura",
+    "ats": "ashby"
+  },
+  {
     "name": "Samsara",
     "slug": "samsara",
     "ats": "greenhouse"
@@ -27486,6 +27547,11 @@
     "name": "Tidal Financial Group",
     "slug": "open-roles",
     "ats": "rippling"
+  },
+  {
+    "name": "Tide",
+    "slug": "tide",
+    "ats": "greenhouse"
   },
   {
     "name": "Tiger Analytics",
