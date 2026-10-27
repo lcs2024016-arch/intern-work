@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-26T22:21:33Z</updated>
+  <updated>2026-10-27T01:49:08Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>IQVIA — Software Engineering Intern</title>
@@ -235,12 +235,6 @@
     <updated>2026-10-21T10:58:16Z</updated>
     <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Skydio — Embedded Software Engineer Intern - Winer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34" rel="alternate"/>
-    <id>ypatodkar:skydio:skydio_ashby_370da6a5-5ae6-48fe-8e08-9b1dcc63bf34</id>
-    <updated>2026-10-21T00:21:19Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Skydio — Mobile Software Engineer Intern - Summer 2027</title>
     <link href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52" rel="alternate"/>
     <id>ypatodkar:skydio:skydio_ashby_8a237302-3fe8-4403-b32b-7690f333ba52</id>
@@ -305,6 +299,12 @@
     <link href="https://careers.cargill.com/en/job/-/-/23251/102151489760" rel="alternate"/>
     <id>interndoor:4478620039</id>
     <updated>2026-10-20T21:07:02Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cargill — Software Engineer Intern</title>
+    <link href="https://careers.cargill.com/en/job/-/-/23251/102151489680" rel="alternate"/>
+    <id>interndoor:4478619070</id>
+    <updated>2026-10-19T22:11:14Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>

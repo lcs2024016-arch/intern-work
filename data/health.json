@@ -219,6 +219,11 @@
     "last_attempt_at": "2026-10-25T23:04:30Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mentis?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
+  "ashby:mintmcp": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-27T01:49:08Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mintmcp?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
+  },
   "ashby:mistral": {
     "consecutive_failures": 34,
     "last_attempt_at": "2026-10-25T23:04:30Z",
@@ -1669,11 +1674,6 @@
     "last_attempt_at": "2026-10-25T14:50:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sorting-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
-  "workable:ssci": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-26T22:21:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ssci/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
-  },
   "workable:staffordgray": {
     "consecutive_failures": 9,
     "last_attempt_at": "2026-10-26T22:21:33Z",
@@ -1709,20 +1709,10 @@
     "last_attempt_at": "2026-10-25T14:50:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tarte-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
-  "workable:tecsa": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-26T22:21:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tecsa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
   "workable:teguar-corporation": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-10-25T14:50:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/teguar-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
-  },
-  "workable:terabase-energy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-26T22:21:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/terabase-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:teserac-inc": {
     "consecutive_failures": 9,
@@ -1738,11 +1728,6 @@
     "consecutive_failures": 8,
     "last_attempt_at": "2026-10-25T14:50:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workable:theshipyard": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-26T22:21:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/theshipyard/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:thingtrax": {
     "consecutive_failures": 8,
@@ -1818,11 +1803,6 @@
     "consecutive_failures": 9,
     "last_attempt_at": "2026-10-26T22:21:33Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/vectoratomic/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
-  },
-  "workable:versa-networks": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-26T22:21:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/versa-networks/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:viewline-ventures": {
     "consecutive_failures": 9,
