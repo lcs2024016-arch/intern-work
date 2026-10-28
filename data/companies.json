@@ -747,6 +747,11 @@
     "ats": "lever"
   },
   {
+    "name": "Agave",
+    "slug": "agave",
+    "ats": "ashby"
+  },
+  {
     "name": "Age of Learning",
     "slug": "aofl",
     "ats": "lever"
@@ -1034,6 +1039,11 @@
     "ats": "oracle",
     "host": "eofd.fa.us6.oraclecloud.com",
     "site": "CX_1001"
+  },
+  {
+    "name": "Alchemi",
+    "slug": "alchemi",
+    "ats": "ashby"
   },
   {
     "name": "Alchemy",
@@ -3354,6 +3364,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Bags",
+    "slug": "bagsfm",
+    "ats": "ashby"
+  },
+  {
     "name": "Baidu",
     "slug": "baidu-careers",
     "ats": "smartrecruiters"
@@ -3754,6 +3769,11 @@
   {
     "name": "Betterment",
     "slug": "betterment",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Betterment",
+    "slug": "bettermentcampusrecruiting",
     "ats": "greenhouse"
   },
   {
@@ -4535,6 +4555,11 @@
     "site": "BRG_External_Career_Site"
   },
   {
+    "name": "Bridge Neurotech",
+    "slug": "bridgeneurotech",
+    "ats": "ashby"
+  },
+  {
     "name": "Bridger",
     "slug": "bridger",
     "ats": "ashby"
@@ -4766,6 +4791,11 @@
     "name": "Bugcrowd",
     "slug": "bugcrowd",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Build AI",
+    "slug": "build-ai",
+    "ats": "ashby"
   },
   {
     "name": "Buildertrend",
@@ -5048,6 +5078,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "externalcareers_globalsite"
+  },
+  {
+    "name": "CAMS",
+    "slug": "camstex",
+    "ats": "lever"
   },
   {
     "name": "Canadian Bank Note",
@@ -5628,6 +5663,11 @@
     "name": "Cerner",
     "slug": "cerner",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Certa",
+    "slug": "certa",
+    "ats": "ashby"
   },
   {
     "name": "Certik",
@@ -7469,6 +7509,11 @@
     "ats": "ashby"
   },
   {
+    "name": "CrossCountry Consulting",
+    "slug": "crosscountry-consulting",
+    "ats": "lever"
+  },
+  {
     "name": "CrossCountry Mortgage",
     "slug": "crosscountrymortgage",
     "ats": "workday",
@@ -8461,6 +8506,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "dmodel",
+    "slug": "dmodel",
+    "ats": "ashby"
+  },
+  {
     "name": "DMS",
     "slug": "digitalmediaservices",
     "ats": "workable"
@@ -8689,6 +8739,11 @@
     "name": "DriveWealth",
     "slug": "drivewealth",
     "ats": "greenhouse"
+  },
+  {
+    "name": "DriveWealth",
+    "slug": "drivewealth",
+    "ats": "ashby"
   },
   {
     "name": "Dropbox",
@@ -9233,6 +9288,11 @@
     "ats": "workable"
   },
   {
+    "name": "Elveo",
+    "slug": "elveo",
+    "ats": "ashby"
+  },
+  {
     "name": "Elwood Technologies",
     "slug": "elwoodtechnologies",
     "ats": "greenhouse"
@@ -9418,6 +9478,11 @@
     "name": "Engineers Gate",
     "slug": "engineersgate",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Engramme",
+    "slug": "engramme",
+    "ats": "ashby"
   },
   {
     "name": "Enigma",
@@ -10332,6 +10397,11 @@
     "name": "Felix Magazine",
     "slug": "LuxeMediaLLC",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Fellow",
+    "slug": "fellowai",
+    "ats": "ashby"
   },
   {
     "name": "Fenwick & West",
@@ -11344,6 +11414,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "FUTO",
+    "slug": "futo-org",
+    "ats": "lever"
+  },
+  {
     "name": "Fynd",
     "slug": "fynd",
     "ats": "smartrecruiters"
@@ -11661,6 +11736,11 @@
     "ats": "ashby"
   },
   {
+    "name": "General Magic",
+    "slug": "generalmagic",
+    "ats": "ashby"
+  },
+  {
     "name": "General Matter",
     "slug": "generalmatter",
     "ats": "greenhouse"
@@ -11680,6 +11760,11 @@
   {
     "name": "Generalist",
     "slug": "generalist",
+    "ats": "ashby"
+  },
+  {
+    "name": "Generate Capital",
+    "slug": "generate",
     "ats": "ashby"
   },
   {
@@ -12060,6 +12145,11 @@
     "name": "GO Media",
     "slug": "go-media",
     "ats": "workable"
+  },
+  {
+    "name": "Goaly",
+    "slug": "goaly",
+    "ats": "ashby"
   },
   {
     "name": "GOAT",
@@ -13734,6 +13824,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Hyphenate",
+    "slug": "hyphenate",
+    "ats": "ashby"
+  },
+  {
     "name": "Hyster-Yale Materials Handling",
     "slug": "hysteryale",
     "ats": "workday",
@@ -14772,6 +14867,11 @@
     "site": "INVH"
   },
   {
+    "name": "Inworld AI",
+    "slug": "inworld-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "ION Group",
     "slug": "ion",
     "ats": "lever"
@@ -14927,6 +15027,11 @@
   {
     "name": "iwoca",
     "slug": "iwoca",
+    "ats": "ashby"
+  },
+  {
+    "name": "Ixian Robotics",
+    "slug": "ixianrobotics",
     "ats": "ashby"
   },
   {
@@ -15852,6 +15957,11 @@
     "ats": "lever"
   },
   {
+    "name": "Laminar",
+    "slug": "laminar-jobs",
+    "ats": "ashby"
+  },
+  {
     "name": "Lance",
     "slug": "lance",
     "ats": "ashby"
@@ -16234,6 +16344,11 @@
     "name": "Liftoff",
     "slug": "liftoff",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Light",
+    "slug": "light-inc",
+    "ats": "ashby"
   },
   {
     "name": "Light & Wonder",
@@ -16757,6 +16872,11 @@
   {
     "name": "Lumafield",
     "slug": "lumafield",
+    "ats": "lever"
+  },
+  {
+    "name": "Lumaril",
+    "slug": "lumaril-corporation",
     "ats": "lever"
   },
   {
@@ -17347,6 +17467,11 @@
     "name": "MatX",
     "slug": "matx",
     "ats": "greenhouse"
+  },
+  {
+    "name": "MatX",
+    "slug": "matx",
+    "ats": "ashby"
   },
   {
     "name": "Mauser Packaging Solutions",
@@ -19394,6 +19519,11 @@
     "ats": "lever"
   },
   {
+    "name": "Nexus Intelligence",
+    "slug": "nexus-intelligence",
+    "ats": "ashby"
+  },
+  {
     "name": "Nexxen",
     "slug": "nexxen",
     "ats": "ashby"
@@ -19492,6 +19622,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "NIO_Careers"
+  },
+  {
+    "name": "Nio",
+    "slug": "nio-usa",
+    "ats": "lever"
   },
   {
     "name": "NiSource",
@@ -19851,6 +19986,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "NUVACORE",
+    "slug": "nuvacore",
+    "ats": "lever"
+  },
+  {
     "name": "nVent",
     "slug": "nvent",
     "ats": "workday",
@@ -20106,6 +20246,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Old Mission",
+    "slug": "old-mission-capital",
+    "ats": "ashby"
+  },
+  {
     "name": "Old Republic Title",
     "slug": "oldrepublic",
     "ats": "workday",
@@ -20205,6 +20350,11 @@
     "name": "One Plus",
     "slug": "oneplus",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "One Robot",
+    "slug": "onerobot",
+    "ats": "ashby"
   },
   {
     "name": "OneDigital",
@@ -20369,6 +20519,11 @@
     "ats": "ashby"
   },
   {
+    "name": "OpenMind",
+    "slug": "openmind",
+    "ats": "ashby"
+  },
+  {
     "name": "OpenSea",
     "slug": "opensea",
     "ats": "ashby"
@@ -20417,6 +20572,11 @@
     "name": "OptionMetrics",
     "slug": "optionmetrics",
     "ats": "lever"
+  },
+  {
+    "name": "Options Technology",
+    "slug": "options-it",
+    "ats": "ashby"
   },
   {
     "name": "OptiRTC",
@@ -21125,6 +21285,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Pelico",
+    "slug": "pelico",
+    "ats": "ashby"
+  },
+  {
     "name": "Pelmorex",
     "slug": "pelmorex",
     "ats": "lever"
@@ -21718,7 +21883,7 @@
     "site": "External"
   },
   {
-    "name": "Pocket Fm",
+    "name": "Pocket FM",
     "slug": "pocketfm",
     "ats": "lever"
   },
@@ -21897,6 +22062,11 @@
     "site": "PDI"
   },
   {
+    "name": "Powertown",
+    "slug": "powertown",
+    "ats": "ashby"
+  },
+  {
     "name": "Poynt",
     "slug": "poynt",
     "ats": "smartrecruiters"
@@ -21929,6 +22099,11 @@
     "name": "Practo",
     "slug": "practo",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Pramaana Labs",
+    "slug": "pramaana-labs",
+    "ats": "ashby"
   },
   {
     "name": "Praxent",
@@ -22354,6 +22529,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Pure",
+    "slug": "pureapp",
+    "ats": "ashby"
+  },
+  {
     "name": "PURE Insurance",
     "slug": "pureinsurance",
     "ats": "workday",
@@ -22467,6 +22647,11 @@
     "name": "Quadric",
     "slug": "quadric-dot-i-o-inc",
     "ats": "workable"
+  },
+  {
+    "name": "Quadric",
+    "slug": "quadric",
+    "ats": "ashby"
   },
   {
     "name": "Quadrillion",
@@ -22728,6 +22913,11 @@
     "name": "Rain",
     "slug": "rain",
     "ats": "ashby"
+  },
+  {
+    "name": "RainFocus",
+    "slug": "rainfocus",
+    "ats": "lever"
   },
   {
     "name": "Rakuten International",
@@ -23067,6 +23257,11 @@
     "site": "ReliaQuest_Careers"
   },
   {
+    "name": "Relling",
+    "slug": "relling",
+    "ats": "ashby"
+  },
+  {
     "name": "Reltio",
     "slug": "reltio",
     "ats": "greenhouse"
@@ -23179,6 +23374,11 @@
     "site": "rts"
   },
   {
+    "name": "Resonance",
+    "slug": "resonance",
+    "ats": "ashby"
+  },
+  {
     "name": "Resonate",
     "slug": "resonate",
     "ats": "greenhouse"
@@ -23214,6 +23414,11 @@
     "name": "ResultsCX",
     "slug": "resultscx",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Resurgent Industries",
+    "slug": "resurgent-industries",
+    "ats": "ashby"
   },
   {
     "name": "Retail Information Systems",
@@ -24462,6 +24667,11 @@
     "site": "Seko_Logistics"
   },
   {
+    "name": "Sela AI",
+    "slug": "sela",
+    "ats": "ashby"
+  },
+  {
     "name": "Select Milk Producers",
     "slug": "selectmilk",
     "ats": "workday",
@@ -24710,6 +24920,11 @@
     "name": "Shield AI",
     "slug": "shieldai",
     "ats": "lever"
+  },
+  {
+    "name": "Shield AI",
+    "slug": "f7d8749a-72d6-407c-bf98-292ea630c73a",
+    "ats": "ashby"
   },
   {
     "name": "Shields Health Solutions",
@@ -25126,6 +25341,11 @@
     "name": "skillz",
     "slug": "skillzinc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Skyband Systems",
+    "slug": "skyband",
+    "ats": "ashby"
   },
   {
     "name": "Skydio",
@@ -25623,6 +25843,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Spectral Labs",
+    "slug": "spectral",
+    "ats": "ashby"
+  },
+  {
     "name": "Spectrum Control",
     "slug": "spectrumcontrol",
     "ats": "workday",
@@ -25943,6 +26168,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "StarTree",
+    "slug": "startree",
+    "ats": "greenhouse"
   },
   {
     "name": "Starz",
@@ -26582,6 +26812,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "external"
+  },
+  {
+    "name": "Takt",
+    "slug": "takt",
+    "ats": "ashby"
   },
   {
     "name": "Talan",
@@ -29295,6 +29530,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Veritus",
+    "slug": "veritus",
+    "ats": "ashby"
+  },
+  {
     "name": "Verizon Communications",
     "slug": "verizon",
     "ats": "workday",
@@ -29455,6 +29695,11 @@
     "site": "VEH_EXTERNAL_CAREER_SITE"
   },
   {
+    "name": "Videotron",
+    "slug": "Videotron",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Viewline Ventures",
     "slug": "viewline-ventures",
     "ats": "workable"
@@ -29463,6 +29708,11 @@
     "name": "Viget",
     "slug": "viget",
     "ats": "lever"
+  },
+  {
+    "name": "Viggle AI",
+    "slug": "viggle",
+    "ats": "ashby"
   },
   {
     "name": "Viking Global",
@@ -30368,6 +30618,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Within",
+    "slug": "within",
+    "ats": "ashby"
+  },
+  {
     "name": "Withum",
     "slug": "campusopportunities",
     "ats": "greenhouse"
@@ -30637,6 +30892,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Xapien",
+    "slug": "xapien",
+    "ats": "ashby"
+  },
+  {
     "name": "Xcel Energy",
     "slug": "xcelenergy",
     "ats": "workday",
@@ -30692,6 +30952,11 @@
     "name": "Xsolla",
     "slug": "xsolla",
     "ats": "lever"
+  },
+  {
+    "name": "Xterra AI",
+    "slug": "xterra",
+    "ats": "ashby"
   },
   {
     "name": "XTX Markets",
@@ -31102,6 +31367,11 @@
     "name": "Zus Health",
     "slug": "zushealth",
     "ats": "lever"
+  },
+  {
+    "name": "Zus Health",
+    "slug": "zus-health",
+    "ats": "ashby"
   },
   {
     "name": "Zynga",
