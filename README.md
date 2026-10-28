@@ -13,19 +13,23 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-216-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-217-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5571-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 28, 2026 at 17:01 UTC</em></p>
+  <p><em>Last updated: Oct 28, 2026 at 21:36 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>141 open</kbd>
+## Summer 2027 (India) <kbd>142 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **GoKwik** | AI Solutions Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore, KA, India | Oct 28, 2026 | [Apply ↗](https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor) |
+| | <sub>`llms` `prompt engineering` `cross-functional collaboration`</sub> ||||||
+| **Heads Up For Tails** | Flutter Developer Intern <sup>~</sup> 🆕 | `Software` | **₹10,000 / month**<br>B.Tech/BCA/MCA | Gurugram, Haryana, India | Oct 28, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4484113243/) |
+| | <sub>`dart` `flutter` `rest apis` `json`</sub> ||||||
 | **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Pimpri Chinchwad, Maharashtra, India | Oct 28, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&ref=interndoor) |
 | | <sub>`c++` `c` `linux` `android`</sub> ||||||
 | **Harman** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | India | Oct 28, 2026 | [Apply ↗](https://harman.wd3.myworkdayjobs.com/en-US/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Intern_R-56682-2026-1?ref=interndoor) |
@@ -48,13 +52,11 @@
 | | <sub>`system monitoring` `cloud infrastructure` `incident management`</sub> ||||||
 | **Valency Networks Private Limited** | Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security <sup>~</sup> 🆕 | `Other` | M.Tech/MS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481851364/) |
 | | <sub>`burp suite` `nmap` `owasp zap` `postman`</sub> ||||||
-| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868) |
-| | <sub>`Python` `Java` `C++`</sub> ||||||
-| **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160482/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160482/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Honeywell Technologies** | Intern Bachelors Data Science <sup>~</sup> 🆕 | `Data &amp; ML/AI` | Bachelors | Pune Division, Maharashtra, India, On… | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160942/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | Intern Bachelors Data Science <sup>~</sup> | `Data &amp; ML/AI` | Bachelors | Pune Division, Maharashtra, India, On… | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160942/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`python` `sql` `tableau` `r`</sub> ||||||
-| **WebEngage** | Business Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai , MH, India | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
+| **WebEngage** | Business Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai , MH, India | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
 | | <sub>`sql` `bigquery` `bi tools` `spreadsheet`</sub> ||||||
 | **Newton School** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | Computer Science/Information Technology | Bengaluru, Karnataka, India | Oct 26, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481448076/) |
 | | <sub>`sql` `excel` `python` `power bi`</sub> ||||||
@@ -304,7 +306,7 @@
 | | <sub>`LLMs`</sub> ||||||
 | **Electronic Arts (EA)** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 27, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940?source=interndoor&ref=interndoor) |
 | | <sub>`java` `microservices` `cloud native` `docker`</sub> ||||||
-| **IQVIA** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Gurugram, Haryana, India, Hybrid | Oct 26, 2026 | [Apply ↗](https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;utm_source=interndoor&amp;utm_medium=job_posting&ref=interndoor) |
+| **IQVIA** | Software Engineering Intern <sup>~</sup> | `Software` | — | Gurugram, Haryana, India, Hybrid | Oct 26, 2026 | [Apply ↗](https://jobs.iqvia.com/jobs/R1567860-1?source=interndoor&amp;utm_source=interndoor&amp;utm_medium=job_posting&ref=interndoor) |
 | | <sub>`python` `rest api` `fastapi` `sql`</sub> ||||||
 | **IBM** | Research Software Intern <sup>~</sup> | `Software` | B.Tech/M.Tech | Bengaluru, Karnataka, India, Hybrid | Oct 23, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=137471&source=interndoor&ref=interndoor) |
 | | <sub>`python` `pytorch` `jupyter notebooks` `git`</sub> ||||||
@@ -397,13 +399,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (183 of 216)._
+_~ = the title doesn't state a year; bucketed here from its posting date (184 of 217)._
 
 <details>
-<summary><strong>Recently closed</strong> — 104 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 103 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-28 |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-28 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-27 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-27 |
@@ -428,7 +431,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (183 of
 | Lean TECHniques | Software Engineer Intern - Hybrid | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-23 |
 | Marvell | Intern, Software QA Engineer Bachelor&#x27;s Degree | Summer 2027 | 2026-10-23 |
-| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-23 |
 
 </details>
 
@@ -445,7 +447,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,572 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,572 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

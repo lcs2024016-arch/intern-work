@@ -1,5 +1,61 @@
 [
   {
+    "id": "interndoor:ats:keka:gokwik:167888",
+    "company": "GoKwik",
+    "title": "AI Solutions Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bangalore, KA, India",
+    "url": "https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor",
+    "posted_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T21:36:32Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "llms",
+      "prompt engineering",
+      "cross-functional collaboration"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4484113243",
+    "company": "Heads Up For Tails",
+    "title": "Flutter Developer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Gurugram, Haryana, India",
+    "url": "https://www.linkedin.com/jobs/view/4484113243/",
+    "posted_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T21:36:32Z",
+    "salary": "₹10,000 / month",
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BCA/MCA",
+    "experience": null,
+    "skills": [
+      "dart",
+      "flutter",
+      "rest apis",
+      "json",
+      "git"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4482506472",
     "company": "HARMAN India",
     "title": "Software Engineering Intern",
@@ -404,33 +460,6 @@
       "owasp top 10"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Pune City, Maharashtra, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
-    "posted_at": "2026-10-27",
-    "first_seen_at": "2026-10-27T07:11:48Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "C++"
-    ],
-    "source": "oracle",
     "scope": "india"
   },
   {
