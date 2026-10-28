@@ -13,19 +13,23 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-214-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-216-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5571-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 28, 2026 at 10:17 UTC</em></p>
+  <p><em>Last updated: Oct 28, 2026 at 17:01 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>139 open</kbd>
+## Summer 2027 (India) <kbd>141 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Pimpri Chinchwad, Maharashtra, India | Oct 28, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&ref=interndoor) |
+| | <sub>`c++` `c` `linux` `android`</sub> ||||||
+| **Harman** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | India | Oct 28, 2026 | [Apply ↗](https://harman.wd3.myworkdayjobs.com/en-US/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Intern_R-56682-2026-1?ref=interndoor) |
+| | <sub>`c++` `c` `linux` `android`</sub> ||||||
 | **Certa** | Frontend Engineer - Internship <sup>~</sup> 🆕 | `Software` | 0-1 Yr | India | Oct 28, 2026 | [Apply ↗](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
 | | <sub>`TypeScript` `JavaScript` `React`</sub> ||||||
 | **HackerRank** | AI Researcher Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Onsite in Bangalore | Oct 28, 2026 | [Apply ↗](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
@@ -52,9 +56,9 @@
 | | <sub>`python` `sql` `tableau` `r`</sub> ||||||
 | **WebEngage** | Business Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai , MH, India | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
 | | <sub>`sql` `bigquery` `bi tools` `spreadsheet`</sub> ||||||
-| **Newton School** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | Computer Science/Information Technology | Bengaluru, Karnataka, India | Oct 26, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481448076/) |
+| **Newton School** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | Computer Science/Information Technology | Bengaluru, Karnataka, India | Oct 26, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481448076/) |
 | | <sub>`sql` `excel` `python` `power bi`</sub> ||||||
-| **Philips** | Software Developer Apprentice <sup>~</sup> 🆕 | `Software` | — | Bangalore | Oct 26, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732?ref=interndoor) |
+| **Philips** | Software Developer Apprentice <sup>~</sup> | `Software` | — | Bangalore | Oct 26, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732?ref=interndoor) |
 | | <sub>`Python` `Java`</sub> ||||||
 | **Marvell** | Software Intern | `Software` | B.Tech/BS | Bangalore | Oct 26, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252) |
 | | <sub>`Python` `MATLAB`</sub> ||||||
@@ -393,10 +397,10 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (181 of 214)._
+_~ = the title doesn't state a year; bucketed here from its posting date (183 of 216)._
 
 <details>
-<summary><strong>Recently closed</strong> — 108 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 104 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -441,7 +445,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,572 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 14.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,572 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
