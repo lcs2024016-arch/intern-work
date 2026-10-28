@@ -1,10 +1,4 @@
 {
-  "greenhouse:guidepointsecurity:6148707004": {
-    "checked_at": "2026-10-28T03:19:00Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004"
-  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-10-27T13:55:05Z",
     "status": 403,
@@ -120,7 +114,7 @@
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
   },
   "interndoor:4472919251": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4472919251/"
@@ -168,19 +162,19 @@
     "url": "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-560058/1370464655/?feedId=361555&utm_source=linkedin"
   },
   "interndoor:4475935846": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503/?source=interndoor&ref=interndoor"
   },
   "interndoor:4476085759": {
-    "checked_at": "2026-10-27T07:11:48Z",
-    "status": 429,
+    "checked_at": "2026-10-28T10:17:53Z",
+    "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4476085759/"
   },
   "interndoor:4476271622": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.micronerp.com/careers/cmth9l2cf002mm6010l370tt2?ref=interndoor"
@@ -270,7 +264,7 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489824"
   },
   "interndoor:4478993872": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4478993872/"
@@ -342,7 +336,7 @@
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
   "interndoor:4481448076": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4481448076/"
@@ -462,7 +456,7 @@
     "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7"
   },
   "ypatodkar:quadric:quadric_ashby_cb79384e-5dd8-49a0-a075-549e7285316c": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c"
@@ -474,7 +468,7 @@
     "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a"
   },
   "ypatodkar:skydio:skydio_ashby_ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9": {
-    "checked_at": "2026-10-27T07:11:48Z",
+    "checked_at": "2026-10-28T10:17:53Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"

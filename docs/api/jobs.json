@@ -1,5 +1,57 @@
 [
   {
+    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
+    "company": "Certa",
+    "title": "Frontend Engineer - Internship",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "India",
+    "url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
+    "posted_at": "2026-10-28T06:03:09.175+00:00",
+    "first_seen_at": "2026-10-28T10:17:53Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": "0-1 Yr",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "React"
+    ],
+    "source": "ashby",
+    "scope": "india"
+  },
+  {
+    "id": "greenhouse:hackerrank:8281055",
+    "company": "HackerRank",
+    "title": "AI Researcher Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Onsite in Bangalore",
+    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
+    "posted_at": "2026-10-28T02:27:16-04:00",
+    "first_seen_at": "2026-10-28T10:17:53Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "PyTorch"
+    ],
+    "source": "greenhouse",
+    "scope": "india"
+  },
+  {
     "id": "greenhouse:trace3:8329225",
     "company": "Trace3",
     "title": "Cloud FinOps Consulting Intern",
