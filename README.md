@@ -17,19 +17,21 @@
     <img src="https://img.shields.io/badge/Companies-5571-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 28, 2026 at 21:36 UTC</em></p>
+  <p><em>Last updated: Oct 29, 2026 at 01:37 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>142 open</kbd>
+## Summer 2027 (India) <kbd>143 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **GoKwik** | AI Solutions Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore, KA, India | Oct 28, 2026 | [Apply ↗](https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor) |
-| | <sub>`llms` `prompt engineering` `cross-functional collaboration`</sub> ||||||
+| **Piramal** | Apprentice QA <sup>~</sup> 🆕 | `Other` | — | Ahmedabad,Gj | Oct 28, 2026 | [Apply ↗](https://piramalpharma.wd102.myworkdayjobs.com/en-US/PIRAMAL_EXTERNAL_CAREERS/job/AhmedabadGj/Apprentice-QA_R00000954?ref=interndoor) |
+| | <sub>`gmp` `document control` `records management`</sub> ||||||
 | **Heads Up For Tails** | Flutter Developer Intern <sup>~</sup> 🆕 | `Software` | **₹10,000 / month**<br>B.Tech/BCA/MCA | Gurugram, Haryana, India | Oct 28, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4484113243/) |
 | | <sub>`dart` `flutter` `rest apis` `json`</sub> ||||||
+| **GoKwik** | AI Solutions Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore, KA, India | Oct 28, 2026 | [Apply ↗](https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor) |
+| | <sub>`llms` `prompt engineering` `cross-functional collaboration`</sub> ||||||
 | **HARMAN India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Pimpri Chinchwad, Maharashtra, India | Oct 28, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&ref=interndoor) |
 | | <sub>`c++` `c` `linux` `android`</sub> ||||||
 | **Harman** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | India | Oct 28, 2026 | [Apply ↗](https://harman.wd3.myworkdayjobs.com/en-US/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Intern_R-56682-2026-1?ref=interndoor) |
@@ -296,7 +298,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>35 open</kbd>
+## Summer 2027 (Remote) <kbd>34 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -355,8 +357,6 @@
 | | <sub>`Python` `SQL` `PyTorch` `LLMs`</sub> ||||||
 | **Ancestry** | Postdoctoral Fellow, Applied AI <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 05, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380) |
 | | <sub>`Python` `LLMs` `Computer Vision` `AWS`</sub> ||||||
-| **Mitel Networks** | R&amp;D Intern (student) - iOS development <sup>~</sup> | `Software` | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply ↗](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
-| | <sub>`Python` `TypeScript` `JavaScript` `LLMs`</sub> ||||||
 | **Electronic Arts (EA)** | AI Full Stack Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Hyderabad, Telangana, India, Hybrid | Oct 01, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn) |
 | | <sub>`react` `typescript` `node.js` `python`</sub> ||||||
 | **Johnson &amp; Johnson Innovative Medicine** | Software Engineering Intern <sup>~</sup> | `Software` | — | Nandigama, Telangana, India, Hybrid | Oct 01, 2026 | [Apply ↗](https://www.careers.jnj.com/en/jobs/R-100745/?source=interndoor&ref=interndoor) |
@@ -402,10 +402,11 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (184 of 217)._
 
 <details>
-<summary><strong>Recently closed</strong> — 103 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 102 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Mitel Networks | R&amp;D Intern (student) - iOS development | Summer 2027 | 2026-10-29 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-28 |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-28 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-27 |
@@ -430,7 +431,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (184 of
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Lean TECHniques | Software Engineer Intern - Hybrid | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-23 |
-| Marvell | Intern, Software QA Engineer Bachelor&#x27;s Degree | Summer 2027 | 2026-10-23 |
 
 </details>
 
@@ -447,7 +447,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,572 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,572 companies** across **27 ATS platforms** · 95% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

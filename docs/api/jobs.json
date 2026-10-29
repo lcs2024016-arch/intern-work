@@ -1,16 +1,16 @@
 [
   {
-    "id": "interndoor:ats:keka:gokwik:167888",
-    "company": "GoKwik",
-    "title": "AI Solutions Intern",
+    "id": "interndoor:ats:workday:piramalpharma:wd102:PIRAMAL_EXTERNAL_CAREERS:R00000954",
+    "company": "Piramal",
+    "title": "Apprentice QA",
     "season": "Summer 2027",
     "season_inferred": true,
-    "category": "Data & ML/AI",
+    "category": "Other",
     "region": "India",
-    "location": "Bangalore, KA, India",
-    "url": "https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor",
+    "location": "Ahmedabad,Gj",
+    "url": "https://piramalpharma.wd102.myworkdayjobs.com/en-US/PIRAMAL_EXTERNAL_CAREERS/job/AhmedabadGj/Apprentice-QA_R00000954?ref=interndoor",
     "posted_at": "2026-10-28",
-    "first_seen_at": "2026-10-28T21:36:32Z",
+    "first_seen_at": "2026-10-29T01:37:29Z",
     "salary": null,
     "stipend": null,
     "estimated_stipend": null,
@@ -19,9 +19,9 @@
     "degree": null,
     "experience": null,
     "skills": [
-      "llms",
-      "prompt engineering",
-      "cross-functional collaboration"
+      "gmp",
+      "document control",
+      "records management"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -51,6 +51,33 @@
       "rest apis",
       "json",
       "git"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:keka:gokwik:167888",
+    "company": "GoKwik",
+    "title": "AI Solutions Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bangalore, KA, India",
+    "url": "https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor",
+    "posted_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T21:36:32Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "llms",
+      "prompt engineering",
+      "cross-functional collaboration"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -3986,38 +4013,6 @@
       "Computer Vision",
       "AWS",
       "GCP"
-    ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
-    "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-    "company": "Mitel Networks",
-    "title": "R&D Intern (student) - iOS development",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "Remote",
-    "location": "Curitiba (Remote)",
-    "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-    "posted_at": "2026-10-05T00:00:00Z",
-    "first_seen_at": "2026-10-15T12:17:24Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "LLMs",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Git"
     ],
     "source": "workday",
     "scope": "india"

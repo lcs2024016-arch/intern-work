@@ -4,20 +4,26 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-28T21:36:32Z</updated>
+  <updated>2026-10-29T01:37:29Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>GoKwik — AI Solutions Intern</title>
-    <link href="https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:keka:gokwik:167888</id>
-    <updated>2026-10-28T21:36:32Z</updated>
-    <summary>Bangalore, KA, India · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Piramal — Apprentice QA</title>
+    <link href="https://piramalpharma.wd102.myworkdayjobs.com/en-US/PIRAMAL_EXTERNAL_CAREERS/job/AhmedabadGj/Apprentice-QA_R00000954?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:workday:piramalpharma:wd102:PIRAMAL_EXTERNAL_CAREERS:R00000954</id>
+    <updated>2026-10-29T01:37:29Z</updated>
+    <summary>Ahmedabad,Gj · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Heads Up For Tails — Flutter Developer Intern</title>
     <link href="https://www.linkedin.com/jobs/view/4484113243/" rel="alternate"/>
     <id>interndoor:4484113243</id>
     <updated>2026-10-28T21:36:32Z</updated>
     <summary>Gurugram, Haryana, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GoKwik — AI Solutions Intern</title>
+    <link href="https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:keka:gokwik:167888</id>
+    <updated>2026-10-28T21:36:32Z</updated>
+    <summary>Bangalore, KA, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>HARMAN India — Software Engineering Intern</title>
     <link href="https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&amp;ref=interndoor" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>interndoor:4478984742</id>
     <updated>2026-10-21T15:51:12Z</updated>
     <summary>Borivali, Maharashtra, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Bugsmirror — Flutter Developer Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4478993872/" rel="alternate"/>
-    <id>interndoor:4478993872</id>
-    <updated>2026-10-21T15:51:12Z</updated>
-    <summary>Indore, Madhya Pradesh, India · Software · Summer 2027</summary>
   </entry>
 </feed>
