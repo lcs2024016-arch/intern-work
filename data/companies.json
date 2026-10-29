@@ -967,6 +967,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Akuna Capital",
+    "slug": "akunacapitaloci",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Al Warren Oil Company",
     "slug": "al-warren-oil-company-inc",
     "ats": "workable"
@@ -2859,6 +2864,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Atomic Object",
+    "slug": "atomicobject",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Atomic Semi",
     "slug": "atomicsemi",
     "ats": "ashby"
@@ -3219,6 +3229,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "axcelis"
+  },
+  {
+    "name": "Axiom Math",
+    "slug": "axiommath",
+    "ats": "ashby"
   },
   {
     "name": "Axiom Space",
@@ -5399,6 +5414,11 @@
     "name": "Cashfree",
     "slug": "cashfree-jobs",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Castelion",
+    "slug": "castelioncorporation",
+    "ats": "greenhouse"
   },
   {
     "name": "Castle",
@@ -10909,6 +10929,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Flow Traders",
+    "slug": "ftsp27co-ops",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Flowserve",
     "slug": "flowserve",
     "ats": "workday",
@@ -12436,6 +12461,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Graphcore",
+    "slug": "graphcore-early-careers",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Grassroots Analytics",
     "slug": "grassrootsanalytics",
     "ats": "greenhouse"
@@ -13044,6 +13074,11 @@
     "ats": "ashby"
   },
   {
+    "name": "headout",
+    "slug": "headout",
+    "ats": "ashby"
+  },
+  {
     "name": "Headway",
     "slug": "headway",
     "ats": "ashby"
@@ -13095,6 +13130,11 @@
     "ats": "oracle",
     "host": "eevd.fa.us6.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Hearst",
+    "slug": "hearst",
+    "ats": "greenhouse"
   },
   {
     "name": "HeartFlow",
@@ -13636,6 +13676,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "HPS Investment Partners",
+    "slug": "hpsinterns",
+    "ats": "greenhouse"
+  },
+  {
     "name": "HRL Laboratories",
     "slug": "dodmg",
     "ats": "lever"
@@ -13716,6 +13761,11 @@
     "name": "Human Computer Lab",
     "slug": "human-computer-lab",
     "ats": "ashby"
+  },
+  {
+    "name": "Human Interest",
+    "slug": "humaninterestswe1",
+    "ats": "greenhouse"
   },
   {
     "name": "Humana",
@@ -13846,6 +13896,11 @@
     "name": "i360technologies",
     "slug": "I360technologies",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "i360technologies",
+    "slug": "i360technologiesinc",
+    "ats": "greenhouse"
   },
   {
     "name": "iA American",
@@ -14094,6 +14149,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "illumina-careers"
+  },
+  {
+    "name": "Illuminateusa",
+    "slug": "illuminateusa",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "Illuminate_Careers"
   },
   {
     "name": "Illumio",
@@ -14805,6 +14867,11 @@
     "name": "InterWorks",
     "slug": "interworks",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Intetics",
+    "slug": "intetics-2",
+    "ats": "workable"
   },
   {
     "name": "Intrinsic",
@@ -16246,6 +16313,11 @@
   {
     "name": "Lever",
     "slug": "leverdemo-8",
+    "ats": "lever"
+  },
+  {
+    "name": "Leversys",
+    "slug": "leversys",
     "ats": "lever"
   },
   {
@@ -18205,6 +18277,11 @@
     "ats": "lever"
   },
   {
+    "name": "mindtickle",
+    "slug": "mindtickle",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Mindtree",
     "slug": "mindtree",
     "ats": "smartrecruiters"
@@ -19411,6 +19488,11 @@
   {
     "name": "New Relic",
     "slug": "newrelic",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "New York ISO",
+    "slug": "nyisocoops",
     "ats": "greenhouse"
   },
   {
@@ -22320,6 +22402,11 @@
     "site": "progyny"
   },
   {
+    "name": "Project Healthy Minds",
+    "slug": "project-healthy-minds",
+    "ats": "lever"
+  },
+  {
     "name": "Project44",
     "slug": "project44",
     "ats": "greenhouse"
@@ -23897,6 +23984,11 @@
     "name": "Root Access",
     "slug": "root-access",
     "ats": "ashby"
+  },
+  {
+    "name": "RosaicLabs",
+    "slug": "rosaiclabs",
+    "ats": "lever"
   },
   {
     "name": "Roswell Park Comprehensive Cancer Center",
@@ -25736,6 +25828,11 @@
     "site": "SOTI-Next-Gen"
   },
   {
+    "name": "SoundExchange",
+    "slug": "sxinternships",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Soundhound",
     "slug": "team-soundhound",
     "ats": "smartrecruiters"
@@ -26133,6 +26230,11 @@
     "site": "CX_1"
   },
   {
+    "name": "Star Catcher",
+    "slug": "star-catcher",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Starbridge",
     "slug": "starbridge",
     "ats": "ashby"
@@ -26434,6 +26536,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Subtotal",
+    "slug": "subtotal",
+    "ats": "ashby"
+  },
+  {
     "name": "SuccessKPI",
     "slug": "successkpiinc",
     "ats": "greenhouse"
@@ -26606,6 +26713,11 @@
     "name": "Sword Group",
     "slug": "sword-group",
     "ats": "workable"
+  },
+  {
+    "name": "Sycamore",
+    "slug": "sycamore",
+    "ats": "ashby"
   },
   {
     "name": "Syfe",
@@ -26869,6 +26981,13 @@
     "name": "Tapcart",
     "slug": "tapcart",
     "ats": "ashby"
+  },
+  {
+    "name": "Tapestry",
+    "slug": "tapestry",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "Tapestry_Careers"
   },
   {
     "name": "Target",
@@ -27326,6 +27445,11 @@
     "site": "TexasPSFCareers"
   },
   {
+    "name": "TextNow",
+    "slug": "textnowinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Teya",
     "slug": "teya",
     "ats": "ashby"
@@ -27529,6 +27653,11 @@
     "name": "The Redesign Group",
     "slug": "redesigncareers",
     "ats": "rippling"
+  },
+  {
+    "name": "The Robotics Company",
+    "slug": "the-robotics-company",
+    "ats": "ashby"
   },
   {
     "name": "The Scion Group",
@@ -30257,6 +30386,11 @@
     "ats": "lever"
   },
   {
+    "name": "WebFX",
+    "slug": "webfx",
+    "ats": "ashby"
+  },
+  {
     "name": "Webster Bank",
     "slug": "websteronline",
     "ats": "workday",
@@ -30759,6 +30893,11 @@
     "name": "World Wide Professional Solutions",
     "slug": "wwprosolutions",
     "ats": "lever"
+  },
+  {
+    "name": "WorldEngine AI",
+    "slug": "worldengine",
+    "ats": "ashby"
   },
   {
     "name": "Worldly",
