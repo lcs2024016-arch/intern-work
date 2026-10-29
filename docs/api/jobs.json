@@ -407,33 +407,6 @@
     "scope": "india"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Data Science",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Pune, Maharashtra, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948",
-    "posted_at": "2026-10-27",
-    "first_seen_at": "2026-10-27T13:55:05Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Tableau"
-    ],
-    "source": "oracle",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4481846527",
     "company": "Volody",
     "title": "Cloud Monitoring intern- Mumbai based only",

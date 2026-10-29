@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-217-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-216-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5571-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 29, 2026 at 01:37 UTC</em></p>
+  <p><em>Last updated: Oct 29, 2026 at 07:58 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>143 open</kbd>
+## Summer 2027 (India) <kbd>142 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -48,11 +48,9 @@
 | | <sub>`Python`</sub> ||||||
 | **Honeywell Technologies** | Intern Bachelors Data Science <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Oct 27, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160948/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`python` `sql` `tableau` `power bi`</sub> ||||||
-| **Honeywell** | Intern Bachelors Data Science <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Pune, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948) |
-| | <sub>`Python` `SQL` `Tableau`</sub> ||||||
-| **Volody** | Cloud Monitoring intern- Mumbai based only <sup>~</sup> 🆕 | `Software` | Computer Science/Information Technology | Mumbai, Maharashtra, India, On-site | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481846527/) |
+| **Volody** | Cloud Monitoring intern- Mumbai based only <sup>~</sup> | `Software` | Computer Science/Information Technology | Mumbai, Maharashtra, India, On-site | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481846527/) |
 | | <sub>`system monitoring` `cloud infrastructure` `incident management`</sub> ||||||
-| **Valency Networks Private Limited** | Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security <sup>~</sup> 🆕 | `Other` | M.Tech/MS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481851364/) |
+| **Valency Networks Private Limited** | Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security <sup>~</sup> | `Other` | M.Tech/MS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481851364/) |
 | | <sub>`burp suite` `nmap` `owasp zap` `postman`</sub> ||||||
 | **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Oct 26, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160482/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
@@ -378,13 +376,13 @@
 | **Skydio** | Frontend Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 22, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) |
 | **Skydio** | Mobile Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
 | **Skydio** | Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) |
-| **Aurora Innovation** | AI Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **USD 47–52 / hour** | Remote | Oct 08, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c) |
+| **Aurora Innovation** | AI Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | **USD 47–52 / hour** | Remote | Oct 08, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c) |
 | **Semgrep** | Software Engineer Intern <sup>~</sup> | `Software` | **USD 45,000–115,000 / year** | Remote | Oct 08, 2026 | [Apply ↗](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
 | **Veeam Software** | Competitive Intelligence AI Engineering Intern - Summer 2027 | `Data &amp; ML/AI` | **USD 20–25 / hour** | Remote | Oct 01, 2026 | [Apply ↗](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) |
 | **DataRobot** | Deep Learning Research Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | **USD 40,000–125,000 / year** | Remote | Sep 28, 2026 | [Apply ↗](https://datarobot.wd1.myworkdayjobs.com/DataRobot_External_Careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754) |
-| **Aurora Innovation** | Behavior &amp; Planning (ML Research) Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4) |
-| **Aurora Innovation** | Full Stack Intern <sup>~</sup> 🆕 | `Software` | **USD 47–52 / hour** | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9) |
-| **Aurora Innovation** | Data &amp; ML Platform Engineering Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0) |
+| **Aurora Innovation** | Behavior &amp; Planning (ML Research) Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4) |
+| **Aurora Innovation** | Full Stack Intern <sup>~</sup> | `Software` | **USD 47–52 / hour** | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9) |
+| **Aurora Innovation** | Data &amp; ML Platform Engineering Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0) |
 | **Ramp** | Software Engineering Intern, Frontend <sup>~</sup> | `Software` | **USD 12,500 / month** | Remote | Sep 24, 2026 | [Apply ↗](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) |
 | **Quadric** | AI Kernel Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Sep 23, 2026 | [Apply ↗](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c) |
 | **Ibotta** | Information Security Intern <sup>~</sup> | `Other` | — | Remote | Sep 22, 2026 | [Apply ↗](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582) |
@@ -399,13 +397,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (184 of 217)._
+_~ = the title doesn't state a year; bucketed here from its posting date (183 of 216)._
 
 <details>
 <summary><strong>Recently closed</strong> — 102 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Data Science | Summer 2027 | 2026-10-29 |
 | Mitel Networks | R&amp;D Intern (student) - iOS development | Summer 2027 | 2026-10-29 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-28 |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Term Unconfirmed | 2026-10-28 |
@@ -430,7 +429,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (184 of
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Lean TECHniques | Software Engineer Intern - Hybrid | Summer 2027 | 2026-10-23 |
-| Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-23 |
 
 </details>
 
@@ -447,7 +445,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,572 companies** across **27 ATS platforms** · 95% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,572 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 95% of open roles · median detection lag 14.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

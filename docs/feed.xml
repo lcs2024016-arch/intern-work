@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-29T01:37:29Z</updated>
+  <updated>2026-10-29T07:58:33Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Piramal — Apprentice QA</title>
@@ -96,12 +96,6 @@
     <id>interndoor:4484069092</id>
     <updated>2026-10-27T13:55:05Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Data Science</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160948</id>
-    <updated>2026-10-27T13:55:05Z</updated>
-    <summary>Pune, Maharashtra, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Volody — Cloud Monitoring intern- Mumbai based only</title>
     <link href="https://www.linkedin.com/jobs/view/4481846527/" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>interndoor:4478984742</id>
     <updated>2026-10-21T15:51:12Z</updated>
     <summary>Borivali, Maharashtra, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Bugsmirror — Flutter Developer Intern</title>
+    <link href="https://www.linkedin.com/jobs/view/4478993872/" rel="alternate"/>
+    <id>interndoor:4478993872</id>
+    <updated>2026-10-21T15:51:12Z</updated>
+    <summary>Indore, Madhya Pradesh, India · Software · Summer 2027</summary>
   </entry>
 </feed>
