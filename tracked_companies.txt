@@ -225,6 +225,7 @@ epic-systems
 epifi
 equinix
 ericsson
+ethos
 etsy
 eurofins
 exl
