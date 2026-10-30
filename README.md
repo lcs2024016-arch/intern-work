@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-223-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-222-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5598-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 29, 2026 at 23:57 UTC</em></p>
+  <p><em>Last updated: Oct 30, 2026 at 03:45 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>144 open</kbd>
+## Summer 2027 (India) <kbd>143 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -48,7 +48,7 @@
 | | <sub>`TypeScript` `JavaScript` `React`</sub> ||||||
 | **HackerRank** | AI Researcher Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Onsite in Bangalore | Oct 28, 2026 | [Apply ↗](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
 | | <sub>`PyTorch`</sub> ||||||
-| **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 27, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160868/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 27, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160868/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Vahan.ai** | Software Engineer Intern <sup>~</sup> | `Software` | computer science | Bengaluru, Karnataka, India, On-site | Oct 27, 2026 | [Apply ↗](https://forms.gle/E2vKCnK6eojB6To9A?ref=interndoor) |
 | | <sub>`react` `node.js` `postgresql` `git`</sub> ||||||
@@ -90,8 +90,6 @@
 | | <sub>`Python` `Rust` `Linux`</sub> ||||||
 | **Revvity** | AI Applications DevOps Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Thane, Maharashtra, India | Oct 22, 2026 | [Apply ↗](https://jobs.revvity.com/en/job/-/-/20539/102245859776?source=interndoor&ref=interndoor) |
 | | <sub>`aws` `docker` `git` `terraform`</sub> ||||||
-| **Revvity** | Full-Stack AI Engineering Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Thane, Maharashtra, India | Oct 22, 2026 | [Apply ↗](https://jobs.revvity.com/en/job/-/-/20539/102245859840?source=interndoor&ref=interndoor) |
-| | <sub>`python` `next.js` `docker` `prompt engineering`</sub> ||||||
 | **Wayfair** | Software Engineer Intern <sup>~</sup> | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 21, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
 | | <sub>`python` `java` `c++` `sql`</sub> ||||||
 | **eSec Forte® Technologies** | Application Security Trainee <sup>~</sup> | `Other` | — | Gurugram, Haryana, India, On-site | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4468558804/) |
@@ -405,13 +403,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (186 of 223)._
+_~ = the title doesn't state a year; bucketed here from its posting date (185 of 222)._
 
 <details>
-<summary><strong>Recently closed</strong> — 49 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 50 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Revvity | Full-Stack AI Engineering Intern | Summer 2027 | 2026-10-30 |
 | Bank of America | Apprentice Software Developer | Summer 2027 | 2026-10-29 |
 | Bank of America | Apprentice Software Developer | Summer 2027 | 2026-10-29 |
 | Honeywell | Intern Bachelors Data Science | Summer 2027 | 2026-10-29 |
@@ -436,7 +435,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (186 of
 | Galaxy | Off-Cycle 2026 Cybersecurity Internship | Fall 2026 | 2026-10-25 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-24 |
-| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-23 |
 
 </details>
 

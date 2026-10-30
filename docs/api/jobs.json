@@ -503,7 +503,7 @@
   {
     "id": "interndoor:4484065235",
     "company": "Honeywell Technologies",
-    "title": "Intern Bachelors Software Eng",
+    "title": "Software Engineering Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -1436,34 +1436,6 @@
       "git",
       "terraform",
       "cloudwatch"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4482437317",
-    "company": "Revvity",
-    "title": "Full-Stack AI Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Thane, Maharashtra, India",
-    "url": "https://jobs.revvity.com/en/job/-/-/20539/102245859840?source=interndoor&ref=interndoor",
-    "posted_at": "2026-10-22",
-    "first_seen_at": "2026-10-22T12:48:22Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "next.js",
-      "docker",
-      "prompt engineering"
     ],
     "source": "interndoor",
     "scope": "india"
