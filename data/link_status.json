@@ -48,7 +48,7 @@
     "url": "https://www.linkedin.com/jobs/view/4466665437/"
   },
   "interndoor:4467851191": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/134560"
@@ -120,7 +120,7 @@
     "url": "https://www.linkedin.com/jobs/view/4472339005/"
   },
   "interndoor:4472657639": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
@@ -138,7 +138,7 @@
     "url": "https://www.linkedin.com/jobs/view/4472919251/"
   },
   "interndoor:4473551157": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 403,
     "strikes": 0,
     "url": "https://jobs.natwestgroup.com/jobs/18289724-ai-ml-trainee-6-month-fixed-term-contract-2026-graduates?tm_job=R-00285898-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56&ref=interndoor"
@@ -161,6 +161,12 @@
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4474032231/"
   },
+  "interndoor:4474154255": {
+    "checked_at": "2026-10-31T14:11:25Z",
+    "status": 403,
+    "strikes": 0,
+    "url": "https://www.careers.jnj.com/en/jobs/R-100745/?source=interndoor&ref=interndoor"
+  },
   "interndoor:4474271196": {
     "checked_at": "2026-10-30T21:23:25Z",
     "status": 403,
@@ -174,7 +180,7 @@
     "url": "https://www.linkedin.com/jobs/view/4475580374/"
   },
   "interndoor:4475816470": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-560058/1370464655/?feedId=361555&utm_source=linkedin"
@@ -246,13 +252,13 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489904"
   },
   "interndoor:4478612369": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489616"
   },
   "interndoor:4478613336": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151490016?ref=interndoor"
@@ -270,7 +276,7 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489536"
   },
   "interndoor:4478619070": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
@@ -306,7 +312,7 @@
     "url": "https://www.linkedin.com/jobs/view/4478993872/"
   },
   "interndoor:4479199838": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://easyapply.jobs/r/tGxV3gt27qrI5t3M0jzV?ref=interndoor"
@@ -378,7 +384,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4480971808": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 403,
     "strikes": 0,
     "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
@@ -462,13 +468,13 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161061/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4485390148": {
-    "checked_at": "2026-10-31T07:55:26Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 404,
-    "strikes": 1,
+    "strikes": 2,
     "url": "https://careers.bankofamerica.com/en-us/job-detail/26039583/software-engineer-apprentice-multiple-locations?ref=interndoor"
   },
   "interndoor:ats:greenhouse:cloudsek:6222340004": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004"
@@ -480,13 +486,13 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
   },
   "interndoor:ats:keka:decentro:26116": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://decentro.keka.com/careers/jobdetails/26116?ref=interndoor"
   },
   "interndoor:ats:keka:signzy:138638": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://signzy.keka.com/careers/jobdetails/138638"
@@ -504,7 +510,7 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520?ref=interndoor"
   },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:124444": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444"
@@ -521,6 +527,12 @@
     "strikes": 0,
     "url": "https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Cloud-Ops-Engineer---Intern_R-100647?ref=interndoor"
   },
+  "interndoor:ats:workday:monotype:wd1:Monotype:R0004875": {
+    "checked_at": "2026-10-31T14:11:25Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://monotype.wd1.myworkdayjobs.com/en-US/Monotype/job/Noida/Information-Security-Trainee_R0004875?ref=interndoor"
+  },
   "interndoor:ats:workday:nvidia:wd5:NVIDIAExternalCareerSite:JR2025833": {
     "checked_at": "2026-10-30T21:23:25Z",
     "status": 200,
@@ -532,6 +544,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB?ref=interndoor"
+  },
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061": {
+    "checked_at": "2026-10-31T14:11:25Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_475a24d7-a058-4f86-be8f-fd6be679af9c": {
     "checked_at": "2026-10-31T07:55:26Z",
@@ -546,13 +564,13 @@
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_bc852c2c-945f-4a1e-b383-54a0f6e0ace9": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_da4c8e2e-0571-4503-94d9-234da86f83b0": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0"
@@ -570,7 +588,7 @@
     "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c"
   },
   "ypatodkar:realm-alliance:realm-alliance_ashby_a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a"
@@ -582,7 +600,7 @@
     "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
   },
   "ypatodkar:veeam-software:veeam-software_greenhouse_4955279101": {
-    "checked_at": "2026-10-30T10:45:41Z",
+    "checked_at": "2026-10-31T14:11:25Z",
     "status": 200,
     "strikes": 0,
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"

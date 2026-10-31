@@ -89,39 +89,9 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4485390148",
-    "company": "Bank of America",
-    "title": "Software Engineer Apprentice",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Hyderabad, Telangana, India",
-    "url": "https://careers.bankofamerica.com/en-us/job-detail/26039583/software-engineer-apprentice-multiple-locations?ref=interndoor",
-    "posted_at": "2026-10-30",
-    "first_seen_at": "2026-10-30T21:23:25Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/B.E",
-    "experience": null,
-    "skills": [
-      "Java",
-      "C#",
-      "Python",
-      "Agile",
-      "JIRA",
-      "Linux"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4483444157",
     "company": "Seagate Technology",
-    "title": "Intern - Data Science (Corporate Quality)",
+    "title": "Data Science Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Data & ML/AI",
@@ -307,33 +277,6 @@
       "ci/cd"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Pune, Maharashtra, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
-    "posted_at": "2026-10-30",
-    "first_seen_at": "2026-10-30T10:45:42Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "C++"
-    ],
-    "source": "oracle",
     "scope": "india"
   },
   {

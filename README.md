@@ -13,24 +13,22 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-237-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5649-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-235-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5676-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 31, 2026 at 07:55 UTC</em></p>
+  <p><em>Last updated: Oct 31, 2026 at 14:11 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>151 open</kbd>
+## Summer 2027 (India) <kbd>149 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161062/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Bank of America** | Software Engineer Apprentice <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Hyderabad, Telangana, India | Oct 30, 2026 | [Apply ↗](https://careers.bankofamerica.com/en-us/job-detail/26039583/software-engineer-apprentice-multiple-locations?ref=interndoor) |
-| | <sub>`Java` `C#` `Python` `Agile`</sub> ||||||
-| **Seagate Technology** | Intern - Data Science (Corporate Quality) <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&utm_source=interndoor&utm_campaign=interndoor&source=APPLICANT_SOURCE-3-387&ref=interndoor) |
+| **Seagate Technology** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&utm_source=interndoor&utm_campaign=interndoor&source=APPLICANT_SOURCE-3-387&ref=interndoor) |
 | | <sub>`python` `sql` `react` `angular`</sub> ||||||
 | **Siemens Healthineers** | AI Apprentice <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.E / B.Tech / M.Tech | Pune District, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719?source=interndoor&ref=interndoor) |
 | | <sub>`python` `git` `numpy` `pandas`</sub> ||||||
@@ -39,8 +37,6 @@
 | **Philips** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore | Oct 30, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723?ref=interndoor) |
 | **DNV** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply ↗](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
 | | <sub>`Python`</sub> ||||||
-| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Pune, Maharashtra, India | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061) |
-| | <sub>`Python` `Java` `C++`</sub> ||||||
 | **Wex** | Software Development Trainee-1 <sup>~</sup> 🆕 | `Software` | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply ↗](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-1_R22754) |
 | | <sub>`Python` `Java` `SQL` `LLMs`</sub> ||||||
 | **Wex** | Software Development Trainee-2 <sup>~</sup> 🆕 | `Software` | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply ↗](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-2_R22755) |
@@ -428,13 +424,15 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (198 of 237)._
+_~ = the title doesn't state a year; bucketed here from its posting date (196 of 235)._
 
 <details>
-<summary><strong>Recently closed</strong> — 52 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 54 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bank of America | Software Engineer Apprentice | Summer 2027 | 2026-10-31 |
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-31 |
 | Revvity | AI Applications DevOps Intern | Summer 2027 | 2026-10-30 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-30 |
 | Riverbed Technology | Full stack Developer Intern | Summer 2027 | 2026-10-30 |
@@ -458,8 +456,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (198 of
 | Habu | Co-Op, Software Development Engineer - Observability Team | Summer 2027 | 2026-10-26 |
 | Persona | Software Engineer, Intern (Summer 2027) | Summer 2027 | 2026-10-26 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-26 |
-| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-26 |
-| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-26 |
 
 </details>
 
@@ -476,7 +472,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,650 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,677 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -492,7 +488,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,593 companies
+- **Applicant tracking systems** — 5,620 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies

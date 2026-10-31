@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-10-31T07:55:26Z</updated>
+  <updated>2026-10-31T14:11:25Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Constraal — Software Engineer Intern</title>
@@ -25,13 +25,7 @@
     <updated>2026-10-30T21:23:25Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Bank of America — Software Engineer Apprentice</title>
-    <link href="https://careers.bankofamerica.com/en-us/job-detail/26039583/software-engineer-apprentice-multiple-locations?ref=interndoor" rel="alternate"/>
-    <id>interndoor:4485390148</id>
-    <updated>2026-10-30T21:23:25Z</updated>
-    <summary>Hyderabad, Telangana, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Seagate Technology — Intern - Data Science (Corporate Quality)</title>
+    <title>Seagate Technology — Data Science Intern</title>
     <link href="https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&amp;utm_source=interndoor&amp;utm_campaign=interndoor&amp;source=APPLICANT_SOURCE-3-387&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4483444157</id>
     <updated>2026-10-30T17:07:47Z</updated>
@@ -72,12 +66,6 @@
     <id>interndoor:4484820748</id>
     <updated>2026-10-30T10:45:42Z</updated>
     <summary>Mumbai Metropolitan Region, Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161061</id>
-    <updated>2026-10-30T10:45:42Z</updated>
-    <summary>Pune, Maharashtra, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Wex — Software Development Trainee-1</title>
     <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-1_R22754" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237</id>
     <updated>2026-10-26T05:46:58Z</updated>
     <summary>Hyderabad · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wayfair — Software Engineer Intern</title>
+    <link href="https://wayfair.avature.net/en_US/careers?folderId=20829&amp;src=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4483510555</id>
+    <updated>2026-10-26T01:02:08Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell Technologies — AI Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4483345175</id>
+    <updated>2026-10-24T20:05:25Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
