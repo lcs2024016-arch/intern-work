@@ -13,11 +13,11 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-234-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-237-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5649-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 31, 2026 at 01:23 UTC</em></p>
+  <p><em>Last updated: Oct 31, 2026 at 07:55 UTC</em></p>
 </div>
 
 ---
@@ -52,7 +52,7 @@
 | | <sub>`Python` `TensorFlow`</sub> ||||||
 | **Multiplier AI** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | **₹15,000 – ₹20,000 / month**<br>B.Tech/B.E./MCA/BCA | Noida, Uttar Pradesh, India, On-site | Oct 28, 2026 | [Apply ↗](https://docs.google.com/forms/d/1BJnkQuVwsXP8VPTvomjA6AFtGI-oljml5uI9xEzGyUs/preview?ref=interndoor) |
 | | <sub>`python` `javascript` `java` `git`</sub> ||||||
-| **Piramal** | Apprentice QA <sup>~</sup> 🆕 | `Other` | — | Ahmedabad,Gj | Oct 28, 2026 | [Apply ↗](https://piramalpharma.wd102.myworkdayjobs.com/en-US/PIRAMAL_EXTERNAL_CAREERS/job/AhmedabadGj/Apprentice-QA_R00000954?ref=interndoor) |
+| **Piramal** | Apprentice QA <sup>~</sup> | `Other` | — | Ahmedabad,Gj | Oct 28, 2026 | [Apply ↗](https://piramalpharma.wd102.myworkdayjobs.com/en-US/PIRAMAL_EXTERNAL_CAREERS/job/AhmedabadGj/Apprentice-QA_R00000954?ref=interndoor) |
 | | <sub>`gmp` `document control` `records management`</sub> ||||||
 | **Heads Up For Tails** | Flutter Developer Intern <sup>~</sup> | `Software` | **₹10,000 / month**<br>B.Tech/BCA/MCA | Gurugram, Haryana, India | Oct 28, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4484113243/) |
 | | <sub>`dart` `flutter` `rest apis` `json`</sub> ||||||
@@ -76,7 +76,7 @@
 | | <sub>`system monitoring` `cloud infrastructure` `incident management`</sub> ||||||
 | **Valency Networks Private Limited** | Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security <sup>~</sup> | `Other` | M.Tech/MS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481851364/) |
 | | <sub>`burp suite` `nmap` `owasp zap` `postman`</sub> ||||||
-| **R360 Group** | Application Security &amp; VAPT Intern <sup>~</sup> 🆕 | `Other` | — | Bangalore, KA, India | Oct 26, 2026 | [Apply ↗](https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor) |
+| **R360 Group** | Application Security Intern <sup>~</sup> 🆕 | `Other` | — | Bangalore, KA, India | Oct 26, 2026 | [Apply ↗](https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor) |
 | | <sub>`owasp top 10` `burp suite` `penetration testing` `secure code review`</sub> ||||||
 | **WebEngage** | Business Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai , MH, India | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
 | | <sub>`sql` `bigquery` `bi tools` `spreadsheet`</sub> ||||||
@@ -311,7 +311,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>40 open</kbd>
+## Summer 2027 (Remote) <kbd>43 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -325,6 +325,10 @@
 | | <sub>`python` `pytorch` `transformer` `git`</sub> ||||||
 | **Wex** | Software Development Trainee <sup>~</sup> 🆕 | `Software` | B.Tech/BS | India - Remote | Oct 30, 2026 | [Apply ↗](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Remote/Software-Development-Trainee_R22753) |
 | | <sub>`Python` `Java` `SQL` `LLMs`</sub> ||||||
+| **CareSource** | 2027 Summer Internship Program - AI Healthcare Operations 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 29, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
+| **CareSource** | 2027 Summer Internship Program - AI Intern 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 29, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) |
+| | <sub>`Python` `Java` `Computer Vision`</sub> ||||||
+| **CareSource** | 2027 Summer Internship Program - Full Stack AI Development Intern-1 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 29, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181) |
 | **F5** | Software Engineer Apprentice <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Oct 29, 2026 | [Apply ↗](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1039328?source=interndoor&ref=interndoor) |
 | | <sub>`c++` `networking fundamentals` `unit testing` `linux/unix`</sub> ||||||
 | **Trace3** | Cloud FinOps Consulting Intern <sup>~</sup> | `Software` | B.Tech/BS | Remote | Oct 27, 2026 | [Apply ↗](https://job-boards.greenhouse.io/trace3/jobs/8329225) |
@@ -424,17 +428,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (198 of 234)._
+_~ = the title doesn't state a year; bucketed here from its posting date (198 of 237)._
 
 <details>
-<summary><strong>Recently closed</strong> — 55 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 52 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Revvity | AI Applications DevOps Intern | Summer 2027 | 2026-10-30 |
-| CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Summer 2027 | 2026-10-30 |
-| CareSource | 2027 Summer Internship Program - AI Intern | Summer 2027 | 2026-10-30 |
-| CareSource | 2027 Summer Internship Program - Full Stack AI Development Intern-1 | Summer 2027 | 2026-10-30 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-30 |
 | Riverbed Technology | Full stack Developer Intern | Summer 2027 | 2026-10-30 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-30 |
@@ -456,6 +457,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (198 of
 | Honeywell | Intern Bachelors Data Science | Summer 2027 | 2026-10-26 |
 | Habu | Co-Op, Software Development Engineer - Observability Team | Summer 2027 | 2026-10-26 |
 | Persona | Software Engineer, Intern (Summer 2027) | Summer 2027 | 2026-10-26 |
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-26 |
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-26 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-26 |
 
 </details>
 
@@ -472,7 +476,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,650 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,650 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
