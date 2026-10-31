@@ -84,7 +84,7 @@
     "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-simple-energy-private-limited1789621181/?utm_campaign=linkedin_d2002&utm_source=Linkedin_Partnership"
   },
   "interndoor:4469750098": {
-    "checked_at": "2026-10-29T23:57:14Z",
+    "checked_at": "2026-10-31T01:23:35Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/124443/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
@@ -323,6 +323,12 @@
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Science-Intern/215937?source=interndoor&ref=interndoor"
   },
+  "interndoor:4479406191": {
+    "checked_at": "2026-10-31T01:23:35Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215938?source=interndoor&ref=interndoor"
+  },
   "interndoor:4479506937": {
     "checked_at": "2026-10-30T21:23:25Z",
     "status": 200,
@@ -401,12 +407,6 @@
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
-  "interndoor:4482431822": {
-    "checked_at": "2026-10-30T21:23:25Z",
-    "status": 404,
-    "strikes": 2,
-    "url": "https://jobs.revvity.com/en/job/-/-/20539/102245859776?source=interndoor&ref=interndoor"
-  },
   "interndoor:4482463755": {
     "checked_at": "2026-10-30T03:45:14Z",
     "status": 200,
@@ -426,14 +426,14 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160494/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4483355003": {
-    "checked_at": "2026-10-29T23:57:14Z",
+    "checked_at": "2026-10-31T01:23:35Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160492/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4483510555": {
-    "checked_at": "2026-10-29T23:57:14Z",
-    "status": 200,
+    "checked_at": "2026-10-31T01:23:35Z",
+    "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=interndoor&ref=interndoor"
   },
@@ -444,7 +444,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160942/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4484050988": {
-    "checked_at": "2026-10-29T23:57:14Z",
+    "checked_at": "2026-10-31T01:23:35Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160949/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
@@ -492,7 +492,7 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
   },
   "interndoor:ats:microsoft:India:1970393556917520": {
-    "checked_at": "2026-10-29T23:57:14Z",
+    "checked_at": "2026-10-31T01:23:35Z",
     "status": 200,
     "strikes": 0,
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520?ref=interndoor"
@@ -526,30 +526,6 @@
     "status": 200,
     "strikes": 0,
     "url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB?ref=interndoor"
-  },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126": {
-    "checked_at": "2026-10-30T21:23:25Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126"
-  },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123": {
-    "checked_at": "2026-10-30T21:23:25Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123"
-  },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181": {
-    "checked_at": "2026-10-30T21:23:25Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181"
-  },
-  "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723": {
-    "checked_at": "2026-10-30T21:23:25Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_475a24d7-a058-4f86-be8f-fd6be679af9c": {
     "checked_at": "2026-10-30T03:45:14Z",
