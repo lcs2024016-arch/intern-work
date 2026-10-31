@@ -220,8 +220,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/marathon?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:maximor": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 11,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/maximor?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "ashby:mentis": {
@@ -410,13 +410,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/xterra?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "bloomberg:bloomberg": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "ImportError: cannot import name 'DynamicFetcher' from 'scrapling.fetchers' (/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/scrapling/fetchers/__init__.py)"
   },
   "bytedance:bytedance": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "ImportError: cannot import name 'DynamicFetcher' from 'scrapling.fetchers' (/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/scrapling/fetchers/__init__.py)"
   },
   "greenhouse:10xgenomics": {
@@ -1460,8 +1460,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "uber:uber": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "ImportError: cannot import name 'DynamicFetcher' from 'scrapling.fetchers' (/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/scrapling/fetchers/__init__.py)"
   },
   "wellfound:wellfound-india": {
@@ -1509,16 +1509,6 @@
     "last_attempt_at": "2026-10-31T07:55:26Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
-  "workable:msr-fsr": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T14:11:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/msr-fsr/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
-  },
-  "workable:murphy-research": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T14:11:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/murphy-research/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
   "workable:mustard-systems": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-10-31T14:11:25Z",
@@ -1535,8 +1525,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/neurohire-dot-a-i/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:neutreeno-1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T14:11:25Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/neutreeno-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:new-flyer": {
@@ -1805,8 +1795,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/somerce/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workable:sophinea": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T14:11:25Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sophinea/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:sorting-robotics": {
@@ -1895,8 +1885,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/theshipyard/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:thingtrax": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
@@ -1910,8 +1900,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tickpick/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:tmeic-corporation-americas": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-28T17:01:21Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-31T19:02:46Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tmeic-corporation-americas/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workable:tokamak-energy": {
