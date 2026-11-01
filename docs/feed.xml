@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-01T08:35:56Z</updated>
+  <updated>2026-11-01T15:47:35Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Constraal — Software Engineer Intern</title>
@@ -271,6 +271,12 @@
     <updated>2026-10-26T05:46:58Z</updated>
     <summary>Hyderabad · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>Airbus India — AI Software engineering intern</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Artificial-Intelligence-For-Systems-Engineering-Intern_JR10449573?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:workday:ag:wd3:Airbus:JR10449573</id>
+    <updated>2026-11-01T15:47:35Z</updated>
+    <summary>Bangalore Area · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Wayfair — Software Engineer Intern</title>
     <link href="https://wayfair.avature.net/en_US/careers?folderId=20829&amp;src=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4483510555</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4480665883</id>
     <updated>2026-10-23T18:13:25Z</updated>
     <summary>Matar, Gujarat, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>TÜV SÜD — AI/Low Code Developer Intern</title>
-    <link href="https://jobs.tuvsud.com/job/Intern-Trainee-AILow-Code-Developer/8163-en_US?src=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4480666817</id>
-    <updated>2026-10-23T18:13:25Z</updated>
-    <summary>Matar, Gujarat, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

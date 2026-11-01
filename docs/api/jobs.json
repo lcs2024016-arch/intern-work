@@ -1199,6 +1199,33 @@
     "scope": "india"
   },
   {
+    "id": "interndoor:ats:workday:ag:wd3:Airbus:JR10449573",
+    "company": "Airbus India",
+    "title": "AI Software engineering intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bangalore Area",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Artificial-Intelligence-For-Systems-Engineering-Intern_JR10449573?ref=interndoor",
+    "posted_at": "2026-10-25",
+    "first_seen_at": "2026-11-01T15:47:35Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "ai",
+      "formal methods",
+      "software development"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4483510555",
     "company": "Wayfair",
     "title": "Software Engineer Intern",
