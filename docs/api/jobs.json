@@ -1,5 +1,33 @@
 [
   {
+    "id": "interndoor:ats:juspay:juspay:DEV-BE04",
+    "company": "Juspay",
+    "title": "Backend Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Mumbai",
+    "url": "https://joinus.juspay.in/?jobId=DEV-BE04&ref=interndoor",
+    "posted_at": "2026-11-01",
+    "first_seen_at": "2026-11-01T20:06:22Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "rust",
+      "distributed systems",
+      "ai",
+      "real-time systems"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4484809935",
     "company": "Constraal",
     "title": "Software Engineer Intern",
@@ -24,39 +52,6 @@
       "git",
       "api",
       "database"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4484858917",
-    "company": "Allstate India",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India, Hybrid",
-    "url": "https://allstateinsurance.contacthr.com/154067581?utm_source=LILimitedListings&source=interndoor&ref=interndoor",
-    "posted_at": "2026-10-30",
-    "first_seen_at": "2026-10-30T21:23:25Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "angular",
-      "reactjs",
-      "typescript",
-      "nodejs",
-      "git",
-      "jenkins",
-      "sonarqube",
-      "postgresql",
-      "aws"
     ],
     "source": "interndoor",
     "scope": "india"

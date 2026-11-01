@@ -17,25 +17,27 @@
     <img src="https://img.shields.io/badge/Companies-5678-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 01, 2026 at 15:47 UTC</em></p>
+  <p><em>Last updated: Nov 01, 2026 at 20:06 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>147 open</kbd>
+## Summer 2027 (India) <kbd>148 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Juspay** | Backend Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Mumbai | Nov 01, 2026 | [Apply ↗](https://joinus.juspay.in/?jobId=DEV-BE04&ref=interndoor) |
+| | <sub>`rust` `distributed systems` `ai` `real-time systems`</sub> ||||||
 | **Honeywell Technologies** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161062/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Seagate Technology** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&utm_source=interndoor&utm_campaign=interndoor&source=APPLICANT_SOURCE-3-387&ref=interndoor) |
+| **Seagate Technology** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&utm_source=interndoor&utm_campaign=interndoor&source=APPLICANT_SOURCE-3-387&ref=interndoor) |
 | | <sub>`python` `sql` `react` `angular`</sub> ||||||
-| **Siemens Healthineers** | AI Apprentice <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.E / B.Tech / M.Tech | Pune District, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719?source=interndoor&ref=interndoor) |
+| **Siemens Healthineers** | AI Apprentice <sup>~</sup> | `Data &amp; ML/AI` | B.E / B.Tech / M.Tech | Pune District, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719?source=interndoor&ref=interndoor) |
 | | <sub>`python` `git` `numpy` `pandas`</sub> ||||||
-| **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161061/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Technologies** | Intern Bachelors Software Eng <sup>~</sup> | `Software` | — | Pune Division, Maharashtra, India, On… | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161061/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Philips** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore | Oct 30, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723?ref=interndoor) |
-| **DNV** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply ↗](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
+| **Philips** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | Oct 30, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723?ref=interndoor) |
+| **DNV** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply ↗](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
 | | <sub>`Python`</sub> ||||||
 | **Airbus India** | Technical Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore Area | Oct 29, 2026 | [Apply ↗](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386?ref=interndoor) |
 | | <sub>`aircraft systems` `maintenance documentation` `aviation regulations`</sub> ||||||
@@ -304,15 +306,13 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>42 open</kbd>
+## Summer 2027 (Remote) <kbd>41 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Constraal** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | India, Remote | Oct 30, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4484809935/) |
 | | <sub>`python` `c++` `git` `api`</sub> ||||||
-| **Allstate India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Oct 30, 2026 | [Apply ↗](https://allstateinsurance.contacthr.com/154067581?utm_source=LILimitedListings&source=interndoor&ref=interndoor) |
-| | <sub>`angular` `reactjs` `typescript` `nodejs`</sub> ||||||
-| **Lexsi Labs** | AI Agent Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 30, 2026 | [Apply ↗](https://easyapply.jobs/r/5HXuGG528wU9K519ub0w?ref=interndoor) |
+| **Lexsi Labs** | AI Agent Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 30, 2026 | [Apply ↗](https://easyapply.jobs/r/5HXuGG528wU9K519ub0w?ref=interndoor) |
 | | <sub>`python` `llms` `agent frameworks` `evaluation pipelines`</sub> ||||||
 | **Lexsi Labs** | AI Research Internship <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Oct 30, 2026 | [Apply ↗](https://easyapply.jobs/r/PFwV3gP27vSqwP4g7vwN?ref=interndoor) |
 | | <sub>`python` `pytorch` `transformer` `git`</sub> ||||||
@@ -422,10 +422,11 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (193 of 232)._
 
 <details>
-<summary><strong>Recently closed</strong> — 57 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 58 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Allstate India | Software Engineering Intern | Summer 2027 | 2026-11-01 |
 | Wex | Software Development Trainee-1 | Summer 2027 | 2026-10-31 |
 | Wex | Software Development Trainee-2 | Summer 2027 | 2026-10-31 |
 | Wex | Software Engineer Intern | Summer 2027 | 2026-10-31 |
@@ -450,7 +451,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (193 of
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-27 |
 | Habu | Co-Op, DevOps Engineer | Summer 2027 | 2026-10-27 |
 | Skydio | Embedded Software Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-27 |
-| Skydio | Embedded Software Engineer Intern - Winer 2027 | Summer 2027 | 2026-10-27 |
 
 </details>
 
@@ -467,7 +467,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,679 companies** across **27 ATS platforms** · 97% fetch success · real posted dates on 95% of open roles · median detection lag 16.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,679 companies** across **27 ATS platforms** · 100% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
