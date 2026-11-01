@@ -15652,6 +15652,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Kaluza",
+    "slug": "kaluza",
+    "ats": "ashby"
+  },
+  {
     "name": "Kanbrick",
     "slug": "kanbrick",
     "ats": "workable"
@@ -20786,6 +20791,11 @@
     "name": "Open Farm Pet",
     "slug": "openfarminc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Open Vision Engineering",
+    "slug": "pocket",
+    "ats": "ashby"
   },
   {
     "name": "OpenAI",
