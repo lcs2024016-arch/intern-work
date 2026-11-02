@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:59:44Z",
-  "duration_seconds": 493.7,
+  "generated_at": "2026-11-02T21:14:42Z",
+  "duration_seconds": 465.1,
   "companies_total": 5679,
   "companies_by_source": {
     "greenhouse": 1263,
@@ -31,55 +31,54 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 392,
-  "fetched_ok": 5272,
-  "fetch_errors": 15,
+  "quarantined": 398,
+  "fetched_ok": 5273,
+  "fetch_errors": 8,
   "errors_by_source": {
-    "lever": 2,
-    "ashby": 5,
-    "rippling": 3,
-    "workable": 3,
-    "greenhouse": 2
+    "lever": 3,
+    "workable": 4,
+    "ashby": 1
   },
-  "fetch_success_rate": 0.997,
-  "roles_matched": 134,
-  "roles_cycle_inferred": 117,
+  "fetch_success_rate": 0.998,
+  "roles_matched": 136,
+  "roles_cycle_inferred": 119,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 115,
+  "dropped_offcycle_by_text": 104,
   "roles_by_source": {
-    "workday": 16,
+    "lever": 3,
+    "workday": 15,
     "greenhouse": 12,
     "smartrecruiters": 1,
     "ashby": 1,
-    "lever": 2,
-    "interndoor": 83,
+    "interndoor": 85,
     "ypatodkar": 15,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 134
+    "Summer 2027": 135,
+    "Term Unconfirmed": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 47,
-    "Software": 79,
+    "Software": 80,
+    "Data & ML/AI": 48,
     "Other": 8
   },
   "roles_by_region": {
-    "Remote": 32,
-    "India": 102
+    "India": 104,
+    "Remote": 32
   },
-  "posted_date_coverage": 0.957,
-  "enriched_this_run": 24,
-  "enrichment_detail_fetches": 3,
-  "purged_this_run": 3,
+  "posted_date_coverage": 0.958,
+  "enriched_this_run": 26,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 4,
   "dates_repaired": 0,
-  "links_checked": 30,
+  "links_checked": 39,
   "removed_dead_links": 0,
-  "new_this_run": 5,
-  "open_total": 234,
+  "new_this_run": 7,
+  "open_total": 240,
   "detection_latency": {
-    "median_minutes": 895.2,
-    "sample_size": 53,
+    "median_minutes": 1024.6,
+    "sample_size": 58,
     "window_days": 7
   }
 }
