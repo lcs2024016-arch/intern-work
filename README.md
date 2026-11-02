@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5678-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 01, 2026 at 23:32 UTC</em></p>
+  <p><em>Last updated: Nov 02, 2026 at 03:38 UTC</em></p>
 </div>
 
 ---
@@ -39,7 +39,7 @@
 | **Philips** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | Oct 30, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723?ref=interndoor) |
 | **DNV** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply ↗](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
 | | <sub>`Python`</sub> ||||||
-| **Airbus India** | Technical Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bangalore Area | Oct 29, 2026 | [Apply ↗](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386?ref=interndoor) |
+| **Airbus India** | Technical Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore Area | Oct 29, 2026 | [Apply ↗](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386?ref=interndoor) |
 | | <sub>`aircraft systems` `maintenance documentation` `aviation regulations`</sub> ||||||
 | **Honeywell Technologies** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Oct 29, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161166/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`Python` `TensorFlow`</sub> ||||||
@@ -69,7 +69,7 @@
 | | <sub>`system monitoring` `cloud infrastructure` `incident management`</sub> ||||||
 | **Valency Networks Private Limited** | Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security <sup>~</sup> | `Other` | M.Tech/MS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4481851364/) |
 | | <sub>`burp suite` `nmap` `owasp zap` `postman`</sub> ||||||
-| **R360 Group** | Application Security Intern <sup>~</sup> 🆕 | `Other` | — | Bangalore, KA, India | Oct 26, 2026 | [Apply ↗](https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor) |
+| **R360 Group** | Application Security Intern <sup>~</sup> | `Other` | — | Bangalore, KA, India | Oct 26, 2026 | [Apply ↗](https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor) |
 | | <sub>`owasp top 10` `burp suite` `penetration testing` `secure code review`</sub> ||||||
 | **WebEngage** | Business Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai , MH, India | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
 | | <sub>`sql` `bigquery` `bi tools` `spreadsheet`</sub> ||||||
@@ -258,7 +258,7 @@
 | | <sub>`machine learning` `statistics`</sub> ||||||
 | **Honeywell** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India | Sep 24, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/124444) |
 | | <sub>`c++`</sub> ||||||
-| **Fam** | Security Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, On-site | Sep 23, 2026 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24?ref=interndoor) |
+| **Fam** | Security Engineer Intern <sup>~</sup> | `Software` | — | Bengaluru, On-site | Sep 23, 2026 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24?ref=interndoor) |
 | **Automation Anywhere** | Software Engineering Intern <sup>~</sup> | `Software` | **40,000 / month** | Bengaluru, Karnataka, India, On-site | Sep 23, 2026 | [Apply ↗](https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/Bengaluru-India/Software-Engineering-Intern_JR1504?source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `git` `selenium`</sub> ||||||
 | **Fam** | Security Engineer Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Sep 23, 2026 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24/apply?lever-source=interndoor&ref=interndoor) |
@@ -411,7 +411,7 @@
 | **Even.com** | AI Research Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Sep 21, 2026 | [Apply ↗](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
 | **Qumulo** | Software Development Engineer (Seattle) - Internship 2027 | `Software` | — | Remote | Sep 21, 2026 | [Apply ↗](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Sep 18, 2026 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
-| **ConductorAI** | Software Engineer Intern <sup>~</sup> | `Software` | — | Remote | Sep 17, 2026 | [Apply ↗](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891) |
+| **ConductorAI** | Software Engineer Intern <sup>~</sup> | `Software` | **USD 45,000–115,000 / year** | Remote | Sep 17, 2026 | [Apply ↗](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891) |
 | **Ramp** | Applied Scientist Intern <sup>~</sup> | `Data &amp; ML/AI` | **USD 12,500 / month** | Remote | Sep 15, 2026 | [Apply ↗](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) |
 | **Ibotta** | Software Engineer Intern <sup>~</sup> | `Software` | — | Remote | Sep 11, 2026 | [Apply ↗](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269) |
 | **Veeam Software** | AI &amp; Automation Engineering Intern - Summer 2027 | `Data &amp; ML/AI` | **USD 20–25 / hour** | Remote | Sep 11, 2026 | [Apply ↗](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101) |
@@ -467,7 +467,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,679 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 17.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,679 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 95% of open roles · median detection lag 17.1h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
