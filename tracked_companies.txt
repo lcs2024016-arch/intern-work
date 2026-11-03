@@ -439,6 +439,7 @@ moveinsync
 moveworks
 mphasis
 msci
+multiplier
 murex
 mykaarma
 myntra

@@ -2342,6 +2342,11 @@
     "site": "external"
   },
   {
+    "name": "Aries Global",
+    "slug": "ariesglobal",
+    "ats": "ashby"
+  },
+  {
     "name": "Arine",
     "slug": "arine",
     "ats": "greenhouse"
@@ -5618,6 +5623,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Global"
+  },
+  {
+    "name": "Cencora",
+    "slug": "cencora",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Cengage Group",
@@ -9312,6 +9322,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "External_Career_Site"
+  },
+  {
+    "name": "Element Solutions",
+    "slug": "elementsolutions",
+    "ats": "lever"
   },
   {
     "name": "Elevance Health",
@@ -17586,6 +17601,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Martin",
+    "slug": "martin",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "mphc"
+  },
+  {
     "name": "Marvell",
     "slug": "marvell",
     "ats": "workday",
@@ -19045,6 +19067,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "multicare"
+  },
+  {
+    "name": "Multiplier",
+    "slug": "multipliercareers",
+    "ats": "greenhouse"
   },
   {
     "name": "Multiply Labs",
@@ -20701,6 +20728,11 @@
     "site": "OneOncology"
   },
   {
+    "name": "onepot",
+    "slug": "onepot",
+    "ats": "ashby"
+  },
+  {
     "name": "OneSource Virtual",
     "slug": "vhr-osvhr",
     "ats": "workday",
@@ -21389,6 +21421,11 @@
     "name": "Parasail",
     "slug": "parasail",
     "ats": "ashby"
+  },
+  {
+    "name": "ParetoHealth",
+    "slug": "paretocaptiveservicesllc",
+    "ats": "greenhouse"
   },
   {
     "name": "Parexel",
@@ -22292,6 +22329,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "PolarisJobs"
+  },
+  {
+    "name": "Polished Snow",
+    "slug": "plsn",
+    "ats": "ashby"
   },
   {
     "name": "Polk County",
@@ -24287,6 +24329,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ExternalCareers"
+  },
+  {
+    "name": "Rothera",
+    "slug": "rotheramarketsllc",
+    "ats": "greenhouse"
   },
   {
     "name": "Rothesay",
@@ -27487,6 +27534,11 @@
   {
     "name": "Tecsa",
     "slug": "tecsa",
+    "ats": "workable"
+  },
+  {
+    "name": "Tecsys",
+    "slug": "tecsys",
     "ats": "workable"
   },
   {
@@ -31647,6 +31699,11 @@
     "name": "Zededa",
     "slug": "zededa",
     "ats": "rippling"
+  },
+  {
+    "name": "Zefr",
+    "slug": "zefr",
+    "ats": "ashby"
   },
   {
     "name": "Zego",
