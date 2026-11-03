@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5678-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 02, 2026 at 21:14 UTC</em></p>
+  <p><em>Last updated: Nov 03, 2026 at 03:19 UTC</em></p>
 </div>
 
 ---
@@ -26,13 +26,13 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Enterpret** | Machine Learning Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru | Nov 02, 2026 | [Apply ↗](https://job-boards.greenhouse.io/enterpret/jobs/7723230003?ref=interndoor) |
-| | <sub>`python` `llms` `retrieval` `evaluation`</sub> ||||||
 | **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Honeywell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127421?ref=interndoor) |
+| **Enterpret** | Machine Learning Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru | Nov 02, 2026 | [Apply ↗](https://job-boards.greenhouse.io/enterpret/jobs/7723230003?ref=interndoor) |
+| | <sub>`python` `llms` `retrieval` `evaluation`</sub> ||||||
 | **Honeywell** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor) |
 | | <sub>`navigation systems`</sub> ||||||
+| **Honeywell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127421?ref=interndoor) |
 | **Silicon Labs** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 02, 2026 | [Apply ↗](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---SW_21015?source=interndoor&ref=interndoor) |
 | **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127410/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
@@ -443,7 +443,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (203 of 240)._
 
 <details>
-<summary><strong>Recently closed</strong> — 58 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 57 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|

@@ -1,5 +1,32 @@
 [
   {
+    "id": "interndoor:4486124872",
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Hyderabad, Telangana, India, On-site",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor",
+    "posted_at": "2026-11-02",
+    "first_seen_at": "2026-11-02T21:14:42Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:ats:greenhouse:enterpret:7723230003",
     "company": "Enterpret",
     "title": "Machine Learning Intern",
@@ -28,15 +55,15 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4486124872",
-    "company": "Honeywell Aerospace",
+    "id": "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127410",
+    "company": "Honeywell",
     "title": "Software Engineering Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
     "region": "India",
-    "location": "Hyderabad, Telangana, India, On-site",
-    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor",
     "posted_at": "2026-11-02",
     "first_seen_at": "2026-11-02T21:14:42Z",
     "salary": null,
@@ -47,9 +74,7 @@
     "degree": null,
     "experience": null,
     "skills": [
-      "java",
-      "python",
-      "c++"
+      "navigation systems"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -74,31 +99,6 @@
     "degree": null,
     "experience": null,
     "skills": null,
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127410",
-    "company": "Honeywell",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor",
-    "posted_at": "2026-11-02",
-    "first_seen_at": "2026-11-02T21:14:42Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "navigation systems"
-    ],
     "source": "interndoor",
     "scope": "india"
   },
