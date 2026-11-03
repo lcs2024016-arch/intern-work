@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-03T18:58:11Z</updated>
+  <updated>2026-11-03T23:55:25Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Honeywell — Software Engineering Intern</title>
+    <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127669</id>
+    <updated>2026-11-03T23:55:25Z</updated>
+    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>CareSource — 2027 Summer Internship Program - Data Science Intern</title>
     <link href="https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306" rel="alternate"/>
     <id>workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4481448076</id>
     <updated>2026-10-26T12:01:21Z</updated>
     <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Philips — Software Developer Apprentice</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:workday:philips:wd3:jobs-and-careers:590732</id>
-    <updated>2026-10-26T12:01:21Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -1,5 +1,28 @@
 [
   {
+    "id": "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127669",
+    "company": "Honeywell",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor",
+    "posted_at": "2026-11-03",
+    "first_seen_at": "2026-11-03T23:55:25Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
     "company": "CareSource",
     "title": "2027 Summer Internship Program - Data Science Intern",
