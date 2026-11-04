@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T23:55:25Z",
-  "duration_seconds": 437.9,
+  "generated_at": "2026-11-04T04:06:58Z",
+  "duration_seconds": 490.3,
   "companies_total": 5690,
   "companies_by_source": {
     "greenhouse": 1266,
@@ -31,57 +31,60 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 371,
-  "fetched_ok": 5281,
-  "fetch_errors": 38,
+  "quarantined": 193,
+  "fetched_ok": 5283,
+  "fetch_errors": 214,
   "errors_by_source": {
-    "lever": 3,
-    "ashby": 4,
-    "bloomberg": 1,
-    "bytedance": 1,
-    "workable": 28,
-    "uber": 1
+    "recruitee": 1,
+    "lever": 59,
+    "ashby": 51,
+    "greenhouse": 70,
+    "workable": 1,
+    "indeed": 9,
+    "linkedin": 12,
+    "naukri": 10,
+    "wellfound": 1
   },
-  "fetch_success_rate": 0.993,
-  "roles_matched": 133,
-  "roles_cycle_inferred": 115,
+  "fetch_success_rate": 0.961,
+  "roles_matched": 132,
+  "roles_cycle_inferred": 114,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 100,
+  "dropped_offcycle_by_text": 99,
   "roles_by_source": {
     "lever": 3,
     "workday": 13,
     "greenhouse": 12,
     "smartrecruiters": 1,
     "ashby": 1,
-    "interndoor": 84,
+    "interndoor": 83,
     "ypatodkar": 15,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 131,
+    "Summer 2027": 130,
     "Term Unconfirmed": 2
   },
   "roles_by_category": {
-    "Software": 78,
+    "Software": 77,
     "Data & ML/AI": 47,
     "Other": 8
   },
   "roles_by_region": {
-    "India": 101,
+    "India": 100,
     "Remote": 32
   },
   "posted_date_coverage": 0.959,
-  "enriched_this_run": 21,
+  "enriched_this_run": 20,
   "enrichment_detail_fetches": 0,
-  "purged_this_run": 1,
+  "purged_this_run": 0,
   "dates_repaired": 0,
-  "links_checked": 39,
+  "links_checked": 37,
   "removed_dead_links": 0,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "open_total": 242,
   "detection_latency": {
     "median_minutes": 1027.8,
-    "sample_size": 50,
+    "sample_size": 42,
     "window_days": 7
   }
 }
