@@ -1978,6 +1978,13 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Apacheip",
+    "slug": "apacheip",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "apache_careers"
+  },
+  {
     "name": "APCON",
     "slug": "apcon",
     "ats": "greenhouse"
@@ -4459,6 +4466,11 @@
     "name": "Bot Auto",
     "slug": "botauto",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Botpress Technologies",
+    "slug": "botpress",
+    "ats": "workable"
   },
   {
     "name": "Bottom Line",
@@ -11789,7 +11801,7 @@
     "site": "GEHC_ExternalSite"
   },
   {
-    "name": "GE Healthcare",
+    "name": "GE HealthCare",
     "slug": "gehealthcare",
     "ats": "smartrecruiters"
   },
@@ -15526,6 +15538,11 @@
     "site": "Ext_Career_Site"
   },
   {
+    "name": "Jomboy Media",
+    "slug": "jomboymedia",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Jones Lang LaSalle (JLL)",
     "slug": "jll",
     "ats": "workday",
@@ -18875,6 +18892,11 @@
     "slug": "morganstanley",
     "ats": "workday",
     "site": "External"
+  },
+  {
+    "name": "Morning Consult",
+    "slug": "morningconsult",
+    "ats": "ashby"
   },
   {
     "name": "Morningstar",
@@ -22383,7 +22405,7 @@
     "ats": "lever"
   },
   {
-    "name": "porter",
+    "name": "Porter",
     "slug": "porter",
     "ats": "greenhouse"
   },
@@ -23606,6 +23628,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Careers"
+  },
+  {
+    "name": "REGENT",
+    "slug": "regent",
+    "ats": "ashby"
   },
   {
     "name": "Regions Bank",
@@ -29927,6 +29954,11 @@
   {
     "name": "VAST",
     "slug": "vast",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Vatic Investments",
+    "slug": "vaticlabs",
     "ats": "greenhouse"
   },
   {
