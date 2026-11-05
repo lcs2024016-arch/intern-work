@@ -4,14 +4,20 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-05T00:46:15Z</updated>
+  <updated>2026-11-05T07:41:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>GE Aerospace — Data Science Intern</title>
-    <link href="https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5040691EXTERNALENGLOBAL/Data-Science-Intern?utm_source=interndoor&amp;utm_medium=phenom-feeds&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4487291461</id>
-    <updated>2026-11-04T19:14:03Z</updated>
-    <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Amazon — Data Engineer Intern</title>
+    <link href="https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:amazon:IND:10496769</id>
+    <updated>2026-11-05T07:41:31Z</updated>
+    <summary>Bengaluru, KA, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Revvity — Intern - Software Developer</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916" rel="alternate"/>
+    <id>workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916</id>
+    <updated>2026-11-05T07:41:31Z</updated>
+    <summary>Mumbai · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Deloitte — DevOps Intern</title>
     <link href="https://www.linkedin.com/jobs/view/4485065390/" rel="alternate"/>
@@ -60,6 +66,12 @@
     <id>workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>
     <updated>2026-11-03T11:37:56Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — AI Intern</title>
+    <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127899?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127899</id>
+    <updated>2026-11-05T07:41:31Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Honeywell Aerospace — Software Engineering Intern</title>
     <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>interndoor:4481846527</id>
     <updated>2026-10-27T07:11:48Z</updated>
     <summary>Mumbai, Maharashtra, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Valency Networks Private Limited — Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security</title>
-    <link href="https://www.linkedin.com/jobs/view/4481851364/" rel="alternate"/>
-    <id>interndoor:4481851364</id>
-    <updated>2026-10-27T07:11:48Z</updated>
-    <summary>Pune City, Maharashtra, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>R360 Group — Application Security Intern</title>
-    <link href="https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:keka:reward360:167875</id>
-    <updated>2026-10-31T01:23:35Z</updated>
-    <summary>Bangalore, KA, India, On-site · Other · Summer 2027</summary>
   </entry>
 </feed>

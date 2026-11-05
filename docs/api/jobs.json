@@ -1,30 +1,61 @@
 [
   {
-    "id": "interndoor:4487291461",
-    "company": "GE Aerospace",
-    "title": "Data Science Intern",
+    "id": "interndoor:ats:amazon:IND:10496769",
+    "company": "Amazon",
+    "title": "Data Engineer Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Data & ML/AI",
     "region": "India",
-    "location": "Bengaluru, Karnataka, India, On-site",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5040691EXTERNALENGLOBAL/Data-Science-Intern?utm_source=interndoor&utm_medium=phenom-feeds&ref=interndoor",
-    "posted_at": "2026-11-04",
-    "first_seen_at": "2026-11-04T19:14:03Z",
+    "location": "Bengaluru, KA, India",
+    "url": "https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027?ref=interndoor",
+    "posted_at": "2026-11-05",
+    "first_seen_at": "2026-11-05T07:41:31Z",
     "salary": null,
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
     "pay_source": null,
-    "degree": "B.Tech/M.Tech",
+    "degree": null,
     "experience": null,
     "skills": [
+      "sql",
       "python",
-      "machine learning",
-      "cloud platforms",
-      "genai"
+      "aws",
+      "etl",
+      "data warehousing"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916",
+    "company": "Revvity",
+    "title": "Intern - Software Developer",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Mumbai",
+    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916",
+    "posted_at": "2026-11-05T00:00:00Z",
+    "first_seen_at": "2026-11-05T07:41:31Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Django",
+      "Linux",
+      "Git"
+    ],
+    "source": "workday",
     "scope": "india"
   },
   {
@@ -239,6 +270,32 @@
       "Azure"
     ],
     "source": "workday",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127899",
+    "company": "Honeywell",
+    "title": "AI Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127899?ref=interndoor",
+    "posted_at": "2026-11-02",
+    "first_seen_at": "2026-11-05T07:41:31Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "Python",
+      "TensorFlow"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
@@ -4506,6 +4563,35 @@
       "LLMs"
     ],
     "source": "workday",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF084196W",
+    "company": "Visa",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "IN - Bengaluru, India, Hybrid",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084196W?ref=interndoor",
+    "posted_at": "2026-10-05",
+    "first_seen_at": "2026-11-05T07:41:31Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "android sdk",
+      "objective c"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
