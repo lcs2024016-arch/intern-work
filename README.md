@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5695-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 04, 2026 at 19:14 UTC</em></p>
+  <p><em>Last updated: Nov 05, 2026 at 00:46 UTC</em></p>
 </div>
 
 ---
@@ -36,13 +36,13 @@
 | | <sub>`figma` `photoshop` `ai tools` `llms`</sub> ||||||
 | **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Hyderabad, Telangana, India, On-site | Nov 03, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127571/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
+| **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127413/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Enterpret** | Machine Learning Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru | Nov 02, 2026 | [Apply ↗](https://job-boards.greenhouse.io/enterpret/jobs/7723230003?ref=interndoor) |
+| **Enterpret** | Machine Learning Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru | Nov 02, 2026 | [Apply ↗](https://job-boards.greenhouse.io/enterpret/jobs/7723230003?ref=interndoor) |
 | | <sub>`python` `llms` `retrieval` `evaluation`</sub> ||||||
-| **Honeywell** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor) |
+| **Honeywell** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor) |
 | | <sub>`navigation systems`</sub> ||||||
-| **Honeywell** | AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127421?ref=interndoor) |
+| **Honeywell** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127421?ref=interndoor) |
 | | <sub>`Python` `TensorFlow`</sub> ||||||
 | **Silicon Labs** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 02, 2026 | [Apply ↗](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---SW_21015?source=interndoor&ref=interndoor) |
 | **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, On-site | Nov 02, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127410/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
@@ -60,7 +60,7 @@
 | **Philips** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore, On-site | Oct 30, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723?ref=interndoor) |
 | **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> | `Software` | B.Tech/BS | Pune, Maharashtra, India | Oct 30, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061) |
 | | <sub>`Python` `Java` `C++`</sub> ||||||
-| **Acron Aviation** | Software Engineer Intern - India Site <sup>~</sup> 🆕 | `Software` | — | Bengaluru | Oct 29, 2026 | [Apply ↗](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) |
+| **Acron Aviation** | Software Engineer Intern - India Site <sup>~</sup> | `Software` | — | Bengaluru | Oct 29, 2026 | [Apply ↗](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) |
 | | <sub>`Python` `C++`</sub> ||||||
 | **Airbus India** | Technical Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | AME/BTech | Bangalore Area | Oct 29, 2026 | [Apply ↗](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386?ref=interndoor) |
 | | <sub>`aircraft systems` `maintenance documentation` `aviation regulations`</sub> ||||||
@@ -267,7 +267,7 @@
 | | <sub>`java` `ai/ml` `devops` `agile`</sub> ||||||
 | **Kaleris** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E./B.Tech/M.E./M.Tech | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern---YMS_R-100657?ref=interndoor) |
 | | <sub>`python` `tensorflow` `opencv` `numpy`</sub> ||||||
-| **Kaleris** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern_R-100658?ref=interndoor) |
+| **Kaleris** | Software Engineer Intern <sup>~</sup> | `Software` | — | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern_R-100658?ref=interndoor) |
 | | <sub>`object-oriented programming` `visual studio` `code warrior` `svn`</sub> ||||||
 | **Vecmocon** | Frappe Developer Intern <sup>~</sup> | `Software` | — | Noida, UP, India | Sep 27, 2026 | [Apply ↗](https://vecmocon.keka.com/careers/jobdetails/163165?ref=interndoor) |
 | | <sub>`python` `javascript` `mysql` `rest apis`</sub> ||||||
@@ -421,7 +421,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Kaleris** | Associate Quality Assurance Engineer - Intern <sup>~</sup> 🆕 | `Software` | — | Chennai | Sep 12, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Quality-Assurance-Engineer---Intern_R-100637?ref=interndoor) |
+| **Kaleris** | Associate Quality Assurance Engineer - Intern <sup>~</sup> | `Software` | — | Chennai | Sep 12, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Quality-Assurance-Engineer---Intern_R-100637?ref=interndoor) |
 | | <sub>`selenium` `uft` `testng` `maven`</sub> ||||||
 | **Rubrik** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Pune, On-site | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537&ref=interndoor) |
 | | <sub>`java` `c/c++` `scala` `python`</sub> ||||||
@@ -505,7 +505,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,696 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 14.9h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,696 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 12.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
