@@ -1,5 +1,28 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161176",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176",
+    "posted_at": "2026-11-05",
+    "first_seen_at": "2026-11-05T16:05:40Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [],
+    "source": "oracle",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:ats:amazon:IND:10496769",
     "company": "Amazon",
     "title": "Data Engineer Intern",
@@ -729,32 +752,6 @@
       "C++"
     ],
     "source": "oracle",
-    "scope": "india"
-  },
-  {
-    "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
-    "company": "Acron Aviation",
-    "title": "Software Engineer Intern - India Site",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru",
-    "url": "https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254",
-    "posted_at": "2026-10-29T17:56:36Z",
-    "first_seen_at": "2026-11-02T21:14:42Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "Python",
-      "C++"
-    ],
-    "source": "lever",
     "scope": "india"
   },
   {
@@ -1753,29 +1750,6 @@
       "c++"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
-    "posted_at": "2026-10-24",
-    "first_seen_at": "2026-10-24T17:16:07Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [],
-    "source": "oracle",
     "scope": "india"
   },
   {
@@ -4563,6 +4537,64 @@
       "LLMs"
     ],
     "source": "workday",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF084029W",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "IN - Bengaluru, India, Hybrid",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084029W?ref=interndoor",
+    "posted_at": "2026-10-05",
+    "first_seen_at": "2026-11-05T16:05:40Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "android sdk",
+      "objective c"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF083831W",
+    "company": "Visa",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "IN - Bengaluru, India, Hybrid",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF083831W?ref=interndoor",
+    "posted_at": "2026-10-05",
+    "first_seen_at": "2026-11-05T16:05:40Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "android sdk",
+      "objective c"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
