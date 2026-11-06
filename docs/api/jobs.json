@@ -1670,31 +1670,6 @@
     "scope": "india"
   },
   {
-    "id": "workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237",
-    "company": "Marvell",
-    "title": "Software Engineer Intern",
-    "season": "Summer 2027",
-    "season_inferred": false,
-    "category": "Software",
-    "region": "India",
-    "location": "Hyderabad",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237",
-    "posted_at": "2026-10-26T00:00:00Z",
-    "first_seen_at": "2026-10-26T05:46:58Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Rust"
-    ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:ats:workday:ag:wd3:Airbus:JR10449573",
     "company": "Airbus India",
     "title": "AI Software engineering intern",
