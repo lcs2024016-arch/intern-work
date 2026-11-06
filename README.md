@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/Companies-5699-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 05, 2026 at 21:53 UTC</em></p>
+  <p><em>Last updated: Nov 06, 2026 at 02:02 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>160 open</kbd>
+## Summer 2027 (India) <kbd>159 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -34,7 +34,7 @@
 | **Honeywell** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Madurai, Tamil Nadu, India, On-site | Nov 04, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127736?ref=interndoor) |
 | | <sub>`software development` `real-world projects`</sub> ||||||
 | **Silicon Labs** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, On-site | Nov 04, 2026 | [Apply ↗](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Hyderabad/Intern---SW_21022?ref=interndoor) |
-| **Honeywell** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India | Nov 03, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor) |
+| **Honeywell** | Software Engineering Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India | Nov 03, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor) |
 | **Snapmint** | AI Creative Experience Design Intern <sup>~</sup> | `Data &amp; ML/AI` | Design/Visual Communication | Bengaluru, Karnataka, India | Nov 03, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4486826429/) |
 | | <sub>`figma` `photoshop` `ai tools` `llms`</sub> ||||||
 | **Honeywell Aerospace** | Software Engineering Intern <sup>~</sup> | `Software` | B.Tech/BS | Hyderabad, Telangana, India, On-site | Nov 03, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127571/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
@@ -312,8 +312,6 @@
 | | <sub>`azure` `docker` `kubernetes` `terraform`</sub> ||||||
 | **Cisco** | Software Engineer Trainee <sup>~</sup> | `Software` | — | Bangalore, India | Sep 11, 2026 | [Apply ↗](https://careers.cisco.com/global/en/job/CISCISGLOBAL2014481EXTERNALENGLOBAL/Software-Engineer-Trainee-Technical-Graduate-Apprentice-India-UHR?ref=interndoor) |
 | | <sub>`machine learning`</sub> ||||||
-| **Rubrik** | Software Engineer (CPD) - Winter Intern | `Software` | — | Bangalore | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
-| | <sub>`Python` `Java` `C++` `Scala`</sub> ||||||
 | **Tower Research Capital** | AI/ML Intern | `Data &amp; ML/AI` | PhD | gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
 | **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
@@ -330,9 +328,9 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **CareSource** | 2027 Summer Internship Program - Cybersecurity 🆕 | `Other` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) |
 | **CareSource** | 2027 Summer Internship Program - Data Analyst 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
 | | <sub>`Python` `SQL`</sub> ||||||
-| **CareSource** | 2027 Summer Internship Program - Cybersecurity 🆕 | `Other` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) |
 | **Deloitte** | DevOps Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 04, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4485065390/) |
 | | <sub>`python` `git` `aws` `azure devops`</sub> ||||||
 | **CareSource** | 2027 Summer Internship Program - Data Science Intern | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 03, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) |
@@ -439,12 +437,13 @@
 | **Rubrik** | Software Engineer Intern <sup>~</sup> | `Software` | — | Pune, On-site | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537&ref=interndoor) |
 | | <sub>`java` `c/c++` `scala` `python`</sub> ||||||
 
-## Global remote (US-based companies) <kbd>24 open</kbd>
+## Global remote (US-based companies) <kbd>25 open</kbd>
 
 > Remote internships at US venture-backed companies. **Remote means remote within the employer's country** — nearly all of these are US-only and need US work authorisation. Listed separately so they are never mistaken for India-open roles.
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Nooks** | Software Engineer, Intern <sup>~</sup> 🆕 | `Software` | — | Remote | Nov 05, 2026 | [Apply ↗](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) |
 | **Oxen.AI** | Generative AI Media Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Oct 27, 2026 | [Apply ↗](https://airtable.com/embed/appknoAarfwAlEv4B/shroCC7Byq8V7qARA/tblC70HRRFBo73aA9/viwRcuiyfbaMH07OG/rec9s1PFrmLinuBus) |
 | **Skydio** | Frontend Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 22, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) |
 | **Skydio** | Mobile Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Oct 20, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
@@ -470,13 +469,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (213 of 254)._
+_~ = the title doesn't state a year; bucketed here from its posting date (214 of 254)._
 
 <details>
-<summary><strong>Recently closed</strong> — 56 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 57 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-11-06 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-11-05 |
 | Marvell | Software Intern | Summer 2027 | 2026-11-05 |
 | Acron Aviation | Software Engineer Intern - India Site | Summer 2027 | 2026-11-05 |
@@ -501,7 +501,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (213 of
 | Bank of America | Software Engineer Apprentice | Summer 2027 | 2026-10-31 |
 | Revvity | AI Applications DevOps Intern | Summer 2027 | 2026-10-30 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-30 |
-| Riverbed Technology | Full stack Developer Intern | Summer 2027 | 2026-10-30 |
 
 </details>
 
@@ -518,7 +517,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,700 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 16.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,700 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 14.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 

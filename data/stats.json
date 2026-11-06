@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T21:53:47Z",
-  "duration_seconds": 480.9,
+  "generated_at": "2026-11-06T02:02:07Z",
+  "duration_seconds": 370.2,
   "companies_total": 5700,
   "companies_by_source": {
     "greenhouse": 1270,
@@ -31,57 +31,55 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 406,
+  "quarantined": 409,
   "fetched_ok": 5285,
-  "fetch_errors": 9,
+  "fetch_errors": 6,
   "errors_by_source": {
-    "lever": 2,
-    "rippling": 1,
     "ashby": 2,
     "workable": 4
   },
-  "fetch_success_rate": 0.998,
-  "roles_matched": 135,
+  "fetch_success_rate": 0.999,
+  "roles_matched": 134,
   "roles_cycle_inferred": 115,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 102,
+  "dropped_offcycle_by_text": 101,
   "roles_by_source": {
     "workday": 15,
-    "greenhouse": 12,
+    "greenhouse": 11,
     "smartrecruiters": 1,
     "ashby": 1,
     "lever": 2,
     "oracle": 1,
-    "interndoor": 84,
-    "ypatodkar": 15,
+    "interndoor": 83,
+    "ypatodkar": 16,
     "unstop": 4
   },
   "roles_by_cycle": {
     "Summer 2027": 132,
     "Fall 2026": 1,
-    "Term Unconfirmed": 2
+    "Term Unconfirmed": 1
   },
   "roles_by_category": {
     "Data & ML/AI": 50,
-    "Software": 76,
+    "Software": 75,
     "Other": 9
   },
   "roles_by_region": {
-    "Remote": 34,
-    "India": 101
+    "Remote": 35,
+    "India": 99
   },
   "posted_date_coverage": 0.961,
-  "enriched_this_run": 22,
-  "enrichment_detail_fetches": 2,
-  "purged_this_run": 1,
+  "enriched_this_run": 20,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 0,
   "dates_repaired": 0,
-  "links_checked": 36,
+  "links_checked": 42,
   "removed_dead_links": 0,
-  "new_this_run": 3,
+  "new_this_run": 1,
   "open_total": 254,
   "detection_latency": {
-    "median_minutes": 996.7,
-    "sample_size": 44,
+    "median_minutes": 842.8,
+    "sample_size": 28,
     "window_days": 7
   }
 }
