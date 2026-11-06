@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5712-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 06, 2026 at 16:40 UTC</em></p>
+  <p><em>Last updated: Nov 06, 2026 at 22:01 UTC</em></p>
 </div>
 
 ---
@@ -261,7 +261,7 @@
 | | <sub>`java` `c/c++` `scala` `python`</sub> ||||||
 | **NatWest Group** | AI ML Trainee <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/M.Tech | Bengaluru, Karnataka, India, On-site | Sep 29, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18289724-ai-ml-trainee-6-month-fixed-term-contract-2026-graduates?tm_job=R-00285898-OTHLOC-IND-5FBAN016&tm_event=view&tm_company=861&bid=56&ref=interndoor) |
 | | <sub>`java` `ai/ml` `devops` `agile`</sub> ||||||
-| **Kaleris** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | B.E./B.Tech/M.E./M.Tech | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern---YMS_R-100657?ref=interndoor) |
+| **Kaleris** | Software Engineer Intern <sup>~</sup> | `Software` | B.E./B.Tech/M.E./M.Tech | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern---YMS_R-100657?ref=interndoor) |
 | | <sub>`python` `tensorflow` `opencv` `numpy`</sub> ||||||
 | **Kaleris** | Software Engineer Intern <sup>~</sup> | `Software` | — | Chennai | Sep 28, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer-Intern_R-100658?ref=interndoor) |
 | | <sub>`object-oriented programming` `visual studio` `code warrior` `svn`</sub> ||||||
@@ -473,7 +473,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (215 of 253)._
 
 <details>
-<summary><strong>Recently closed</strong> — 56 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 53 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -518,7 +518,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,713 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 96% of open roles · median detection lag 14.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,713 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 14.0h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
