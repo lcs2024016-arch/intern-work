@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-06T08:56:30Z</updated>
+  <updated>2026-11-06T16:40:02Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Nooks — Software Engineer, Intern</title>
@@ -30,12 +30,6 @@
     <id>workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356</id>
     <updated>2026-11-05T21:53:47Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161176</id>
-    <updated>2026-11-05T16:05:40Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Amazon — Data Engineer Intern</title>
     <link href="https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027?ref=interndoor" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>interndoor:4481865845</id>
     <updated>2026-10-27T13:55:05Z</updated>
     <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell Technologies — Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160949/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4484050988</id>
+    <updated>2026-10-27T13:55:05Z</updated>
+    <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

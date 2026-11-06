@@ -1,12 +1,12 @@
 {
-  "total": 5699,
+  "total": 5712,
   "by_ats": {
     "workday": 1609,
-    "greenhouse": 1270,
-    "ashby": 897,
-    "smartrecruiters": 876,
+    "greenhouse": 1274,
+    "ashby": 902,
+    "smartrecruiters": 877,
     "lever": 485,
-    "workable": 224,
+    "workable": 227,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -3496,6 +3496,11 @@
       "site": "BTCareers"
     },
     {
+      "name": "Ballotpedia",
+      "slug": "ballotpedia",
+      "ats": "workable"
+    },
+    {
       "name": "BambooHR",
       "slug": "bamboohr17",
       "ats": "greenhouse"
@@ -6427,6 +6432,11 @@
       "ats": "ashby"
     },
     {
+      "name": "Clasp",
+      "slug": "clasp",
+      "ats": "ashby"
+    },
+    {
       "name": "ClassPass",
       "slug": "classpass",
       "ats": "greenhouse"
@@ -8505,6 +8515,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "DSG"
+    },
+    {
+      "name": "Didero",
+      "slug": "didero",
+      "ats": "ashby"
     },
     {
       "name": "DiDi Global",
@@ -13791,6 +13806,11 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "Horizon3.ai",
+      "slug": "horizon3ai",
+      "ats": "ashby"
+    },
+    {
       "name": "Hormel Foods",
       "slug": "ekkh.fa.us2.oraclecloud.com",
       "ats": "oracle",
@@ -13853,6 +13873,11 @@
       "ats": "oracle",
       "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
       "site": "CX_1"
+    },
+    {
+      "name": "HoYoverse",
+      "slug": "hoyoverse",
+      "ats": "ashby"
     },
     {
       "name": "hp",
@@ -14371,6 +14396,11 @@
     {
       "name": "Imbue",
       "slug": "imbue",
+      "ats": "greenhouse"
+    },
+    {
+      "name": "Imbue",
+      "slug": "imbueunlisted",
       "ats": "greenhouse"
     },
     {
@@ -15760,6 +15790,11 @@
     {
       "name": "Kargo",
       "slug": "kargo",
+      "ats": "greenhouse"
+    },
+    {
+      "name": "Kaseya",
+      "slug": "kaseya",
       "ats": "greenhouse"
     },
     {
@@ -17183,6 +17218,11 @@
       "ats": "lever"
     },
     {
+      "name": "Lumbermen's",
+      "slug": "lumbermens",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Lumentum",
       "slug": "lumentum",
       "ats": "workday",
@@ -17476,7 +17516,7 @@
       "ats": "lever"
     },
     {
-      "name": "Makemytrip",
+      "name": "MakeMyTrip",
       "slug": "makemytrip",
       "ats": "smartrecruiters"
     },
@@ -20611,6 +20651,11 @@
       "site": "ohiohealthjobs"
     },
     {
+      "name": "OHM Advisors",
+      "slug": "ohm-advisors",
+      "ats": "workable"
+    },
+    {
       "name": "Oklahoma State Government",
       "slug": "okgov",
       "ats": "workday",
@@ -21891,6 +21936,11 @@
     {
       "name": "Perry Homes",
       "slug": "perryhomes",
+      "ats": "workable"
+    },
+    {
+      "name": "Persimmons.ai",
+      "slug": "persimmons-ai",
       "ats": "workable"
     },
     {
@@ -23589,6 +23639,11 @@
       "name": "Red Rabbit Robotics",
       "slug": "red-rabbit-robotics",
       "ats": "workable"
+    },
+    {
+      "name": "Red Wing Shoe Company",
+      "slug": "RedWingShoeCompany",
+      "ats": "smartrecruiters"
     },
     {
       "name": "Redbus",
@@ -26182,6 +26237,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Sonicwall",
+      "slug": "sonicwall",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Sono Bello",
       "slug": "sonobello",
       "ats": "greenhouse"
@@ -28706,6 +28766,11 @@
     {
       "name": "Trainline",
       "slug": "trainline",
+      "ats": "ashby"
+    },
+    {
+      "name": "Trajectory",
+      "slug": "trajectory",
       "ats": "ashby"
     },
     {
