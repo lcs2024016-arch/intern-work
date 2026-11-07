@@ -6494,31 +6494,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:ats:phenom:careers.cisco.com:2014481",
-    "company": "Cisco",
-    "title": "Software Engineer Trainee",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bangalore, India",
-    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014481EXTERNALENGLOBAL/Software-Engineer-Trainee-Technical-Graduate-Apprentice-India-UHR?ref=interndoor",
-    "posted_at": "2026-09-11",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "machine learning"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "ypatodkar:ibotta:ibotta_ashby_3130669e-16aa-4f63-834d-b83571c8d269",
     "company": "Ibotta",
     "title": "Software Engineer Intern",

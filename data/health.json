@@ -890,8 +890,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/urbancompany/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "greenhouse:viseai": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-07T19:50:59Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/viseai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:visiersolutionsinc": {
@@ -1040,8 +1040,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/bestegg?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:beta": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-06T22:01:23Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/beta?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:butcherbox": {
@@ -1530,18 +1530,18 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:leap-legal-software": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-07T19:50:59Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/leap-legal-software/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workable:liberty-mutual-canada": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-07T08:08:46Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/liberty-mutual-canada/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workable:longshot-systems-ltd": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-07T08:08:46Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/longshot-systems-ltd/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:lovey": {
@@ -1650,8 +1650,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/oceancomm/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:ohm-advisors": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-07T08:08:46Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ohm-advisors/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "workable:onlogic-inc": {
@@ -1700,8 +1700,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/perryhomes/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:persimmons-ai": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-07T08:08:46Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-07T23:21:58Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/persimmons-ai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workable:planetart": {

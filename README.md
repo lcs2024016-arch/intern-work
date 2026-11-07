@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-257-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-256-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5727-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 07, 2026 at 19:50 UTC</em></p>
+  <p><em>Last updated: Nov 07, 2026 at 23:21 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>159 open</kbd>
+## Summer 2027 (India) <kbd>158 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -311,8 +311,6 @@
 | | <sub>`javascript` `react.js` `mongodb` `postgresql`</sub> ||||||
 | **Kaleris** | Cloud Ops Engineer Intern <sup>~</sup> | `Software` | — | Chennai | Sep 12, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Cloud-Ops-Engineer---Intern_R-100647?ref=interndoor) |
 | | <sub>`azure` `docker` `kubernetes` `terraform`</sub> ||||||
-| **Cisco** | Software Engineer Trainee <sup>~</sup> | `Software` | — | Bangalore, India | Sep 11, 2026 | [Apply ↗](https://careers.cisco.com/global/en/job/CISCISGLOBAL2014481EXTERNALENGLOBAL/Software-Engineer-Trainee-Technical-Graduate-Apprentice-India-UHR?ref=interndoor) |
-| | <sub>`machine learning`</sub> ||||||
 | **Tower Research Capital** | AI/ML Intern | `Data &amp; ML/AI` | PhD | gurgaon | Aug 20, 2026 | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | | <sub>`python` `tensorflow` `pytorch` `git`</sub> ||||||
 | **Truecaller** | Developer Relations Intern <sup>~</sup> | `Software` | — | Gurgaon | — | [Apply ↗](https://www.instahyre.com/job-445808-developer-relations-intern-internship-at-truecaller-gurgaon/) |
@@ -329,8 +327,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **CareSource** | 2027 Summer Internship Program - Cybersecurity 🆕 | `Other` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) |
-| **CareSource** | 2027 Summer Internship Program - Data Analyst 🆕 | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
+| **CareSource** | 2027 Summer Internship Program - Cybersecurity | `Other` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) |
+| **CareSource** | 2027 Summer Internship Program - Data Analyst | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
 | | <sub>`Python` `SQL`</sub> ||||||
 | **Deloitte** | DevOps Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 04, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4485065390/) |
 | | <sub>`python` `git` `aws` `azure devops`</sub> ||||||
@@ -428,7 +426,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **NatWest Group** | AI ML Trainee \| 6-Month Fixed-Term Contract \| 2025/2026 Graduates 🆕 | `Data &amp; ML/AI` | — | Chennai, Tamil Nadu, India, On-site | Nov 05, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18441066-ai-ml-trainee-6-month-fixed-term-contract-2025-slash-2026-graduates?tm_job=R-00287403-OTHLOC-IND-5FCHE051&tm_event=view&tm_company=861&bid=56&ref=interndoor) |
+| **NatWest Group** | AI ML Trainee \| 6-Month Fixed-Term Contract \| 2025/2026 Graduates | `Data &amp; ML/AI` | — | Chennai, Tamil Nadu, India, On-site | Nov 05, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18441066-ai-ml-trainee-6-month-fixed-term-contract-2025-slash-2026-graduates?tm_job=R-00287403-OTHLOC-IND-5FCHE051&tm_event=view&tm_company=861&bid=56&ref=interndoor) |
 | | <sub>`python` `object-oriented programming` `version control` `testing`</sub> ||||||
 
 ## Term Unconfirmed (India) <kbd>2 open</kbd>
@@ -473,13 +471,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (216 of 257)._
+_~ = the title doesn't state a year; bucketed here from its posting date (215 of 256)._
 
 <details>
-<summary><strong>Recently closed</strong> — 51 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 52 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cisco | Software Engineer Trainee | Summer 2027 | 2026-11-07 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-11-06 |
 | Marvell | Software Engineer Intern | Summer 2027 | 2026-11-06 |
 | Rubrik | Software Engineer (CPD) - Winter Intern | Summer 2027 | 2026-11-06 |
@@ -504,7 +503,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (216 of
 | Wex | Software Development Trainee-2 | Summer 2027 | 2026-10-31 |
 | Wex | Software Engineer Intern | Summer 2027 | 2026-10-31 |
 | Wex | Software Development Trainee | Summer 2027 | 2026-10-31 |
-| Bank of America | Software Engineer Apprentice | Summer 2027 | 2026-10-31 |
 
 </details>
 
