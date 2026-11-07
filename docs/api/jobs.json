@@ -1,5 +1,28 @@
 [
   {
+    "id": "ypatodkar:notion:notion_ashby_43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "company": "Notion",
+    "title": "Software Engineering Intern, Frontend (Summer 2027)",
+    "season": "Summer 2027",
+    "season_inferred": false,
+    "category": "Software",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "posted_at": "2026-11-06",
+    "first_seen_at": "2026-11-07T01:36:06Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": null,
+    "source": "ypatodkar",
+    "scope": "global"
+  },
+  {
     "id": "ypatodkar:nooks:nooks_ashby_ae2fb7a5-d854-48a3-9948-9585143602eb",
     "company": "Nooks",
     "title": "Software Engineer, Intern",
