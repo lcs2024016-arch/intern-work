@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5729-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 08, 2026 at 11:01 UTC</em></p>
+  <p><em>Last updated: Nov 08, 2026 at 16:57 UTC</em></p>
 </div>
 
 ---
@@ -267,7 +267,7 @@
 | | <sub>`object-oriented programming` `visual studio` `code warrior` `svn`</sub> ||||||
 | **Vecmocon** | Frappe Developer Intern <sup>~</sup> | `Software` | — | Noida, UP, India | Sep 27, 2026 | [Apply ↗](https://vecmocon.keka.com/careers/jobdetails/163165?ref=interndoor) |
 | | <sub>`python` `javascript` `mysql` `rest apis`</sub> ||||||
-| **eSec Forte® Technologies** | Cloud Security Intern <sup>~</sup> 🆕 | `Software` | — | Gurugram, Haryana, India | Sep 26, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4471048612/) |
+| **eSec Forte® Technologies** | Cloud Security Intern <sup>~</sup> | `Software` | — | Gurugram, Haryana, India | Sep 26, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4471048612/) |
 | | <sub>`aws` `azure` `gcp` `python`</sub> ||||||
 | **BNP Paribas** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Sep 25, 2026 | [Apply ↗](https://group.bnpparibas/en/careers/job-offer/data-science-intern-1?SRC=interndoor&ref=interndoor) |
 | | <sub>`python` `tensorflow` `pytorch` `sklearn`</sub> ||||||
