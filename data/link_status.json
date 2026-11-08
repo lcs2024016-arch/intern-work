@@ -1,4 +1,10 @@
 {
+  "greenhouse:solutions:4711210006": {
+    "checked_at": "2026-11-08T03:33:45Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
+  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-11-07T15:24:10Z",
     "status": 403,
@@ -192,7 +198,7 @@
     "url": "https://forms.gle/mdMbL91HT8MfFhjb7?ref=interndoor"
   },
   "interndoor:4474257793": {
-    "checked_at": "2026-11-07T23:21:58Z",
+    "checked_at": "2026-11-08T03:33:45Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303402&source=interndoor&ref=interndoor"
@@ -204,7 +210,7 @@
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=302765&source=interndoor&ref=interndoor"
   },
   "interndoor:4474271196": {
-    "checked_at": "2026-11-07T23:21:58Z",
+    "checked_at": "2026-11-08T03:33:45Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn"
@@ -432,7 +438,7 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215949?source=interndoor&ref=interndoor"
   },
   "interndoor:4480341989": {
-    "checked_at": "2026-11-07T23:21:58Z",
+    "checked_at": "2026-11-08T03:33:45Z",
     "status": 403,
     "strikes": 1,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
@@ -474,7 +480,7 @@
     "url": "https://www.linkedin.com/jobs/view/4481851364/"
   },
   "interndoor:4481865845": {
-    "checked_at": "2026-11-07T01:36:06Z",
+    "checked_at": "2026-11-08T03:33:45Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940?source=interndoor&ref=interndoor"
@@ -652,12 +658,6 @@
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor"
-  },
-  "interndoor:ats:phenom:careers.cisco.com:2014481": {
-    "checked_at": "2026-11-07T23:21:58Z",
-    "status": 410,
-    "strikes": 2,
-    "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014481EXTERNALENGLOBAL/Software-Engineer-Trainee-Technical-Graduate-Apprentice-India-UHR?ref=interndoor"
   },
   "interndoor:ats:workday:ag:wd3:Airbus:JR10449573": {
     "checked_at": "2026-11-07T08:08:46Z",
