@@ -2545,6 +2545,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Artificial Analysis",
+    "slug": "artificialanalysis",
+    "ats": "ashby"
+  },
+  {
     "name": "Artificial.Agency",
     "slug": "artificial",
     "ats": "ashby"
@@ -5542,6 +5547,11 @@
     "name": "Catch22",
     "slug": "Catch22",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Category Labs",
+    "slug": "category-labs",
+    "ats": "ashby"
   },
   {
     "name": "Caterpillar",
@@ -26344,7 +26354,7 @@
     "ats": "lever"
   },
   {
-    "name": "sophos",
+    "name": "Sophos",
     "slug": "sophos",
     "ats": "ashby"
   },
@@ -26431,7 +26441,7 @@
     "site": "external"
   },
   {
-    "name": "Space",
+    "name": "SPACE",
     "slug": "space",
     "ats": "greenhouse"
   },
