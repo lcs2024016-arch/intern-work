@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-09T00:27:02Z</updated>
+  <updated>2026-11-09T07:34:01Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>PayPal — Software Engineer Intern</title>
+    <link href="https://paypal.eightfold.ai/careers/job/274923210258?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:eightfold:paypal.eightfold.ai:274923210258</id>
+    <updated>2026-11-09T07:34:01Z</updated>
+    <summary>Bangalore, Karnataka, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Notion — Software Engineering Intern, Frontend (Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413" rel="alternate"/>
     <id>ypatodkar:notion:notion_ashby_43ffba97-b64a-4c6a-ac13-c803253c9413</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4484071621</id>
     <updated>2026-10-27T19:11:32Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Electronic Arts (EA) — Software Engineer Intern</title>
-    <link href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940?source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4481865845</id>
-    <updated>2026-10-27T13:55:05Z</updated>
-    <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -1,5 +1,34 @@
 [
   {
+    "id": "interndoor:ats:eightfold:paypal.eightfold.ai:274923210258",
+    "company": "PayPal",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bangalore, Karnataka, India, On-site",
+    "url": "https://paypal.eightfold.ai/careers/job/274923210258?ref=interndoor",
+    "posted_at": "2026-11-09",
+    "first_seen_at": "2026-11-09T07:34:01Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "react",
+      "node",
+      "java",
+      "sql",
+      "rest apis"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "ypatodkar:notion:notion_ashby_43ffba97-b64a-4c6a-ac13-c803253c9413",
     "company": "Notion",
     "title": "Software Engineering Intern, Frontend (Summer 2027)",
@@ -1916,6 +1945,31 @@
     "scope": "india"
   },
   {
+    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer Bachelor's Degree",
+    "season": "Summer 2027",
+    "season_inferred": false,
+    "category": "Software",
+    "region": "India",
+    "location": "Bangalore",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "first_seen_at": "2026-10-23T08:13:58Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python"
+    ],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4480049386",
     "company": "Electronic Arts (EA)",
     "title": "Software Engineer Intern",
@@ -2406,7 +2460,7 @@
     "season_inferred": true,
     "category": "Data & ML/AI",
     "region": "India",
-    "location": "Gurgaon, Haryana, India, On-site",
+    "location": "Gurgaon, Haryana, India",
     "url": "https://joinbytedance.com/search/7654066732550785333?ref=interndoor",
     "posted_at": "2026-10-20",
     "first_seen_at": "2026-10-20T07:01:13Z",
