@@ -1,12 +1,12 @@
 {
-  "total": 5729,
+  "total": 5735,
   "by_ats": {
     "workday": 1611,
-    "greenhouse": 1281,
-    "ashby": 907,
+    "greenhouse": 1282,
+    "ashby": 911,
     "smartrecruiters": 877,
     "lever": 486,
-    "workable": 229,
+    "workable": 230,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -15838,6 +15838,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Kasa Living",
+      "slug": "kasa",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Kaseya",
       "slug": "kaseya",
       "ats": "greenhouse"
@@ -16068,6 +16073,11 @@
       "name": "Klaviyo",
       "slug": "klaviyo",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Klaviyo",
+      "slug": "f40d14d9-07f4-403d-802b-37453deccf0a",
+      "ats": "ashby"
     },
     {
       "name": "Kled AI",
@@ -19080,6 +19090,11 @@
       "ats": "ashby"
     },
     {
+      "name": "Moss",
+      "slug": "mossrobotics",
+      "ats": "ashby"
+    },
+    {
       "name": "Moss & Associates",
       "slug": "mosscm",
       "ats": "workday",
@@ -19224,6 +19239,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "multco_jobs"
+    },
+    {
+      "name": "Multi Media",
+      "slug": "multimediallc",
+      "ats": "workable"
     },
     {
       "name": "MultiCare Health System",
@@ -19776,6 +19796,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "Netflix"
+    },
+    {
+      "name": "Netholabs",
+      "slug": "netholabs",
+      "ats": "ashby"
     },
     {
       "name": "Netic",
@@ -28705,6 +28730,11 @@
     {
       "name": "Tonal",
       "slug": "tonal",
+      "ats": "ashby"
+    },
+    {
+      "name": "Tonic",
+      "slug": "tonicai",
       "ats": "ashby"
     },
     {
