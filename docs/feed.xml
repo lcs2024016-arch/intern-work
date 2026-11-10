@@ -4,26 +4,32 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-10T16:55:48Z</updated>
+  <updated>2026-11-10T22:12:14Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Codemonk — Machine Learning Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4488324786/" rel="alternate"/>
-    <id>interndoor:4488324786</id>
-    <updated>2026-11-10T16:55:48Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Clera — ML Intern</title>
+    <link href="https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7" rel="alternate"/>
+    <id>ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7</id>
+    <updated>2026-11-10T22:12:14Z</updated>
+    <summary>remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Sigmoid — DE Intern + SDE Trainee</title>
-    <link href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:greenhouse:sigmoid:8927991002</id>
-    <updated>2026-11-10T16:55:48Z</updated>
-    <summary>Bengaluru, On-site · Other · Summer 2027</summary>
+    <title>Echo Global Logistics — Software Engineering Intern- Chicago</title>
+    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1" rel="alternate"/>
+    <id>workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1</id>
+    <updated>2026-11-10T22:12:14Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Honeywell Technologies — Data Science Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161958/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4489439428</id>
-    <updated>2026-11-10T16:55:48Z</updated>
-    <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Allstate India — Software Engineering Intern</title>
+    <link href="https://allstateinsurance.contacthr.com/154196808?utm_source=LILimitedListings&amp;source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4488603020</id>
+    <updated>2026-11-10T22:12:14Z</updated>
+    <summary>Bengaluru, Karnataka, India, Hybrid · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Thales — Software Intern</title>
+    <link href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0347867EXTERNALENGLOBAL/Software-Intern?utm_source=interndoor&amp;utm_medium=phenom-feeds&amp;source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4489615629</id>
+    <updated>2026-11-10T22:12:14Z</updated>
+    <summary>Bengaluru, Karnataka, India, Hybrid · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Sigmoid — DE Intern + SDE Trainee - Off Campus Hiring 2026</title>
     <link href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002" rel="alternate"/>
@@ -31,11 +37,23 @@
     <updated>2026-11-10T16:55:48Z</updated>
     <summary>Bengaluru · Other · Fall 2026</summary>
   </entry>  <entry>
-    <title>Thales — Software Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867" rel="alternate"/>
-    <id>workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
+    <title>Codemonk — Machine Learning Intern</title>
+    <link href="https://www.linkedin.com/jobs/view/4488324786/" rel="alternate"/>
+    <id>interndoor:4488324786</id>
     <updated>2026-11-10T16:55:48Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
+    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell Technologies — Data Science Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161958/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4489439428</id>
+    <updated>2026-11-10T16:55:48Z</updated>
+    <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Sigmoid — DE Intern + SDE Trainee</title>
+    <link href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:greenhouse:sigmoid:8927991002</id>
+    <updated>2026-11-10T16:55:48Z</updated>
+    <summary>Bengaluru, On-site · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Thales — Embedded Software Intern</title>
     <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902" rel="alternate"/>
@@ -288,23 +306,5 @@
     <id>interndoor:ats:keka:gokwik:167888</id>
     <updated>2026-10-28T21:36:32Z</updated>
     <summary>Bangalore, KA, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>HARMAN India — Software Engineering Intern</title>
-    <link href="https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4482506472</id>
-    <updated>2026-10-28T17:01:21Z</updated>
-    <summary>Pimpri Chinchwad, Maharashtra, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Harman — Software Engineering Intern</title>
-    <link href="https://harman.wd3.myworkdayjobs.com/en-US/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Intern_R-56682-2026-1?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:workday:harman:wd3:HARMAN:R-56682-2026</id>
-    <updated>2026-10-28T17:01:21Z</updated>
-    <summary>India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Certa — Frontend Engineer - Internship</title>
-    <link href="https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e" rel="alternate"/>
-    <id>ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e</id>
-    <updated>2026-10-28T10:17:53Z</updated>
-    <summary>India · Software · Summer 2027</summary>
   </entry>
 </feed>

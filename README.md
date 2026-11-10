@@ -13,26 +13,25 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-259-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-262-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5735-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 10, 2026 at 16:55 UTC</em></p>
+  <p><em>Last updated: Nov 10, 2026 at 22:12 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>165 open</kbd>
+## Summer 2027 (India) <kbd>164 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
 | **Codemonk** | Machine Learning Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | **₹13,000 / month** | Bengaluru, Karnataka, India | Nov 10, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4488324786/) |
 | | <sub>`python` `generative ai` `deep learning` `llm integration`</sub> ||||||
-| **Sigmoid** | DE Intern + SDE Trainee <sup>~</sup> 🆕 | `Other` | — | Bengaluru, On-site | Nov 10, 2026 | [Apply ↗](https://job-boards.greenhouse.io/sigmoid/jobs/8927991002?ref=interndoor) |
-| | <sub>`Python` `SQL` `Git` `AWS`</sub> ||||||
 | **Honeywell Technologies** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 10, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161958/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor) |
 | | <sub>`python` `r` `tableau` `power bi`</sub> ||||||
-| **Thales** | Software Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply ↗](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
+| **Sigmoid** | DE Intern + SDE Trainee <sup>~</sup> 🆕 | `Other` | — | Bengaluru, On-site | Nov 10, 2026 | [Apply ↗](https://job-boards.greenhouse.io/sigmoid/jobs/8927991002?ref=interndoor) |
+| | <sub>`Python` `SQL` `Git` `AWS`</sub> ||||||
 | **Thales** | Embedded Software Intern <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply ↗](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
 | **BNP Paribas** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 09, 2026 | [Apply ↗](https://group.bnpparibas/en/careers/job-offer/data-science-intern-2?SRC=interndoor&ref=interndoor) |
 | | <sub>`python` `tensorflow` `pytorch` `sklearn`</sub> ||||||
@@ -334,10 +333,17 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>43 open</kbd>
+## Summer 2027 (Remote) <kbd>47 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Clera** | ML Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | remote | Nov 10, 2026 | [Apply ↗](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
+| | <sub>`Python` `PyTorch` `TensorFlow` `scikit-learn`</sub> ||||||
+| **Echo Global Logistics** | Software Engineering Intern- Chicago 🆕 | `Software` | **$35.223k/yr**<br>B.Tech/BS | Remote | Nov 10, 2026 | [Apply ↗](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) |
+| **Allstate India** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 10, 2026 | [Apply ↗](https://allstateinsurance.contacthr.com/154196808?utm_source=LILimitedListings&source=interndoor&ref=interndoor) |
+| | <sub>`angular` `typescript` `java` `aws`</sub> ||||||
+| **Thales** | Software Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 10, 2026 | [Apply ↗](https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0347867EXTERNALENGLOBAL/Software-Intern?utm_source=interndoor&utm_medium=phenom-feeds&source=interndoor&ref=interndoor) |
+| | <sub>`c` `c++` `java` `python`</sub> ||||||
 | **CareSource** | 2027 Summer Internship Program - Cybersecurity | `Other` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) |
 | **CareSource** | 2027 Summer Internship Program - Data Analyst | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 05, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
 | | <sub>`Python` `SQL`</sub> ||||||
@@ -473,13 +479,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (219 of 259)._
+_~ = the title doesn't state a year; bucketed here from its posting date (221 of 262)._
 
 <details>
 <summary><strong>Recently closed</strong> — 48 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Thales | Software Intern | Summer 2027 | 2026-11-10 |
 | Honeywell | Intern Masters Data Science | Summer 2027 | 2026-11-10 |
 | Johnson &amp; Johnson Innovative Medicine | Software Engineering Intern | Summer 2027 | 2026-11-10 |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Summer 2027 | 2026-11-10 |
@@ -504,7 +511,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (219 of
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-11-03 |
 | Scopely | Intern - QA Engineer - Royal Lounge Casino | Summer 2027 | 2026-11-03 |
 | GE Aerospace | Artificial Intelligence Intern | Summer 2027 | 2026-11-03 |
-| Marvell | Intern, Software Engineer - Master&#x27;s Degree | Summer 2027 | 2026-11-03 |
 
 </details>
 
