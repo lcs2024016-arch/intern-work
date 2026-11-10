@@ -1,5 +1,31 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161958",
+    "company": "Honeywell",
+    "title": "Intern Masters Data Science",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958",
+    "posted_at": "2026-11-10",
+    "first_seen_at": "2026-11-10T09:06:28Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "M.Tech/MS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "Tableau"
+    ],
+    "source": "oracle",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4488835858",
     "company": "BNP Paribas",
     "title": "Data Science Intern",
@@ -69,7 +95,7 @@
     "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
     "posted_at": "2026-11-06",
     "first_seen_at": "2026-11-07T01:36:06Z",
-    "salary": null,
+    "salary": "USD 57–61 / hour",
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
@@ -92,7 +118,7 @@
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
     "posted_at": "2026-11-05",
     "first_seen_at": "2026-11-06T02:02:07Z",
-    "salary": null,
+    "salary": "USD 120,000 / year",
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
@@ -5097,31 +5123,6 @@
       "apis",
       "data pipelines",
       "llm applications"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4474154255",
-    "company": "Johnson & Johnson Innovative Medicine",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Nandigama, Telangana, India, Hybrid",
-    "url": "https://www.careers.jnj.com/en/jobs/R-100745/?source=interndoor&ref=interndoor",
-    "posted_at": "2026-10-01",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "data analytics"
     ],
     "source": "interndoor",
     "scope": "india"

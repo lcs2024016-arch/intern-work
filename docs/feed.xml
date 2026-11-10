@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-10T01:25:43Z</updated>
+  <updated>2026-11-10T09:06:28Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Honeywell — Intern Masters Data Science</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161958</id>
+    <updated>2026-11-10T09:06:28Z</updated>
+    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>BNP Paribas — Data Science Intern</title>
     <link href="https://group.bnpparibas/en/careers/job-offer/data-science-intern-2?SRC=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4488835858</id>
@@ -300,11 +306,5 @@
     <id>interndoor:4484071621</id>
     <updated>2026-10-27T19:11:32Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Electronic Arts (EA) — Software Engineer Intern</title>
-    <link href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940?source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4481865845</id>
-    <updated>2026-10-27T13:55:05Z</updated>
-    <summary>Hyderabad, Telangana, India, Hybrid · Software · Summer 2027</summary>
   </entry>
 </feed>
