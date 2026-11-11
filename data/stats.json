@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T02:30:32Z",
-  "duration_seconds": 329.1,
-  "companies_total": 5736,
+  "generated_at": "2026-11-11T10:09:09Z",
+  "duration_seconds": 401.8,
+  "companies_total": 5748,
   "companies_by_source": {
     "greenhouse": 1282,
-    "lever": 486,
-    "smartrecruiters": 877,
-    "workable": 230,
-    "ashby": 911,
+    "lever": 487,
+    "smartrecruiters": 878,
+    "workable": 232,
+    "ashby": 918,
     "recruitee": 2,
-    "workday": 1611,
+    "workday": 1612,
     "oracle": 154,
     "rippling": 114,
     "amazon": 1,
@@ -31,24 +31,27 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 411,
-  "fetched_ok": 5324,
-  "fetch_errors": 1,
+  "quarantined": 405,
+  "fetched_ok": 5322,
+  "fetch_errors": 21,
   "errors_by_source": {
-    "greenhouse": 1
+    "greenhouse": 4,
+    "ashby": 2,
+    "workable": 15
   },
-  "fetch_success_rate": 1.0,
+  "fetch_success_rate": 0.996,
   "roles_matched": 107,
-  "roles_cycle_inferred": 93,
+  "roles_cycle_inferred": 94,
   "dropped_no_year_in_title": 0,
   "dropped_offcycle_by_text": 98,
   "roles_by_source": {
     "smartrecruiters": 1,
     "ashby": 2,
-    "workday": 11,
-    "greenhouse": 8,
+    "greenhouse": 9,
     "lever": 2,
-    "interndoor": 63,
+    "workday": 11,
+    "oracle": 2,
+    "interndoor": 60,
     "ypatodkar": 16,
     "unstop": 4
   },
@@ -59,25 +62,25 @@
   },
   "roles_by_category": {
     "Software": 64,
-    "Data & ML/AI": 36,
-    "Other": 7
+    "Data & ML/AI": 37,
+    "Other": 6
   },
   "roles_by_region": {
-    "India": 79,
-    "Remote": 28
+    "India": 80,
+    "Remote": 27
   },
   "posted_date_coverage": 0.962,
-  "enriched_this_run": 20,
-  "enrichment_detail_fetches": 0,
+  "enriched_this_run": 24,
+  "enrichment_detail_fetches": 4,
   "purged_this_run": 1,
   "dates_repaired": 0,
-  "links_checked": 60,
+  "links_checked": 30,
   "removed_dead_links": 0,
-  "new_this_run": 1,
-  "open_total": 260,
+  "new_this_run": 4,
+  "open_total": 263,
   "detection_latency": {
-    "median_minutes": 1052.7,
-    "sample_size": 22,
+    "median_minutes": 1015.8,
+    "sample_size": 26,
     "window_days": 7
   }
 }

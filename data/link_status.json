@@ -150,8 +150,8 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
   "interndoor:4472859773": {
-    "checked_at": "2026-11-11T02:30:32Z",
-    "status": 404,
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
   },
@@ -180,8 +180,8 @@
     "url": "https://www.linkedin.com/jobs/view/4473724223/"
   },
   "interndoor:4474032231": {
-    "checked_at": "2026-11-10T09:06:28Z",
-    "status": 429,
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4474032231/"
   },
@@ -192,7 +192,7 @@
     "url": "https://forms.gle/mdMbL91HT8MfFhjb7?ref=interndoor"
   },
   "interndoor:4474257793": {
-    "checked_at": "2026-11-10T22:12:14Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303402&source=interndoor&ref=interndoor"
@@ -204,7 +204,7 @@
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=302765&source=interndoor&ref=interndoor"
   },
   "interndoor:4474271196": {
-    "checked_at": "2026-11-10T16:55:48Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn"
@@ -226,6 +226,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503/?source=interndoor&ref=interndoor"
+  },
+  "interndoor:4476001339": {
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://forms.gle/nYnHp6Rn8SQg1W4K9?ref=interndoor"
   },
   "interndoor:4476085759": {
     "checked_at": "2026-11-10T22:12:14Z",
@@ -252,7 +258,7 @@
     "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560?%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=interndoor&source=interndoor&ref=interndoor"
   },
   "interndoor:4476581378": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://grnh.se/6l3ky9cm3us?ref=interndoor"
@@ -294,8 +300,8 @@
     "url": "https://www.linkedin.com/jobs/view/4477207173/"
   },
   "interndoor:4477354757": {
-    "checked_at": "2026-11-10T09:06:28Z",
-    "status": 429,
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4477354757/"
   },
@@ -306,7 +312,7 @@
     "url": "https://jobsearch.harman.com/careers/searchjobs/R-56676-2026?source=interndoor&ref=interndoor"
   },
   "interndoor:4477895308": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://joinbytedance.com/search/7656823895123446069"
@@ -336,7 +342,7 @@
     "url": "https://www.linkedin.com/jobs/view/4478080141/"
   },
   "interndoor:4478604637": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489904"
@@ -354,7 +360,7 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151490016?ref=interndoor"
   },
   "interndoor:4478618161": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151490192"
@@ -372,13 +378,13 @@
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489680"
   },
   "interndoor:4478620039": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489760"
   },
   "interndoor:4478621012": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151489824"
@@ -444,14 +450,14 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159842/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4479829064": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159836/?utm_medium=jobboard&utm_source=linkedin"
   },
   "interndoor:4479925956": {
-    "checked_at": "2026-11-10T09:06:28Z",
-    "status": 429,
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4479925956/"
   },
@@ -468,19 +474,19 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215948?source=interndoor&ref=interndoor"
   },
   "interndoor:4480049386": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215949?source=interndoor&ref=interndoor"
   },
   "interndoor:4480341989": {
-    "checked_at": "2026-11-10T16:55:48Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 403,
     "strikes": 1,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
   "interndoor:4480965630": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/159854/?utm_medium=jobboard&utm_source=linkedin"
@@ -492,7 +498,7 @@
     "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
   },
   "interndoor:4481216323": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 403,
     "strikes": 0,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
@@ -516,7 +522,7 @@
     "url": "https://www.linkedin.com/jobs/view/4481851364/"
   },
   "interndoor:4481865845": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940?source=interndoor&ref=interndoor"
@@ -528,13 +534,13 @@
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
   },
   "interndoor:4482463755": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160473/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4482477404": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160476/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
@@ -564,7 +570,7 @@
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=interndoor&ref=interndoor"
   },
   "interndoor:4483560309": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160482/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
@@ -618,7 +624,7 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161166/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4485065390": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://www.linkedin.com/jobs/view/4485065390/"
@@ -646,6 +652,12 @@
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/127410/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor"
+  },
+  "interndoor:4488603020": {
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 404,
+    "strikes": 1,
+    "url": "https://allstateinsurance.contacthr.com/154196808?utm_source=LILimitedListings&source=interndoor&ref=interndoor"
   },
   "interndoor:ats:greenhouse:cloudsek:6222340004": {
     "checked_at": "2026-11-10T22:12:14Z",
@@ -678,7 +690,7 @@
     "url": "https://discoverdollar.keka.com/careers/jobdetails/154642?ref=interndoor"
   },
   "interndoor:ats:keka:discoverdollar:164757": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://discoverdollar.keka.com/careers/jobdetails/164757?ref=interndoor"
@@ -713,6 +725,12 @@
     "strikes": 0,
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520?ref=interndoor"
   },
+  "interndoor:ats:oraclecloud:hdjq.fa.us2.oraclecloud.com:26011734": {
+    "checked_at": "2026-11-11T10:09:08Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26011734?ref=interndoor"
+  },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:124444": {
     "checked_at": "2026-11-10T22:12:14Z",
     "status": 200,
@@ -726,13 +744,13 @@
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127410?ref=interndoor"
   },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127421": {
-    "checked_at": "2026-11-10T01:25:43Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127421?ref=interndoor"
   },
   "interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127669": {
-    "checked_at": "2026-11-10T01:25:43Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127669?ref=interndoor"
@@ -845,26 +863,14 @@
     "strikes": 0,
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084196W?ref=interndoor"
   },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126": {
-    "checked_at": "2026-11-11T02:30:32Z",
+  "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1": {
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126"
-  },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178": {
-    "checked_at": "2026-11-11T02:30:32Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178"
-  },
-  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356": {
-    "checked_at": "2026-11-11T02:30:32Z",
-    "status": 200,
-    "strikes": 0,
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356"
+    "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_475a24d7-a058-4f86-be8f-fd6be679af9c": {
-    "checked_at": "2026-11-10T09:06:28Z",
+    "checked_at": "2026-11-11T10:09:08Z",
     "status": 200,
     "strikes": 0,
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"

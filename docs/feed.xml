@@ -4,9 +4,33 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-11T02:30:32Z</updated>
+  <updated>2026-11-11T10:09:09Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>GE Healthcare — Software Intern</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1" rel="alternate"/>
+    <id>workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
+    <updated>2026-11-11T10:09:08Z</updated>
+    <summary>Bengaluru · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161204" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161204</id>
+    <updated>2026-11-11T10:09:08Z</updated>
+    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161207" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161207</id>
+    <updated>2026-11-11T10:09:08Z</updated>
+    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Workato — Intern, Automation Engineer</title>
+    <link href="https://www.workato.com/careers?gh_jid=8924723002#open-roles" rel="alternate"/>
+    <id>greenhouse:workato:8924723002</id>
+    <updated>2026-11-11T10:09:08Z</updated>
+    <summary>Hyderabad, India · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Skydio — Middleware Software Engineer Intern - Summer 2027</title>
     <link href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03" rel="alternate"/>
     <id>ypatodkar:skydio:skydio_ashby_c85af510-9fe4-4167-a914-c3ab344bef03</id>
@@ -30,12 +54,6 @@
     <id>interndoor:4489615629</id>
     <updated>2026-11-10T22:12:14Z</updated>
     <summary>Bengaluru, Karnataka, India, Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Echo Global Logistics — Software Engineering Intern- Chicago</title>
-    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1" rel="alternate"/>
-    <id>workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1</id>
-    <updated>2026-11-10T22:12:14Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Sigmoid — DE Intern + SDE Trainee - Off Campus Hiring 2026</title>
     <link href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002" rel="alternate"/>
@@ -288,23 +306,5 @@
     <id>interndoor:4484113243</id>
     <updated>2026-10-28T21:36:32Z</updated>
     <summary>Gurugram, Haryana, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GoKwik — AI Solutions Intern</title>
-    <link href="https://gokwik.keka.com/careers/jobdetails/167888?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:keka:gokwik:167888</id>
-    <updated>2026-10-28T21:36:32Z</updated>
-    <summary>Bangalore, KA, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>HARMAN India — Software Engineering Intern</title>
-    <link href="https://jobsearch.harman.com/careers/searchjobs/R-56682-2026?source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4482506472</id>
-    <updated>2026-10-28T17:01:21Z</updated>
-    <summary>Pimpri Chinchwad, Maharashtra, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Harman — Software Engineering Intern</title>
-    <link href="https://harman.wd3.myworkdayjobs.com/en-US/HARMAN/job/IN_Pune_ICC-Devi-Gaurav-Tech-Park_HII/Intern_R-56682-2026-1?ref=interndoor" rel="alternate"/>
-    <id>interndoor:ats:workday:harman:wd3:HARMAN:R-56682-2026</id>
-    <updated>2026-10-28T17:01:21Z</updated>
-    <summary>India · Software · Summer 2027</summary>
   </entry>
 </feed>
