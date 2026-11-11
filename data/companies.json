@@ -1808,6 +1808,11 @@
     "ats": "lever"
   },
   {
+    "name": "Ande",
+    "slug": "ande",
+    "ats": "ashby"
+  },
+  {
     "name": "Andela",
     "slug": "andela-careers",
     "ats": "smartrecruiters"
@@ -3597,6 +3602,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Bask Health",
+    "slug": "bask-health-1",
+    "ats": "workable"
+  },
+  {
     "name": "Bass Pro Shops",
     "slug": "basspro",
     "ats": "workday",
@@ -3968,6 +3978,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "external"
+  },
+  {
+    "name": "Biointellisense",
+    "slug": "biointellisense",
+    "ats": "lever"
   },
   {
     "name": "BioMed Realty",
@@ -11265,6 +11280,11 @@
     "site": "F1"
   },
   {
+    "name": "Formulary Financial",
+    "slug": "formulary",
+    "ats": "ashby"
+  },
+  {
     "name": "Fortell",
     "slug": "fortell",
     "ats": "ashby"
@@ -11992,6 +12012,11 @@
     "name": "General Motors",
     "slug": "general-motors-jobs",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "General Translation",
+    "slug": "generaltranslation",
+    "ats": "ashby"
   },
   {
     "name": "Generalist",
@@ -13974,6 +13999,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Huckberry",
+    "slug": "huckberry",
+    "ats": "workable"
+  },
+  {
     "name": "Hudl",
     "slug": "hudl",
     "ats": "greenhouse"
@@ -15173,6 +15203,13 @@
     "site": "IMCO"
   },
   {
+    "name": "Investquebec",
+    "slug": "investquebec",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "ext"
+  },
+  {
     "name": "Invitation Homes",
     "slug": "invitationhomes",
     "ats": "workday",
@@ -15764,6 +15801,11 @@
     "name": "Kakao",
     "slug": "kakao-engineering",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Kalshi",
+    "slug": "kalshi",
+    "ats": "ashby"
   },
   {
     "name": "Kaluza",
@@ -23937,6 +23979,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Renesas Electronics",
+    "slug": "renesaselectronics",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Repligen",
     "slug": "repligen",
     "ats": "workday",
@@ -25577,6 +25624,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Shield AI",
+    "slug": "shield",
+    "ats": "ashby"
+  },
+  {
     "name": "Shields Health Solutions",
     "slug": "shieldshealthsolutions",
     "ats": "greenhouse"
@@ -27057,6 +27109,11 @@
     "name": "Stratolaunch",
     "slug": "stratolaunch",
     "ats": "greenhouse"
+  },
+  {
+    "name": "STRATOS Technologies",
+    "slug": "stratos",
+    "ats": "ashby"
   },
   {
     "name": "Strava",
@@ -31808,6 +31865,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "xylem-careers"
+  },
+  {
+    "name": "XYZ Reality",
+    "slug": "xyz-reality",
+    "ats": "ashby"
   },
   {
     "name": "Yahoo",
