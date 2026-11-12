@@ -150,8 +150,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/happyrobot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:headoutinc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-11T18:19:04Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/headoutinc?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:heidihealth": {
@@ -295,8 +295,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/patch?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:pryzm": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-11-09T00:27:02Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/pryzm?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:remedy": {
@@ -445,8 +445,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/alma/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:alphaawmnaearlycareers": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/alphaawmnaearlycareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "greenhouse:amagi": {
@@ -458,11 +458,6 @@
     "consecutive_failures": 19,
     "last_attempt_at": "2026-11-10T09:06:28Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
-  },
-  "greenhouse:andurilindustries": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-11T18:19:04Z",
-    "last_error": "ReadTimeout: "
   },
   "greenhouse:apna": {
     "consecutive_failures": 39,
@@ -685,8 +680,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/instabase/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:iterable": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-11T18:19:04Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/iterable/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:job-boards": {
@@ -1265,8 +1260,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:researchinnovations": {
-    "consecutive_failures": 13,
-    "last_attempt_at": "2026-11-09T00:27:02Z",
+    "consecutive_failures": 14,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/researchinnovations?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "lever:sanctuary": {
@@ -1338,6 +1333,11 @@
     "consecutive_failures": 39,
     "last_attempt_at": "2026-11-10T09:06:28Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trend-health-partners?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
+  "lever:trio": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-12T01:15:46Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trio?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:unacademy": {
     "consecutive_failures": 39,
@@ -1494,11 +1494,6 @@
     "last_attempt_at": "2026-11-10T22:12:14Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
-  "rippling:citylogix": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-11-09T00:27:02Z",
-    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/citylogix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "rippling:elevationcapital": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-11-09T18:09:32Z",
@@ -1593,11 +1588,6 @@
     "consecutive_failures": 9,
     "last_attempt_at": "2026-11-10T09:06:28Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/neurohire-dot-a-i/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
-  },
-  "workable:new-flyer": {
-    "consecutive_failures": 11,
-    "last_attempt_at": "2026-11-09T00:27:02Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:nogigiddy": {
     "consecutive_failures": 9,
