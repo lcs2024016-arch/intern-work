@@ -1,12 +1,12 @@
 {
-  "total": 5747,
+  "total": 5761,
   "by_ats": {
-    "workday": 1612,
-    "greenhouse": 1282,
-    "ashby": 918,
-    "smartrecruiters": 878,
-    "lever": 487,
-    "workable": 232,
+    "workday": 1614,
+    "greenhouse": 1285,
+    "ashby": 924,
+    "smartrecruiters": 879,
+    "lever": 488,
+    "workable": 233,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -237,6 +237,13 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "aaa_ncnu_careers"
+    },
+    {
+      "name": "Aaregional",
+      "slug": "aaregional",
+      "ats": "workday",
+      "wd": "wd503",
+      "site": "search"
     },
     {
       "name": "Aba",
@@ -3214,6 +3221,11 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "Avante",
+      "slug": "avante",
+      "ats": "greenhouse"
+    },
+    {
       "name": "AvePoint",
       "slug": "avepoint",
       "ats": "greenhouse"
@@ -5448,6 +5460,11 @@
       "site": "caresource"
     },
     {
+      "name": "CARIAD",
+      "slug": "cariadinc",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Caris",
       "slug": "carislifesciences",
       "ats": "workday",
@@ -5841,6 +5858,11 @@
       "ats": "ashby"
     },
     {
+      "name": "Certifyos",
+      "slug": "certifyos",
+      "ats": "ashby"
+    },
+    {
       "name": "Certik",
       "slug": "certik",
       "ats": "lever"
@@ -6151,6 +6173,11 @@
     {
       "name": "CIM Group",
       "slug": "cimgroup",
+      "ats": "lever"
+    },
+    {
+      "name": "Cin7",
+      "slug": "cin7",
       "ats": "lever"
     },
     {
@@ -10093,6 +10120,11 @@
     {
       "name": "Eulerity",
       "slug": "eulerity",
+      "ats": "greenhouse"
+    },
+    {
+      "name": "euNetworks",
+      "slug": "eunetworks",
       "ats": "greenhouse"
     },
     {
@@ -16550,6 +16582,11 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "Legal 500",
+      "slug": "legal-500",
+      "ats": "ashby"
+    },
+    {
       "name": "Legalshieldcorp",
       "slug": "legalshieldcorp",
       "ats": "workday",
@@ -16966,6 +17003,11 @@
     {
       "name": "Liquid",
       "slug": "liquid",
+      "ats": "ashby"
+    },
+    {
+      "name": "Liquid AI",
+      "slug": "liquid-ai",
       "ats": "ashby"
     },
     {
@@ -21614,6 +21656,13 @@
       "ats": "workable"
     },
     {
+      "name": "Panerabread",
+      "slug": "panerabread",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "panera_careers"
+    },
+    {
       "name": "Pangram Labs",
       "slug": "pangramlabs",
       "ats": "ashby"
@@ -21643,6 +21692,11 @@
     {
       "name": "PAR Tech",
       "slug": "par",
+      "ats": "ashby"
+    },
+    {
+      "name": "Parabola",
+      "slug": "parabola-io",
       "ats": "ashby"
     },
     {
@@ -24943,6 +24997,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "San Francisco Data",
+      "slug": "sfdata",
+      "ats": "ashby"
+    },
+    {
       "name": "Sanctuary AI",
       "slug": "sanctuary",
       "ats": "lever"
@@ -25204,6 +25263,11 @@
     {
       "name": "Sciemo",
       "slug": "sciemo",
+      "ats": "ashby"
+    },
+    {
+      "name": "Sciencelogic",
+      "slug": "sciencelogic",
       "ats": "ashby"
     },
     {
@@ -27830,6 +27894,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Techolution",
+      "slug": "techolution",
+      "ats": "smartrecruiters"
+    },
+    {
       "name": "Techtronic Industries",
       "slug": "tti",
       "ats": "workday",
@@ -28210,6 +28279,11 @@
     {
       "name": "The Anywhere",
       "slug": "the-anywhere-company",
+      "ats": "workable"
+    },
+    {
+      "name": "The Beauty Tech Group Trading",
+      "slug": "thebeautytechgroup",
       "ats": "workable"
     },
     {
