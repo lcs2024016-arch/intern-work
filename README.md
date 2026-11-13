@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5761-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 12, 2026 at 23:09 UTC</em></p>
+  <p><em>Last updated: Nov 13, 2026 at 03:21 UTC</em></p>
 </div>
 
 ---
@@ -468,7 +468,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Skydio** | Middleware Software Engineer Intern - Summer 2027 🆕 | `Software` | — | Remote | Nov 10, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
+| **Skydio** | Middleware Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Nov 10, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
 | **Notion** | Software Engineering Intern, Frontend (Summer 2027) | `Software` | **USD 57–61 / hour** | Remote | Nov 06, 2026 | [Apply ↗](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) |
 | **Nooks** | Software Engineer, Intern <sup>~</sup> | `Software` | **USD 120,000 / year** | Remote | Nov 05, 2026 | [Apply ↗](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) |
 | **Oxen.AI** | Generative AI Media Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Remote | Oct 27, 2026 | [Apply ↗](https://airtable.com/embed/appknoAarfwAlEv4B/shroCC7Byq8V7qARA/tblC70HRRFBo73aA9/viwRcuiyfbaMH07OG/rec9s1PFrmLinuBus) |
@@ -500,7 +500,7 @@
 _~ = the title doesn't state a year; bucketed here from its posting date (232 of 275)._
 
 <details>
-<summary><strong>Recently closed</strong> — 55 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 53 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -545,7 +545,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,762 companies** across **27 ATS platforms** · 97% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,762 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
