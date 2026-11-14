@@ -13,16 +13,16 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-275-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-278-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Companies-5813-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 14, 2026 at 14:47 UTC</em></p>
+  <p><em>Last updated: Nov 14, 2026 at 19:43 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>172 open</kbd>
+## Summer 2027 (India) <kbd>175 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -36,9 +36,9 @@
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Delhivery** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech / M.Tech | Gurugram, Haryana, India, On-site | Nov 12, 2026 | [Apply ↗](https://forms.gle/Fdsk6LMACagZNqCy7?ref=interndoor) |
 | | <sub>`python` `pandas` `numpy` `scikit-learn`</sub> ||||||
-| **Appinventiv** | Software Intern <sup>~</sup> 🆕 | `Software` | Computer Science/Information Technology | India | Nov 12, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4488292701/) |
+| **Appinventiv** | Software Intern <sup>~</sup> | `Software` | Computer Science/Information Technology | India | Nov 12, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4488292701/) |
 | | <sub>`java` `python` `sql` `git`</sub> ||||||
-| **GoKwik** | Software Development Intern <sup>~</sup> 🆕 | `Software` | B.Tech/B.E | Gurugram, HR, India | Nov 12, 2026 | [Apply ↗](https://gokwik.keka.com/careers/jobdetails/169089?ref=interndoor) |
+| **GoKwik** | Software Development Intern <sup>~</sup> | `Software` | B.Tech/B.E | Gurugram, HR, India | Nov 12, 2026 | [Apply ↗](https://gokwik.keka.com/careers/jobdetails/169089?ref=interndoor) |
 | | <sub>`node.js` `typescript` `react` `sql`</sub> ||||||
 | **Delhivery** | Software Engineer Intern <sup>~</sup> | `Software` | B.Tech/BS | Gurugram, Haryana, India, On-site | Nov 12, 2026 | [Apply ↗](https://forms.gle/hEtH2BQ3qWTS6k4f9?ref=interndoor) |
 | | <sub>`python` `java` `react` `angular`</sub> ||||||
@@ -50,6 +50,7 @@
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Sanas** | ML DA Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 11, 2026 | [Apply ↗](https://ats.rippling.com/sanas/jobs/93d0833e-b03b-4d28-8e32-bdaf572105f0?jobSite=interndoor&ref=interndoor) |
 | | <sub>`excel` `google sheets` `csv files` `audio editing`</sub> ||||||
+| **Assurant** | AI &amp; Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply ↗](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
 | **Workato** | Intern, Automation Engineer <sup>~</sup> | `Software` | B.Tech/BS | Hyderabad, India | Nov 10, 2026 | [Apply ↗](https://www.workato.com/careers?gh_jid=8924723002#open-roles) |
 | | <sub>`Python` `AWS` `GCP`</sub> ||||||
 | **Codemonk** | Machine Learning Intern <sup>~</sup> | `Data &amp; ML/AI` | **₹13,000 / month** | Bengaluru, Karnataka, India | Nov 10, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4488324786/) |
@@ -140,6 +141,9 @@
 | | <sub>`power platform` `data science` `ai` `low code`</sub> ||||||
 | **Valeo** | AI Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Chennai, On-site | Oct 23, 2026 | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851?ref=interndoor) |
 | | <sub>`technical documentation` `data analysis`</sub> ||||||
+| **Marvell** | Software Engineer Intern - Master&#x27;s Degree | `Software` | M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
+| | <sub>`Python` `Linux`</sub> ||||||
+| **Marvell** | Software Validation Intern - Master&#x27;s Degree | `Software` | B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870) |
 | **Wayfair** | Software Engineer Intern <sup>~</sup> | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Oct 21, 2026 | [Apply ↗](https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots) |
 | | <sub>`python` `java` `c++` `sql`</sub> ||||||
 | **eSec Forte® Technologies** | Application Security Trainee <sup>~</sup> | `Other` | — | Gurugram, Haryana, India, On-site | Oct 21, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4468558804/) |
@@ -349,7 +353,7 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>47 open</kbd>
+## Summer 2027 (Remote) <kbd>48 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
@@ -358,6 +362,7 @@
 | | <sub>`python` `pytorch` `transformer` `git`</sub> ||||||
 | **Lexsi Labs** | AI Agent Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, Remote | Nov 13, 2026 | [Apply ↗](https://easyapply.jobs/r/dHXuGGd27CkpTdtK0mL?ref=interndoor) |
 | | <sub>`python` `llms` `agent frameworks` `evaluation pipelines`</sub> ||||||
+| **CareSource** | 2027 Summer Internship Program  - Provider Analytics AI Intern | `Data &amp; ML/AI` | B.Tech/BS | Remote | Nov 12, 2026 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) |
 | **IBM** | Software Developer Intern <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 11, 2026 | [Apply ↗](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=140170&source=interndoor&ref=interndoor) |
 | | <sub>`react` `node.js` `python` `ansible`</sub> ||||||
 | **Clera** | ML Intern <sup>~</sup> | `Data &amp; ML/AI` | — | remote | Nov 10, 2026 | [Apply ↗](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
@@ -423,7 +428,7 @@
 | | <sub>`python` `pytorch` `tensorflow` `jax`</sub> ||||||
 | **Ancestry** | Machine Learning Engineer, Co-op <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 09, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | | <sub>`Python` `Java` `PyTorch` `TensorFlow`</sub> ||||||
-| **Visa** | Software Engineer Intern <sup>~</sup> 🆕 | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 06, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084512W?ref=interndoor) |
+| **Visa** | Software Engineer Intern <sup>~</sup> | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 06, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084512W?ref=interndoor) |
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Ancestry** | AI Discovery Co-Op - Agentic Personalization <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 06, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | | <sub>`Python` `SQL` `PyTorch` `LLMs`</sub> ||||||
@@ -460,13 +465,12 @@
 | **Rubrik** | Software Engineer Intern <sup>~</sup> | `Software` | — | Pune, On-site | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537&ref=interndoor) |
 | | <sub>`java` `c/c++` `scala` `python`</sub> ||||||
 
-## Global remote (US-based companies) <kbd>29 open</kbd>
+## Global remote (US-based companies) <kbd>28 open</kbd>
 
 > Remote internships at US venture-backed companies. **Remote means remote within the employer's country** — nearly all of these are US-only and need US work authorisation. Listed separately so they are never mistaken for India-open roles.
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
-| **Aurora Innovation** | Software Engineer Intern, Vehicle Platforms <sup>~</sup> 🆕 | `Software` | — | Remote | Nov 13, 2026 | [Apply ↗](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef) |
 | **Skydio** | Middleware Software Engineer Intern - Summer 2027 | `Software` | — | Remote | Nov 10, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
 | **Notion** | Software Engineering Intern, Frontend (Summer 2027) | `Software` | **USD 57–61 / hour** | Remote | Nov 06, 2026 | [Apply ↗](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) |
 | **Nooks** | Software Engineer, Intern <sup>~</sup> | `Software` | **USD 120,000 / year** | Remote | Nov 05, 2026 | [Apply ↗](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) |
@@ -496,17 +500,14 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (237 of 275)._
+_~ = the title doesn't state a year; bucketed here from its posting date (237 of 278)._
 
 <details>
-<summary><strong>Recently closed</strong> — 55 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 48 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Assurant | AI &amp; Data Science Intern | Summer 2027 | 2026-11-14 |
-| CareSource | 2027 Summer Internship Program  - Provider Analytics AI Intern | Summer 2027 | 2026-11-14 |
-| Marvell | Software Engineer Intern - Master&#x27;s Degree | Summer 2027 | 2026-11-14 |
-| Marvell | Software Validation Intern - Master&#x27;s Degree | Summer 2027 | 2026-11-14 |
+| Aurora Innovation | Software Engineer Intern, Vehicle Platforms | Summer 2027 | 2026-11-14 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-11-14 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-11-13 |
 | Capital One | Software Engineering Intern | Fall 2026 | 2026-11-13 |
@@ -528,6 +529,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (237 of
 | Honeywell | Intern Masters Data Science | Summer 2027 | 2026-11-10 |
 | Johnson &amp; Johnson Innovative Medicine | Software Engineering Intern | Summer 2027 | 2026-11-10 |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Summer 2027 | 2026-11-10 |
+| GuidePoint Security | AI &amp; Data Science Intern - GPSU/NE | Summer 2027 | 2026-11-10 |
+| GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE | Summer 2027 | 2026-11-10 |
+| Marvell | Intern, Software QA Engineer Bachelor&#x27;s Degree | Summer 2027 | 2026-11-10 |
 
 </details>
 
@@ -544,7 +548,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,814 companies** across **27 ATS platforms** · 97% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,814 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
