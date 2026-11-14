@@ -4,18 +4,24 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-13T19:04:47Z</updated>
+  <updated>2026-11-14T00:15:35Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Lexsi Labs — AI Agent Engineer Intern</title>
-    <link href="https://easyapply.jobs/r/dHXuGGd27CkpTdtK0mL?ref=interndoor" rel="alternate"/>
-    <id>interndoor:4489577785</id>
-    <updated>2026-11-13T19:04:47Z</updated>
-    <summary>Mumbai Metropolitan Region, Remote · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Kinetic Systems — Clinical AI Research Fellowship</title>
+    <link href="https://jobs.ashbyhq.com/kineticsystems/c05daaa9-531d-4b28-99cb-54af82db65c2" rel="alternate"/>
+    <id>ashby:kineticsystems:c05daaa9-531d-4b28-99cb-54af82db65c2</id>
+    <updated>2026-11-14T00:15:35Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Lexsi Labs — AI Research Internship</title>
     <link href="https://easyapply.jobs/r/3GxV4h328CiAZ3479zVb?ref=interndoor" rel="alternate"/>
     <id>interndoor:4489558978</id>
+    <updated>2026-11-13T19:04:47Z</updated>
+    <summary>Mumbai Metropolitan Region, Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Lexsi Labs — AI Agent Engineer Intern</title>
+    <link href="https://easyapply.jobs/r/dHXuGGd27CkpTdtK0mL?ref=interndoor" rel="alternate"/>
+    <id>interndoor:4489577785</id>
     <updated>2026-11-13T19:04:47Z</updated>
     <summary>Mumbai Metropolitan Region, Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
@@ -60,12 +66,6 @@
     <id>interndoor:ats:keka:gokwik:169089</id>
     <updated>2026-11-12T17:33:13Z</updated>
     <summary>Gurugram, HR, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:161528</id>
-    <updated>2026-11-12T17:33:13Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>CareSource — 2027 Summer Internship Program  - Provider Analytics AI Intern</title>
     <link href="https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481" rel="alternate"/>
@@ -247,12 +247,6 @@
     <updated>2026-11-03T11:37:56Z</updated>
     <summary>Hyderabad, Telangana, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>GE Aerospace — Artificial Intelligence Intern</title>
-    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1" rel="alternate"/>
-    <id>workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>
-    <updated>2026-11-03T11:37:56Z</updated>
-    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Honeywell — AI Intern</title>
     <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127899?ref=interndoor" rel="alternate"/>
     <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127899</id>
@@ -306,5 +300,11 @@
     <id>interndoor:4484809935</id>
     <updated>2026-10-30T21:23:25Z</updated>
     <summary>India, Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell Technologies — Software Engineering Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/161062/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4485352929</id>
+    <updated>2026-10-30T21:23:25Z</updated>
+    <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>
