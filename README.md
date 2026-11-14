@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Companies-5813-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 14, 2026 at 19:43 UTC</em></p>
+  <p><em>Last updated: Nov 14, 2026 at 23:37 UTC</em></p>
 </div>
 
 ---
@@ -34,7 +34,7 @@
 | | <sub>`testing` `analysis` `debugging`</sub> ||||||
 | **Honeywell** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 12, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/128763?ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
-| **Delhivery** | Data Science Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.Tech / M.Tech | Gurugram, Haryana, India, On-site | Nov 12, 2026 | [Apply ↗](https://forms.gle/Fdsk6LMACagZNqCy7?ref=interndoor) |
+| **Delhivery** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech / M.Tech | Gurugram, Haryana, India, On-site | Nov 12, 2026 | [Apply ↗](https://forms.gle/Fdsk6LMACagZNqCy7?ref=interndoor) |
 | | <sub>`python` `pandas` `numpy` `scikit-learn`</sub> ||||||
 | **Appinventiv** | Software Intern <sup>~</sup> | `Software` | Computer Science/Information Technology | India | Nov 12, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4488292701/) |
 | | <sub>`java` `python` `sql` `git`</sub> ||||||
