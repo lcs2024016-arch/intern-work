@@ -2249,6 +2249,11 @@
     "ats": "lever"
   },
   {
+    "name": "Arcadia",
+    "slug": "arcadia",
+    "ats": "lever"
+  },
+  {
     "name": "Arcadis",
     "slug": "ebcs.fa.em2.oraclecloud.com",
     "ats": "oracle",
@@ -4383,6 +4388,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "BMLL Technologies",
+    "slug": "bmlltech",
+    "ats": "workable"
+  },
+  {
     "name": "BMO",
     "slug": "bmo",
     "ats": "workday",
@@ -5656,6 +5666,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "CDK"
+  },
+  {
+    "name": "CDK Global",
+    "slug": "cdkglobal",
+    "ats": "smartrecruiters"
   },
   {
     "name": "CDOT",
@@ -10805,6 +10820,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Fidus Systems",
+    "slug": "fidus",
+    "ats": "workable"
+  },
+  {
     "name": "Field AI",
     "slug": "field-ai",
     "ats": "lever"
@@ -11315,6 +11335,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Fondsftq",
+    "slug": "fondsftq",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "sitecarriere_externe"
+  },
+  {
     "name": "Forbes",
     "slug": "forbes",
     "ats": "greenhouse"
@@ -11534,6 +11561,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "invitation-only"
+  },
+  {
+    "name": "Frasers Group",
+    "slug": "FrasersGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Frazer-Nash Consultancy",
@@ -15027,6 +15059,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Integrated Biosciences",
+    "slug": "integratedbiosciencesinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Integrated Resources",
     "slug": "IntegratedResourcesINC",
     "ats": "smartrecruiters"
@@ -18155,7 +18192,7 @@
     "site": "mccoys_external_careers"
   },
   {
-    "name": "Mcdonalds",
+    "name": "McDonald's",
     "slug": "mcdonalds",
     "ats": "smartrecruiters"
   },
@@ -18191,6 +18228,11 @@
   {
     "name": "McMaster-Carr",
     "slug": "mcmastercarr",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "McMaster-Carr",
+    "slug": "mcmaster-carr-systems",
     "ats": "greenhouse"
   },
   {
@@ -20214,6 +20256,11 @@
   {
     "name": "NextToken",
     "slug": "nexttoken",
+    "ats": "ashby"
+  },
+  {
+    "name": "Nexus Cognitive Technologies",
+    "slug": "nexus-cognitive",
     "ats": "ashby"
   },
   {
@@ -23950,6 +23997,11 @@
     "site": "realty_income_careers"
   },
   {
+    "name": "Reasonable AI",
+    "slug": "reasonable",
+    "ats": "workable"
+  },
+  {
     "name": "Rebel Foods",
     "slug": "rebelfoods",
     "ats": "greenhouse"
@@ -24132,6 +24184,11 @@
     "name": "Reli",
     "slug": "shopreli",
     "ats": "lever"
+  },
+  {
+    "name": "Reliable Robotics",
+    "slug": "reliable-robotics",
+    "ats": "ashby"
   },
   {
     "name": "Reliance Industries",
@@ -27712,6 +27769,11 @@
     "site": "SynechronCareers"
   },
   {
+    "name": "Synechron",
+    "slug": "synechron",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Syneos Health",
     "slug": "syneoshealth",
     "ats": "workday",
@@ -28809,6 +28871,11 @@
     "name": "Thoughtworks",
     "slug": "thoughtworks",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Thoughtworks",
+    "slug": "c898d712-c4ab-4157-954a-5df226a781e2",
+    "ats": "ashby"
   },
   {
     "name": "Thousandeyes",
