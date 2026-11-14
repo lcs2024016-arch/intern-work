@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-14T00:15:35Z</updated>
+  <updated>2026-11-14T07:16:30Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Isourse — AI/ML Engineer Internship</title>
+    <link href="https://internshala.com/internship/detail/ai-ml-engineer-internship-in-delhi-at-isourse1794546017/?utm_campaign=interndoor&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4491029012</id>
+    <updated>2026-11-14T07:16:30Z</updated>
+    <summary>Delhi, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Kinetic Systems — Clinical AI Research Fellowship</title>
     <link href="https://jobs.ashbyhq.com/kineticsystems/c05daaa9-531d-4b28-99cb-54af82db65c2" rel="alternate"/>
     <id>ashby:kineticsystems:c05daaa9-531d-4b28-99cb-54af82db65c2</id>
@@ -67,12 +73,6 @@
     <updated>2026-11-12T17:33:13Z</updated>
     <summary>Gurugram, HR, India · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>CareSource — 2027 Summer Internship Program  - Provider Analytics AI Intern</title>
-    <link href="https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481" rel="alternate"/>
-    <id>workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481</id>
-    <updated>2026-11-12T17:33:13Z</updated>
-    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Delhivery — Software Engineer Intern</title>
     <link href="https://forms.gle/hEtH2BQ3qWTS6k4f9?ref=interndoor" rel="alternate"/>
     <id>interndoor:4488286589</id>
@@ -108,12 +108,6 @@
     <id>interndoor:4489948266</id>
     <updated>2026-11-11T18:19:04Z</updated>
     <summary>Bengaluru, Karnataka, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Assurant — AI &amp; Data Science Intern</title>
-    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198" rel="alternate"/>
-    <id>workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
-    <updated>2026-11-11T18:19:04Z</updated>
-    <summary>Bengaluru · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Workato — Intern, Automation Engineer</title>
     <link href="https://www.workato.com/careers?gh_jid=8924723002#open-roles" rel="alternate"/>
@@ -156,12 +150,6 @@
     <id>interndoor:ats:greenhouse:sigmoid:8927991002</id>
     <updated>2026-11-10T16:55:48Z</updated>
     <summary>Bengaluru, On-site · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Thales — Embedded Software Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902" rel="alternate"/>
-    <id>workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
-    <updated>2026-11-10T16:55:48Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>BNP Paribas — Data Science Intern</title>
     <link href="https://group.bnpparibas/en/careers/job-offer/data-science-intern-2?SRC=interndoor&amp;ref=interndoor" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>interndoor:4485352929</id>
     <updated>2026-10-30T21:23:25Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Seagate Technology — Data Science Intern</title>
+    <link href="https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&amp;utm_source=interndoor&amp;utm_campaign=interndoor&amp;source=APPLICANT_SOURCE-3-387&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4483444157</id>
+    <updated>2026-10-30T17:07:47Z</updated>
+    <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Siemens Healthineers — AI Apprentice</title>
+    <link href="https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719?source=interndoor&amp;ref=interndoor" rel="alternate"/>
+    <id>interndoor:4483454315</id>
+    <updated>2026-10-30T17:07:47Z</updated>
+    <summary>Pune District, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
