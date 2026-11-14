@@ -664,6 +664,29 @@
     "scope": "india"
   },
   {
+    "id": "workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902",
+    "company": "Thales",
+    "title": "Embedded Software Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bangalore",
+    "url": "https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902",
+    "posted_at": "2026-11-10T00:00:00Z",
+    "first_seen_at": "2026-11-10T16:55:48Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4488835858",
     "company": "BNP Paribas",
     "title": "Data Science Intern",
@@ -1032,6 +1055,37 @@
       "c++"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+    "company": "GE Aerospace",
+    "title": "Artificial Intelligence Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Data & ML/AI",
+    "region": "Remote",
+    "location": "Remote",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+    "posted_at": "2026-11-03T00:00:00Z",
+    "first_seen_at": "2026-11-03T11:37:56Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "Python",
+      "C#",
+      "SQL",
+      "LLMs",
+      "Computer Vision",
+      "AWS",
+      "Azure"
+    ],
+    "source": "workday",
     "scope": "india"
   },
   {

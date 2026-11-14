@@ -40,8 +40,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/amigo?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:anything": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/anything?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:atomicsemi": {
@@ -150,8 +150,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/happyrobot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:headoutinc": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-13T11:53:47Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/headoutinc?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:heidihealth": {
@@ -160,13 +160,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/heidihealth?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:hiive": {
-    "consecutive_failures": 17,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 18,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/hiive?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:hilberts": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/hilberts?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:hippocratic": {
@@ -670,8 +670,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/hightouch/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:hubspot": {
-    "consecutive_failures": 17,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 18,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/hubspot/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ibkr": {
@@ -700,8 +700,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/instabase/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:iterable": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-13T11:53:47Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/iterable/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:job-boards": {
@@ -710,8 +710,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/job-boards/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:liveviewtechnologiesinc": {
-    "consecutive_failures": 19,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 20,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/liveviewtechnologiesinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "greenhouse:locus": {
@@ -800,8 +800,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:pretiuminternships2027": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 8,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/pretiuminternships2027/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "greenhouse:qualifiedhealth": {
@@ -1514,35 +1514,575 @@
     "last_attempt_at": "2026-11-13T11:53:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://1x.recruitee.com/api/offers/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "rippling:aapd-jobs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/aapd-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "rippling:acretrader-jobs": {
     "consecutive_failures": 31,
     "last_attempt_at": "2026-11-14T00:15:35Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:adelaide": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/adelaide/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
+  "rippling:agilitypr": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/agilitypr/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "rippling:amika-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/amika-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:ampersand-biomedicines": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/ampersand-biomedicines/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
+  },
+  "rippling:ampliwork-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/ampliwork-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:apexanalytix-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/apexanalytix-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "rippling:ascentt": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/ascentt/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:bloomgrowth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/bloomgrowth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:blue-robotics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/blue-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:boom-supersonic": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/boom-supersonic/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:bornprimitive-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/bornprimitive-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "rippling:buxtoncocareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/buxtoncocareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:camlin-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/camlin-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:citylogix": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/citylogix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "rippling:closinglock": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/closinglock/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:cloud-synapps-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/cloud-synapps-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+  },
+  "rippling:colheli": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/colheli/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:conceptplus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/conceptplus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:core-sound-imaging": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/core-sound-imaging/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "rippling:critical-response-group": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/critical-response-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+  },
+  "rippling:democratic-national-committee": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/democratic-national-committee/jobs'\nFor more information check: https://developer.mozilla.org/"
+  },
+  "rippling:denari": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/denari/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:dgrsystems": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/dgrsystems/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "rippling:dlsengineering": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/dlsengineering/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:duku-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/duku-ai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:edgehog-trading": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/edgehog-trading/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:ega-job-board": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/ega-job-board/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:electrosonic-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/electrosonic-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "rippling:elevationcapital": {
     "consecutive_failures": 21,
     "last_attempt_at": "2026-11-12T23:09:20Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/elevationcapital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
+  "rippling:encore-auctions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/encore-auctions/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:energycap-external-career-page": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/energycap-external-career-page/jobs'\nFor more information check: https://developer.mozilla.org"
+  },
+  "rippling:enludio-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/enludio-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
   "rippling:etg": {
     "consecutive_failures": 29,
     "last_attempt_at": "2026-11-14T00:15:35Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "rippling:external-job-board": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/external-job-board/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "rippling:facereality": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/facereality/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:flexai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/flexai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:fluidai-medical-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/fluidai-medical-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+  },
+  "rippling:forterra": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/forterra/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
+  "rippling:foundation-robotics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/foundation-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "rippling:free-market-health": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/free-market-health/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "rippling:gaiias-open-positions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/gaiias-open-positions/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "rippling:general": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/general/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:genlogs-corporation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/genlogs-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "rippling:gitar-careers": {
     "consecutive_failures": 19,
     "last_attempt_at": "2026-11-11T18:19:04Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/gitar-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
+  "rippling:glass-roots-construction-llc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/glass-roots-construction-llc/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
+  "rippling:gofishdigital": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/gofishdigital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:greengas": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/greengas/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
   "rippling:harness-careers": {
     "consecutive_failures": 16,
     "last_attempt_at": "2026-11-11T18:19:04Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/harness-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
+  "rippling:intersection": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/intersection/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+  },
+  "rippling:jobs-at-tuesday-health": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/jobs-at-tuesday-health/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
+  },
+  "rippling:journaltech": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/journaltech/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:kielo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/kielo/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "rippling:kraken-robotics-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/kraken-robotics-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "rippling:legitscript-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/legitscript-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "rippling:les-olson-it": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/les-olson-it/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+  },
+  "rippling:lightguide": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/lightguide/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "rippling:linenmaster": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/linenmaster/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:longevity-holdings": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/longevity-holdings/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "rippling:loop-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/loop-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+  },
+  "rippling:lynx-software-technologies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/lynx-software-technologies/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "rippling:mei-employment": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/mei-employment/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:memryx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/memryx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:mikata": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/mikata/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:momentumcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/momentumcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:moon": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/moon/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
+  "rippling:msm": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/msm/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "rippling:mytra": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/mytra/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "rippling:neosigma": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/neosigma/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
+  "rippling:nerdio-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/nerdio-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:netwrix-corporation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/netwrix-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "rippling:north-cloud": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/north-cloud/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
+  "rippling:noviam": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/noviam/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:nws": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/nws/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "rippling:omnis-corporation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/omnis-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+  },
+  "rippling:onware": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/onware/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:open-roles": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/open-roles/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "rippling:orderco": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/orderco/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:pathos": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/pathos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:patientnow": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/patientnow/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "rippling:peakhealth-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/peakhealth-ai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "rippling:pendulum-intelligence-jobs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/pendulum-intelligence-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "rippling:perle": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/perle/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "rippling:power-takeoff-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/power-takeoff-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "rippling:proper-voltage": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/proper-voltage/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:redesigncareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/redesigncareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "rippling:riot-platforms-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/riot-platforms-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
+  },
+  "rippling:rippling": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/rippling/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
+  },
+  "rippling:routeware-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/routeware-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+  },
+  "rippling:rugsusa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/rugsusa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
   "rippling:sennos": {
     "consecutive_failures": 21,
     "last_attempt_at": "2026-11-12T23:09:20Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:sibros-technologies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/sibros-technologies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "rippling:skytrac": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/skytrac/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:spreeai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/spreeai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "rippling:supernova-technology": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/supernova-technology/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "rippling:supper": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/supper/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:t1d-exchange-career-center": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/t1d-exchange-career-center/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "rippling:talent-101-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/talent-101-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:tavernresearch": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/tavernresearch/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "rippling:teamworks-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/teamworks-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+  },
+  "rippling:theguarantors-open-positions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/theguarantors-open-positions/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
+  "rippling:tive-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/tive-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+  },
+  "rippling:topdoglaw": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/topdoglaw/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "rippling:truepointcareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/truepointcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "rippling:turntide-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/turntide-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "rippling:uhin-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/uhin-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+  },
+  "rippling:unily": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/unily/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "rippling:usare": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/usare/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "rippling:veryable-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/veryable-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
+  "rippling:vortex-companies-llc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/vortex-companies-llc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "rippling:wdscareers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/wdscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "rippling:whc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/whc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "rippling:zededa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.rippling.com/platform/api/ats/v1/board/zededa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "uber:uber": {
     "consecutive_failures": 14,
@@ -1565,18 +2105,18 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:jcc-greater-boston": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/jcc-greater-boston/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "workable:kanbrick": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/kanbrick/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:kestra-medical-technologies-inc": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/kestra-medical-technologies-inc/jobs'\nFor more information check: https://developer.mozilla.or"
   },
   "workable:keycafe": {
@@ -1844,6 +2384,11 @@
     "last_attempt_at": "2026-11-13T11:53:47Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/raydar/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
+  "workable:reasonable": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/reasonable/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
   "workable:rebellion": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-14T00:15:35Z",
@@ -1920,8 +2465,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/semios/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "workable:senseye": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/senseye/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workable:sigmadefense": {
@@ -2025,8 +2570,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tecsa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:tecsys": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-11-11T10:09:08Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tecsys/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "workable:teguar-corporation": {
@@ -2070,8 +2615,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thorlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:tickpick": {
@@ -2085,8 +2630,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tmeic-corporation-americas/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workable:tokamak-energy": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:tp-link-usa-corp": {
@@ -2125,8 +2670,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/utilisave-llc-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:validus-risk-management": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workable:valsoft-corp": {
@@ -2150,8 +2695,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/versa-networks/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:viewline-ventures": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/viewline-ventures/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:volga-partners": {
@@ -2195,8 +2740,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:willis-aviation": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-14T07:16:30Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-14T14:47:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/willis-aviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:xodus-group": {

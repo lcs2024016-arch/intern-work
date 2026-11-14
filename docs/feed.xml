@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-14T07:16:30Z</updated>
+  <updated>2026-11-14T14:47:05Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Isourse — AI/ML Engineer Internship</title>
@@ -151,6 +151,12 @@
     <updated>2026-11-10T16:55:48Z</updated>
     <summary>Bengaluru, On-site · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Thales — Embedded Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902" rel="alternate"/>
+    <id>workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
+    <updated>2026-11-10T16:55:48Z</updated>
+    <summary>Bangalore · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>BNP Paribas — Data Science Intern</title>
     <link href="https://group.bnpparibas/en/careers/job-offer/data-science-intern-2?SRC=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4488835858</id>
@@ -235,6 +241,12 @@
     <updated>2026-11-03T11:37:56Z</updated>
     <summary>Hyderabad, Telangana, India, On-site · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>GE Aerospace — Artificial Intelligence Intern</title>
+    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1" rel="alternate"/>
+    <id>workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>
+    <updated>2026-11-03T11:37:56Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Honeywell — AI Intern</title>
     <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127899?ref=interndoor" rel="alternate"/>
     <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:127899</id>
@@ -294,17 +306,5 @@
     <id>interndoor:4485352929</id>
     <updated>2026-10-30T21:23:25Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Seagate Technology — Data Science Intern</title>
-    <link href="https://seagatecareers.com/job/Pune-Intern-Data-Science-%2528Corporate-Quality%2529/1446260700/?feedId=326100&amp;utm_source=interndoor&amp;utm_campaign=interndoor&amp;source=APPLICANT_SOURCE-3-387&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4483444157</id>
-    <updated>2026-10-30T17:07:47Z</updated>
-    <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Siemens Healthineers — AI Apprentice</title>
-    <link href="https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719?source=interndoor&amp;ref=interndoor" rel="alternate"/>
-    <id>interndoor:4483454315</id>
-    <updated>2026-10-30T17:07:47Z</updated>
-    <summary>Pune District, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
