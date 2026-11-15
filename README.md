@@ -13,11 +13,11 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-278-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5813-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-279-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5825-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 15, 2026 at 04:04 UTC</em></p>
+  <p><em>Last updated: Nov 15, 2026 at 11:48 UTC</em></p>
 </div>
 
 ---
@@ -432,13 +432,13 @@
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Ancestry** | AI Discovery Co-Op - Agentic Personalization <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 06, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | | <sub>`Python` `SQL` `PyTorch` `LLMs`</sub> ||||||
+| **Visa** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 05, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF083841W?ref=interndoor) |
+| | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Visa** | Software Engineering Intern <sup>~</sup> | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 05, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF083787W?ref=interndoor) |
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Visa** | Software Engineering Intern <sup>~</sup> | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 05, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF083831W?ref=interndoor) |
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Visa** | Software Engineer Intern <sup>~</sup> | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 05, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084029W?ref=interndoor) |
-| | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
-| **Visa** | Software Engineering Intern <sup>~</sup> | `Software` | — | IN - Bengaluru, India, Hybrid | Oct 05, 2026 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084196W?ref=interndoor) |
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Ancestry** | Postdoctoral Fellow, Applied AI <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 05, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380) |
 | | <sub>`Python` `LLMs` `Computer Vision` `AWS`</sub> ||||||
@@ -500,7 +500,7 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (237 of 278)._
+_~ = the title doesn't state a year; bucketed here from its posting date (237 of 279)._
 
 <details>
 <summary><strong>Recently closed</strong> — 48 roles taken down in the last 14 days</summary>
@@ -548,7 +548,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,814 companies** across **27 ATS platforms** · 97% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,826 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 17.6h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -564,7 +564,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,757 companies
+- **Applicant tracking systems** — 5,769 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies
