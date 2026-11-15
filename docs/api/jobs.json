@@ -5251,6 +5251,35 @@
     "scope": "india"
   },
   {
+    "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF084152W",
+    "company": "Visa",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "IN - Bengaluru, India, Hybrid",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084152W?ref=interndoor",
+    "posted_at": "2026-10-05",
+    "first_seen_at": "2026-11-15T18:22:01Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "android sdk",
+      "objective c"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF083841W",
     "company": "Visa",
     "title": "Software Engineering Intern",
