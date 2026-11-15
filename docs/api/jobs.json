@@ -1,5 +1,32 @@
 [
   {
+    "id": "interndoor:4491255989",
+    "company": "Honeywell Technologies",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/162274/?utm_medium=jobboard&utm_source=interndoor&ref=interndoor",
+    "posted_at": "2026-11-15",
+    "first_seen_at": "2026-11-15T23:27:59Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4491029012",
     "company": "Isourse",
     "title": "AI/ML Engineer Internship",
@@ -541,35 +568,6 @@
     "skills": null,
     "source": "ypatodkar",
     "scope": "global"
-  },
-  {
-    "id": "ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-    "company": "Clera",
-    "title": "ML Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "Remote",
-    "location": "remote",
-    "url": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-    "posted_at": "2026-11-10T21:01:58.454+00:00",
-    "first_seen_at": "2026-11-10T22:12:14Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "Python",
-      "PyTorch",
-      "TensorFlow",
-      "scikit-learn",
-      "LLMs"
-    ],
-    "source": "ashby",
-    "scope": "india"
   },
   {
     "id": "interndoor:4489615629",
@@ -3069,6 +3067,33 @@
     "scope": "india"
   },
   {
+    "id": "interndoor:4478617197",
+    "company": "Cargill",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151490160?ref=interndoor",
+    "posted_at": "2026-10-19",
+    "first_seen_at": "2026-11-15T23:27:59Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "cloud platform",
+      "big data platform",
+      "application development"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4478605556",
     "company": "Cargill",
     "title": "Software Engineer Intern",
@@ -5248,6 +5273,35 @@
       "LLMs"
     ],
     "source": "workday",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:workday:visa:wd5:Visa_Talent_Portal:REF084156W",
+    "company": "Visa",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "IN - Bengaluru, India, Hybrid",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084156W?ref=interndoor",
+    "posted_at": "2026-10-05",
+    "first_seen_at": "2026-11-15T23:27:59Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "android sdk",
+      "objective c"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
