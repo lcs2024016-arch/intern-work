@@ -1,5 +1,28 @@
 [
   {
+    "id": "workday:philips:/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
+    "company": "Philips",
+    "title": "Apprentice Software Developer Trainee",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bangalore",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
+    "posted_at": "2026-11-16T00:00:00Z",
+    "first_seen_at": "2026-11-16T03:59:05Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4491255989",
     "company": "Honeywell Technologies",
     "title": "Software Engineering Intern",
@@ -494,29 +517,6 @@
       "structured data"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
-    "company": "Assurant",
-    "title": "AI & Data Science Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru",
-    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198",
-    "posted_at": "2026-11-11T00:00:00Z",
-    "first_seen_at": "2026-11-11T18:19:04Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
-    "source": "workday",
     "scope": "india"
   },
   {
@@ -3062,6 +3062,33 @@
       "excel",
       "data analysis",
       "reporting"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4478609469",
+    "company": "Cargill",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151490096?ref=interndoor",
+    "posted_at": "2026-10-19",
+    "first_seen_at": "2026-11-16T03:59:05Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "cloud platform",
+      "big data platform",
+      "application development"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -7097,33 +7124,6 @@
       "perl"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-    "company": "Ancestry",
-    "title": "Data Science - AI Document Understanding, Co-op",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "Remote",
-    "location": "Remote",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-    "posted_at": "2026-09-16T00:00:00Z",
-    "first_seen_at": "2026-10-15T12:17:24Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "LLMs",
-      "AWS"
-    ],
-    "source": "workday",
     "scope": "india"
   },
   {

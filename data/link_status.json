@@ -1,10 +1,4 @@
 {
-  "ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7": {
-    "checked_at": "2026-11-15T23:27:59Z",
-    "status": 404,
-    "strikes": 1,
-    "url": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7"
-  },
   "instahyre:algouniversity:444755": {
     "checked_at": "2026-11-15T11:48:05Z",
     "status": 200,
@@ -156,7 +150,7 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Full-Stack-Intern/215939?source=LinkedIn"
   },
   "interndoor:4472859773": {
-    "checked_at": "2026-11-15T23:27:59Z",
+    "checked_at": "2026-11-16T03:59:05Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -198,7 +192,7 @@
     "url": "https://forms.gle/mdMbL91HT8MfFhjb7?ref=interndoor"
   },
   "interndoor:4474257793": {
-    "checked_at": "2026-11-15T23:27:59Z",
+    "checked_at": "2026-11-16T03:59:05Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303402&source=interndoor&ref=interndoor"
@@ -210,7 +204,7 @@
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=302765&source=interndoor&ref=interndoor"
   },
   "interndoor:4474271196": {
-    "checked_at": "2026-11-15T23:27:59Z",
+    "checked_at": "2026-11-16T03:59:05Z",
     "status": 403,
     "strikes": 1,
     "url": "https://jobs.siemens-energy.com/Jobs/FolderDetail?folderId=303119&source=LinkedIn"
@@ -395,6 +389,12 @@
     "strikes": 0,
     "url": "https://careers.cargill.com/en/job/-/-/23251/102151490016?ref=interndoor"
   },
+  "interndoor:4478617197": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151490160?ref=interndoor"
+  },
   "interndoor:4478618161": {
     "checked_at": "2026-11-15T23:27:59Z",
     "status": 200,
@@ -534,10 +534,22 @@
     "url": "https://www.linkedin.com/jobs/view/4480332583/"
   },
   "interndoor:4480341989": {
-    "checked_at": "2026-11-15T23:27:59Z",
+    "checked_at": "2026-11-16T03:59:05Z",
     "status": 403,
     "strikes": 1,
     "url": "https://wayfair.avature.net/en_US/careers?folderId=20829&src=LinkedIn_Job_Slots"
+  },
+  "interndoor:4480593313": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1792128021/?utm_campaign=interndoor&utm_source=interndoor&ref=interndoor"
+  },
+  "interndoor:4480598034": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://internshala.com/internship/detail/ai-video-creator-internship-in-bangalore-at-bitespeed1792143876/?utm_campaign=interndoor&utm_source=interndoor&ref=interndoor"
   },
   "interndoor:4480965630": {
     "checked_at": "2026-11-15T23:27:59Z",
@@ -550,6 +562,12 @@
     "status": 403,
     "strikes": 0,
     "url": "https://careers.atkinsrealis.com/en/jobs/data-science-intern-r-165210?utm_source=linkedin_feed"
+  },
+  "interndoor:4480994171": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://zycus.talismatic.com/jobs/J535JAQAI?ref=interndoor"
   },
   "interndoor:4481216323": {
     "checked_at": "2026-11-15T23:27:59Z",
@@ -1024,6 +1042,18 @@
     "status": 200,
     "strikes": 0,
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Talent_Portal/job/IN---Bengaluru-India/Intern_REF084196W?ref=interndoor"
+  },
+  "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449"
+  },
+  "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198": {
+    "checked_at": "2026-11-16T03:59:05Z",
+    "status": 200,
+    "strikes": 0,
+    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198"
   },
   "ypatodkar:aurora-innovation:aurora-innovation_ashby_475a24d7-a058-4f86-be8f-fd6be679af9c": {
     "checked_at": "2026-11-15T23:27:59Z",
