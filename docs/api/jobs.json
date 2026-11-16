@@ -1,25 +1,27 @@
 [
   {
-    "id": "workday:philips:/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
-    "company": "Philips",
-    "title": "Apprentice Software Developer Trainee",
+    "id": "interndoor:4491507406",
+    "company": "GE HealthCare",
+    "title": "Software Engineering Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
     "region": "India",
-    "location": "Bangalore",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
-    "posted_at": "2026-11-16T00:00:00Z",
-    "first_seen_at": "2026-11-16T03:59:05Z",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4046240EXTERNALENGLOBAL/Intern?utm_source=interndoor&utm_medium=phenom-feeds&ref=interndoor",
+    "posted_at": "2026-11-16",
+    "first_seen_at": "2026-11-16T12:26:32Z",
     "salary": null,
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
     "pay_source": null,
-    "degree": "B.Tech/BS",
+    "degree": "B.Tech/M.Tech",
     "experience": null,
-    "skills": [],
-    "source": "workday",
+    "skills": [
+      "software development"
+    ],
+    "source": "interndoor",
     "scope": "india"
   },
   {
@@ -3062,6 +3064,33 @@
       "excel",
       "data analysis",
       "reporting"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4478619071",
+    "company": "Cargill",
+    "title": "Software Engineer Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India, On-site",
+    "url": "https://careers.cargill.com/en/job/-/-/23251/102151489456?ref=interndoor",
+    "posted_at": "2026-10-19",
+    "first_seen_at": "2026-11-16T12:26:32Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "cloud platform",
+      "big data platform",
+      "application development"
     ],
     "source": "interndoor",
     "scope": "india"
