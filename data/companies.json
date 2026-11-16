@@ -12540,6 +12540,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Gobeacon",
+    "slug": "gobeacon",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "beaconmobilitycareers"
+  },
+  {
     "name": "GoDaddy",
     "slug": "eventsandinterns",
     "ats": "greenhouse"
@@ -14974,6 +14981,13 @@
     "name": "Inspire Medical Systems",
     "slug": "inspiremedicalsystemsinc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Inspirebrands",
+    "slug": "inspirebrands",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "InspireCareers"
   },
   {
     "name": "Instabase",
