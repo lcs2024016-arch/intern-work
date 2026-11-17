@@ -1,11 +1,11 @@
 {
-  "total": 5827,
+  "total": 5839,
   "by_ats": {
-    "workday": 1655,
-    "greenhouse": 1291,
-    "ashby": 932,
+    "workday": 1657,
+    "greenhouse": 1295,
+    "ashby": 935,
     "smartrecruiters": 884,
-    "lever": 490,
+    "lever": 493,
     "workable": 237,
     "oracle": 154,
     "rippling": 114,
@@ -333,6 +333,11 @@
       "name": "Abridge",
       "slug": "abridge",
       "ats": "ashby"
+    },
+    {
+      "name": "Absolics",
+      "slug": "absolicsinc",
+      "ats": "greenhouse"
     },
     {
       "name": "Absolute Facility Solutions",
@@ -8774,6 +8779,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "DLR Group",
+      "slug": "dlrgroup",
+      "ats": "greenhouse"
+    },
+    {
       "name": "DLS Engineering Associates, Inc.",
       "slug": "dlsengineering",
       "ats": "rippling"
@@ -9112,6 +9122,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "external"
+    },
+    {
+      "name": "Duetti",
+      "slug": "duetti",
+      "ats": "lever"
     },
     {
       "name": "Duetto Research",
@@ -10611,6 +10626,11 @@
       "ats": "workday",
       "wd": "wd5",
       "site": "fanthreesixty"
+    },
+    {
+      "name": "Fantom",
+      "slug": "fantom-corporation",
+      "ats": "lever"
     },
     {
       "name": "Fanvue",
@@ -13301,6 +13321,11 @@
       "site": "HARMAN"
     },
     {
+      "name": "Harmonic",
+      "slug": "harmonic",
+      "ats": "ashby"
+    },
+    {
       "name": "Harness",
       "slug": "harness-careers",
       "ats": "rippling"
@@ -13666,6 +13691,11 @@
       "name": "Hex Technologies",
       "slug": "hex",
       "ats": "ashby"
+    },
+    {
+      "name": "HexArmor",
+      "slug": "hexarmor",
+      "ats": "greenhouse"
     },
     {
       "name": "HEXAWARE",
@@ -15048,6 +15078,11 @@
       "name": "Instead",
       "slug": "instead",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Instil Software Ltd",
+      "slug": "instil",
+      "ats": "ashby"
     },
     {
       "name": "Institute of Foundation Models",
@@ -24312,6 +24347,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Remanence",
+      "slug": "remanence",
+      "ats": "ashby"
+    },
+    {
       "name": "Remarcable",
       "slug": "remarcable-inc",
       "ats": "ashby"
@@ -26877,6 +26917,11 @@
       "name": "Sopra Steria",
       "slug": "SopraSteria1",
       "ats": "smartrecruiters"
+    },
+    {
+      "name": "Soros Fund Management",
+      "slug": "familyoffice",
+      "ats": "greenhouse"
     },
     {
       "name": "Sorting Robotics",
@@ -29527,6 +29572,13 @@
       "site": "tricentis_careers"
     },
     {
+      "name": "Tricorbraun",
+      "slug": "tricorbraun",
+      "ats": "workday",
+      "wd": "wd115",
+      "site": "careers"
+    },
+    {
       "name": "Trilogy",
       "slug": "trilogy-engineering",
       "ats": "smartrecruiters"
@@ -31013,6 +31065,14 @@
       "site": "vfc_careers"
     },
     {
+      "name": "Vhr Fhlbdm",
+      "slug": "vhr_fhlbdm",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "careers",
+      "host": "wd5.myworkdaysite.com"
+    },
+    {
       "name": "Via",
       "slug": "via",
       "ats": "greenhouse"
@@ -32462,6 +32522,11 @@
       "ats": "oracle",
       "host": "eczd.fa.us2.oraclecloud.com",
       "site": "CX_1"
+    },
+    {
+      "name": "Z1 Tech",
+      "slug": "z1tech",
+      "ats": "lever"
     },
     {
       "name": "Zaber Technologies",

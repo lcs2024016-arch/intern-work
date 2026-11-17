@@ -54,6 +54,11 @@
     "last_attempt_at": "2026-11-14T19:43:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
   },
+  "ashby:browserbase": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-17T14:06:31Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/browserbase?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
+  },
   "ashby:candidate": {
     "consecutive_failures": 41,
     "last_attempt_at": "2026-11-16T12:26:32Z",
@@ -240,8 +245,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mach?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "ashby:maple": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-15T11:48:05Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-17T14:06:31Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/maple?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:marathon": {
@@ -1599,16 +1604,6 @@
     "last_attempt_at": "2026-11-17T05:02:36Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/longshot-systems-ltd/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workable:lovey": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-17T05:02:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/lovey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
-  "workable:lovingly": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-17T05:02:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/lovingly/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
-  },
   "workable:luminance-1": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-17T05:02:36Z",
@@ -1774,11 +1769,6 @@
     "last_attempt_at": "2026-11-15T23:27:59Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
-  "workable:porsche-retail-group": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-17T05:02:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/porsche-retail-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
   "workable:praytell": {
     "consecutive_failures": 11,
     "last_attempt_at": "2026-11-15T23:27:59Z",
@@ -1838,11 +1828,6 @@
     "consecutive_failures": 11,
     "last_attempt_at": "2026-11-16T12:26:32Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/raydar/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
-  },
-  "workable:reasonable": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-17T05:02:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/reasonable/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:rebellion": {
     "consecutive_failures": 7,
