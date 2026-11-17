@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T22:46:58Z",
-  "duration_seconds": 423.2,
+  "generated_at": "2026-11-17T05:02:36Z",
+  "duration_seconds": 547.0,
   "companies_total": 5828,
   "companies_by_source": {
     "greenhouse": 1291,
@@ -31,56 +31,56 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 420,
-  "fetched_ok": 5389,
-  "fetch_errors": 19,
+  "quarantined": 383,
+  "fetched_ok": 5391,
+  "fetch_errors": 54,
   "errors_by_source": {
-    "greenhouse": 7,
-    "ashby": 3,
-    "lever": 2,
-    "workable": 7
+    "greenhouse": 2,
+    "rippling": 2,
+    "ashby": 5,
+    "workable": 45
   },
-  "fetch_success_rate": 0.996,
-  "roles_matched": 98,
-  "roles_cycle_inferred": 89,
+  "fetch_success_rate": 0.99,
+  "roles_matched": 97,
+  "roles_cycle_inferred": 88,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 87,
+  "dropped_offcycle_by_text": 85,
   "roles_by_source": {
+    "workday": 7,
     "smartrecruiters": 1,
     "ashby": 3,
-    "greenhouse": 9,
+    "greenhouse": 8,
     "lever": 2,
-    "workday": 6,
     "oracle": 2,
-    "interndoor": 56,
+    "interndoor": 55,
     "ypatodkar": 15,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 97,
+    "Summer 2027": 96,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Software": 54,
-    "Data & ML/AI": 37,
-    "Other": 7
+    "Data & ML/AI": 39,
+    "Software": 52,
+    "Other": 6
   },
   "roles_by_region": {
     "India": 72,
-    "Remote": 26
+    "Remote": 25
   },
-  "posted_date_coverage": 0.965,
-  "enriched_this_run": 28,
-  "enrichment_detail_fetches": 2,
-  "purged_this_run": 3,
+  "posted_date_coverage": 0.966,
+  "enriched_this_run": 20,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 1,
   "dates_repaired": 0,
   "links_checked": 60,
   "removed_dead_links": 0,
-  "new_this_run": 9,
-  "open_total": 289,
+  "new_this_run": 3,
+  "open_total": 292,
   "detection_latency": {
     "median_minutes": 1099.1,
-    "sample_size": 52,
+    "sample_size": 39,
     "window_days": 7
   }
 }
