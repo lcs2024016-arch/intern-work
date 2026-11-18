@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T12:47:54Z",
-  "duration_seconds": 527.2,
+  "generated_at": "2026-11-18T21:07:21Z",
+  "duration_seconds": 429.7,
   "companies_total": 5849,
   "companies_by_source": {
     "greenhouse": 1295,
@@ -31,56 +31,55 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 418,
-  "fetched_ok": 5405,
-  "fetch_errors": 26,
+  "quarantined": 433,
+  "fetched_ok": 5404,
+  "fetch_errors": 12,
   "errors_by_source": {
-    "greenhouse": 3,
-    "ashby": 3,
-    "workable": 19,
-    "lever": 1
+    "greenhouse": 1,
+    "workable": 10,
+    "ashby": 1
   },
-  "fetch_success_rate": 0.995,
-  "roles_matched": 106,
-  "roles_cycle_inferred": 95,
+  "fetch_success_rate": 0.998,
+  "roles_matched": 104,
+  "roles_cycle_inferred": 93,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 88,
+  "dropped_offcycle_by_text": 92,
   "roles_by_source": {
-    "workday": 9,
     "smartrecruiters": 1,
     "ashby": 4,
+    "workday": 6,
     "greenhouse": 7,
     "lever": 2,
-    "oracle": 3,
-    "interndoor": 62,
+    "oracle": 2,
+    "interndoor": 64,
     "ypatodkar": 14,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 105,
+    "Summer 2027": 103,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 42,
-    "Software": 56,
+    "Software": 57,
+    "Data & ML/AI": 39,
     "Other": 8
   },
   "roles_by_region": {
-    "Remote": 24,
-    "India": 82
+    "India": 81,
+    "Remote": 23
   },
   "posted_date_coverage": 0.968,
-  "enriched_this_run": 28,
-  "enrichment_detail_fetches": 2,
-  "purged_this_run": 1,
+  "enriched_this_run": 22,
+  "enrichment_detail_fetches": 1,
+  "purged_this_run": 0,
   "dates_repaired": 0,
   "links_checked": 60,
   "removed_dead_links": 0,
-  "new_this_run": 10,
-  "open_total": 311,
+  "new_this_run": 4,
+  "open_total": 310,
   "detection_latency": {
-    "median_minutes": 1053.2,
-    "sample_size": 50,
+    "median_minutes": 1099.0,
+    "sample_size": 54,
     "window_days": 7
   }
 }
