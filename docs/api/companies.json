@@ -1,12 +1,12 @@
 {
-  "total": 5839,
+  "total": 5848,
   "by_ats": {
-    "workday": 1657,
+    "workday": 1660,
     "greenhouse": 1295,
-    "ashby": 935,
-    "smartrecruiters": 884,
-    "lever": 493,
-    "workable": 237,
+    "ashby": 936,
+    "smartrecruiters": 885,
+    "lever": 494,
+    "workable": 240,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -6391,6 +6391,11 @@
       "host": "wd10.myworkdaysite.com"
     },
     {
+      "name": "City of Campbell River",
+      "slug": "CityOfCampbellRiver",
+      "ats": "smartrecruiters"
+    },
+    {
       "name": "City of Charlotte",
       "slug": "charlottenc",
       "ats": "workday",
@@ -9356,6 +9361,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Ecliptic Enterprises",
+      "slug": "ecliptic-enterprises-corporation",
+      "ats": "workable"
+    },
+    {
       "name": "Ecolab",
       "slug": "ecolab",
       "ats": "workday",
@@ -10339,6 +10349,11 @@
       "site": "Exclusive-Networks-Career"
     },
     {
+      "name": "Executive Title Agency",
+      "slug": "executive-title-agency",
+      "ats": "workable"
+    },
+    {
       "name": "Exegy",
       "slug": "exegy",
       "ats": "ashby"
@@ -10565,6 +10580,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "fti"
+    },
+    {
+      "name": "Falcomm",
+      "slug": "falcomm",
+      "ats": "workable"
     },
     {
       "name": "FalconX",
@@ -10982,6 +11002,13 @@
       "name": "Fireblocks",
       "slug": "fireblocks",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Fireflyspace",
+      "slug": "fireflyspace",
+      "ats": "workday",
+      "wd": "wd115",
+      "site": "firefly"
     },
     {
       "name": "Firemon",
@@ -13412,6 +13439,14 @@
       "name": "Hatch IT",
       "slug": "hatchit",
       "ats": "lever"
+    },
+    {
+      "name": "Havas",
+      "slug": "havas",
+      "ats": "workday",
+      "wd": "wd3",
+      "site": "GroupExternalCareerSite",
+      "host": "wd3.myworkdaysite.com"
     },
     {
       "name": "Haven Studios",
@@ -22056,6 +22091,14 @@
       "ats": "ashby"
     },
     {
+      "name": "Parklandhospital",
+      "slug": "parklandhospital",
+      "ats": "workday",
+      "wd": "wd12",
+      "site": "Parkland_Careers",
+      "host": "wd12.myworkdaysite.com"
+    },
+    {
       "name": "Parsons",
       "slug": "parsons",
       "ats": "workday",
@@ -30613,6 +30656,11 @@
       "site": "Valeris"
     },
     {
+      "name": "Valgenesis",
+      "slug": "valgenesis",
+      "ats": "lever"
+    },
+    {
       "name": "Validus Risk Management",
       "slug": "validus-risk-management",
       "ats": "workable"
@@ -31518,6 +31566,11 @@
       "name": "Warp",
       "slug": "warp",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Warp Sciences",
+      "slug": "warp-sciences",
+      "ats": "ashby"
     },
     {
       "name": "Wasabi Technologies",
