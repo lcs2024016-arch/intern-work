@@ -1,12 +1,12 @@
 {
-  "total": 5848,
+  "total": 5852,
   "by_ats": {
-    "workday": 1660,
-    "greenhouse": 1295,
-    "ashby": 936,
+    "workday": 1661,
+    "greenhouse": 1296,
+    "ashby": 937,
     "smartrecruiters": 885,
     "lever": 494,
-    "workable": 240,
+    "workable": 241,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -10033,6 +10033,11 @@
       "ats": "lever"
     },
     {
+      "name": "EQL Tech",
+      "slug": "eqltech",
+      "ats": "workable"
+    },
+    {
       "name": "EQT Corporation",
       "slug": "eqtcorporation",
       "ats": "greenhouse"
@@ -12412,6 +12417,13 @@
       "name": "Girls Who Code",
       "slug": "girlswhocode",
       "ats": "lever"
+    },
+    {
+      "name": "Giro",
+      "slug": "giro",
+      "ats": "workday",
+      "wd": "wd10",
+      "site": "GIRO"
     },
     {
       "name": "GITAI",
@@ -17571,6 +17583,11 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "Lucid",
+      "slug": "lucidsoftware",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Lucid Bots",
       "slug": "lucidbots",
       "ats": "greenhouse"
@@ -17912,6 +17929,11 @@
       "name": "MakeMyTrip",
       "slug": "makemytrip",
       "ats": "smartrecruiters"
+    },
+    {
+      "name": "MakerMaker",
+      "slug": "makermaker",
+      "ats": "ashby"
     },
     {
       "name": "Mammoth Brands",
@@ -21486,7 +21508,7 @@
       "ats": "greenhouse"
     },
     {
-      "name": "Opentext",
+      "name": "OpenText",
       "slug": "opentext",
       "ats": "smartrecruiters"
     },
@@ -30656,7 +30678,7 @@
       "site": "Valeris"
     },
     {
-      "name": "Valgenesis",
+      "name": "ValGenesis",
       "slug": "valgenesis",
       "ats": "lever"
     },
