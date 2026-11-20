@@ -1,5 +1,28 @@
 [
   {
+    "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
+    "company": "Zebra Technologies",
+    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "season": "Summer 2027",
+    "season_inferred": false,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, India",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
+    "posted_at": "2026-11-20T00:00:00Z",
+    "first_seen_at": "2026-11-20T09:35:53Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [],
+    "source": "workday",
+    "scope": "india"
+  },
+  {
     "id": "ypatodkar:scout:scout_greenhouse_5489231008",
     "company": "Scout",
     "title": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
@@ -103,29 +126,6 @@
     "scope": "india"
   },
   {
-    "id": "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-    "company": "paytm",
-    "title": "Backend - Intern ( SEA & Europe)",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Noida, Uttar Pradesh",
-    "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-    "posted_at": "2026-11-19T08:51:58Z",
-    "first_seen_at": "2026-11-19T11:04:01Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": null,
-    "source": "lever",
-    "scope": "india"
-  },
-  {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161637",
     "company": "Honeywell",
     "title": "Intern Bachelors Software Eng",
@@ -178,32 +178,6 @@
       "azure"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
-    "company": "Zebra Technologies",
-    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
-    "season": "Summer 2027",
-    "season_inferred": false,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, India",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
-    "posted_at": "2026-11-18T00:00:00Z",
-    "first_seen_at": "2026-11-19T11:04:01Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java"
-    ],
-    "source": "workday",
     "scope": "india"
   },
   {
@@ -5936,31 +5910,6 @@
       "pytorch",
       "tensorflow",
       "jax"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4476271622",
-    "company": "Micron school erp",
-    "title": "QA & Tech Support Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "India",
-    "location": "Sahibzada Ajit Singh Nagar, Punjab, India, On-site",
-    "url": "https://www.micronerp.com/careers/cmth9l2cf002mm6010l370tt2?ref=interndoor",
-    "posted_at": "2026-10-09",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "BCA/B.Tech/BSc IT",
-    "experience": null,
-    "skills": [
-      "customer support"
     ],
     "source": "interndoor",
     "scope": "india"
