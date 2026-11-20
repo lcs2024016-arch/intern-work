@@ -724,6 +724,11 @@
     "ats": "workable"
   },
   {
+    "name": "Aeva",
+    "slug": "aeva",
+    "ats": "lever"
+  },
+  {
     "name": "Aevex Aerospace",
     "slug": "aevexaerospace",
     "ats": "greenhouse"
@@ -5559,6 +5564,11 @@
     "ats": "lever"
   },
   {
+    "name": "Cascade Engineering Services",
+    "slug": "cascade-engineering-services-1",
+    "ats": "workable"
+  },
+  {
     "name": "CaseGuard",
     "slug": "caseguard",
     "ats": "greenhouse"
@@ -9884,6 +9894,11 @@
     "ats": "lever"
   },
   {
+    "name": "Entropik",
+    "slug": "entropik",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Entrust",
     "slug": "entrust",
     "ats": "workday",
@@ -14128,7 +14143,7 @@
     "ats": "ashby"
   },
   {
-    "name": "hp",
+    "name": "HP",
     "slug": "hp",
     "ats": "greenhouse"
   },
@@ -15495,6 +15510,11 @@
     "site": "irhythm"
   },
   {
+    "name": "Iris Software Inc.",
+    "slug": "irissoftware",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Iron Mountain",
     "slug": "ironmountain",
     "ats": "workday",
@@ -15796,6 +15816,11 @@
     "name": "Jerry",
     "slug": "jerry",
     "ats": "ashby"
+  },
+  {
+    "name": "Jessup University",
+    "slug": "WilliamJessupUniversityBayAreaCampus",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Jigsaw",
@@ -17261,6 +17286,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Litmus",
+    "slug": "litmushiring",
+    "ats": "ashby"
+  },
+  {
     "name": "Littelfuse",
     "slug": "littelfuse",
     "ats": "workday",
@@ -18135,6 +18165,13 @@
     "name": "Massachusetts School Building Authority",
     "slug": "massschoolbuildings",
     "ats": "lever"
+  },
+  {
+    "name": "Masseyservices",
+    "slug": "masseyservices",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "masseyservices"
   },
   {
     "name": "MassMutual Ascend",
@@ -27020,6 +27057,14 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "SouthernTide"
+  },
+  {
+    "name": "Southernwater",
+    "slug": "southernwater",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "SouthernWater",
+    "host": "wd3.myworkdaysite.com"
   },
   {
     "name": "SouthState Bank",
