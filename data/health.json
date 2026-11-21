@@ -1579,11 +1579,6 @@
     "last_attempt_at": "2026-11-19T19:26:58Z",
     "last_error": "RuntimeError: Wellfound rate limited or returned 0 jobs"
   },
-  "workable:coldquanta": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T15:55:57Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/coldquanta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
-  },
   "workable:currier-plastics": {
     "consecutive_failures": 17,
     "last_attempt_at": "2026-11-19T19:26:58Z",
@@ -1648,11 +1643,6 @@
     "consecutive_failures": 10,
     "last_attempt_at": "2026-11-21T15:55:57Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/leap-legal-software/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
-  },
-  "workable:legatics": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T15:55:57Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/legatics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:liberty-mutual-canada": {
     "consecutive_failures": 8,

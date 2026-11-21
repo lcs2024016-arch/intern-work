@@ -58,7 +58,7 @@
   {
     "id": "interndoor:4492529829",
     "company": "Codemonk",
-    "title": "Machine Learning Intern (AI/ML)",
+    "title": "Machine Learning Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Data & ML/AI",
@@ -146,7 +146,7 @@
   {
     "id": "interndoor:ats:oraclecloud:iaaviz.fa.ocs.oraclecloud.com:7861",
     "company": "Icertis",
-    "title": "Intern - AI Engineering",
+    "title": "AI Engineering Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Data & ML/AI",
@@ -2074,34 +2074,6 @@
     "degree": null,
     "experience": null,
     "skills": [],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4485065390",
-    "company": "Deloitte",
-    "title": "DevOps Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India, Hybrid",
-    "url": "https://www.linkedin.com/jobs/view/4485065390/",
-    "posted_at": "2026-11-04",
-    "first_seen_at": "2026-11-04T12:00:01Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "git",
-      "aws",
-      "azure devops"
-    ],
     "source": "interndoor",
     "scope": "india"
   },
@@ -5319,7 +5291,7 @@
   {
     "id": "interndoor:ats:smartrecruiters:CarousellGroup:744000155411579",
     "company": "Carousell",
-    "title": "Android Engineer Intern - 6 months",
+    "title": "Android Engineer Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -7091,35 +7063,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4472919251",
-    "company": "Honasa Consumer Ltd.",
-    "title": "AI Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://www.linkedin.com/jobs/view/4472919251/",
-    "posted_at": "2026-10-01",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "sql",
-      "apis",
-      "data pipelines",
-      "llm applications"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:ats:workday:marvell:wd1:MarvellCareers:2604253",
     "company": "Marvell Technology",
     "title": "Research Intern Physical AI GPU",
@@ -7170,35 +7113,6 @@
     "skills": null,
     "source": "ypatodkar",
     "scope": "global"
-  },
-  {
-    "id": "interndoor:4472153913",
-    "company": "GreedyGame",
-    "title": "Fullstack Developer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4472153913/",
-    "posted_at": "2026-09-30",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "go",
-      "react",
-      "mysql",
-      "postgresql",
-      "mongodb"
-    ],
-    "source": "interndoor",
-    "scope": "india"
   },
   {
     "id": "interndoor:4472339005",
