@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T18:19:23Z",
-  "duration_seconds": 531.4,
+  "generated_at": "2026-11-21T00:38:53Z",
+  "duration_seconds": 483.7,
   "companies_total": 5861,
   "companies_by_source": {
     "greenhouse": 1296,
@@ -31,54 +31,56 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 442,
-  "fetched_ok": 5413,
-  "fetch_errors": 6,
+  "quarantined": 425,
+  "fetched_ok": 5407,
+  "fetch_errors": 29,
   "errors_by_source": {
-    "ashby": 3,
-    "greenhouse": 1,
-    "workable": 2
+    "ashby": 10,
+    "greenhouse": 7,
+    "oracle": 6,
+    "rippling": 2,
+    "workable": 4
   },
-  "fetch_success_rate": 0.999,
-  "roles_matched": 112,
-  "roles_cycle_inferred": 97,
+  "fetch_success_rate": 0.995,
+  "roles_matched": 108,
+  "roles_cycle_inferred": 95,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 89,
+  "dropped_offcycle_by_text": 90,
   "roles_by_source": {
-    "workday": 9,
+    "workday": 8,
     "smartrecruiters": 1,
     "ashby": 4,
     "greenhouse": 7,
-    "lever": 2,
+    "lever": 1,
     "oracle": 1,
-    "interndoor": 69,
-    "ypatodkar": 15,
+    "interndoor": 68,
+    "ypatodkar": 14,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 111,
+    "Summer 2027": 107,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 42,
-    "Software": 61,
+    "Data & ML/AI": 41,
+    "Software": 58,
     "Other": 9
   },
   "roles_by_region": {
-    "India": 87,
-    "Remote": 25
+    "India": 85,
+    "Remote": 23
   },
   "posted_date_coverage": 0.969,
-  "enriched_this_run": 27,
-  "enrichment_detail_fetches": 1,
-  "purged_this_run": 4,
+  "enriched_this_run": 19,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 1,
   "dates_repaired": 0,
   "links_checked": 60,
   "removed_dead_links": 0,
-  "new_this_run": 7,
-  "open_total": 325,
+  "new_this_run": 1,
+  "open_total": 324,
   "detection_latency": {
-    "median_minutes": 1099.4,
+    "median_minutes": 1133.2,
     "sample_size": 56,
     "window_days": 7
   }
