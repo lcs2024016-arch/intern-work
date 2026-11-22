@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-22T17:38:32Z</updated>
+  <updated>2026-11-22T23:06:41Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>RapidClaims — SDE Intern</title>
@@ -31,12 +31,6 @@
     <updated>2026-11-20T18:19:23Z</updated>
     <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Siemens — Software Engineer Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4492808596/" rel="alternate"/>
-    <id>interndoor:4492808596</id>
-    <updated>2026-11-20T18:19:23Z</updated>
-    <summary>Noida, Uttar Pradesh, India, Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Agoda — Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office</title>
     <link href="https://job-boards.greenhouse.io/agoda/jobs/6323041?ref=interndoor" rel="alternate"/>
     <id>interndoor:ats:greenhouse:agoda:6323041</id>
@@ -60,12 +54,6 @@
     <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:162870</id>
     <updated>2026-11-20T18:19:23Z</updated>
     <summary>Pune, Maharashtra, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Zebra Technologies — 2027 (6 Month) Internship - (Bengaluru) Software Engineering</title>
-    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237" rel="alternate"/>
-    <id>workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237</id>
-    <updated>2026-11-20T09:35:53Z</updated>
-    <summary>Bengaluru, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Scout — Computer Vision (AI/ML) Engineering Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489231008" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>interndoor:4488286589</id>
     <updated>2026-11-12T09:08:52Z</updated>
     <summary>Gurugram, Haryana, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Software Engineering Intern</title>
+    <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/129314?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:129314</id>
+    <updated>2026-11-17T14:06:31Z</updated>
+    <summary>Hyderabad, Telangana, India, On-site · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Software Engineering Intern</title>
+    <link href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/128594?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:oraclecloud:icfcjb.fa.ocs.oraclecloud.com:128594</id>
+    <updated>2026-11-12T09:08:52Z</updated>
+    <summary>Hyderabad, Telangana, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>

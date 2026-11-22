@@ -114,35 +114,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4492808596",
-    "company": "Siemens",
-    "title": "Software Engineer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Noida, Uttar Pradesh, India, Hybrid",
-    "url": "https://www.linkedin.com/jobs/view/4492808596/",
-    "posted_at": "2026-11-20",
-    "first_seen_at": "2026-11-20T18:19:23Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "java",
-      "vue.js",
-      "postgresql",
-      "openshift",
-      "git"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:ats:greenhouse:agoda:6323041",
     "company": "Agoda",
     "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
@@ -254,29 +225,6 @@
       "C++"
     ],
     "source": "oracle",
-    "scope": "india"
-  },
-  {
-    "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
-    "company": "Zebra Technologies",
-    "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
-    "season": "Summer 2027",
-    "season_inferred": false,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, India",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
-    "posted_at": "2026-11-20T00:00:00Z",
-    "first_seen_at": "2026-11-20T09:35:53Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
-    "source": "workday",
     "scope": "india"
   },
   {
@@ -3065,35 +3013,6 @@
       "sql",
       "tableau",
       "power bi"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4481851364",
-    "company": "Valency Networks Private Limited",
-    "title": "Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "India",
-    "location": "Pune City, Maharashtra, India",
-    "url": "https://www.linkedin.com/jobs/view/4481851364/",
-    "posted_at": "2026-10-27",
-    "first_seen_at": "2026-10-27T07:11:48Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "M.Tech/MS",
-    "experience": null,
-    "skills": [
-      "burp suite",
-      "nmap",
-      "owasp zap",
-      "postman",
-      "owasp top 10"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -6030,33 +5949,6 @@
       "javascript",
       "android sdk",
       "objective c"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4474032231",
-    "company": "TÜV SÜD",
-    "title": "Quality Assurance Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "India",
-    "location": "Vadodara, Gujarat, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4474032231/",
-    "posted_at": "2026-10-06",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "MCA/IT",
-    "experience": null,
-    "skills": [
-      "automation testing",
-      "oop",
-      "data structures"
     ],
     "source": "interndoor",
     "scope": "india"
