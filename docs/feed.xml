@@ -4,9 +4,15 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-22T09:13:23Z</updated>
+  <updated>2026-11-22T17:38:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>RapidClaims — SDE Intern</title>
+    <link href="https://www.linkedin.com/jobs/view/4493100195/" rel="alternate"/>
+    <id>interndoor:4493100195</id>
+    <updated>2026-11-22T17:38:32Z</updated>
+    <summary>Bengaluru, Karnataka, India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Park Place Technologies — Software Development Intern</title>
     <link href="https://recruiting.ultipro.com/PAR1035PPTL/JobBoard/e104637a-c3c6-4682-96d2-d7cc2662dc13/OpportunityDetail?opportunityId=bade43a3-270f-49fa-b9c5-e2dd8d17c8d7&amp;source=interndoor&amp;ref=interndoor" rel="alternate"/>
     <id>interndoor:4477101779</id>
@@ -67,12 +73,6 @@
     <updated>2026-11-20T01:40:22Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Appinventiv — Software Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4491605941/" rel="alternate"/>
-    <id>interndoor:4491605941</id>
-    <updated>2026-11-19T19:26:58Z</updated>
-    <summary>India · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Siemens — QA Intern</title>
     <link href="https://www.linkedin.com/jobs/view/4492179801/" rel="alternate"/>
     <id>interndoor:4492179801</id>
@@ -96,12 +96,6 @@
     <id>interndoor:4490877817</id>
     <updated>2026-11-18T21:07:21Z</updated>
     <summary>Hyderabad, Telangana, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Appinventiv — Software Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4490890697/" rel="alternate"/>
-    <id>interndoor:4490890697</id>
-    <updated>2026-11-18T21:07:21Z</updated>
-    <summary>India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Zebra Technologies — Software Engineering Intern</title>
     <link href="https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103863?ref=interndoor" rel="alternate"/>
@@ -180,12 +174,6 @@
     <id>ashby:leantechniques:c89ba377-fab3-4246-a0cf-9d954cf4c862</id>
     <updated>2026-11-17T22:12:06Z</updated>
     <summary>Hybrid · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Appinventiv — Software Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4490450577/" rel="alternate"/>
-    <id>interndoor:4490450577</id>
-    <updated>2026-11-17T22:12:06Z</updated>
-    <summary>India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Honeywell Technologies — Software Engineering Intern</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/160864/?utm_medium=jobboard&amp;utm_source=interndoor&amp;ref=interndoor" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>interndoor:4488543648</id>
     <updated>2026-11-12T23:09:20Z</updated>
     <summary>Gurugram, Haryana, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GoKwik — Software Development Intern</title>
+    <link href="https://gokwik.keka.com/careers/jobdetails/169089?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:keka:gokwik:169089</id>
+    <updated>2026-11-12T17:33:13Z</updated>
+    <summary>Gurugram, HR, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Delhivery — Software Engineer Intern</title>
+    <link href="https://forms.gle/hEtH2BQ3qWTS6k4f9?ref=interndoor" rel="alternate"/>
+    <id>interndoor:4488286589</id>
+    <updated>2026-11-12T09:08:52Z</updated>
+    <summary>Gurugram, Haryana, India, On-site · Software · Summer 2027</summary>
   </entry>
 </feed>

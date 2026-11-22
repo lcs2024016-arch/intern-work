@@ -1,5 +1,35 @@
 [
   {
+    "id": "interndoor:4493100195",
+    "company": "RapidClaims",
+    "title": "SDE Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Other",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://www.linkedin.com/jobs/view/4493100195/",
+    "posted_at": "2026-11-21",
+    "first_seen_at": "2026-11-22T17:38:32Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": null,
+    "experience": null,
+    "skills": [
+      "python",
+      "node.js",
+      "go",
+      "sql",
+      "restful apis",
+      "microservices"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4477101779",
     "company": "Park Place Technologies",
     "title": "Software Development Intern",
@@ -273,34 +303,6 @@
     "scope": "global"
   },
   {
-    "id": "interndoor:4491605941",
-    "company": "Appinventiv",
-    "title": "Software Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "India",
-    "url": "https://www.linkedin.com/jobs/view/4491605941/",
-    "posted_at": "2026-11-19",
-    "first_seen_at": "2026-11-19T19:26:58Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/IT",
-    "experience": null,
-    "skills": [
-      "java",
-      "python",
-      "git",
-      "object-oriented programming"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4492179801",
     "company": "Siemens",
     "title": "QA Intern",
@@ -407,34 +409,6 @@
       "sharepoint",
       "teams",
       "excel"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4490890697",
-    "company": "Appinventiv",
-    "title": "Software Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "India",
-    "url": "https://www.linkedin.com/jobs/view/4490890697/",
-    "posted_at": "2026-11-18",
-    "first_seen_at": "2026-11-18T21:07:21Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/IT",
-    "experience": null,
-    "skills": [
-      "java",
-      "python",
-      "git",
-      "object-oriented programming"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -791,34 +765,6 @@
     "experience": null,
     "skills": [],
     "source": "ashby",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4490450577",
-    "company": "Appinventiv",
-    "title": "Software Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "India",
-    "url": "https://www.linkedin.com/jobs/view/4490450577/",
-    "posted_at": "2026-11-17",
-    "first_seen_at": "2026-11-17T22:12:06Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/Information Technology",
-    "experience": null,
-    "skills": [
-      "java",
-      "python",
-      "sql",
-      "git"
-    ],
-    "source": "interndoor",
     "scope": "india"
   },
   {
@@ -1372,34 +1318,6 @@
       "numpy",
       "scikit-learn",
       "sql"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4488292701",
-    "company": "Appinventiv",
-    "title": "Software Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "India",
-    "url": "https://www.linkedin.com/jobs/view/4488292701/",
-    "posted_at": "2026-11-12",
-    "first_seen_at": "2026-11-12T17:33:13Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/Information Technology",
-    "experience": null,
-    "skills": [
-      "java",
-      "python",
-      "sql",
-      "git"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -3860,34 +3778,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4478993872",
-    "company": "Bugsmirror",
-    "title": "Flutter Developer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Indore, Madhya Pradesh, India",
-    "url": "https://www.linkedin.com/jobs/view/4478993872/",
-    "posted_at": "2026-10-21",
-    "first_seen_at": "2026-10-21T15:51:12Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/B.E.",
-    "experience": null,
-    "skills": [
-      "flutter",
-      "dart",
-      "rest apis",
-      "git"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4479404245",
     "company": "Electronic Arts (EA)",
     "title": "Data Science Intern",
@@ -4913,36 +4803,6 @@
       "javascript"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "greenhouse:wikimedia:8268853",
-    "company": "Wikimedia Foundation",
-    "title": "Software Engineering Internship Program (2027)",
-    "season": "Summer 2027",
-    "season_inferred": false,
-    "category": "Software",
-    "region": "Remote",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
-    "posted_at": "2026-10-15T18:02:45-04:00",
-    "first_seen_at": "2026-10-16T18:39:14Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "JavaScript",
-      "SQL",
-      "Swift",
-      "Kotlin",
-      "Linux"
-    ],
-    "source": "greenhouse",
     "scope": "india"
   },
   {
@@ -6632,33 +6492,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4463794839",
-    "company": "Atidan Technologies",
-    "title": "Software Trainee",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Mumbai, Maharashtra, India",
-    "url": "https://www.linkedin.com/jobs/view/4463794839/",
-    "posted_at": "2026-10-04",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "testing",
-      "analysis",
-      "debugging"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4465150000",
     "company": "Kaleris",
     "title": "Software Engineer Intern",
@@ -7037,35 +6870,6 @@
       "mysql",
       "rest apis",
       "git"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4471048612",
-    "company": "eSec Forte® Technologies",
-    "title": "Cloud Security Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://www.linkedin.com/jobs/view/4471048612/",
-    "posted_at": "2026-09-26",
-    "first_seen_at": "2026-11-06T16:40:02Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "aws",
-      "azure",
-      "gcp",
-      "python",
-      "bash"
     ],
     "source": "interndoor",
     "scope": "india"
