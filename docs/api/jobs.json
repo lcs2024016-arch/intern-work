@@ -358,6 +358,31 @@
     "scope": "india"
   },
   {
+    "id": "interndoor:ats:workday:zebra:wd501:Zebra_careers:JR103864",
+    "company": "Zebra Technologies",
+    "title": "Software Engineering Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, India, Hybrid",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864?ref=interndoor",
+    "posted_at": "2026-11-18",
+    "first_seen_at": "2026-11-22T09:13:23Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "Data Science/Computer Science/Operations Research/Statistics/Industrial Engineering/Applied Mathematics",
+    "experience": null,
+    "skills": [
+      "microsoft office"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
     "id": "interndoor:4490877817",
     "company": "pharma&",
     "title": "PowerApps Developer Intern",
@@ -1754,35 +1779,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4488324786",
-    "company": "Codemonk",
-    "title": "Machine Learning Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://www.linkedin.com/jobs/view/4488324786/",
-    "posted_at": "2026-11-10",
-    "first_seen_at": "2026-11-10T16:55:48Z",
-    "salary": "₹13,000 / month",
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "generative ai",
-      "deep learning",
-      "llm integration",
-      "vector databases"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4489439428",
     "company": "Honeywell Technologies",
     "title": "Data Science Intern",
@@ -3156,33 +3152,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4481846527",
-    "company": "Volody",
-    "title": "Cloud Monitoring intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Mumbai, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4481846527/",
-    "posted_at": "2026-10-27",
-    "first_seen_at": "2026-10-27T07:11:48Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/Information Technology",
-    "experience": null,
-    "skills": [
-      "system monitoring",
-      "cloud infrastructure",
-      "incident management"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4481851364",
     "company": "Valency Networks Private Limited",
     "title": "Cybersecurity Analyst Intern - VAPT, Penetration Tester, Offensive Security",
@@ -3347,35 +3316,6 @@
       "bigquery",
       "bi tools",
       "spreadsheet"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4481448076",
-    "company": "Newton School",
-    "title": "Data Science Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://www.linkedin.com/jobs/view/4481448076/",
-    "posted_at": "2026-10-26",
-    "first_seen_at": "2026-10-26T12:01:21Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/Information Technology",
-    "experience": null,
-    "skills": [
-      "sql",
-      "excel",
-      "python",
-      "power bi",
-      "communication"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -3891,35 +3831,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4468558804",
-    "company": "eSec Forte® Technologies",
-    "title": "Application Security Trainee",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Other",
-    "region": "India",
-    "location": "Gurugram, Haryana, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4468558804/",
-    "posted_at": "2026-10-21",
-    "first_seen_at": "2026-10-21T15:51:12Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "checkmarx",
-      "sast",
-      "dast",
-      "threat modeling",
-      "secure coding"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4478984742",
     "company": "DigiPlus IT",
     "title": "Software Engineer Intern",
@@ -4030,35 +3941,6 @@
       "docker",
       "git",
       "cloud native"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4478966954",
-    "company": "Flam",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://www.linkedin.com/jobs/view/4478966954/",
-    "posted_at": "2026-10-21",
-    "first_seen_at": "2026-10-21T10:58:16Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "three.js",
-      "webgl",
-      "canvas api",
-      "react",
-      "next.js"
     ],
     "source": "interndoor",
     "scope": "india"

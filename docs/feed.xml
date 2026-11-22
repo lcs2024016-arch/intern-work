@@ -4,7 +4,7 @@
   <link href="https://lcs2024016-arch.github.io/intern-work/feed.xml" rel="self"/>
   <link href="https://lcs2024016-arch.github.io/intern-work/" rel="alternate"/>
   <id>https://lcs2024016-arch.github.io/intern-work/</id>
-  <updated>2026-11-22T01:55:50Z</updated>
+  <updated>2026-11-22T09:13:23Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Park Place Technologies — Software Development Intern</title>
@@ -84,6 +84,12 @@
     <id>interndoor:4492239337</id>
     <updated>2026-11-19T02:32:09Z</updated>
     <summary>Pune Division, Maharashtra, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Zebra Technologies — Software Engineering Intern</title>
+    <link href="https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864?ref=interndoor" rel="alternate"/>
+    <id>interndoor:ats:workday:zebra:wd501:Zebra_careers:JR103864</id>
+    <updated>2026-11-22T09:13:23Z</updated>
+    <summary>Bengaluru, India, Hybrid · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>pharma&amp; — PowerApps Developer Intern</title>
     <link href="https://www.linkedin.com/jobs/view/4490877817/" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>interndoor:4488543648</id>
     <updated>2026-11-12T23:09:20Z</updated>
     <summary>Gurugram, Haryana, India, On-site · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Appinventiv — Software Intern</title>
-    <link href="https://www.linkedin.com/jobs/view/4488292701/" rel="alternate"/>
-    <id>interndoor:4488292701</id>
-    <updated>2026-11-12T17:33:13Z</updated>
-    <summary>India · Software · Summer 2027</summary>
   </entry>
 </feed>
