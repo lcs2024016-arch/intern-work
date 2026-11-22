@@ -16463,6 +16463,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Kobalt Labs",
+    "slug": "kobalt",
+    "ats": "ashby"
+  },
+  {
     "name": "KoBold Metals",
     "slug": "koboldmetals",
     "ats": "greenhouse"
@@ -25884,6 +25889,11 @@
     "ats": "lever"
   },
   {
+    "name": "Secureframe",
+    "slug": "secureframe",
+    "ats": "ashby"
+  },
+  {
     "name": "Securian Financial Group",
     "slug": "hq",
     "ats": "workday",
@@ -27195,6 +27205,13 @@
     "name": "SpawGlass",
     "slug": "spawglass",
     "ats": "lever"
+  },
+  {
+    "name": "Specialized",
+    "slug": "specialized",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Specialized_External_Career_Site"
   },
   {
     "name": "Specter",
@@ -31010,6 +31027,13 @@
     "name": "Veolia",
     "slug": "VeoliaEnvironnementSA",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Veoliauki",
+    "slug": "veoliauki",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "VESCareers"
   },
   {
     "name": "Vera Bradley",
