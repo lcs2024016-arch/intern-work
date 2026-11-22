@@ -799,7 +799,7 @@
   {
     "id": "interndoor:4491570740",
     "company": "Honeywell Technologies",
-    "title": "Intern Bachelors Software Eng",
+    "title": "Software Engineering Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -853,7 +853,7 @@
   {
     "id": "interndoor:4490435985",
     "company": "Volody",
-    "title": "Software Tester-Intern",
+    "title": "Software Tester Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
@@ -992,7 +992,7 @@
   {
     "id": "interndoor:4490602573",
     "company": "Hewlett Packard Enterprise",
-    "title": "Ph D/Research Intern - AI Research Lab",
+    "title": "AI Research Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Data & ML/AI",
@@ -4753,39 +4753,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4479925956",
-    "company": "Jupiter Innovations Lab Inc.",
-    "title": "SDE Intern (AI)",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Delhi, India",
-    "url": "https://www.linkedin.com/jobs/view/4479925956/",
-    "posted_at": "2026-10-18",
-    "first_seen_at": "2026-10-18T19:12:54Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "react.js",
-      "next.js",
-      "typescript",
-      "langchain",
-      "langgraph",
-      "rest apis",
-      "github copilot",
-      "git"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:emp-3huken",
     "company": "Nestack Technologies Pvt Ltd",
     "title": "Software Developer Intern",
@@ -4920,35 +4887,6 @@
       "css",
       "javascript",
       "bootstrap"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4477354757",
-    "company": "Volody",
-    "title": "Cloud Monitoring intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Mumbai, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4477354757/",
-    "posted_at": "2026-10-16",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "computer science/cybersecurity",
-    "experience": null,
-    "skills": [
-      "aws",
-      "azure",
-      "splunk",
-      "microsoft sentinel",
-      "linux commands"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -5123,35 +5061,6 @@
       "Linux"
     ],
     "source": "greenhouse",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4477060964",
-    "company": "Valency Networks Private Limited",
-    "title": "C++ Developer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Pune City, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4477060964/",
-    "posted_at": "2026-10-15",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "c++",
-      "object oriented programming",
-      "data structures",
-      "debugging",
-      "stl"
-    ],
-    "source": "interndoor",
     "scope": "india"
   },
   {
@@ -6033,34 +5942,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4478080141",
-    "company": "Sony Research India",
-    "title": "Data Science Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India, Remote",
-    "url": "https://www.linkedin.com/jobs/view/4478080141/",
-    "posted_at": "2026-10-10",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": "2,026",
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "python",
-      "pytorch",
-      "tensorflow",
-      "jax"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4476801160",
     "company": "Netcore",
     "title": "AI Automation Intern",
@@ -6807,35 +6688,6 @@
       "git",
       "jira",
       "artifactory"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4475580374",
-    "company": "EMotorad",
-    "title": "Frontend Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://www.linkedin.com/jobs/view/4475580374/",
-    "posted_at": "2026-10-05",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "react",
-      "next.js",
-      "flutter",
-      "typescript",
-      "graphql"
     ],
     "source": "interndoor",
     "scope": "india"
