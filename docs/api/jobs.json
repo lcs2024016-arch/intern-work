@@ -1497,29 +1497,6 @@
     "scope": "india"
   },
   {
-    "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
-    "company": "Assurant",
-    "title": "AI & Data Science Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bengaluru",
-    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198",
-    "posted_at": "2026-11-11T00:00:00Z",
-    "first_seen_at": "2026-11-11T18:19:04Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
     "id": "ypatodkar:hook:hook_ashby_d95c6fa3-68b3-4ad4-b228-f44228a4f2c6",
     "company": "Hook",
     "title": "Machine Learning Engineering Intern, Recommendation Systems",
@@ -4725,34 +4702,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4477074268",
-    "company": "Volody",
-    "title": "Software tester intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Goregaon, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4477074268/",
-    "posted_at": "2026-10-15",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "Computer Science/Information Technology",
-    "experience": null,
-    "skills": [
-      "test execution",
-      "defect tracking",
-      "quality assurance",
-      "web applications"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4479715871",
     "company": "Honeywell Technologies",
     "title": "AI Intern",
@@ -4882,35 +4831,6 @@
       "unit tests",
       "code reviews",
       "android framework"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4476636309",
-    "company": "Volody",
-    "title": "Cloud Monitoring intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Mumbai, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4476636309/",
-    "posted_at": "2026-10-14",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "computer science/cybersecurity",
-    "experience": null,
-    "skills": [
-      "aws",
-      "azure",
-      "splunk",
-      "microsoft sentinel",
-      "linux commands"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -5224,33 +5144,6 @@
     "scope": "india"
   },
   {
-    "id": "interndoor:4476085759",
-    "company": "Volody",
-    "title": "Cloud Monitoring intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Mumbai, Maharashtra, India, On-site",
-    "url": "https://www.linkedin.com/jobs/view/4476085759/",
-    "posted_at": "2026-10-13",
-    "first_seen_at": "2026-10-17T05:19:55Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "cloud platforms",
-      "monitoring tools",
-      "dashboards"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4476417181",
     "company": "Seagate Technology",
     "title": "Software Development Intern",
@@ -5513,35 +5406,6 @@
     "experience": null,
     "skills": [
       "LabVIEW"
-    ],
-    "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "interndoor:4477207173",
-    "company": "Heads Up For Tails",
-    "title": "Software Engineering Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://www.linkedin.com/jobs/view/4477207173/",
-    "posted_at": "2026-10-10",
-    "first_seen_at": "2026-10-16T13:13:51Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "node.js",
-      "mongodb",
-      "react",
-      "mern stack",
-      "ci/cd"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -7127,35 +6991,6 @@
     "skills": null,
     "source": "ypatodkar",
     "scope": "global"
-  },
-  {
-    "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
-    "company": "Fampay",
-    "title": "Security Engineer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru",
-    "url": "https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24",
-    "posted_at": "2026-09-23T12:29:36Z",
-    "first_seen_at": "2026-09-23T15:12:56Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": null,
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "AWS",
-      "GCP"
-    ],
-    "source": "lever",
-    "scope": "india"
   },
   {
     "id": "interndoor:4468769854",

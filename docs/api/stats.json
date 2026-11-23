@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T23:06:41Z",
-  "duration_seconds": 418.2,
+  "generated_at": "2026-11-23T03:43:30Z",
+  "duration_seconds": 507.8,
   "companies_total": 5878,
   "companies_by_source": {
     "greenhouse": 1300,
@@ -31,64 +31,55 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 202,
-  "fetched_ok": 5427,
-  "fetch_errors": 249,
+  "quarantined": 439,
+  "fetched_ok": 5426,
+  "fetch_errors": 13,
   "errors_by_source": {
-    "recruitee": 1,
-    "lever": 62,
-    "ashby": 56,
-    "greenhouse": 73,
-    "bloomberg": 1,
-    "bytedance": 1,
-    "workable": 22,
-    "indeed": 9,
-    "linkedin": 12,
-    "naukri": 10,
-    "uber": 1,
-    "wellfound": 1
+    "greenhouse": 7,
+    "ashby": 3,
+    "lever": 2,
+    "workable": 1
   },
-  "fetch_success_rate": 0.956,
-  "roles_matched": 98,
-  "roles_cycle_inferred": 89,
+  "fetch_success_rate": 0.998,
+  "roles_matched": 95,
+  "roles_cycle_inferred": 86,
   "dropped_no_year_in_title": 0,
   "dropped_offcycle_by_text": 89,
   "roles_by_source": {
-    "workday": 7,
     "smartrecruiters": 1,
     "ashby": 4,
+    "workday": 6,
     "greenhouse": 6,
-    "lever": 1,
     "oracle": 1,
-    "interndoor": 61,
+    "interndoor": 60,
     "ypatodkar": 13,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 97,
+    "Summer 2027": 94,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 38,
-    "Software": 51,
+    "Software": 49,
+    "Data & ML/AI": 37,
     "Other": 9
   },
   "roles_by_region": {
-    "India": 77,
+    "India": 74,
     "Remote": 21
   },
   "posted_date_coverage": 0.966,
   "enriched_this_run": 17,
   "enrichment_detail_fetches": 0,
-  "purged_this_run": 4,
+  "purged_this_run": 2,
   "dates_repaired": 0,
   "links_checked": 60,
-  "removed_dead_links": 3,
+  "removed_dead_links": 4,
   "new_this_run": 0,
-  "open_total": 296,
+  "open_total": 290,
   "detection_latency": {
-    "median_minutes": 1167.0,
-    "sample_size": 57,
+    "median_minutes": 1099.4,
+    "sample_size": 47,
     "window_days": 7
   }
 }
