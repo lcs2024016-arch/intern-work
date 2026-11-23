@@ -1,12 +1,12 @@
 {
-  "total": 5877,
+  "total": 5882,
   "by_ats": {
-    "workday": 1667,
-    "greenhouse": 1300,
-    "ashby": 943,
-    "smartrecruiters": 888,
+    "workday": 1668,
+    "greenhouse": 1301,
+    "ashby": 944,
+    "smartrecruiters": 889,
     "lever": 497,
-    "workable": 244,
+    "workable": 245,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -696,6 +696,11 @@
       "name": "AEG",
       "slug": "aegworldwide",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Aegiq",
+      "slug": "aegiq",
+      "ats": "workable"
     },
     {
       "name": "Aegis Therapies",
@@ -2589,6 +2594,11 @@
     {
       "name": "Artefact",
       "slug": "artefactlinkedin",
+      "ats": "greenhouse"
+    },
+    {
+      "name": "Artefact",
+      "slug": "artefactnoram",
       "ats": "greenhouse"
     },
     {
@@ -11149,6 +11159,11 @@
       "site": "First_Quantum_Careers"
     },
     {
+      "name": "First Resonance",
+      "slug": "first-resonance",
+      "ats": "ashby"
+    },
+    {
       "name": "First West Credit Union",
       "slug": "fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com",
       "ats": "oracle",
@@ -11190,6 +11205,13 @@
       "ats": "workday",
       "wd": "wd5",
       "site": "ext"
+    },
+    {
+      "name": "Fiskars",
+      "slug": "fiskars",
+      "ats": "workday",
+      "wd": "wd3",
+      "site": "FiskarsGroup"
     },
     {
       "name": "Fission Labs",
@@ -23829,6 +23851,11 @@
       "name": "qode.world",
       "slug": "qodeworld",
       "ats": "workable"
+    },
+    {
+      "name": "QSL",
+      "slug": "QSL",
+      "ats": "smartrecruiters"
     },
     {
       "name": "QTS",
