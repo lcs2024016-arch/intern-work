@@ -668,6 +668,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Aegiq",
+    "slug": "aegiq",
+    "ats": "workable"
+  },
+  {
     "name": "Aegis Therapies",
     "slug": "aegistherapies",
     "ats": "workday",
@@ -2559,6 +2564,11 @@
   {
     "name": "Artefact",
     "slug": "artefactlinkedin",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Artefact",
+    "slug": "artefactnoram",
     "ats": "greenhouse"
   },
   {
@@ -11119,6 +11129,11 @@
     "site": "First_Quantum_Careers"
   },
   {
+    "name": "First Resonance",
+    "slug": "first-resonance",
+    "ats": "ashby"
+  },
+  {
     "name": "First West Credit Union",
     "slug": "fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -11160,6 +11175,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ext"
+  },
+  {
+    "name": "Fiskars",
+    "slug": "fiskars",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "FiskarsGroup"
   },
   {
     "name": "Fission Labs",
@@ -23799,6 +23821,11 @@
     "name": "qode.world",
     "slug": "qodeworld",
     "ats": "workable"
+  },
+  {
+    "name": "QSL",
+    "slug": "QSL",
+    "ats": "smartrecruiters"
   },
   {
     "name": "QTS",
