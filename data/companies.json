@@ -2230,6 +2230,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "AQR Capital Management",
+    "slug": "joblinks",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Aquabyte",
     "slug": "aquabyte",
     "ats": "lever"
@@ -4386,6 +4391,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Blueprint AI (Mental Health)",
+    "slug": "blueprint-health",
+    "ats": "workable"
+  },
+  {
     "name": "Blueprint Technologies",
     "slug": "bpcs",
     "ats": "greenhouse"
@@ -5483,6 +5493,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "caresource"
+  },
+  {
+    "name": "CarGurus",
+    "slug": "ecjobb",
+    "ats": "greenhouse"
   },
   {
     "name": "CARIAD",
@@ -8818,6 +8833,11 @@
     "site": "dma"
   },
   {
+    "name": "DMC Engineering",
+    "slug": "dmcengineering_campus",
+    "ats": "greenhouse"
+  },
+  {
     "name": "DMI Finance",
     "slug": "dmifinance",
     "ats": "smartrecruiters"
@@ -9809,6 +9829,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Energy Solutions",
+    "slug": "energysolutionsinternships",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Energy Vault",
     "slug": "energyvault",
     "ats": "lever"
@@ -10173,6 +10198,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Esri",
+    "slug": "studentprogram",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Essentia Health",
     "slug": "essentiahealth",
     "ats": "workday",
@@ -10254,6 +10284,13 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Euronext_Career_Page"
+  },
+  {
+    "name": "Europeantour",
+    "slug": "europeantour",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "europeantour"
   },
   {
     "name": "Eurostar International",
@@ -10839,6 +10876,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "ferrovial_career_site"
+  },
+  {
+    "name": "Fervo Energy",
+    "slug": "fervoenergy",
+    "ats": "greenhouse"
   },
   {
     "name": "FGS Global",
@@ -15612,6 +15654,11 @@
     "ats": "ashby"
   },
   {
+    "name": "ISO New England",
+    "slug": "studentinternships",
+    "ats": "greenhouse"
+  },
+  {
     "name": "ispace",
     "slug": "ispace-inc",
     "ats": "lever"
@@ -16196,6 +16243,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Karman Industries",
+    "slug": "karman",
+    "ats": "ashby"
+  },
+  {
     "name": "Kasa Living",
     "slug": "kasa",
     "ats": "greenhouse"
@@ -16510,6 +16562,11 @@
     "name": "Kodiak Robotics",
     "slug": "kodiak",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Kodo",
+    "slug": "kodo",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Kognitos",
@@ -20558,6 +20615,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Nice",
+    "slug": "nice",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Nidec",
     "slug": "nidec",
     "ats": "workday",
@@ -22897,6 +22959,13 @@
     "name": "Plaid",
     "slug": "plaid",
     "ats": "ashby"
+  },
+  {
+    "name": "Plains",
+    "slug": "plains",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "plains"
   },
   {
     "name": "Planet",
@@ -25262,6 +25331,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Runna",
+    "slug": "runna",
+    "ats": "ashby"
+  },
+  {
     "name": "Runpod",
     "slug": "runpod",
     "ats": "ashby"
@@ -26086,6 +26160,11 @@
     "name": "Sereact",
     "slug": "sereact",
     "ats": "ashby"
+  },
+  {
+    "name": "Serko",
+    "slug": "serko-ltd",
+    "ats": "workable"
   },
   {
     "name": "Serval",
@@ -29216,6 +29295,11 @@
     "ats": "ashby"
   },
   {
+    "name": "thoughtworks",
+    "slug": "thoughtworks",
+    "ats": "ashby"
+  },
+  {
     "name": "Thousandeyes",
     "slug": "thousandeyes-global",
     "ats": "smartrecruiters"
@@ -29798,16 +29882,16 @@
     "ats": "smartrecruiters"
   },
   {
-    "name": "Trinity Park Talent",
-    "slug": "trinityparktalent",
-    "ats": "greenhouse"
-  },
-  {
-    "name": "Trinitylifesciences",
+    "name": "Trinity Life Sciences",
     "slug": "trinitylifesciences",
     "ats": "workday",
     "wd": "wd108",
     "site": "Trinity"
+  },
+  {
+    "name": "Trinity Park Talent",
+    "slug": "trinityparktalent",
+    "ats": "greenhouse"
   },
   {
     "name": "Trio",
@@ -30774,6 +30858,11 @@
   {
     "name": "Vacasa",
     "slug": "vacasa",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Vailexa",
+    "slug": "vailexa",
     "ats": "greenhouse"
   },
   {
