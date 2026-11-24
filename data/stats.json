@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-24T11:55:19Z",
-  "duration_seconds": 311.1,
-  "companies_total": 5883,
+  "generated_at": "2026-11-24T21:53:07Z",
+  "duration_seconds": 504.3,
+  "companies_total": 5900,
   "companies_by_source": {
-    "greenhouse": 1301,
+    "greenhouse": 1310,
     "lever": 497,
-    "smartrecruiters": 889,
-    "workable": 245,
-    "ashby": 944,
+    "smartrecruiters": 890,
+    "workable": 247,
+    "ashby": 947,
     "recruitee": 2,
-    "workday": 1668,
+    "workday": 1670,
     "oracle": 154,
     "rippling": 114,
     "amazon": 1,
@@ -31,54 +31,54 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 441,
-  "fetched_ok": 5426,
-  "fetch_errors": 16,
+  "quarantined": 436,
+  "fetched_ok": 5440,
+  "fetch_errors": 24,
   "errors_by_source": {
-    "ashby": 7,
-    "greenhouse": 5,
-    "workable": 3,
+    "greenhouse": 4,
+    "workable": 15,
+    "ashby": 4,
     "lever": 1
   },
-  "fetch_success_rate": 0.997,
-  "roles_matched": 105,
-  "roles_cycle_inferred": 94,
+  "fetch_success_rate": 0.996,
+  "roles_matched": 107,
+  "roles_cycle_inferred": 96,
   "dropped_no_year_in_title": 0,
   "dropped_offcycle_by_text": 84,
   "roles_by_source": {
     "amazon": 1,
-    "workday": 9,
+    "workday": 8,
     "ashby": 4,
     "greenhouse": 5,
-    "interndoor": 68,
+    "interndoor": 71,
     "ypatodkar": 14,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 104,
+    "Summer 2027": 106,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 43,
-    "Software": 52,
-    "Other": 10
+    "Data & ML/AI": 45,
+    "Software": 51,
+    "Other": 11
   },
   "roles_by_region": {
-    "India": 82,
+    "India": 84,
     "Remote": 23
   },
   "posted_date_coverage": 0.967,
-  "enriched_this_run": 23,
-  "enrichment_detail_fetches": 2,
-  "purged_this_run": 0,
+  "enriched_this_run": 21,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 2,
   "dates_repaired": 0,
   "links_checked": 60,
   "removed_dead_links": 0,
-  "new_this_run": 7,
-  "open_total": 305,
+  "new_this_run": 3,
+  "open_total": 307,
   "detection_latency": {
     "median_minutes": 843.3,
-    "sample_size": 51,
+    "sample_size": 54,
     "window_days": 7
   }
 }
