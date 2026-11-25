@@ -13,19 +13,34 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-306-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Companies-5899-22c55e?style=for-the-badge" alt="Companies" />
+    <img src="https://img.shields.io/badge/Open%20Roles-323-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Companies-5907-22c55e?style=for-the-badge" alt="Companies" />
     <img src="https://img.shields.io/badge/Updates-Hourly-3fb950?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Nov 25, 2026 at 04:50 UTC</em></p>
+  <p><em>Last updated: Nov 25, 2026 at 15:20 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>178 open</kbd>
+## Summer 2027 (India) <kbd>191 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Finastra** | Associate Software Engineering Intern - 8 <sup>~</sup> 🆕 | `Software` | M.Tech/MS | Pune | Nov 25, 2026 | [Apply ↗](https://finastra.wd3.myworkdayjobs.com/FINC/job/Pune/Associate-Software-Engineering-Intern---8_REQ1126_0038466) |
+| | <sub>`Java` `JavaScript` `SQL` `LLMs`</sub> ||||||
+| **Honeywell** | Intern Bachelors Software Eng <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bengaluru, Karnataka, India | Nov 25, 2026 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639) |
+| | <sub>`Python` `Java` `C++`</sub> ||||||
+| **Clinikally (YC S22)** | QA Engineer trainee <sup>~</sup> 🆕 | `Software` | **₹5,00,000 / year** | Gurugram, Haryana, India, On-site | Nov 25, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4494911668/) |
+| | <sub>`linear` `postman` `sql`</sub> ||||||
+| **Uniphore** | Full Stack AI Engineer Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | CSE/IT | Bengaluru, Karnataka, India | Nov 25, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4494796445/) |
+| | <sub>`react` `python` `javascript` `rest apis`</sub> ||||||
+| **Menstrupedia** | PHP Laravel Developer Intern <sup>~</sup> 🆕 | `Software` | — | Ahmedabad, Gujarat, India | Nov 25, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493082989/) |
+| | <sub>`php` `laravel` `mysql` `html`</sub> ||||||
+| **ACG World** | Software Engineer Trainee <sup>~</sup> 🆕 | `Software` | — | Khandala, Maharashtra, India, On-site | Nov 25, 2026 | [Apply ↗](https://careers.acg-world.com/job/Shirwal-Diploma-Engineer-Trainee-Software-Engineering/58476144/?ref=interndoor) |
+| | <sub>`scada` `hmi`</sub> ||||||
+| **Philips** | Engineering Intern – Software Engineering <sup>~</sup> 🆕 | `Software` | B.Tech/BS | Bangalore | Nov 25, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Engineering-Intern---Software-Engineering_594338) |
+| **Sarla Aviation** | Applied AI Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, On-site | Nov 24, 2026 | [Apply ↗](https://sarlaaviation.keka.com/careers/jobdetails/94559?source=interndoor&ref=interndoor) |
+| | <sub>`python` `typescript` `sql` `react`</sub> ||||||
 | **Johnson Controls** | Data/AI Graduate Engineer Trainee <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Pune/Pimpri-Chinchwad Area, On-site | Nov 24, 2026 | [Apply ↗](https://click.appcast.io/t/Mx1p4zPtwmnpymciStWVF8sD5VNDCMidlgeLwh6iamp76Q6SA86RqXAjoEf9H07K?source=interndoor&ref=interndoor) |
 | | <sub>`oracle applications` `sfdc` `svmax systems` `problem-solving`</sub> ||||||
 | **Forge Software Technologies Pvt Ltd** | Quality Assurance Intern <sup>~</sup> 🆕 | `Other` | — | Hyderabad, Telangana, India, On-site | Nov 24, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493008379/) |
@@ -41,19 +56,21 @@
 | | <sub>`r` `sql` `sagemaker` `dynamodb`</sub> ||||||
 | **Kuku** | AI Sound Engineer Fellowship <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Gurugram, Haryana, India, On-site | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493770604/) |
 | | <sub>`elevenlabs` `adobe audition` `reaper` `pro tools`</sub> ||||||
-| **Mastek** | SDE Intern <sup>~</sup> 🆕 | `Other` | — | Mumbai, Maharashtra, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492369849/) |
+| **Mastek** | SDE Intern <sup>~</sup> | `Other` | — | Mumbai, Maharashtra, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492369849/) |
 | | <sub>`python` `java` `sql` `angular`</sub> ||||||
-| **Menstrupedia** | Laravel Developer Intern <sup>~</sup> 🆕 | `Software` | — | Ahmedabad, Gujarat, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492377762/) |
+| **Menstrupedia** | Laravel Developer Intern <sup>~</sup> | `Software` | — | Ahmedabad, Gujarat, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492377762/) |
 | | <sub>`php` `laravel` `mysql` `html`</sub> ||||||
-| **Appinventiv** | Software Intern <sup>~</sup> 🆕 | `Software` | Computer Science/IT | India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492608330/) |
+| **Appinventiv** | Software Intern <sup>~</sup> | `Software` | Computer Science/IT | India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492608330/) |
 | | <sub>`java` `python` `git` `object-oriented programming`</sub> ||||||
-| **Volody** | Software Tester intern <sup>~</sup> 🆕 | `Software` | Computer Science/Information Technology | Mumbai, Maharashtra, India, On-site | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493728984/) |
+| **Volody** | Software Tester intern <sup>~</sup> | `Software` | Computer Science/Information Technology | Mumbai, Maharashtra, India, On-site | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493728984/) |
 | | <sub>`test execution`</sub> ||||||
-| **QpiAI** | Cybersecurity Intern <sup>~</sup> 🆕 | `Other` | M.Tech / M.Sc / MCA | Bengaluru, Karnataka, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493739851/) |
+| **QpiAI** | Cybersecurity Intern <sup>~</sup> | `Other` | M.Tech / M.Sc / MCA | Bengaluru, Karnataka, India | Nov 23, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4493739851/) |
 | | <sub>`siem` `owasp top 10` `nessus` `splunk`</sub> ||||||
-| **NewSpace Research** | Robotics and Computer Vision Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | B.E./B.Tech/M.E./M.Tech | Bangalore, KA, India | Nov 23, 2026 | [Apply ↗](https://newspace.keka.com/careers/jobdetails/148146?ref=interndoor) |
+| **NewSpace Research** | Robotics and Computer Vision Intern <sup>~</sup> | `Data &amp; ML/AI` | B.E./B.Tech/M.E./M.Tech | Bangalore, KA, India | Nov 23, 2026 | [Apply ↗](https://newspace.keka.com/careers/jobdetails/148146?ref=interndoor) |
 | | <sub>`python` `opencv` `ros` `linux`</sub> ||||||
-| **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> 🆕 | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Nov 20, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
+| **Milliman India** | Healthcare Data Analyst-Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | Pharma/Healthcare/Insurance | Gurgaon, Haryana, India, On-site | Nov 20, 2026 | [Apply ↗](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=cfd542df-dc70-416e-be0c-5bf9eb977d0d&source=interndoor&ref=interndoor) |
+| | <sub>`sql` `python` `excel` `powerpoint`</sub> ||||||
+| **Nestack Technologies Pvt Ltd** | Cybersecurity Intern <sup>~</sup> | `Other` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Nov 20, 2026 | [Apply ↗](https://neilp.nestack.ai/career/cybersecurity-intern?ref=interndoor) |
 | | <sub>`burp suite` `owasp zap` `nmap` `wireshark`</sub> ||||||
 | **Park Place Technologies** | Software Development Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 20, 2026 | [Apply ↗](https://recruiting.ultipro.com/PAR1035PPTL/JobBoard/e104637a-c3c6-4682-96d2-d7cc2662dc13/OpportunityDetail?opportunityId=bade43a3-270f-49fa-b9c5-e2dd8d17c8d7&source=interndoor&ref=interndoor) |
 | | <sub>`c#` `rest` `postgresql` `git`</sub> ||||||
@@ -65,6 +82,8 @@
 | | <sub>`generative ai` `llms` `react` `net`</sub> ||||||
 | **Nestack Technologies Pvt Ltd** | Full-Stack Developer Intern <sup>~</sup> | `Software` | **₹12,000 / month** | Hyderabad, Telangana, India, On-site | Nov 20, 2026 | [Apply ↗](https://neilp.nestack.ai/career/internship?ref=interndoor) |
 | | <sub>`python` `javascript` `react.js` `node.js`</sub> ||||||
+| **Enveu** | Devops Intern <sup>~</sup> 🆕 | `Software` | — | Noida, Uttar Pradesh, India, On-site | Nov 19, 2026 | [Apply ↗](https://enveu.keka.com/careers/jobdetails/170726?source=interndoor&ref=interndoor) |
+| | <sub>`linux` `networking` `aws` `docker`</sub> ||||||
 | **Siemens** | QA Intern <sup>~</sup> | `Other` | B.Tech | Noida, Uttar Pradesh, India, On-site | Nov 19, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492179801/) |
 | | <sub>`java` `j2ee` `spring boot` `mysql`</sub> ||||||
 | **Roxiler Systems** | Full Stack AI - Trainee Internship in Pune <sup>~</sup> | `Data &amp; ML/AI` | — | Pune Division, Maharashtra, India, On… | Nov 19, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4492239337/) |
@@ -111,6 +130,8 @@
 | | <sub>`python` `rest apis` `sql` `machine learning`</sub> ||||||
 | **Atidan Technologies** | Software Trainee <sup>~</sup> | `Software` | — | Mumbai, Maharashtra, India | Nov 13, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4490705067/) |
 | | <sub>`testing` `analysis` `debugging`</sub> ||||||
+| **Enveu** | Full-Stack Software Engineering Intern <sup>~</sup> 🆕 | `Software` | B.Tech/B.E./MCA/B.Sc | Noida, Uttar Pradesh, India, On-site | Nov 12, 2026 | [Apply ↗](https://enveu.keka.com/careers/jobdetails/169958?source=interndoor&ref=interndoor) |
+| | <sub>`java` `spring boot` `angular` `mysql`</sub> ||||||
 | **Honeywell** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 12, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/128763?ref=interndoor) |
 | | <sub>`java` `python` `c++`</sub> ||||||
 | **Delhivery** | Data Science Intern <sup>~</sup> | `Data &amp; ML/AI` | B.Tech / M.Tech | Gurugram, Haryana, India, On-site | Nov 12, 2026 | [Apply ↗](https://forms.gle/Fdsk6LMACagZNqCy7?ref=interndoor) |
@@ -136,13 +157,15 @@
 | | <sub>`python` `tensorflow` `pytorch` `sklearn`</sub> ||||||
 | **PayPal** | Software Engineer Intern <sup>~</sup> | `Software` | Computer Science | Bangalore, Karnataka, India, On-site | Nov 09, 2026 | [Apply ↗](https://paypal.eightfold.ai/careers/job/274923210258?ref=interndoor) |
 | | <sub>`react` `node` `java` `sql`</sub> ||||||
+| **TrueFoundry** | Frontend Intern <sup>~</sup> 🆕 | `Software` | B.E/B.Tech | Bengaluru, Karnataka, India, On-site | Nov 05, 2026 | [Apply ↗](https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_src=vElAfp&src=interndoor&ref=interndoor) |
+| | <sub>`react.js` `next.js` `typescript` `tailwindcss`</sub> ||||||
 | **Amazon** | Data Engineer Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bengaluru, KA, India | Nov 05, 2026 | [Apply ↗](https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027?ref=interndoor) |
 | | <sub>`sql` `python` `aws` `etl`</sub> ||||||
 | **Revvity** | Intern - Software Developer <sup>~</sup> | `Software` | — | Mumbai | Nov 05, 2026 | [Apply ↗](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916) |
 | | <sub>`Python` `SQL` `Pandas` `Django`</sub> ||||||
+| **Truemeds** | Security Engineer Intern <sup>~</sup> 🆕 | `Software` | — | Mumbai, Maharashtra, India, On-site | Nov 04, 2026 | [Apply ↗](https://hikara.ai/J1g8HU3a?ref=interndoor) |
+| | <sub>`python` `bash` `aws` `burp suite`</sub> ||||||
 | **Silicon Labs** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, On-site | Nov 04, 2026 | [Apply ↗](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---SW_21023-1?source=interndoor&ref=interndoor) |
-| **Honeywell** | Software Engineering Intern <sup>~</sup> | `Software` | — | Madurai, Tamil Nadu, India, On-site | Nov 04, 2026 | [Apply ↗](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/127736?ref=interndoor) |
-| | <sub>`software development` `real-world projects`</sub> ||||||
 | **Silicon Labs** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, On-site | Nov 04, 2026 | [Apply ↗](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Hyderabad/Intern---SW_21022?ref=interndoor) |
 | **Snapmint** | AI Creative Experience Design Intern <sup>~</sup> | `Data &amp; ML/AI` | Design/Visual Communication | Bengaluru, Karnataka, India | Nov 03, 2026 | [Apply ↗](https://www.linkedin.com/jobs/view/4486826429/) |
 | | <sub>`figma` `photoshop` `ai tools` `llms`</sub> ||||||
@@ -182,6 +205,8 @@
 | | <sub>`PyTorch`</sub> ||||||
 | **Vahan.ai** | Software Engineer Intern <sup>~</sup> | `Software` | computer science | Bengaluru, Karnataka, India, On-site | Oct 27, 2026 | [Apply ↗](https://forms.gle/E2vKCnK6eojB6To9A?ref=interndoor) |
 | | <sub>`react` `node.js` `postgresql` `git`</sub> ||||||
+| **WebEngage** | Business Data Analyst Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Mumbai Metropolitan Region, On-site | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
+| | <sub>`sql` `bigquery` `bi tools`</sub> ||||||
 | **R360 Group** | Application Security Intern <sup>~</sup> | `Other` | — | Bangalore, KA, India, On-site | Oct 26, 2026 | [Apply ↗](https://reward360.keka.com/careers/jobdetails/167875?ref=interndoor) |
 | | <sub>`owasp top 10` `burp suite` `penetration testing` `secure code review`</sub> ||||||
 | **WebEngage** | Business Data Analyst Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Mumbai , MH, India, On-site | Oct 26, 2026 | [Apply ↗](https://webklipper.keka.com/careers/jobdetails/93727?ref=interndoor) |
@@ -362,16 +387,18 @@
 | **Gameberry Labs** | Gen AI Designer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | **PagarBook** | Full Stack Development Intern <sup>~</sup> | `Software` | — | Bangalore | — | [Apply ↗](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 
-## Summer 2027 (Remote) <kbd>50 open</kbd>
+## Summer 2027 (Remote) <kbd>52 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Philips** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 25, 2026 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Engineering-Intern---Software-Engineering_594338/?source=interndoor&ref=interndoor) |
+| | <sub>`c++`</sub> ||||||
 | **LSEG** | AI/ML Intern <sup>~</sup> 🆕 | `Data &amp; ML/AI` | — | Bengaluru, Karnataka, India, Hybrid | Nov 24, 2026 | [Apply ↗](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/AI-ML-Intern_R0123143?source=interndoor&ref=interndoor) |
 | | <sub>`machine learning` `generative ai` `code reviews` `cloud technologies`</sub> ||||||
 | **CACI** | Software Development Intern - Summer 2027 🆕 | `Software` | B.Tech/BS | Remote (Any State) | Nov 24, 2026 | [Apply ↗](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2027_335425) |
-| **Electronic Arts (EA)** | Software Engineering Intern <sup>~</sup> 🆕 | `Software` | — | Hyderabad, Telangana, India, Hybrid | Nov 23, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216554?source=interndoor&ref=interndoor) |
+| **Electronic Arts (EA)** | Software Engineering Intern <sup>~</sup> | `Software` | — | Hyderabad, Telangana, India, Hybrid | Nov 23, 2026 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216554?source=interndoor&ref=interndoor) |
 | | <sub>`go` `c++` `java` `docker`</sub> ||||||
-| **HARMAN India** | Android HMI Development Internship <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 23, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-57362-2026?source=interndoor&ref=interndoor) |
+| **HARMAN India** | Android HMI Development Internship <sup>~</sup> | `Software` | — | Bengaluru, Karnataka, India, Hybrid | Nov 23, 2026 | [Apply ↗](https://jobsearch.harman.com/careers/searchjobs/R-57362-2026?source=interndoor&ref=interndoor) |
 | | <sub>`kotlin` `java` `mvvm` `ui development`</sub> ||||||
 | **Zebra Technologies** | Software Engineering Intern <sup>~</sup> | `Software` | Data Science/Computer Science/Operations Research/Statistics/Industrial Engineering/Applied Mathematics | Bengaluru, India, Hybrid | Nov 18, 2026 | [Apply ↗](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103864?ref=interndoor) |
 | | <sub>`microsoft office`</sub> ||||||
@@ -460,6 +487,7 @@
 | | <sub>`html` `css` `javascript` `android sdk`</sub> ||||||
 | **Ancestry** | Postdoctoral Fellow, Applied AI <sup>~</sup> | `Data &amp; ML/AI` | B.Tech/BS | Remote | Oct 05, 2026 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380) |
 | | <sub>`Python` `LLMs` `Computer Vision` `AWS`</sub> ||||||
+| **SDM Technology** | Python Developer Intern <sup>~</sup> 🆕 | `Software` | — | Work From Home | — | [Apply ↗](https://www.instahyre.com/job-499841-python-developer-intern-internship-at-sdm-technology-work-from-home/) |
 | **Pradrix** | AI / ML Engineer - Intern <sup>~</sup> | `Data &amp; ML/AI` | — | Work From Home | — | [Apply ↗](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
@@ -469,10 +497,12 @@
 | **NatWest Group** | AI ML Trainee \| 6-Month Fixed-Term Contract \| 2025/2026 Graduates | `Data &amp; ML/AI` | — | Chennai, Tamil Nadu, India, On-site | Nov 05, 2026 | [Apply ↗](https://jobs.natwestgroup.com/jobs/18441066-ai-ml-trainee-6-month-fixed-term-contract-2025-slash-2026-graduates?tm_job=R-00287403-OTHLOC-IND-5FCHE051&tm_event=view&tm_company=861&bid=56&ref=interndoor) |
 | | <sub>`python` `object-oriented programming` `version control` `testing`</sub> ||||||
 
-## Term Unconfirmed (India) <kbd>2 open</kbd>
+## Term Unconfirmed (India) <kbd>3 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 💰 Pay & Specs | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|---|:---:|
+| **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> 🆕 | `Software` | — | Bengaluru, Karnataka, India, On-site | Nov 20, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523&gh_src=2e352a8a1us&ref=interndoor) |
+| | <sub>`java` `c/c++` `scala` `python`</sub> ||||||
 | **Kaleris** | Associate Quality Assurance Engineer - Intern <sup>~</sup> | `Software` | — | Chennai | Sep 12, 2026 | [Apply ↗](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Quality-Assurance-Engineer---Intern_R-100637?ref=interndoor) |
 | | <sub>`selenium` `uft` `testng` `maven`</sub> ||||||
 | **Rubrik** | Software Engineer Intern <sup>~</sup> | `Software` | — | Pune, On-site | Sep 06, 2026 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537&ref=interndoor) |
@@ -518,10 +548,10 @@
 | **Skydio** | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | `Data &amp; ML/AI` | — | Remote | Sep 03, 2026 | [Apply ↗](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | **Realm Alliance** | Software Engineer - Intern <sup>~</sup> | `Software` | — | Remote | Aug 26, 2026 | [Apply ↗](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (245 of 306)._
+_~ = the title doesn't state a year; bucketed here from its posting date (261 of 323)._
 
 <details>
-<summary><strong>Recently closed</strong> — 84 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 83 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -566,7 +596,7 @@ Internships posted per week, from each role's real published date. Redrawn autom
 
 ## How this stays current
 
-_Engine (last run): **5,900 companies** across **27 ATS platforms** · 99% fetch success · real posted dates on 96% of open roles · median detection lag 16.2h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
+_Engine (last run): **5,908 companies** across **27 ATS platforms** · 98% fetch success · real posted dates on 96% of open roles · median detection lag 15.3h. One async pass an hour, with retry/backoff, per-host rate limits and a circuit breaker that quarantines dead endpoints._
 
 ## How it works
 
@@ -582,7 +612,7 @@ Companies are found two ways: dataset mining for ATS tokens, and InternDoer's pu
 
 ## Platforms polled
 
-- **Applicant tracking systems** — 5,843 companies
+- **Applicant tracking systems** — 5,851 companies
 - **Aggregators** — 23 companies
 - **Indian job portals** — 22 companies
 - **Custom careers scrapers** — 9 companies

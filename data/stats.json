@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T04:50:13Z",
-  "duration_seconds": 420.6,
-  "companies_total": 5900,
+  "generated_at": "2026-11-25T15:20:44Z",
+  "duration_seconds": 574.8,
+  "companies_total": 5908,
   "companies_by_source": {
-    "greenhouse": 1310,
-    "lever": 497,
-    "smartrecruiters": 890,
-    "workable": 247,
+    "greenhouse": 1313,
+    "lever": 500,
+    "smartrecruiters": 891,
+    "workable": 248,
     "ashby": 947,
     "recruitee": 2,
     "workday": 1670,
@@ -31,54 +31,58 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 451,
-  "fetched_ok": 5439,
-  "fetch_errors": 10,
+  "quarantined": 373,
+  "fetched_ok": 5445,
+  "fetch_errors": 90,
   "errors_by_source": {
-    "workable": 4,
-    "ashby": 3,
-    "lever": 1,
-    "greenhouse": 2
+    "ashby": 8,
+    "lever": 7,
+    "greenhouse": 11,
+    "rippling": 2,
+    "workable": 62
   },
-  "fetch_success_rate": 0.998,
-  "roles_matched": 108,
-  "roles_cycle_inferred": 97,
+  "fetch_success_rate": 0.984,
+  "roles_matched": 120,
+  "roles_cycle_inferred": 109,
   "dropped_no_year_in_title": 0,
-  "dropped_offcycle_by_text": 84,
+  "dropped_offcycle_by_text": 86,
   "roles_by_source": {
     "amazon": 1,
-    "workday": 8,
+    "workday": 10,
     "ashby": 4,
     "greenhouse": 5,
-    "interndoor": 72,
+    "oracle": 1,
+    "interndoor": 80,
     "ypatodkar": 14,
+    "instahyre": 1,
     "unstop": 4
   },
   "roles_by_cycle": {
-    "Summer 2027": 107,
+    "Summer 2027": 118,
+    "Term Unconfirmed": 1,
     "Fall 2026": 1
   },
   "roles_by_category": {
-    "Data & ML/AI": 46,
-    "Software": 51,
+    "Data & ML/AI": 49,
+    "Software": 60,
     "Other": 11
   },
   "roles_by_region": {
-    "India": 85,
-    "Remote": 23
+    "India": 96,
+    "Remote": 24
   },
-  "posted_date_coverage": 0.967,
-  "enriched_this_run": 19,
-  "enrichment_detail_fetches": 0,
+  "posted_date_coverage": 0.966,
+  "enriched_this_run": 35,
+  "enrichment_detail_fetches": 3,
   "purged_this_run": 1,
   "dates_repaired": 0,
   "links_checked": 60,
-  "removed_dead_links": 2,
-  "new_this_run": 1,
-  "open_total": 306,
+  "removed_dead_links": 0,
+  "new_this_run": 17,
+  "open_total": 323,
   "detection_latency": {
-    "median_minutes": 971.3,
-    "sample_size": 40,
+    "median_minutes": 920.7,
+    "sample_size": 52,
     "window_days": 7
   }
 }
