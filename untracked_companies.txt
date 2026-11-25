@@ -30,7 +30,6 @@ binocs
 bizango
 bluno
 bosch -
-bot consulting
 bpcl
 bright money
 byteridge
