@@ -1,12 +1,12 @@
 {
-  "total": 5907,
+  "total": 5920,
   "by_ats": {
     "workday": 1670,
-    "greenhouse": 1313,
-    "ashby": 947,
-    "smartrecruiters": 891,
+    "greenhouse": 1317,
+    "ashby": 951,
+    "smartrecruiters": 894,
     "lever": 500,
-    "workable": 248,
+    "workable": 250,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -2223,6 +2223,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Appodeal",
+      "slug": "appodeal",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Apptronik",
       "slug": "apptronik",
       "ats": "greenhouse"
@@ -3458,6 +3463,11 @@
       "name": "Axuall",
       "slug": "axuall",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Ayo Semiconductor",
+      "slug": "ayosemi",
+      "ats": "ashby"
     },
     {
       "name": "Aypa Power",
@@ -6913,6 +6923,11 @@
       "ats": "ashby"
     },
     {
+      "name": "CodeRabbit",
+      "slug": "coderabbit",
+      "ats": "ashby"
+    },
+    {
       "name": "Coditas",
       "slug": "careers-at-coditas",
       "ats": "smartrecruiters"
@@ -8733,6 +8748,11 @@
       "name": "Digit Insurance",
       "slug": "digit",
       "ats": "lever"
+    },
+    {
+      "name": "Digital Control",
+      "slug": "digital-control",
+      "ats": "workable"
     },
     {
       "name": "Digs",
@@ -15670,6 +15690,16 @@
       "site": "iron-mountain-jobs"
     },
     {
+      "name": "Iron Mountain",
+      "slug": "ironmountain",
+      "ats": "smartrecruiters"
+    },
+    {
+      "name": "Iron Mountain",
+      "slug": "im",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Ironclad",
       "slug": "ironcladhq",
       "ats": "ashby"
@@ -20532,6 +20562,11 @@
       "site": "NRZ"
     },
     {
+      "name": "News Corp",
+      "slug": "newscorp",
+      "ats": "smartrecruiters"
+    },
+    {
       "name": "NewsBreak",
       "slug": "newsbreak",
       "ats": "greenhouse"
@@ -20631,6 +20666,11 @@
       "name": "Nexus Intelligence",
       "slug": "nexus-intelligence",
       "ats": "ashby"
+    },
+    {
+      "name": "Nexvel",
+      "slug": "nexvelsolutions",
+      "ats": "workable"
     },
     {
       "name": "Nexxen",
@@ -23091,6 +23131,11 @@
       "site": "Plug_Power_Inc"
     },
     {
+      "name": "Plug Technologies",
+      "slug": "plugmotors",
+      "ats": "ashby"
+    },
+    {
       "name": "Pluralis Research",
       "slug": "pluralis-research",
       "ats": "ashby"
@@ -23920,6 +23965,11 @@
       "ats": "workable"
     },
     {
+      "name": "Qad",
+      "slug": "qadinc",
+      "ats": "smartrecruiters"
+    },
+    {
       "name": "QBE Insurance",
       "slug": "qbe",
       "ats": "workday",
@@ -24430,6 +24480,11 @@
       "name": "Rebellion",
       "slug": "rebellion",
       "ats": "workable"
+    },
+    {
+      "name": "Recidiviz",
+      "slug": "recidiviz",
+      "ats": "greenhouse"
     },
     {
       "name": "Recruit CRM",
@@ -30050,6 +30105,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Truefoundry",
+      "slug": "truefoundry",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Truepoint Wealth Counsel",
       "slug": "truepointcareers",
       "ats": "rippling"
@@ -32769,6 +32829,11 @@
       "name": "Xometry",
       "slug": "xometry",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Xona Space Systems",
+      "slug": "xona-space",
+      "ats": "ashby"
     },
     {
       "name": "Xoxoday",
