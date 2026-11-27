@@ -1,10 +1,10 @@
 {
-  "total": 5920,
+  "total": 5924,
   "by_ats": {
     "workday": 1670,
-    "greenhouse": 1317,
+    "greenhouse": 1320,
     "ashby": 951,
-    "smartrecruiters": 894,
+    "smartrecruiters": 895,
     "lever": 500,
     "workable": 250,
     "oracle": 154,
@@ -2612,6 +2612,11 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Artefact",
+      "slug": "artefact",
+      "ats": "greenhouse"
+    },
+    {
       "name": "Artera",
       "slug": "artera-2",
       "ats": "lever"
@@ -2620,6 +2625,11 @@
       "name": "ArteraAI",
       "slug": "artera",
       "ats": "lever"
+    },
+    {
+      "name": "Arthrex",
+      "slug": "arthrex",
+      "ats": "smartrecruiters"
     },
     {
       "name": "Arthur Grand Technologies",
@@ -5922,18 +5932,18 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Centric Software",
+      "slug": "centricsoftware",
+      "ats": "workday",
+      "wd": "wd501",
+      "site": "Centric"
+    },
+    {
       "name": "Centrica",
       "slug": "centrica",
       "ats": "workday",
       "wd": "wd3",
       "site": "Centrica"
-    },
-    {
-      "name": "Centricsoftware",
-      "slug": "centricsoftware",
-      "ats": "workday",
-      "wd": "wd501",
-      "site": "Centric"
     },
     {
       "name": "Cerebra",
@@ -8608,6 +8618,11 @@
       "ats": "workday",
       "wd": "wd1",
       "site": "DHHA-Main"
+    },
+    {
+      "name": "DEPT",
+      "slug": "dept",
+      "ats": "greenhouse"
     },
     {
       "name": "Descript",
@@ -14680,6 +14695,11 @@
       "ats": "workday",
       "wd": "wd3",
       "site": "broadbean_external"
+    },
+    {
+      "name": "ICONIQ Capital",
+      "slug": "iconiqhandshake",
+      "ats": "greenhouse"
     },
     {
       "name": "ID.me",
@@ -30105,7 +30125,7 @@
       "ats": "greenhouse"
     },
     {
-      "name": "Truefoundry",
+      "name": "TrueFoundry",
       "slug": "truefoundry",
       "ats": "greenhouse"
     },

@@ -1,17 +1,42 @@
 [
   {
-    "id": "interndoor:4495096028",
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161642",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Embedded Eng",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161642",
+    "posted_at": "2026-11-27",
+    "first_seen_at": "2026-11-27T19:23:08Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "C++"
+    ],
+    "source": "oracle",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:ats:keka:convin:155671",
     "company": "Convin",
     "title": "Backend Intern",
     "season": "Summer 2027",
     "season_inferred": true,
     "category": "Software",
     "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://www.linkedin.com/jobs/view/4495096028/",
+    "location": "Bengaluru, KA, India",
+    "url": "https://convin.keka.com/careers/jobdetails/155671?ref=interndoor",
     "posted_at": "2026-11-27",
-    "first_seen_at": "2026-11-27T09:25:29Z",
-    "salary": "₹1,000",
+    "first_seen_at": "2026-11-27T19:23:08Z",
+    "salary": null,
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
@@ -19,7 +44,7 @@
     "degree": "B.Tech/B.E",
     "experience": null,
     "skills": [
-      "go",
+      "golang",
       "python",
       "sql",
       "git",
@@ -53,6 +78,35 @@
       "react.js",
       "mysql",
       "oracle"
+    ],
+    "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "interndoor:4495096028",
+    "company": "Convin",
+    "title": "Backend Intern",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://www.linkedin.com/jobs/view/4495096028/",
+    "posted_at": "2026-11-27",
+    "first_seen_at": "2026-11-27T09:25:29Z",
+    "salary": "₹1,000",
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/B.E",
+    "experience": null,
+    "skills": [
+      "go",
+      "python",
+      "sql",
+      "git",
+      "rest apis"
     ],
     "source": "interndoor",
     "scope": "india"
@@ -358,33 +412,6 @@
     "scope": "india"
   },
   {
-    "id": "workday:ag:/job/Bangalore-Area/Cyber-Security-Data-Intern_JR10454573",
-    "company": "Airbus",
-    "title": "Cyber Security Data Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Bangalore Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Cyber-Security-Data-Intern_JR10454573",
-    "posted_at": "2026-11-26T00:00:00Z",
-    "first_seen_at": "2026-11-26T16:47:22Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Linux",
-      "Git"
-    ],
-    "source": "workday",
-    "scope": "india"
-  },
-  {
     "id": "interndoor:4495209952",
     "company": "Wayfair",
     "title": "Machine Learning Intern",
@@ -628,33 +655,6 @@
       "sql"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161639",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Software",
-    "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639",
-    "posted_at": "2026-11-25",
-    "first_seen_at": "2026-11-25T15:20:44Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "Python",
-      "Java",
-      "C++"
-    ],
-    "source": "oracle",
     "scope": "india"
   },
   {
@@ -2098,33 +2098,6 @@
       "sql"
     ],
     "source": "interndoor",
-    "scope": "india"
-  },
-  {
-    "id": "workday:crowe:/job/Noida-Uttar-Pradesh-India/Data-Analytics-Developer-Intern_R-71047",
-    "company": "Crowe",
-    "title": "Data Analytics Developer Intern",
-    "season": "Summer 2027",
-    "season_inferred": true,
-    "category": "Data & ML/AI",
-    "region": "India",
-    "location": "Noida Uttar Pradesh India",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Data-Analytics-Developer-Intern_R-71047",
-    "posted_at": "2026-11-17T00:00:00Z",
-    "first_seen_at": "2026-11-17T14:06:31Z",
-    "salary": null,
-    "stipend": null,
-    "estimated_stipend": null,
-    "estimated_ctc": null,
-    "pay_source": null,
-    "degree": "B.Tech/BS",
-    "experience": null,
-    "skills": [
-      "SQL",
-      "Azure",
-      "Tableau"
-    ],
-    "source": "workday",
     "scope": "india"
   },
   {
