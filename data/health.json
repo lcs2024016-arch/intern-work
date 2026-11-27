@@ -115,8 +115,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/evenup?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-26T00:03:47Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-27T00:59:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/f7d8749a-72d6-407c-bf98-292ea630c73a?includeCompensation=true'\nFor more information check: https://"
   },
   "ashby:fanvue": {
@@ -520,8 +520,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:aperaaiinc": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-26T16:47:22Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-27T00:59:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/aperaaiinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:apna": {
@@ -1650,24 +1650,14 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:homey": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-26T16:47:22Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-27T00:59:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-  },
-  "workable:indra-uk": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-26T16:47:22Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/indra-uk/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:innovaccer-analytics": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-25T15:20:44Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/innovaccer-analytics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workable:interimage": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-26T16:47:22Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/interimage/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:intetics-2": {
     "consecutive_failures": 8,
@@ -1813,11 +1803,6 @@
     "consecutive_failures": 10,
     "last_attempt_at": "2026-11-26T16:47:22Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:nexvelsolutions": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-26T16:47:22Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/nexvelsolutions/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:node": {
     "consecutive_failures": 10,
@@ -2198,6 +2183,11 @@
     "consecutive_failures": 14,
     "last_attempt_at": "2026-11-25T15:20:44Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "workable:thebeautytechgroup": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-27T00:59:51Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thebeautytechgroup/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "workable:theshipyard": {
     "consecutive_failures": 15,
