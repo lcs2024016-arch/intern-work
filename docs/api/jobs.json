@@ -1,27 +1,31 @@
 [
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161642",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Embedded Eng",
+    "id": "interndoor:4495337462",
+    "company": "Lexsi Labs",
+    "title": "AI Agent Engineer Intern",
     "season": "Summer 2027",
     "season_inferred": true,
-    "category": "Software",
+    "category": "Data & ML/AI",
     "region": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161642",
+    "location": "Mumbai Metropolitan Region, Remote",
+    "url": "https://easyapply.jobs/r/QGXtFFQ27GIBdQ45UD0V?ref=interndoor",
     "posted_at": "2026-11-27",
-    "first_seen_at": "2026-11-27T19:23:08Z",
+    "first_seen_at": "2026-11-28T02:31:20Z",
     "salary": null,
     "stipend": null,
     "estimated_stipend": null,
     "estimated_ctc": null,
     "pay_source": null,
-    "degree": "B.Tech/BS",
+    "degree": null,
     "experience": null,
     "skills": [
-      "C++"
+      "python",
+      "llms",
+      "agent frameworks",
+      "evaluation pipelines",
+      "research projects"
     ],
-    "source": "oracle",
+    "source": "interndoor",
     "scope": "india"
   },
   {
@@ -51,6 +55,31 @@
       "rest apis"
     ],
     "source": "interndoor",
+    "scope": "india"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161642",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Embedded Eng",
+    "season": "Summer 2027",
+    "season_inferred": true,
+    "category": "Software",
+    "region": "India",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161642",
+    "posted_at": "2026-11-27",
+    "first_seen_at": "2026-11-27T19:23:08Z",
+    "salary": null,
+    "stipend": null,
+    "estimated_stipend": null,
+    "estimated_ctc": null,
+    "pay_source": null,
+    "degree": "B.Tech/BS",
+    "experience": null,
+    "skills": [
+      "C++"
+    ],
+    "source": "oracle",
     "scope": "india"
   },
   {
