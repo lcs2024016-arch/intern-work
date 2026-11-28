@@ -60,8 +60,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
   },
   "ashby:brightstar-ai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-28T02:31:20Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/brightstar-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:browserbase": {
@@ -1380,8 +1380,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/saronic?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:secureframe": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-27T09:25:29Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/secureframe?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sensortower": {
@@ -1640,8 +1640,8 @@
     "last_error": "RuntimeError: Wellfound rate limited or returned 0 jobs"
   },
   "workable:coldquanta": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-27T09:25:29Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/coldquanta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:currier-plastics": {
@@ -1655,9 +1655,14 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:homey": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-27T19:23:08Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "workable:indra-uk": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/indra-uk/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:innovaccer-analytics": {
     "consecutive_failures": 7,
@@ -1665,8 +1670,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/innovaccer-analytics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:interimage": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-28T02:31:20Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/interimage/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:intetics-2": {
@@ -1730,8 +1735,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/longshot-systems-ltd/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:lovey": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-28T02:31:20Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/lovey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:lovingly": {
@@ -1815,8 +1820,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:nexvelsolutions": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-28T02:31:20Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/nexvelsolutions/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:node": {
@@ -1899,6 +1904,11 @@
     "last_attempt_at": "2026-11-26T16:47:22Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/persimmons-ai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
+  "workable:phoenix-software": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/phoenix-software/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+  },
   "workable:planetart": {
     "consecutive_failures": 14,
     "last_attempt_at": "2026-11-25T15:20:44Z",
@@ -1930,8 +1940,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/prevail/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workable:prolucid-technologies": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-27T09:25:29Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-28T11:15:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/prolucid-technologies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workable:pronexus-1": {

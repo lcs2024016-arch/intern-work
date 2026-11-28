@@ -1,12 +1,12 @@
 {
-  "total": 5924,
+  "total": 5938,
   "by_ats": {
-    "workday": 1670,
+    "workday": 1680,
     "greenhouse": 1320,
-    "ashby": 951,
+    "ashby": 953,
     "smartrecruiters": 895,
     "lever": 500,
-    "workable": 250,
+    "workable": 252,
     "oracle": 154,
     "rippling": 114,
     "linkedin": 12,
@@ -3742,6 +3742,13 @@
       "site": "CX_1013"
     },
     {
+      "name": "Bcbsma",
+      "slug": "bcbsma",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "bcbsma"
+    },
+    {
       "name": "BCBST",
       "slug": "bcbst",
       "ats": "workday",
@@ -6547,6 +6554,13 @@
       "site": "COV"
     },
     {
+      "name": "Cityutilities",
+      "slug": "cityutilities",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "Careers"
+    },
+    {
       "name": "Civica",
       "slug": "civica-uk-ltd-1",
       "ats": "workable"
@@ -6687,6 +6701,13 @@
       "name": "Clearway Energy",
       "slug": "clearwayjobs",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Clemson",
+      "slug": "clemson",
+      "ats": "workday",
+      "wd": "wd12",
+      "site": "Clemson_Careers"
     },
     {
       "name": "Clera",
@@ -14055,6 +14076,11 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "HireHawk",
+      "slug": "hirehawk",
+      "ats": "workable"
+    },
+    {
       "name": "HireVue",
       "slug": "HireVue",
       "ats": "smartrecruiters"
@@ -17950,6 +17976,13 @@
       "ats": "lever"
     },
     {
+      "name": "Lyreco",
+      "slug": "lyreco",
+      "ats": "workday",
+      "wd": "wd3",
+      "site": "Lyreco_Careers"
+    },
+    {
       "name": "Lyten",
       "slug": "lyten",
       "ats": "workday",
@@ -21367,6 +21400,13 @@
       "ats": "ashby"
     },
     {
+      "name": "Odl",
+      "slug": "odl",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "odl"
+    },
+    {
       "name": "Odoo",
       "slug": "odoo",
       "ats": "smartrecruiters"
@@ -22862,6 +22902,11 @@
       "name": "Phoenix Contact",
       "slug": "phoenixcontact",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Phoenix Software",
+      "slug": "phoenix-software",
+      "ats": "workable"
     },
     {
       "name": "Phonely",
@@ -24880,6 +24925,13 @@
       "ats": "smartrecruiters"
     },
     {
+      "name": "Resurgent",
+      "slug": "resurgent",
+      "ats": "workday",
+      "wd": "wd1",
+      "site": "resurgent"
+    },
+    {
       "name": "Resurgent Industries",
       "slug": "resurgent-industries",
       "ats": "ashby"
@@ -24915,6 +24967,13 @@
       "name": "Revel",
       "slug": "revel",
       "ats": "ashby"
+    },
+    {
+      "name": "Revelyst",
+      "slug": "revelyst",
+      "ats": "workday",
+      "wd": "wd1",
+      "site": "EXTERNAL_REVELYST"
     },
     {
       "name": "Revenue Analytics",
@@ -26307,6 +26366,13 @@
       "ats": "ashby"
     },
     {
+      "name": "Servco",
+      "slug": "servco",
+      "ats": "workday",
+      "wd": "wd5",
+      "site": "Servco_Careers"
+    },
+    {
       "name": "Serve Robotics",
       "slug": "serverobotics",
       "ats": "ashby"
@@ -27485,6 +27551,11 @@
       "name": "Speechify",
       "slug": "speechify",
       "ats": "greenhouse"
+    },
+    {
+      "name": "Speechmatics",
+      "slug": "speechmatics",
+      "ats": "ashby"
     },
     {
       "name": "Spellman High Voltage Electronics",
@@ -30039,6 +30110,13 @@
       "ats": "greenhouse"
     },
     {
+      "name": "Trinzic",
+      "slug": "trinzic",
+      "ats": "workday",
+      "wd": "wd115",
+      "site": "Trinzic_Careers"
+    },
+    {
       "name": "Trio",
       "slug": "trio",
       "ats": "lever"
@@ -31152,6 +31230,13 @@
       "name": "Vantage Point Solutions",
       "slug": "vantage-point-solutions-inc",
       "ats": "breezy"
+    },
+    {
+      "name": "Vantiva",
+      "slug": "vantiva",
+      "ats": "workday",
+      "wd": "wd103",
+      "site": "vantiva"
     },
     {
       "name": "Vantive",
@@ -33047,6 +33132,11 @@
       "ats": "workday",
       "wd": "wd3",
       "site": "External"
+    },
+    {
+      "name": "Zeit AI (YC S24)",
+      "slug": "zeit-ai",
+      "ats": "ashby"
     },
     {
       "name": "Zekelman",
